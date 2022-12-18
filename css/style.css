@@ -9976,17 +9976,17 @@ h6,
 }
 
 .bg-about {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/about.jpg), no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/kegiatan/polimer.jpg), no-repeat center center;
   background-size: cover;
 }
 
 .bg-service {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/carousel-1.jpg), no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/kegiatan/festival\ relawan.jpg), no-repeat center center;
   background-size: cover;
 }
 
 .bg-portfolio {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/carousel-2.jpg), no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/kegiatan/webinar.jpg), no-repeat center center;
   background-size: cover;
 }
 
