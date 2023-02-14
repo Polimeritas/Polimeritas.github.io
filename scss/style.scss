@@ -135,12 +135,12 @@ h6,
 }
 
 .carousel-indicators {
-    width: 60px;
-    top: 0;
+    width: 100px;
+    bottom: 0;
     right: calc(100% - 60px);
-    margin: 0;
+    margin-left: 650px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row-reverse;
     align-items: center;
     justify-content: center;
 }
