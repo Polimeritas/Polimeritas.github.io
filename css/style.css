@@ -6229,7 +6229,7 @@ a.close.disabled {
 }
 
 .carousel-indicators {
-  position: absolute;
+  /* position: absolute; */
   z-index: 15;
   bottom: 0;
   display: flex;
@@ -10000,6 +10000,8 @@ h6,
   height: 40px;
   top: 50%;
   left: 0;
+  margin-left: 20px;
+  margin-right: 20px;
   margin-top: -20px;
   padding: 0 45px;
   display: flex;
@@ -10016,6 +10018,8 @@ h6,
   align-items: center;
   justify-content: center;
   color: #23A036;
+  margin-left: 20px;
+  margin-right: 20px;
   background: #FFC600;
   border-radius: 40px;
   font-size: 22px;
@@ -10095,6 +10099,8 @@ h6,
   width: 75px;
   height: 75px;
   border-radius: 75px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .testimonial-carousel .owl-dot {
@@ -10104,6 +10110,7 @@ h6,
   height: 12px;
   border-radius: 10px;
   background: #dddddd;
+  
 }
 
 .testimonial-carousel .owl-dot.active {
@@ -10165,6 +10172,7 @@ h6,
 	margin: 1em;
 	right: 0;
   margin-bottom: 100px;
+  z-index: 100;
 }
 
 .sbutton {
