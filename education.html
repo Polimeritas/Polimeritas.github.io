@@ -132,31 +132,8 @@
     
 
     <!-- Carousel -->
-   
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        .carousel-container {
-            position: relative;
-            max-width: 100%;
-            overflow: hidden;
-        }
-        .carousel-slide {
-            display: none;
-            width: 100%;
-        }
-        .carousel-slide img {
-            width: 100%;
-            height: auto;
-        }
-        .active {
-            display: block;
-        }
-    </style>
 
+    <div class="carousel-wrapper">
     <div class="carousel-container">
         <div class="carousel-slide active">
             <img src="daun-ketapang.png" alt="Daun Ketapang">
@@ -168,21 +145,45 @@
             <img src="sedotan-purun.png" alt="Sedotan Purun">
         </div>
     </div>
+    </div>
+    
+   <style>
+    .carousel-wrapper {
+        display: flex;
+        justify-content: center;  /* Centers horizontally */
+        align-items: center;      /* Centers vertically */
+        height: 100vh;            /* Full viewport height */
+    }
+    .carousel-container {
+        position: relative;
+        max-width: 600px;  /* Adjust width as needed */
+        overflow: hidden;
+    }
+    .carousel-slide {
+        display: none;
+        width: 100%;
+    }
+    .carousel-slide img {
+        width: 100%;
+        height: auto;
+    }
+    .active {
+        display: block;
+    }
+</style>
 
-    <script>
-        let slideIndex = 0;
-        const slides = document.querySelectorAll(".carousel-slide");
+<script>
+    let slideIndex = 0;
+    const slides = document.querySelectorAll(".carousel-slide");
 
-        function showSlides() {
-            slides.forEach(slide => slide.classList.remove("active"));
-            slideIndex = (slideIndex + 1) % slides.length;
-            slides[slideIndex].classList.add("active");
-        }
+    function showSlides() {
+        slides.forEach(slide => slide.classList.remove("active"));
+        slideIndex = (slideIndex + 1) % slides.length;
+        slides[slideIndex].classList.add("active");
+    }
 
-        setInterval(showSlides, 5000);
-    </script>
-
-
+    setInterval(showSlides, 5000);
+</script>
 
 
 
