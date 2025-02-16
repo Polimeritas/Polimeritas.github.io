@@ -10292,3 +10292,11 @@ h6,
 	background: -webkit-radial-gradient(left, #eb3939, #d45318, #ff0404);
 		;
 }
+
+
+.canva-carousel {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh; /* Full viewport height */
+}
