@@ -189,13 +189,82 @@
 
 
     <!-- ===================== Awal list kartu 000-000 ========================== -->
-    <div class="row">
+
+
+    <!-- Carousel -->
+
+    <div class="carousel-wrapper">
+    <div class="carousel-container">
+        <div class="carousel-slide active">
+            <img src="img/Partner2/PRCarousel-1.png" alt="Product Image">
+            <a href="https://www.instagram.com/p/C5aohe4B6Nd/?img_index=1" target="_blank">
+        </div>
+        <div class="carousel-slide">
+            <img src="img/Partner2/PRCarousel-2.png" alt="Product Image">
+            <a href="https://www.instagram.com/p/Cg4EfFOFiHc/" target="_blank">
+        </div>
+        <div class="carousel-slide">
+            <img src="img/Partner2/PRCarousel-3.png" alt="Product Image">
+            <a href="https://www.instagram.com/bangdoindonesia/" target="_blank">
+        </div>
+    </div>
+    </div> 
+
+    <style>
+        .carousel-wrapper {
+            display: flex;
+            justify-content: center;  /* Centers horizontally */
+            align-items: center;      /* Centers vertically */
+            height: 70vh;            /* Full viewport height */
+        }
+        .carousel-container {
+            position: relative;
+            width: 1200px;   /* Adjust width */
+            height: 600px;  /* Adjust height */
+            overflow: visible;
+        }
+        .carousel-slide {
+            display: none;
+            width: 100%;
+            height: 100%;
+        }
+        .carousel-slide img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;  /* Keeps the aspect ratio */
+            border-radius: 10px; /* Optional: rounded corners */
+        }
+        .active {
+            display: block;
+        }
+        </style>
+    
+    <script>
+        let slideIndex = 0;
+        const slides = document.querySelectorAll(".carousel-slide");
+    
+        function showSlides() {
+            slides.forEach(slide => slide.classList.remove("active"));
+            slideIndex = (slideIndex + 1) % slides.length;
+            slides[slideIndex].classList.add("active");
+        }
+    
+        setInterval(showSlides, 5000);
+    </script>
+    
+    
+
+
+
+
+    
+    <!-- <div class="row">
         <div class="col-12">
             <div class="container2">
-                <!-- ======================== Kartu Nomor 000 - 000 =========================== -->
+                
                 <div class="product-card">
                     <div class="product-image">
-			<a href="https://online.fliphtml5.com/droqq/npxe/#p=1" target="_blank"><img src="img/Partner2/Donasi Polimeritas.png" alt="Product Image"></a>
+			<a href="https://online.fliphtml5.com/droqq/npxe/#p=1" target="_blank"><img src="img/Partner2/PRCarousel-1.png" alt="Product Image"></a>
 		</div>
                     <div class="product-details">
                         <h2 class="product-title">Berbagi Beras 2,5Kg</h2>
@@ -204,7 +273,7 @@
                     </div>
                 </div>
 
-                <!-- ================================= Kartu Nomor ====================== -->
+                
                 <div class="product-card">
                     <div class="product-image">
                         <a href="https://online.fliphtml5.com/droqq/npxe/#p=1" target="_blank"><img src="img/Partner2/Donasi Nanemkebaikan.png" alt="Product Image"></a>
@@ -216,7 +285,7 @@
                     </div>
                 </div>
 
-                <!-- =========================== Kartu Nomor ============================== -->
+                
                 <div class="product-card">
                     <div class="product-image">
 			 <a href="https://www.instagram.com/bangdoindonesia/" target="_blank"><img src="img/Partner2/Berbagi Roti Bareng BangDoIndonesia.jpg" alt="Product Image"></a>
@@ -228,7 +297,7 @@
                     </div>
                 </div>
 
-                <!-- =================================== Kartu Nomor ======================== -->
+                
                 <div class="product-card">
                    <div class="product-image">
                          <img src="img/Partner2/Coming Soon.jpg" alt="Product Image">
@@ -242,6 +311,8 @@
             </div>
         </div>
     </div>
+    -->
+
     <!-- ================================ Akhir Kolom ============================== -->
 
     <!-- ========================================== akhir kolom ================================== -->
