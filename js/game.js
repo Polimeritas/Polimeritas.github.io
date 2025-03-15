@@ -44,6 +44,8 @@ function reset() {
     item.style.display = "block";
   });
 
+  getResetButtonDOM.style.display = "none";
+
   countdown();
 }
 
@@ -58,7 +60,8 @@ function countdown() {
       text: `Your score is : ${score}`,
       icon: "info",
     });
-    getResetButtonDOM.removeAttribute("hidden");
+    getResetButtonDOM.style.display = "block"
+    
   }
 }
 
