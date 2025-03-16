@@ -81,9 +81,15 @@ const resetBtn = document.getElementById("reset-btn");
 function showQuestion() {
   const q = questions[currentQuestion];
   questionEl.innerText = q.question;
+
   optionsEl.innerHTML = "";
   q.options.forEach((option) => {
     const btn = document.createElement("button");
+
+    btn.style.color = "blue"
+    btn.style.padding = "10px"
+    btn.style.marginLeft= "10px"
+    btn.style.border = "rounded"
     btn.innerText = option;
     btn.onclick = () => checkAnswer(option);
     optionsEl.appendChild(btn);
@@ -95,7 +101,7 @@ function checkAnswer(option) {
     score++;
     feedbackEl.innerText = `✅ Benar! ${questions[currentQuestion].explanation}`;
   } else {
-    feedbackEl.innerText = `❌ Salah! ${questions[currentQuestion].explanation}`;
+    feedbackEl.innerText = `❌ Salah! Jawaban yang benar adalah ${questions[currentQuestion].answer}.  ${questions[currentQuestion].explanation}`;
   }
   optionsEl.setAttribute("hidden", true);
   // console.log(optionsEl);

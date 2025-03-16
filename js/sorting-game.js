@@ -60,8 +60,7 @@ function countdown() {
       text: `Your score is : ${score}`,
       icon: "info",
     });
-    getResetButtonDOM.style.display = "block"
-    
+    getResetButtonDOM.style.display = "block";
   }
 }
 
