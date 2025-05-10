@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+ /* Container for all product cards */
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 16px;
+}
+
+/* Individual product card */
+.product-card {
+  flex: 0 0 calc(20% - 16px); /* 5 cards per row */
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+/* Image container */
+.product-image img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+/* Details part */
+.product-details {
+  padding: 12px;
+}
+
+.product-index {
+  font-size: 20px;
+  margin: 4px 0;
+}
+
+.product-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 4px 0;
+}
+
+.product-description {
+  font-size: 14px;
+  color: #666;
+}
+
+/* --- Responsive adjustments --- */
+
+/* For tablets (4 cards per row) */
+@media (max-width: 1024px) {
+  .product-card {
+    flex: 0 0 calc(25% - 16px);
+  }
+}
+
+/* For medium screens (2-3 cards per row) */
+@media (max-width: 768px) {
+  .product-card {
+    flex: 0 0 calc(33.333% - 16px);
+  }
+}
+
+/* For small phones (1-2 cards per row) */
+@media (max-width: 480px) {
+  .product-card {
+    flex: 0 0 calc(50% - 16px);
+  }
+}
+
+
+    </style>
+</head>
+<body>
+    <div id="product-card" class="product-container">
+
+    </div>
+    <script src="./js/data.js"></script>
+</body
+
+
+</html>
