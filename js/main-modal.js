@@ -2,7 +2,7 @@ $(document).ready(function () {
   Swal.fire({
     //   title: "Partner Room",
     //   text: "Partner room ..."
-    imageUrl: "./img/modal-partner-room.jpg",
+    imageUrl: "./img/modal-2.jpg",
     imageWidth: 800,
     imageHeight: 600,
     confirmButtonText: "Learn more",
@@ -13,7 +13,8 @@ $(document).ready(function () {
     showCloseButton: true,
   }).then((x) => {
     if (x.isConfirmed) {
-      window.location.href = "partner-room.html";
+      window.location.href =
+        "https://www.instagram.com/p/DJayKpDzmfG/?igsh=MmdkZmduZmNmZXBi";
     }
   });
 });
