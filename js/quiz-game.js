@@ -74,12 +74,14 @@ let currentQuestion = 0;
 let score = 0;
 
 const questionEl = document.getElementById("question");
-questionEl.style.fontSize = "40px";
 const optionsEl = document.getElementById("options");
 const feedbackEl = document.getElementById("feedback");
-feedbackEl.style.fontSize = "40px";
 const nextBtn = document.getElementById("next-btn");
 const resetBtn = document.getElementById("reset-btn");
+questionEl.style.fontSize = "32px";
+feedbackEl.style.fontSize = "24px";
+
+
 function showQuestion() {
   const q = questions[currentQuestion];
   questionEl.innerText = q.question;
