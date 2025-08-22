@@ -28,90 +28,85 @@
     <link href="css/style.css" rel="stylesheet">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.17.2/dist/sweetalert2.min.css" integrity="sha256-SCRy3fXoOamBaidKByHs9iJVLYJ65R/v6ycZNN4JhmE=" crossorigin="anonymous">
-    <!-- Google AdSense (dibiarkan sama) -->
+    <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7925162344439931"
       crossorigin="anonymous"></script>
 
-
     <style>
       body {
-        background-color: #f0f2f5; /* Warna latar belakang body */
+        background-color: #f0f2f5;
       }
       #game-container {
-        background: rgba(255, 255, 255, 0.95); /* Sedikit lebih solid */
-        padding: 30px; /* Padding lebih besar */
-        border-radius: 20px; /* Sudut lebih membulat */
-        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.15); /* Bayangan lebih dalam */
+        background: rgba(255, 255, 255, 0.95);
+        padding: 30px;
+        border-radius: 20px;
+        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.15);
         color: black;
         text-align: center;
-        max-width: 700px; /* Lebar maksimum yang lebih luas */
+        max-width: 700px;
         margin: 50px auto;
         position: relative;
-        overflow: hidden; /* Penting untuk efek partikel */
-        transition: background-color 0.5s ease-in-out; /* Transisi untuk Fever Mode */
+        overflow: hidden;
+        transition: background-color 0.5s ease-in-out;
       }
       h1 {
         color: #ff9800;
         margin-bottom: 25px;
-        font-size: 2.5em; /* Ukuran judul lebih besar */
+        font-size: 2.5em;
       }
       #paragraph-display {
-        font-size: 24px; /* Ukuran teks paragraf */
+        font-size: 24px;
         margin-bottom: 30px;
-        line-height: 1.6; /* Jarak antar baris */
-        text-align: justify; /* Teks rata kiri-kanan */
-        min-height: 100px; /* Tinggi minimum agar tidak 'loncat' */
-        display: flex; /* Untuk flexbox layout */
-        flex-wrap: wrap; /* Agar kata bisa ke baris baru */
-        justify-content: center; /* Pusatkan kata-kata */
+        line-height: 1.6;
+        text-align: justify;
+        min-height: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
         align-items: center;
-        transition: transform 0.5s ease-out; /* Animasi scroll paragraf */
+        transition: transform 0.5s ease-out;
       }
       #paragraph-display .word-span {
-          margin-right: 8px; /* Jarak antar kata */
+          margin-right: 8px;
           transition: color 0.2s ease-out, background-color 0.2s ease-out;
-          padding: 2px 0px; /* Padding untuk highlight */
+          padding: 2px 0px;
           border-radius: 4px;
-          display: inline-block; /* Penting untuk transform */
+          display: inline-block;
       }
-      #paragraph-display .word-span span { /* Setiap karakter dalam kata */
-          display: inline-block; /* Agar bisa dianimasikan terpisah */
+      #paragraph-display .word-span span {
+          display: inline-block;
           transition: color 0.08s ease-out, transform 0.05s ease-out;
       }
-
-      /* Kelas untuk highlight kata aktif */
       #paragraph-display .word-active {
-          background-color: rgba(255, 230, 150, 0.5); /* Kuning muda transparan */
-          transform: scale(1.02); /* Sedikit membesar */
+          background-color: rgba(255, 230, 150, 0.5);
+          transform: scale(1.02);
       }
-      /* Kelas untuk kata yang sudah selesai */
       #paragraph-display .word-completed {
-          color: #4CAF50; /* Hijau */
+          color: #4CAF50;
           font-weight: bold;
           opacity: 0.7;
           transition: opacity 0.5s ease-out;
       }
-
       input {
-        padding: 12px 15px; /* Padding lebih besar */
-        font-size: 20px; /* Ukuran font lebih besar */
-        border-radius: 8px; /* Lebih membulat */
-        border: 3px solid #ff9800; /* Border lebih tebal */
-        width: 90%; /* Lebar lebih besar */
+        padding: 12px 15px;
+        font-size: 20px;
+        border-radius: 8px;
+        border: 3px solid #ff9800;
+        width: 90%;
         margin-bottom: 20px;
         text-align: center;
         outline: none;
         transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* Bayangan pada input */
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
       }
       input.correct-border {
-          border-color: #4CAF50; /* Hijau saat benar */
-          box-shadow: 0 0 15px rgba(76, 175, 80, 0.5); /* Glow hijau */
+          border-color: #4CAF50;
+          box-shadow: 0 0 15px rgba(76, 175, 80, 0.5);
       }
       input.incorrect-border {
-          border-color: #f44336; /* Merah saat salah */
-          box-shadow: 0 0 15px rgba(244, 67, 54, 0.5); /* Glow merah */
-          animation: shakeInput 0.2s ease-in-out; /* Animasi bergetar */
+          border-color: #f44336;
+          box-shadow: 0 0 15px rgba(244, 67, 54, 0.5);
+          animation: shakeInput 0.2s ease-in-out;
       }
       @keyframes shakeInput {
           0% { transform: translateX(0); }
@@ -120,60 +115,54 @@
           75% { transform: translateX(-5px); }
           100% { transform: translateX(0); }
       }
-
       #score,
       #timer,
       #level {
         margin-top: 15px;
-        font-size: 22px; /* Ukuran font lebih besar */
+        font-size: 22px;
         font-weight: bold;
         color: #555;
         transition: color 0.3s ease-in-out, transform 0.1s ease-out;
       }
       #score.streak-active {
-          color: #FFD700 !important; /* Emas saat streak */
+          color: #FFD700 !important;
           animation: pulseScore 1s infinite alternate;
       }
       @keyframes pulseScore {
           from { transform: scale(1); }
           to { transform: scale(1.08); }
       }
-
       button {
         background: #ff9800;
         color: white;
-        padding: 12px 25px; /* Padding lebih besar */
+        padding: 12px 25px;
         border: none;
-        border-radius: 8px; /* Lebih membulat */
-        font-size: 18px; /* Ukuran font lebih besar */
+        border-radius: 8px;
+        font-size: 18px;
         cursor: pointer;
         transition: 0.3s ease-in-out;
         margin-top: 25px;
-        box-shadow: 0 4px 10px rgba(255, 152, 0, 0.3); /* Bayangan tombol */
+        box-shadow: 0 4px 10px rgba(255, 152, 0, 0.3);
       }
       button:hover {
         background: #e68900;
-        transform: translateY(-2px); /* Efek hover */
+        transform: translateY(-2px);
         box-shadow: 0 6px 15px rgba(255, 152, 0, 0.4);
       }
-
-      /* CSS untuk Visualisasi Progres Kata per Huruf */
       .char-correct {
-          color: #4CAF50; /* Hijau untuk huruf benar */
+          color: #4CAF50;
           font-weight: bold;
-          transform: scale(1.05); /* Sedikit membesar */
+          transform: scale(1.05);
       }
       .char-incorrect {
-          color: #f44336; /* Merah untuk huruf salah */
-          animation: shakeChar 0.1s ease-in-out; /* Animasi bergetar kecil */
+          color: #f44336;
+          animation: shakeChar 0.1s ease-in-out;
       }
       @keyframes shakeChar {
           0% { transform: translateX(0); }
           50% { transform: translateX(-1px); }
           100% { transform: translateX(1px); }
       }
-
-      /* Animasi dan Efek Visual Saat Kata Selesai/Salah */
       .word-completed-fade {
           animation: wordCompletedFade 0.4s forwards;
       }
@@ -181,7 +170,6 @@
           from { transform: scale(1); opacity: 1; color: #4CAF50; }
           to { transform: scale(1.1) translateY(-20px); opacity: 0; color: #4CAF50; }
       }
-
       .word-incorrect-shake {
           animation: wordIncorrectShake 0.5s forwards;
       }
@@ -192,16 +180,14 @@
           75% { transform: translateX(-8px); }
           100% { transform: translateX(0); color: #f44336; opacity: 0.5;}
       }
-      
-      /* Partikel Skor Terbang */
       .score-popup {
           position: absolute;
-          font-size: 2.5em; /* Ukuran lebih besar */
+          font-size: 2.5em;
           font-weight: bold;
-          color: #4CAF50; /* Warna hijau */
+          color: #4CAF50;
           text-shadow: 2px 2px 5px rgba(0,0,0,0.4);
           opacity: 0;
-          animation: scorePop 1s forwards; /* Durasi animasi lebih lama */
+          animation: scorePop 1s forwards;
           z-index: 10;
           pointer-events: none;
           white-space: nowrap;
@@ -209,18 +195,16 @@
       @keyframes scorePop {
           0% { transform: translateY(0) scale(0.8); opacity: 0; }
           20% { opacity: 1; transform: translateY(-30px) scale(1); }
-          100% { transform: translateY(-80px) scale(1.2); opacity: 0; } /* Terbang lebih tinggi */
+          100% { transform: translateY(-80px) scale(1.2); opacity: 0; }
       }
-
-      /* Sistem Streak dengan Notifikasi yang Menggugah */
       #streak-notification {
         position: absolute;
-        top: 45%; /* Lebih ke tengah vertikal */
+        top: 45%;
         left: 50%;
         transform: translate(-50%, -50%);
-        font-size: 4em; /* Ukuran sangat besar */
+        font-size: 4em;
         font-weight: bolder;
-        color: #FFD700; /* Emas cerah */
+        color: #FFD700;
         text-shadow: 4px 4px 10px rgba(0,0,0,0.6);
         opacity: 0;
         transition: opacity 0.3s ease-out, transform 0.3s ease-out;
@@ -230,33 +214,31 @@
       }
       #streak-notification.show {
         opacity: 1;
-        transform: translate(-50%, -55%) scale(1); /* Bergerak sedikit ke atas dan skala normal */
-        animation: streakPop 0.6s ease-out; /* Animasi pop lebih cepat */
+        transform: translate(-50%, -55%) scale(1);
+        animation: streakPop 0.6s ease-out;
       }
       @keyframes streakPop {
           0% { transform: translate(-50%, -50%) scale(0.7); opacity: 0; }
           50% { transform: translate(-50%, -58%) scale(1.2); opacity: 1; }
           100% { transform: translate(-50%, -55%) scale(1); opacity: 1; }
       }
-
-      /* Fever Mode */
       #game-container.fever-mode {
-          background: linear-gradient(45deg, #ff9800, #ffeb3b); /* Gradient kuning-oranye */
-          box-shadow: 0px 0px 50px rgba(255, 215, 0, 0.7); /* Glow emas besar */
-          animation: feverBgPulse 2s infinite alternate; /* Animasi denyut background */
+          background: linear-gradient(45deg, #ff9800, #ffeb3b);
+          box-shadow: 0px 0px 50px rgba(255, 215, 0, 0.7);
+          animation: feverBgPulse 2s infinite alternate;
       }
       @keyframes feverBgPulse {
           from { box-shadow: 0px 0px 50px rgba(255, 215, 0, 0.7); }
           to { box-shadow: 0px 0px 70px rgba(255, 215, 0, 0.9); }
       }
       #paragraph-display.fever-mode-glow .word-span {
-          text-shadow: 0 0 8px #fff, 0 0 15px #ffeb3b; /* Glow pada teks */
-          color: #333; /* Pastikan teks tetap terbaca */
+          text-shadow: 0 0 8px #fff, 0 0 15px #ffeb3b;
+          color: #333;
       }
       #paragraph-display.fever-mode-glow .word-span.word-active {
-          background-color: rgba(255, 255, 255, 0.3); /* Highlight lebih terang */
+          background-color: rgba(255, 255, 255, 0.3);
       }
-      #fever-particles { /* Elemen untuk partikel */
+      #fever-particles {
           position: absolute;
           top: 0;
           left: 0;
@@ -268,7 +250,7 @@
       }
       .particle {
           position: absolute;
-          background-color: #ffeb3b; /* Warna partikel */
+          background-color: #ffeb3b;
           border-radius: 50%;
           opacity: 0;
           animation: particleAnim 3s infinite ease-out;
@@ -278,16 +260,14 @@
           20% { opacity: 1; transform: scale(1); }
           100% { transform: translate(var(--x), var(--y)) scale(0.5); opacity: 0; }
       }
-
-      /* Progress Bar Waktu */
       #timer-bar-container {
-        width: 90%; /* Lebar lebih besar */
-        height: 12px; /* Tinggi lebih besar */
+        width: 90%;
+        height: 12px;
         background-color: #ddd;
         border-radius: 6px;
-        margin: 15px auto; /* Margin lebih besar */
+        margin: 15px auto;
         overflow: hidden;
-        box-shadow: inset 0 1px 3px rgba(0,0,0,0.2); /* Efek 3D */
+        box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
       }
       #timer-bar {
         height: 100%;
@@ -296,8 +276,8 @@
         transition: width 0.9s linear, background-color 0.3s ease-in-out;
       }
       #timer-bar.critical {
-          background-color: #f44336; /* Merah saat waktu kritis */
-          animation: timerCriticalPulse 1s infinite alternate; /* Kedip saat kritis */
+          background-color: #f44336;
+          animation: timerCriticalPulse 1s infinite alternate;
       }
       @keyframes timerCriticalPulse {
           from { background-color: #f44336; }
@@ -311,13 +291,11 @@
           from { transform: scale(1); }
           to { transform: scale(1.05); }
       }
-
     </style>
-    
 </head>
 
 <body>
-    <!-- Header Start (dibiarkan sama) -->
+    <!-- Header Start -->
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-3 bg-dark d-none d-lg-block">
@@ -384,7 +362,7 @@
     </div>
     <!-- Header End -->
 
-    <!-- Page Header Start (dibiarkan sama) -->
+    <!-- Page Header Start -->
     <div class="container-fluid bg-primary py-5 mb-5">
         <div class="container py-5">
             <div class="row align-items-center py-4">
@@ -406,29 +384,21 @@
 <!-- main content of the game -->
 <div id="game-container">
   <h1>Permainan Mengetik Polimer</h1>
-  <!-- Area untuk menampilkan paragraf kata-kata -->
   <div id="paragraph-display"></div>
   <input type="text" id="input" placeholder="Ketik di sini..." autofocus autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
   <p id="score">Skor: 0</p>
   <p id="timer">Waktu Tersisa: 120</p>
-  <!-- Progress bar untuk timer -->
   <div id="timer-bar-container">
     <div id="timer-bar"></div>
   </div>
   <p id="level">Tahap: 1</p>
-
-  <!-- Notifikasi Streak -->
   <div id="streak-notification"></div>
-
-  <!-- Area untuk partikel Fever Mode -->
   <div id="fever-particles"></div>
-
   <button onclick="handleGameStart()">Mulai </button>
 </div>
-
 <!-- end of the game content -->
-        
-    <!-- Footer Start (dibiarkan sama) -->
+
+    <!-- Footer Start -->
    <div class="container-fluid bg-dark text-white mt-5 py-5 px-sm-3 px-md-5">
     <div class="row pt-5">
         <div class="col-lg-6 col-md-6 mb-5">
@@ -451,8 +421,7 @@
                 <a class="btn btn-light btn-social" href="https://www.instagram.com/polimeritas.official/"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
-        
-        
+    </div>
 </div>
 <div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: #3E3E4E !important;">
     <div class="row">
@@ -464,43 +433,41 @@
 </div>
 <!-- Footer End -->
 
-
     <!-- Back to Top -->
     <a href="#" class="btn btn-primary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
 
-
     <!-- JavaScript Libraries -->
-        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-        <script src="lib/easing/easing.min.js"></script>
-        <script src="lib/waypoints/waypoints.min.js"></script>
-        <script src="lib/counterup/counterup.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.js"></script>
-        <script src="lib/isotope/isotope.pkgd.min.js"></script>
-        <script src="lib/lightbox/js/lightbox.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.17.2/dist/sweetalert2.all.min.js" integrity="sha256-lCHT/LfuZjRp+PdpWns/vKrnSn367D/g1E6Ju18wiH0=" crossorigin="anonymous"></script>
-        <!-- Contact Javascript File -->
-        <script src="mail/jqBootstrapValidation.min.js"></script>
-        <script src="mail/contact.js"></script>
-    <!-- Template Javascript -->
-    <!-- <script src="js/main.js"></script> -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.js"></script>
+    <script src="lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.17.2/dist/sweetalert2.all.min.js" integrity="sha256-lCHT/LfuZjRp+PdpWns/vKrnSn367D/g1E6Ju18wiH0=" crossorigin="anonymous"></script>
+    <!-- Contact Javascript File -->
+    <script src="mail/jqBootstrapValidation.min.js"></script>
+    <script src="mail/contact.js"></script>
     <!-- JavaScript game utama ada di sini -->
     <script>
-        // Daftar kata-kata yang lebih banyak dan bervariasi untuk mode paragraf
-        const allWords = [
-            "polimer", "monomer", "plastik", "kimia", "reaksi", "molekul", "rantai", "bahan",
-            "industri", "sintesis", "karet", "serat", "resin", "termoplastik", "termoset",
-            "elastomer", "viskositas", "kopolimer", "polietilen", "polipropilen", "PVC",
-            "nilon", "akrilik", "silikon", "adhesi", "kohesi", "titik", "leleh", "polimerisasi",
-            "struktural", "amorf", "kristalin", "polikondensasi", "poliadisi", "katalis",
-            "berat", "molekul", "distribusi", "karakteristik", "degradasi", "stabilisasi",
-            "hidrokarbon", "benzena", "etilena", "propilena", "stirena", "vinil", "asetat",
-            "aldehida", "keton", "ester", "eter", "amina", "amida", "karboksilat", "sulfon",
-            "fosfat", "halogen", "oksigen", "nitrogen", "karbon", "hidrogen", "senyawa",
-            "makromolekul", "biopolimer", "protein", "polisakarida", "DNA", "RNA", "enzim",
-            "selulosa", "kitin", "lignin", "kolagen", "gelatin", "amilosa", "amilopektin",
-            "biodegradable", "daur", "ulang", "lingkungan", "berkelanjutan", "inovasi",
-            "penelitian", "pengembangan", "aplikasi", "teknologi", "modern", "masa", "depan"
+        // Daftar kalimat lengkap terkait polimer dan Polimeritas
+        const allSentences = [
+            "Polimeritas memajukan inovasi di bidang teknologi polimer.",
+            "Polimer adalah bahan kimia dengan rantai molekul panjang.",
+            "Kami mengembangkan solusi berkelanjutan melalui penelitian polimer.",
+            "Monomer adalah unit dasar pembentuk rantai polimer.",
+            "Plastik termoplastik dapat dilelehkan dan dibentuk ulang.",
+            "Polimerisasi adalah proses penggabungan monomer menjadi polimer.",
+            "Karet sintetis digunakan dalam berbagai aplikasi industri.",
+            "Biopolimer seperti selulosa ramah terhadap lingkungan.",
+            "Polimeritas mendukung penelitian untuk masa depan yang lebih baik.",
+            "Polipropilen adalah polimer yang kuat dan tahan panas.",
+            "Teknologi polimer membantu menciptakan bahan yang inovatif.",
+            "Komunitas Polimeritas berfokus pada sains dan teknologi.",
+            "Polimer memiliki sifat unik karena struktur molekulnya.",
+            "Penelitian polimer membuka peluang baru di bidang medis.",
+            "Polimeritas mengedukasi masyarakat tentang pentingnya polimer."
         ];
 
         let score = 0;
@@ -513,23 +480,22 @@
         let feverModeActive = false; // Status Fever Mode
         let gameInitialized = false; // Flag untuk memastikan inisialisasi awal
 
-        let currentParagraphWords = []; // Array kata-kata dalam paragraf saat ini
-        let currentWordIndex = 0; // Indeks kata yang sedang diketik dalam paragraf
+        let currentParagraphWords = []; // Array kata-kata dalam kalimat saat ini
+        let currentWordIndex = 0; // Indeks kata yang sedang diketik dalam kalimat
 
-        // Elemen Audio (Pastikan Anda memiliki file audio ini di folder 'audio')
-        // Jika file tidak ada, Anda bisa menghapus baris ini atau menggantinya dengan suara default
-        const correctCharSound = new Audio('audio/correct_char.mp3'); // Suara untuk setiap karakter benar
-        const wrongCharSound = new Audio('audio/wrong_char.mp3');   // Suara untuk setiap karakter salah
-        const wordCompleteSound = new Audio('audio/word_complete.mp3'); // Suara saat kata selesai
-        const streakSound = new Audio('audio/streak.mp3'); // Suara saat streak tercapai
-        const levelUpSound = new Audio('audio/levelup.mp3'); // Suara level up
-        const gameOverSound = new Audio('audio/gameover.mp3'); // Suara game over
-        const feverModeStartSound = new Audio('audio/fever_start.mp3'); // Suara saat Fever Mode mulai
-        const feverModeEndSound = new Audio('audio/fever_end.mp3'); // Suara saat Fever Mode berakhir
+        // Elemen Audio (catatan: file audio tidak ada dalam repo, pastikan ada atau hapus referensi)
+        const correctCharSound = new Audio('audio/correct_char.mp3');
+        const wrongCharSound = new Audio('audio/wrong_char.mp3');
+        const wordCompleteSound = new Audio('audio/word_complete.mp3');
+        const streakSound = new Audio('audio/streak.mp3');
+        const levelUpSound = new Audio('audio/levelup.mp3');
+        const gameOverSound = new Audio('audio/gameover.mp3');
+        const feverModeStartSound = new Audio('audio/fever_start.mp3');
+        const feverModeEndSound = new Audio('audio/fever_end.mp3');
 
         // Dapatkan elemen-elemen DOM
         const gameContainer = document.getElementById('game-container');
-        const paragraphDisplay = document.getElementById('paragraph-display'); // Mengganti wordDisplay
+        const paragraphDisplay = document.getElementById('paragraph-display');
         const inputField = document.getElementById('input');
         const scoreDisplay = document.getElementById('score');
         const timerDisplay = document.getElementById('timer');
@@ -537,75 +503,47 @@
         const timerProgressBar = document.getElementById('timer-bar');
         const streakNotification = document.getElementById('streak-notification');
         const feverParticlesContainer = document.getElementById('fever-particles');
-        const startButton = document.querySelector('button'); // Ambil tombol "Mulai Ulang"
+        const startButton = document.querySelector('button');
 
         // --- Fungsi Game Core ---
 
-        // Fungsi untuk mendapatkan paragraf baru
-        function getNewParagraph(wordCount = 5) {
-            let paragraph = [];
-            let availableWords = [...allWords]; // Salin untuk menghindari modifikasi array asli
-
-            // Filter kata berdasarkan level untuk meningkatkan kesulitan
-            if (level >= 3) {
-                availableWords = availableWords.filter(word => word.length > 5);
-            }
-            if (level >= 5) {
-                availableWords = availableWords.filter(word => word.length > 7);
-            }
-            if (level >= 8) {
-                availableWords = availableWords.filter(word => word.length > 9);
-            }
-
-            // Pastikan availableWords tidak kosong setelah filtering
-            if (availableWords.length === 0) {
-                availableWords = [...allWords]; // Fallback ke semua kata jika filtering membuatnya kosong
-                console.warn("Tidak ada kata yang tersedia setelah filter level, kembali ke semua kata.");
-            }
-
-            // Pastikan wordCount minimal 1
-            wordCount = Math.max(1, wordCount);
-
-            for (let i = 0; i < wordCount; i++) {
-                paragraph.push(availableWords[Math.floor(Math.random() * availableWords.length)]);
-            }
-            return paragraph;
+        // Fungsi untuk mendapatkan kalimat baru
+        function getNewParagraph() {
+            // Pilih satu kalimat acak dari allSentences
+            const selectedSentence = allSentences[Math.floor(Math.random() * allSentences.length)];
+            // Pecah kalimat menjadi array kata
+            return selectedSentence.split(' ');
         }
 
-        // Fungsi untuk menampilkan paragraf di layar
+        // Fungsi untuk menampilkan kalimat di layar
         function displayParagraph() {
-            // Jumlah kata dalam paragraf bertambah per level
-            currentParagraphWords = getNewParagraph(5 + Math.floor(level / 2)); 
+            currentParagraphWords = getNewParagraph();
             currentWordIndex = 0;
 
             // Buat elemen span untuk setiap kata dan setiap karakter
             paragraphDisplay.innerHTML = currentParagraphWords.map((word, wordIdx) => {
                 const chars = word.split('').map(char => `<span>${char}</span>`).join('');
                 return `<span class="word-span" id="word-${wordIdx}">${chars}</span>`;
-            }).join(' '); // Gabungkan dengan spasi antar kata
+            }).join(' ');
 
-            highlightCurrentWord(); // Sorot kata pertama
+            highlightCurrentWord();
             inputField.value = '';
             inputField.classList.remove('correct-border', 'incorrect-border');
             inputField.focus();
 
-            // Animasi scroll paragraf saat baru muncul
             paragraphDisplay.style.transform = 'translateY(0)';
             paragraphDisplay.style.opacity = '1';
         }
 
         // Fungsi untuk menyorot kata yang sedang aktif diketik
         function highlightCurrentWord() {
-            // Hapus highlight dari semua kata
             paragraphDisplay.querySelectorAll('.word-span').forEach(span => {
                 span.classList.remove('word-active');
             });
 
-            // Tambahkan highlight ke kata saat ini
             const activeWordSpan = document.getElementById(`word-${currentWordIndex}`);
             if (activeWordSpan) {
                 activeWordSpan.classList.add('word-active');
-                // Scroll ke tampilan jika diperlukan (opsional, tapi bagus untuk UX)
                 activeWordSpan.scrollIntoView({ behavior: 'smooth', block: 'center' });
             }
         }
@@ -613,12 +551,10 @@
         // Fungsi untuk memulai atau merestart game
         function handleGameStart() {
             if (!gameInitialized) {
-                // Inisialisasi game pertama kali
                 startGameLogic();
                 gameInitialized = true;
-                startButton.textContent = "Mulai Ulang"; // Ubah teks tombol
+                startButton.textContent = "Mulai Ulang";
             } else {
-                // Restart game setelah konfirmasi
                 Swal.fire({
                     title: "Mulai Ulang Game?",
                     text: "Semua progres akan hilang!",
@@ -653,14 +589,14 @@
             levelDisplay.textContent = `Tahap: ${level}`;
             timerProgressBar.style.width = '100%';
             timerProgressBar.classList.remove('critical');
-            timerDisplay.classList.remove('critical-text'); // Hapus kedip timer
+            timerDisplay.classList.remove('critical-text');
             hideStreakNotification();
-            disableFeverMode(); // Pastikan fever mode nonaktif
+            disableFeverMode();
 
-            inputField.disabled = false; // Aktifkan input field
-            displayParagraph(); // Mulai dengan menampilkan paragraf
+            inputField.disabled = false;
+            displayParagraph();
             
-            clearInterval(gameInterval); // Pastikan interval sebelumnya berhenti
+            clearInterval(gameInterval);
 
             gameInterval = setInterval(() => {
                 timeLeft--;
@@ -671,7 +607,7 @@
 
                 if (timeLeft <= 30 && !timerProgressBar.classList.contains('critical')) {
                     timerProgressBar.classList.add('critical');
-                    timerDisplay.classList.add('critical-text'); // Tambahkan kedip pada teks timer
+                    timerDisplay.classList.add('critical-text');
                 } else if (timeLeft > 30 && timerProgressBar.classList.contains('critical')) {
                     timerProgressBar.classList.remove('critical');
                     timerDisplay.classList.remove('critical-text');
@@ -687,7 +623,7 @@
             clearInterval(gameInterval);
             inputField.disabled = true;
             gameOverSound.play();
-            disableFeverMode(); // Pastikan fever mode mati saat game over
+            disableFeverMode();
 
             Swal.fire({
                 title: "Waktu Habis!",
@@ -696,36 +632,32 @@
                 confirmButtonColor: "#ff9800",
                 confirmButtonText: "Main Lagi!"
             }).then(() => {
-                // Setelah game over, tombol akan kembali menjadi "Mulai Ulang" untuk memulai game baru
-                // Tidak perlu memanggil startGameLogic() langsung di sini, biarkan user klik lagi.
-                // inputField.disabled = false; // Akan diaktifkan oleh startGameLogic()
+                // Tidak langsung memulai game baru
             });
         }
 
         // --- Event Listener untuk Input ---
 
         inputField.addEventListener('input', (e) => {
-            if (inputField.disabled) return; // Jangan proses input jika game belum dimulai
+            if (inputField.disabled) return;
 
             const typedValue = inputField.value;
             const targetWord = currentParagraphWords[currentWordIndex];
             
-            if (!targetWord) return; // Pastikan ada kata target
+            if (!targetWord) return;
 
             const currentWordSpan = document.getElementById(`word-${currentWordIndex}`);
             const charSpans = currentWordSpan ? currentWordSpan.querySelectorAll('span') : [];
 
             let isCurrentCharCorrect = true;
 
-            // Visualisasi progres kata per huruf
             for (let i = 0; i < targetWord.length; i++) {
                 if (charSpans[i]) {
                     if (i < typedValue.length) {
                         if (typedValue[i] === targetWord[i]) {
                             charSpans[i].classList.add('char-correct');
                             charSpans[i].classList.remove('char-incorrect');
-                            // Mainkan suara karakter benar, tapi tidak terlalu sering
-                            if (e.data && i === typedValue.length - 1) { // Hanya mainkan untuk karakter terakhir yang diketik
+                            if (e.data && i === typedValue.length - 1) {
                                 correctCharSound.currentTime = 0;
                                 correctCharSound.play();
                             }
@@ -737,7 +669,7 @@
                             wrongCharSound.play();
                             inputField.classList.add('incorrect-border');
                             setTimeout(() => inputField.classList.remove('incorrect-border'), 100);
-                            break; // Hentikan di karakter pertama yang salah
+                            break;
                         }
                     } else {
                         charSpans[i].classList.remove('char-correct', 'char-incorrect');
@@ -745,7 +677,6 @@
                 }
             }
 
-            // Update border input field
             if (isCurrentCharCorrect && typedValue.length > 0) {
                 inputField.classList.add('correct-border');
                 inputField.classList.remove('incorrect-border');
@@ -753,70 +684,61 @@
                 inputField.classList.remove('correct-border', 'incorrect-border');
             }
 
-            // Jika user menekan spasi atau mengetik kata lengkap
             if (e.data === ' ' || typedValue === targetWord) {
-                e.preventDefault(); // Mencegah spasi masuk ke input
+                e.preventDefault();
                 
-                if (typedValue.trim() === targetWord) { // Trim untuk handle spasi di akhir
-                    // Kata benar
+                if (typedValue.trim() === targetWord) {
                     wordCompleteSound.play();
 
                     score += 10 * scoreMultiplier;
                     scoreDisplay.textContent = `Skor: ${score}`;
                     showScorePopup(10 * scoreMultiplier);
 
-                    // Animasi kata yang benar: fade out dan naik
                     if (currentWordSpan) {
                         currentWordSpan.classList.add('word-completed-fade');
-                        currentWordSpan.classList.add('word-completed'); // Tetapkan warna hijau
+                        currentWordSpan.classList.add('word-completed');
                     }
                     
                     streakCount++;
                     showStreakNotification();
 
-                    // Pindah ke kata berikutnya
                     currentWordIndex++;
                     if (currentWordIndex < currentParagraphWords.length) {
                         highlightCurrentWord();
                         inputField.value = '';
                         inputField.classList.remove('correct-border', 'incorrect-border');
                     } else {
-                        // Paragraf selesai
-                        // Animasi scroll paragraf
-                        paragraphDisplay.style.transform = 'translateY(-100%)'; // Geser ke atas
+                        paragraphDisplay.style.transform = 'translateY(-100%)';
                         paragraphDisplay.style.opacity = '0';
                         setTimeout(() => {
-                            displayParagraph(); // Muat paragraf baru
-                            paragraphDisplay.style.transform = 'translateY(0)'; // Reset posisi
+                            displayParagraph();
+                            paragraphDisplay.style.transform = 'translateY(0)';
                             paragraphDisplay.style.opacity = '1';
-                            checkLevelUp(); // Cek level up setelah paragraf baru dimuat
-                        }, 500); // Sesuaikan dengan durasi animasi
+                            checkLevelUp();
+                        }, 500);
                         inputField.value = '';
                         inputField.classList.remove('correct-border', 'incorrect-border');
                     }
 
                 } else {
-                    // Kata salah (saat spasi ditekan atau kata lengkap salah)
-                    streakCount = 0; // Putus streak
+                    streakCount = 0;
                     hideStreakNotification();
                     showPenaltyFeedback("Salah! -5s");
-                    wrongCharSound.play(); // Gunakan suara salah ketik yang sama
+                    wrongCharSound.play();
                     inputField.classList.add('incorrect-border');
                     setTimeout(() => inputField.classList.remove('incorrect-border'), 100);
 
-                    timeLeft = Math.max(0, timeLeft - 5); // Penalti waktu lebih besar
+                    timeLeft = Math.max(0, timeLeft - 5);
                     timerDisplay.textContent = `Waktu Tersisa: ${timeLeft}`;
                     
-                    // Animasi kata yang salah: bergetar dan sedikit memudar
                     if (currentWordSpan) {
                         currentWordSpan.classList.add('word-incorrect-shake');
                         setTimeout(() => {
                             currentWordSpan.classList.remove('word-incorrect-shake');
-                            // Reset warna huruf di kata yang salah agar bisa diketik ulang
                             currentWordSpan.querySelectorAll('span').forEach(s => s.classList.remove('char-correct', 'char-incorrect'));
                         }, 500);
                     }
-                    inputField.value = ''; // Kosongkan input agar bisa coba lagi
+                    inputField.value = '';
                 }
             }
         });
@@ -836,19 +758,17 @@
                 streakNotification.textContent = message;
                 streakNotification.classList.add('show');
                 streakSound.currentTime = 0;
-                streakSound.play(); // Mainkan suara streak
+                streakSound.play();
 
-                scoreMultiplier = 1 + (streakCount * 0.1); // Multiplier meningkat
+                scoreMultiplier = 1 + (streakCount * 0.1);
                 scoreDisplay.classList.add('streak-active');
 
-                // Berikan bonus skor langsung saat milestone streak
                 if (streakBonus > 0) {
                     score += streakBonus;
                     scoreDisplay.textContent = `Skor: ${score}`;
-                    showScorePopup(streakBonus, true); // Tampilkan bonus skor besar
+                    showScorePopup(streakBonus, true);
                 }
 
-                // Aktifkan Fever Mode jika streak sangat tinggi
                 if (streakCount >= 10 && !feverModeActive) {
                     activateFeverMode();
                 }
@@ -859,7 +779,7 @@
                 }, 1500);
             } else {
                 hideStreakNotification();
-                if (feverModeActive && streakCount < 10) { // Keluar dari fever mode jika streak turun
+                if (feverModeActive && streakCount < 10) {
                     disableFeverMode();
                 }
             }
@@ -868,16 +788,15 @@
         function hideStreakNotification() {
             streakNotification.classList.remove('show');
             scoreDisplay.classList.remove('streak-active');
-            scoreMultiplier = 1; // Reset multiplier
+            scoreMultiplier = 1;
         }
 
         function showPenaltyFeedback(message) {
             const penaltyDiv = document.createElement('div');
             penaltyDiv.textContent = message;
             penaltyDiv.classList.add('score-popup');
-            penaltyDiv.style.color = '#f44336'; // Warna merah untuk penalti
+            penaltyDiv.style.color = '#f44336';
             
-            // Posisi di atas input field
             const inputRect = inputField.getBoundingClientRect();
             const containerRect = gameContainer.getBoundingClientRect();
             penaltyDiv.style.left = `${inputRect.left - containerRect.left + inputRect.width / 2}px`;
@@ -894,22 +813,19 @@
             scorePopup.textContent = `+${points}`;
             scorePopup.classList.add('score-popup');
             if (isBonus) {
-                scorePopup.style.fontSize = '3.5em'; // Ukuran lebih besar untuk bonus
-                scorePopup.style.color = '#FFD700'; // Warna emas untuk bonus
+                scorePopup.style.fontSize = '3.5em';
+                scorePopup.style.color = '#FFD700';
                 scorePopup.style.textShadow = '3px 3px 7px rgba(0,0,0,0.6)';
-                scorePopup.style.animation = 'scorePop 1.2s forwards'; // Animasi lebih lama
+                scorePopup.style.animation = 'scorePop 1.2s forwards';
             }
 
-            // Posisi relatif terhadap elemen aktif (kata yang baru selesai)
-            // currentWordIndex - 1 karena kita baru saja menyelesaikan kata sebelumnya
-            const activeWordSpan = document.getElementById(`word-${currentWordIndex - 1}`); 
+            const activeWordSpan = document.getElementById(`word-${currentWordIndex - 1}`);
             if (activeWordSpan) {
                 const wordRect = activeWordSpan.getBoundingClientRect();
                 const containerRect = gameContainer.getBoundingClientRect();
                 scorePopup.style.left = `${wordRect.left - containerRect.left + wordRect.width / 2}px`;
-                scorePopup.style.top = `${wordRect.top - containerRect.top - 30}px`; // Muncul sedikit di atas kata
+                scorePopup.style.top = `${wordRect.top - containerRect.top - 30}px`;
             } else {
-                // Fallback jika tidak ada kata aktif (misal di awal game)
                 scorePopup.style.left = '50%';
                 scorePopup.style.top = '50%';
                 scorePopup.style.transform = 'translate(-50%, -50%)';
@@ -919,7 +835,7 @@
 
             setTimeout(() => {
                 scorePopup.remove();
-            }, isBonus ? 1200 : 800); // Hapus setelah animasi selesai
+            }, isBonus ? 1200 : 800);
         }
 
         // --- Implementasi Fever Mode ---
@@ -928,8 +844,8 @@
             feverModeStartSound.play();
             gameContainer.classList.add('fever-mode');
             paragraphDisplay.classList.add('fever-mode-glow');
-            scoreMultiplier = 2; // Poin ganda di Fever Mode!
-            createFeverParticles(); // Mulai partikel
+            scoreMultiplier = 2;
+            createFeverParticles();
             Swal.fire({
                 title: "FEVER MODE AKTIF!",
                 text: "Poinmu berlipat ganda! Ketik secepat mungkin!",
@@ -945,40 +861,37 @@
             feverModeEndSound.play();
             gameContainer.classList.remove('fever-mode');
             paragraphDisplay.classList.remove('fever-mode-glow');
-            scoreMultiplier = 1; // Reset multiplier
-            feverParticlesContainer.innerHTML = ''; // Hapus partikel
+            scoreMultiplier = 1;
+            feverParticlesContainer.innerHTML = '';
         }
 
         function createFeverParticles() {
-            feverParticlesContainer.innerHTML = ''; // Hapus partikel lama
-            const particleCount = 30; // Jumlah partikel
+            feverParticlesContainer.innerHTML = '';
+            const particleCount = 30;
             for (let i = 0; i < particleCount; i++) {
                 const particle = document.createElement('div');
                 particle.classList.add('particle');
-                const size = Math.random() * 8 + 4; // Ukuran partikel 4-12px
+                const size = Math.random() * 8 + 4;
                 particle.style.width = `${size}px`;
                 particle.style.height = `${size}px`;
                 particle.style.left = `${Math.random() * 100}%`;
                 particle.style.top = `${Math.random() * 100}%`;
-                // Atur variabel CSS untuk animasi
-                particle.style.setProperty('--x', `${(Math.random() - 0.5) * 200}px`); // Terbang ke X random
-                particle.style.setProperty('--y', `${(Math.random() - 0.5) * 200}px`); // Terbang ke Y random
-                particle.style.animationDelay = `${Math.random() * 2}s`; // Delay acak
+                particle.style.setProperty('--x', `${(Math.random() - 0.5) * 200}px`);
+                particle.style.setProperty('--y', `${(Math.random() - 0.5) * 200}px`);
+                particle.style.animationDelay = `${Math.random() * 2}s`;
                 feverParticlesContainer.appendChild(particle);
             }
         }
 
-
         // --- Logic Kenaikan Level ---
         function checkLevelUp() {
-            // Poin yang dibutuhkan untuk naik level, meningkat seiring level
-            const scoreNeededForLevel = level * 200 + (level * level * 50); 
+            const scoreNeededForLevel = level * 200 + (level * level * 50);
             if (score >= scoreNeededForLevel) {
                 level++;
                 levelDisplay.textContent = `Tahap: ${level}`;
-                timeLeft += 20; // Bonus waktu per level up
+                timeLeft += 20;
                 timerDisplay.textContent = `Waktu Tersisa: ${timeLeft}`;
-                totalTime += 20; // Tambah total waktu juga agar progress bar akurat
+                totalTime += 20;
                 
                 levelUpSound.play();
 
@@ -991,7 +904,6 @@
                     timerProgressBar: true
                 });
 
-                // Animasi background container
                 gameContainer.classList.add('level-up');
                 setTimeout(() => {
                     gameContainer.classList.remove('level-up');
@@ -999,10 +911,8 @@
             }
         }
 
-
         // --- Inisialisasi Game ---
         document.addEventListener('DOMContentLoaded', () => {
-            // Memuat suara terlebih dahulu untuk menghindari lag
             correctCharSound.load();
             wrongCharSound.load();
             wordCompleteSound.load();
@@ -1012,16 +922,12 @@
             feverModeStartSound.load();
             feverModeEndSound.load();
             
-            // Set input field disabled di awal
             inputField.disabled = true;
-            // Tampilkan paragraf awal tanpa memulai game timer
-            displayParagraph(); 
-            // Ubah teks tombol menjadi "Mulai Game" jika belum diinisialisasi
+            displayParagraph();
             if (!gameInitialized) {
                 startButton.textContent = "Mulai Game";
             }
         });
     </script>
 </body>
-
 </html>
