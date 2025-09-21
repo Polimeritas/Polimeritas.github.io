@@ -3,8 +3,8 @@ $(document).ready(function () {
     //   title: "Partner Room",
     //   text: "Partner room ..."
     imageUrl: "./img/content/popupjeruk.jpg",
-    imageWidth: 960,
-    imageHeight: 540,
+    imageWidth: 1080,
+    imageHeight: 1920,
     confirmButtonText: "Learn more",
     imageAlt: "Custom image",
     customClass: {
