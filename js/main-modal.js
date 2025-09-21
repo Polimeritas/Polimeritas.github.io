@@ -4,7 +4,7 @@ $(document).ready(function () {
     //   text: "Partner room ..."
     imageUrl: "./img/content/popupjeruk.jpg",
     imageWidth: 1080,
-    imageHeight: 1080,
+    imageHeight: 720,
     confirmButtonText: "Learn more",
     imageAlt: "Custom image",
     customClass: {
