@@ -2,7 +2,7 @@ $(document).ready(function () {
   Swal.fire({
     //   title: "Partner Room",
     //   text: "Partner room ..."
-    imageUrl: "./img/modal-partner-room.jpg",
+    imageUrl: "./img/content/popupjeruk.jpg",
     imageWidth: 800,
     imageHeight: 600,
     confirmButtonText: "Learn more",
