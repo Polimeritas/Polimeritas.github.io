@@ -2,7 +2,7 @@ $(document).ready(function () {
   Swal.fire({
     //   title: "Partner Room",
     //   text: "Partner room ..."
-    imageUrl: "./img/content/popupjeruk.jpg",
+    imageUrl: "./img/content/mulsa-plastik.jpg",
     imageWidth: 1080,
     imageHeight: 720,
     confirmButtonText: "Learn more",
@@ -13,7 +13,7 @@ $(document).ready(function () {
     showCloseButton: true,
   }).then((x) => {
     if (x.isConfirmed) {
-      window.location.href = "partner-room.html";
+      window.location.href = "https://www.instagram.com/p/DQUL7OfEig7/?img_index=1";
     }
   });
 });
