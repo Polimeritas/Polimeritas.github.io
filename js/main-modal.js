@@ -13,7 +13,7 @@ $(document).ready(function () {
     showCloseButton: true,
   }).then((x) => {
     if (x.isConfirmed) {
-      window.location.href = "https://www.whatsapp.com/channel/0029VbBFyQm9xVJc7g2OQj1d";
+      window.location.href = "https://www.instagram.com/infokanorangdalam?igsh=MTZhZ3M4Znc5aHM1bg==";
     }
   });
 });
