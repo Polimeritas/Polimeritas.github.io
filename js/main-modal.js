@@ -2,7 +2,7 @@ $(document).ready(function () {
   Swal.fire({
     //   title: "Partner Room",
     //   text: "Partner room ..."
-    imageUrl: "./img/content/mulsa-plastik.jpg",
+    imageUrl: "./img/content/popupvolunteer.png",
     imageWidth: 1080,
     imageHeight: 720,
     confirmButtonText: "Learn more",
