@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FFE066;
+  --color-secondary: #5D8A31;
+  --color-dark: #0a1026;
+  --color-light: #F5F5F5;
+  
+  /* Font setting */
+  --font-poppins: var(--font-poppins);
+  
+  /* Breakpoints container */
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+}
+
+.swiper-pagination {
+  z-index: 50 !important;
+  bottom: 30px !important;
+}
+
+@media (min-width: 1024px) {
+  .swiper-pagination {
+    bottom: 110px !important;
+    text-align: left;
+    padding-left: 80px;
+  }
+}
+
+.swiper-pagination-bullet {
+  width: 25px !important; 
+  height: 25px !important; 
+  background: var(--color-primary) !important;
+  opacity: 1 !important;  
+  margin: 0 8px !important;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.swiper-pagination-bullet-active {
+  background: var(--color-secondary) !important;
+  border-radius: 10px;
+  transform: scale(1); 
+}
+
+/* Animasi Fade In Up untuk Caption Hero */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 40px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: var(--font-poppins), sans-serif;
+    @apply text-gray-600 bg-white;
+  }
+
+  .container {
+    @apply mx-auto px-4;
+    max-width: 100%;
+  }
+
+  @media (min-width: 576px) { .container { max-width: 540px; } }
+  @media (min-width: 768px) { .container { max-width: 720px; } }
+  @media (min-width: 992px) { .container { max-width: 960px; } }
+  @media (min-width: 1200px) { .container { max-width: 1140px; } }
+}
