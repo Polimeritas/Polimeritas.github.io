@@ -54,7 +54,7 @@ const Navbar = () => {
                             <Link
                                 key={link.name}
                                 href={link.href}
-                                className="text-dark font-medium px-6 lg:px-4 py-3 lg:py-6 hover:bg-light lg:hover:bg-transparent hover:text-secondary transition-colors text-sm uppercase tracking-wide block border-b lg:border-none border-gray-50"
+                                className="text-dark font-bold px-6 lg:px-4 py-3 lg:py-6 hover:bg-light lg:hover:bg-transparent hover:text-secondary transition-colors text-sm uppercase tracking-wide block border-b lg:border-none border-gray-50"
                                 onClick={() => setIsOpen(false)}
                             >
                                 {link.name}
@@ -65,10 +65,9 @@ const Navbar = () => {
                         <div className="group relative">
                             <button
                                 onClick={() => toggleDropdown('games')}
-                                className="w-full text-dark font-medium px-6 lg:px-4 py-3 lg:py-6 hover:bg-light lg:hover:bg-transparent hover:text-secondary transition-colors text-sm uppercase tracking-wide flex items-center justify-between lg:justify-start border-b lg:border-none border-gray-50 cursor-pointer"
+                                className="w-full text-dark font-bold px-6 lg:px-4 py-3 lg:py-6 hover:bg-light lg:hover:bg-transparent hover:text-secondary transition-colors text-sm uppercase tracking-wide flex items-center justify-between lg:justify-start border-b lg:border-none border-gray-50 cursor-pointer"
                             >
                                 <span>Games</span>
-                                {/* Icon Chevron Muter pas aktif */}
                                 <FontAwesomeIcon
                                     icon={faChevronDown}
                                     className={`text-xs ml-1 transition-transform duration-300 ${activeDropdown === 'games' ? 'rotate-180' : ''} lg:group-hover:rotate-180`}

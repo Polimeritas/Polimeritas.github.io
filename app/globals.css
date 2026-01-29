@@ -30,17 +30,32 @@
 .swiper-pagination-bullet {
   width: 25px !important; 
   height: 25px !important; 
-  background: var(--color-primary) !important;
+  background: white !important;
   opacity: 1 !important;  
   margin: 0 8px !important;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.2);
 }
 
 .swiper-pagination-bullet-active {
   background: var(--color-secondary) !important;
   border-radius: 10px;
   transform: scale(1); 
+}
+
+/* Testimonials */
+.testimonials-swiper .swiper-pagination {
+  position: static !important;
+  margin-top: 24px;
+  bottom: auto !important;
+  text-align: left;
+  padding-left: 0;
+}
+
+@media (min-width: 1024px) {
+  .testimonials-swiper .swiper-pagination {
+    text-align: left;
+  }
 }
 
 /* Animasi Fade In Up untuk Caption Hero */
@@ -57,6 +72,124 @@
 
 .animate-fade-in-up {
   animation: fadeInUp 0.8s ease-out forwards;
+}
+
+/* Custom Keyframes untuk Play Button */
+@keyframes pulse-border {
+  0% {
+    transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(-50%) translateY(-50%) translateZ(0) scale(2);
+    opacity: 0;
+  }
+}
+
+.animate-pulse-border {
+  animation: pulse-border 1500ms ease-out infinite;
+}
+
+/* Helper Class untuk Section */
+.section-title-line::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 45px;
+  height: 2px;
+  background-color: var(--color-primary);
+}
+
+.section-title-line::after {
+  content: "";
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 45px;
+  height: 2px;
+  background-color: #669127;
+}
+
+/*Our Content */
+.swiper-button-prev,
+.swiper-button-next {
+  position: absolute;
+  top: -60px !important;
+  width: 45px !important;
+  height: 45px !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-primary); 
+  color: var(--color-dark);
+  transition: all 0.3s ease;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  display: none !important;
+}
+
+.swiper-button-prev {
+  right: 60px !important;
+  left: auto !important;
+}
+
+.swiper-button-next {
+  right: 0px !important;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background-color: var(--color-secondary);
+  color: white;
+}
+
+@media (max-width: 768px) {
+    .swiper-button-prev,
+    .swiper-button-next {
+       top: -40px !important;
+       width: 35px !important;
+       height: 35px !important;
+    }
+    .swiper-button-prev { right: 45px !important; }
+}
+
+.fixed.bg-black\/95 .swiper-pagination-bullet {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+  width: 10px !important;
+  height: 10px !important;
+  opacity: 1;
+}
+
+.fixed.bg-black\/95 .swiper-pagination-bullet-active {
+  background-color: var(--color-primary) !important;
+  width: 25px !important;
+  border-radius: 5px;
+}
+
+/* Button Navigation Modal */
+.modal-prev.swiper-button-disabled,
+.modal-next.swiper-button-disabled {
+  opacity: 0.2;
+  cursor: not-allowed;
+}
+
+.swiper-pagination-bullet {
+  background: #ccc;
+  opacity: 0.5;
+  width: 10px;
+  height: 10px;
+  margin: 0 6px !important;
+  transition: all 0.3s ease;
+}
+
+.swiper-pagination-bullet-active {
+  background: var(--color-primary) !important;
+  opacity: 1;
+  width: 30px; 
+  border-radius: 5px;
 }
 
 @layer base {
