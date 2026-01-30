@@ -17,8 +17,8 @@ const Experience = () => {
                 <div className="lg:col-span-5">
                     <div className="bg-black/60 rounded-lg w-full h-full min-h-[500px] py-20 px-8 flex flex-col items-center justify-center text-center shadow-2xl relative overflow-hidden">
                         <FontAwesomeIcon icon={faAward} className="text-primary text-6xl mb-6" />
-                        <h1 className="text-6xl lg:text-7xl font-bold text-dark mb-2">8</h1>
-                        <h2 className="text-2xl lg:text-3xl font-bold text-gray-600">Years Experience</h2>
+                        <h1 className="text-6xl lg:text-7xl font-bold text-white mb-2">8</h1>
+                        <h2 className="text-2xl lg:text-3xl font-bold text-white">Years Experience</h2>
                     </div>
                 </div>
 

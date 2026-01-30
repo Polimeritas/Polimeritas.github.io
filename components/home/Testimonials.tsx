@@ -159,7 +159,7 @@ const Testimonials = () => {
                     </div>
 
                     <div className="lg:col-span-5 w-full">
-                        <div className="relative w-full rounded-2xl overflow-hidden bg-black/10 shadow-lg aspect-4/3 sm:aspect-16/10 lg:aspect-auto lg:h-full min-h-[260px] sm:min-h-[360px] lg:min-h-[500px]">
+                        <div className="relative w-full rounded-2xl overflow-hidden aspect-4/3 sm:aspect-16/10 lg:aspect-auto lg:h-full min-h-[260px] sm:min-h-[360px] lg:min-h-[500px]">
                             <Image
                                 src="/img/testimoni.jpg"
                                 alt="Testimonials Collage"
