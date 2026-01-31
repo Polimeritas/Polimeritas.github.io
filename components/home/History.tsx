@@ -5,7 +5,7 @@ import Image from 'next/image';
 import SectionTitle from '../common/SectionTitle';
 import VideoModal from '../common/VideoModal';
 
-const About = () => {
+const History = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
 
     return (
@@ -18,6 +18,7 @@ const About = () => {
                             src="/img/Partner2/Berzelius.jpg"
                             alt="Berzelius History"
                             fill
+                            sizes="(max-width: 768px) 100vw, 50vw"
                             className="object-contain"
                         />
                     </div>
@@ -67,4 +68,4 @@ const About = () => {
     );
 };
 
-export default About;
+export default History;

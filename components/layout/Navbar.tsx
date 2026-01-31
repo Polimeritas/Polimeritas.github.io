@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars, faTimes, faChevronDown } from '@fortawesome/free-solid-svg-icons';
@@ -36,7 +37,15 @@ const Navbar = () => {
 
                 {/* MOBILE ONLY */}
                 <Link href="/" className="block lg:hidden">
-                    <h1 className="text-2xl font-bold text-primary">Polimeritas</h1>
+                    <Image
+                        src="/img/logo.png"
+                        alt="Polimeritas"
+                        width={150}
+                        height={40}
+                        priority
+                        className="h-10 w-auto"
+                        sizes="(max-width: 1024px) 150px, 0px"
+                    />
                 </Link>
                 <button
                     className="lg:hidden text-dark border border-gray-300 px-3 py-1 rounded focus:outline-none hover:bg-gray-100 transition"

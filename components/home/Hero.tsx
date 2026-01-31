@@ -42,29 +42,24 @@ const Hero = () => {
                     delay: 5000,
                     disableOnInteraction: false,
                 }}
-                loop={true}
-                pagination={{
-                    clickable: true, 
-                    dynamicBullets: false,
-                }}
-                navigation={false}
-                className="h-[600px] lg:h-[90vh] w-full"
+                navigation
+                pagination={{ clickable: true }}
+                className="h-[calc(100vh-80px)] min-h-[600px]"
             >
-                {slides.map((slide) => (
+                {slides.map((slide, index) => (
                     <SwiperSlide key={slide.id} className="relative w-full h-full">
-                        {/* Background Image */}
-                        <div className="relative w-full h-full">
+                        <div className="absolute inset-0 w-full h-full">
                             <Image
                                 src={slide.image}
                                 alt={slide.title}
                                 fill
+                                priority={index === 0}
+                                sizes="100vw"
                                 className="object-cover"
-                                priority={slide.id === 1}
                             />
                             <div className="absolute inset-0 bg-black/50"></div>
                         </div>
 
-                        {/* Content */}
                         <div className="absolute inset-0 flex items-center justify-center z-10 pb-10 lg:pb-24">
                             <div className="container mx-auto px-6 text-center lg:text-left">
                                 <div className="max-w-4xl space-y-4 animate-fade-in-up">
@@ -74,7 +69,6 @@ const Hero = () => {
                                     <h1 className="text-white text-3xl lg:text-6xl font-extrabold leading-tight mb-6 drop-shadow-lg">
                                         {slide.title}
                                     </h1>
-                                    {/* Button Action */}
                                     <a href="/about" className="inline-block px-8 py-3 bg-primary text-dark font-bold rounded hover:bg-white transition-colors">
                                         Learn More
                                     </a>
