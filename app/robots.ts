@@ -11,9 +11,7 @@ export default function robots(): MetadataRoute.Robots {
       allow: [
         '/', 
         '/about', 
-        '/education', 
-        '/project', 
-        '/partner-room'
+        '/education'
       ],
 
       // HALAMAN YANG DILARANG
