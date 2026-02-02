@@ -29,7 +29,7 @@ const Navbar = () => {
         { name: "Partner Room", href: "/partner-room" },
     ];
 
-    const isGamesActive = ["/game", "/quiz-game", "/typing-game"].includes(pathname);
+    const isGamesActive = ["/game", "/game/quiz-game", "/game/typing-game"].includes(pathname);
 
     return (
         <nav className="w-full bg-white relative">
@@ -116,13 +116,13 @@ const Navbar = () => {
                                     Sorting Challenge
                                 </Link>
                                 <Link
-                                    href="/quiz-game"
+                                    href="/game/quiz-game"
                                     className={`block px-4 py-2 text-sm ${pathname === '/quiz-game' ? 'text-primary font-bold' : 'text-gray-600'} hover:bg-light hover:text-primary`}
                                 >
                                     Quiz Challenge
                                 </Link>
                                 <Link
-                                    href="/typing-game"
+                                    href="/game/typing-game"
                                     className={`block px-4 py-2 text-sm ${pathname === '/typing-game' ? 'text-primary font-bold' : 'text-gray-600'} hover:bg-light hover:text-primary`}
                                 >
                                     Typing Challenge
