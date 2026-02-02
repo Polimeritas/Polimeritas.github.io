@@ -94,21 +94,49 @@ export const quizQuestions: QuizQuestion[] = [
     }
 ];
   
-  // --- DATA SORTING GAME (SAMPAH) ---
+  // --- DATA SORTING GAME ---
   export type PolymerType = 'termoplastik' | 'termoset';
 
   export const sortingItems = [
     // TERMOPLASTIK
-    { id: 'item-1', name: 'Botol PET', type: 'termoplastik', image: '/img/game/bottle.png' }, 
-    { id: 'item-2', name: 'Pipa PVC', type: 'termoplastik', image: '/img/game/pvc.png' },
-    { id: 'item-3', name: 'Kantong Kresek', type: 'termoplastik', image: '/img/game/plastic-bag.png' },
-    { id: 'item-4', name: 'Tupperware (PP)', type: 'termoplastik', image: '/img/game/food-container.png' },
+    { 
+        id: 'item-1', 
+        name: 'Botol PET', 
+        type: 'termoplastik', 
+        image: '/img/sortinggame/botolpet.png'
+    }, 
+    { 
+        id: 'item-2', 
+        name: 'Kantong Kresek', 
+        type: 'termoplastik', 
+        image: '/img/sortinggame/kantongplastik.png' 
+    },
+    { 
+        id: 'item-3', 
+        name: 'Tupperware (PP)', 
+        type: 'termoplastik', 
+        image: '/img/sortinggame/gelasplastik.png' 
+    },
     
     // TERMOSET
-    { id: 'item-5', name: 'Melamin', type: 'termoset', image: '/img/game/melamine.png' },
-    { id: 'item-6', name: 'Bakelite (Saklar)', type: 'termoset', image: '/img/game/switch.png' },
-    { id: 'item-7', name: 'Epoxy Resin', type: 'termoset', image: '/img/game/resin.png' },
-    { id: 'item-8', name: 'Ban Karet (Vulkanisir)', type: 'termoset', image: '/img/game/tire.png' },
+    { 
+        id: 'item-4', 
+        name: 'Melamin', 
+        type: 'termoset', 
+        image: '/img/sortinggame/piringmelanin.png' 
+    },
+    { 
+        id: 'item-5', 
+        name: 'Bakelite (Saklar)', 
+        type: 'termoset', 
+        image: '/img/sortinggame/bakelite.png' 
+    },
+    { 
+        id: 'item-6', 
+        name: 'Epoxy Resin', 
+        type: 'termoset', 
+        image: '/img/sortinggame/epoxyresin.png' 
+    },
   ];
   
   // --- DATA TYPING GAME ---

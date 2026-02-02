@@ -18,6 +18,11 @@ import TypingModal from "../typing/TypingModal";
 import confetti from "canvas-confetti";
 import Image from "next/image";
 
+const shuffleArray = (array: typeof sortingItems) => {
+    return array.sort(() => Math.random() - 0.5);
+};
+
+// --- COMPONENT DRAGGABLE ITEM ---
 const DraggableItem = ({ id, name, image }: { id: string, name: string, image: string }) => {
     const { attributes, listeners, setNodeRef, isDragging } = useDraggable({ id });
 
@@ -32,7 +37,7 @@ const DraggableItem = ({ id, name, image }: { id: string, name: string, image: s
             className="flex flex-col items-center justify-center p-3 bg-white border-2 border-gray-200 rounded-xl shadow-sm hover:shadow-md hover:scale-105 transition-all cursor-grab active:cursor-grabbing touch-none aspect-square"
         >
             <div className="w-12 h-12 lg:w-16 lg:h-16 bg-gray-100 rounded-full mb-2 flex items-center justify-center text-3xl">
-                <Image src={image} alt={name} width={64} height={64} className="object-contain" />
+                <Image src={image} alt={name} width={64} height={64} className="object-contain w-full h-full" />
             </div>
             <span className="text-xs font-bold text-center text-dark leading-tight line-clamp-2">{name}</span>
         </div>
@@ -79,6 +84,11 @@ export default function SortingGameEngine() {
     );
 
     useEffect(() => {
+        setItems(shuffleArray(sortingItems));
+    }, []);
+
+    // Timer Logic
+    useEffect(() => {
         let interval: NodeJS.Timeout;
         if (gameState === 'playing' && timeLeft > 0) {
             interval = setInterval(() => setTimeLeft((t) => t - 1), 1000);
@@ -89,7 +99,7 @@ export default function SortingGameEngine() {
     }, [gameState, timeLeft]);
 
     const startGame = () => {
-        setItems(sortingItems);
+        setItems(shuffleArray(sortingItems));
         setScore(0);
         setTimeLeft(GAME_DURATION);
         setGameState('playing');
