@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faPhoneAlt } from '@fortawesome/free-solid-svg-icons';
-import { faFacebookF, faLinkedinIn, faInstagram, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { siteConfig } from '@/config/site';
 
 const Topbar = () => {
   return (
@@ -10,29 +10,33 @@ const Topbar = () => {
       <div className="flex items-center space-x-6 text-white">
         <div className="flex items-center space-x-2 border-r border-gray-600 pr-6">
           <FontAwesomeIcon icon={faEnvelope} className="text-primary text-sm" />
-          <small className="text-xs lg:text-sm hover:text-primary transition-colors cursor-pointer">
-            polimeritas.official@gmail.com
-          </small>
+          <a
+            href={`mailto:${siteConfig.contact.email}`}
+            className="text-xs lg:text-sm hover:text-primary transition-colors cursor-pointer"
+          >
+            {siteConfig.contact.email}
+          </a>
         </div>
         <div className="flex items-center space-x-2">
           <FontAwesomeIcon icon={faPhoneAlt} className="text-primary text-sm" />
-          <small className="text-xs lg:text-sm">+6285214991705</small>
+          <a
+            href={`tel:${siteConfig.contact.phone}`}
+            className="text-xs lg:text-sm hover:text-primary transition-colors"
+          >
+            {siteConfig.contact.phone}
+          </a>
         </div>
       </div>
 
       {/* Social Media */}
       <div className="flex items-center space-x-3">
-        {[
-          { icon: faFacebookF, link: "https://www.facebook.com/polimeritas.official/" },
-          { icon: faLinkedinIn, link: "https://www.linkedin.com/in/polimeritas2018/" },
-          { icon: faInstagram, link: "https://www.instagram.com/polimeritas.official/" },
-          { icon: faYoutube, link: "https://www.youtube.com/embed/fFBCvaFNq0Y" }
-        ].map((social, index) => (
+        {siteConfig.socials.map((social, index) => (
           <a
             key={index}
-            href={social.link}
+            href={social.href}
             target="_blank"
             rel="noopener noreferrer"
+            aria-label={social.name}
             className="group text-primary w-8 h-8 flex items-center justify-center rounded-sm transition-all"
           >
             <FontAwesomeIcon
