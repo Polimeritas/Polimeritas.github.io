@@ -181,6 +181,7 @@ export default function SortingGameEngine() {
             {/* Game Area */}
             <div className="flex-1 p-6 flex flex-col">
                 <DndContext
+                    id="sorting-game-context"
                     sensors={sensors}
                     onDragStart={handleDragStart}
                     onDragEnd={handleDragEnd}
