@@ -9,47 +9,47 @@ import QuizQuestion from "@/components/game/QuizQuestion";
 import QuizResult from "@/components/game/QuizResult";
 import confetti from "canvas-confetti";
 
+const shuffleAndPick = (questions: QuestionType[], count: number) => {
+    return [...questions].sort(() => 0.5 - Math.random()).slice(0, count);
+};
+
 export default function QuizGamePage() {
+    // State
     const [gameQuestions, setGameQuestions] = useState<QuestionType[]>([]);
     const [currentIndex, setCurrentIndex] = useState(0);
     const [score, setScore] = useState(0);
-    const [isFinished, setIsFinished] = useState(false);
-    const [isLoading, setIsLoading] = useState(true);
+    const [gameState, setGameState] = useState<'loading' | 'playing' | 'finished'>('loading');
 
+    // Start Game Logic
     const startGame = useCallback(() => {
-        setIsLoading(true);
-        const shuffled = [...quizQuestions].sort(() => 0.5 - Math.random());
-        const selected = shuffled.slice(0, 10);
-
+        setGameState('loading');
+        const selected = shuffleAndPick(quizQuestions, 10);
         setGameQuestions(selected);
         setCurrentIndex(0);
         setScore(0);
-        setIsFinished(false);
-        setIsLoading(false);
+
+        setTimeout(() => setGameState('playing'), 300);
     }, []);
 
+    // Initial Load
     useEffect(() => {
         startGame();
     }, [startGame]);
 
+    // Handler
     const handleNextQuestion = (isCorrect: boolean) => {
-        // Update Skor
         if (isCorrect) setScore((prev) => prev + 10);
 
         if (currentIndex < gameQuestions.length - 1) {
             setCurrentIndex((prev) => prev + 1);
-            window.scrollTo({ top: 100, behavior: 'smooth' });
         } else {
-            finishGame(isCorrect);
+            finishGame(isCorrect ? score + 10 : score);
         }
     };
 
-    const finishGame = (lastAnswerCorrect: boolean) => {
-        const finalScore = score + (lastAnswerCorrect ? 10 : 0);
-        setIsFinished(true);
-
-        // Rayakan jika skor bagus (> 60)
-        if (finalScore > 60) {
+    const finishGame = (finalScore: number) => {
+        setGameState('finished');
+        if (finalScore >= (gameQuestions.length * 10) * 0.5) {
             confetti({
                 particleCount: 150,
                 spread: 70,
@@ -59,29 +59,30 @@ export default function QuizGamePage() {
     };
 
     return (
-        <main className="min-h-screen bg-gray-50">
+        <main className="min-h-screen bg-gray-50 flex flex-col">
             <Header />
             <PageHeader title="Quiz Challenge" activePage="Game" />
 
-            <section className="w-full max-w-3xl mx-auto px-4 py-16">
-                <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100 min-h-[500px]">
+            <section className="w-full px-4 py-10 lg:py-16 flex-grow container mx-auto">
+                <div className="max-w-3xl mx-auto bg-white rounded-3xl shadow-xl overflow-hidden border border-gray-100 min-h-[400px]">
 
-                    {/* Header Game Bar */}
-                    <div className="bg-primary px-6 py-4 flex justify-between items-center">
+                    {/* Game Header Bar */}
+                    <div className="bg-gray-50 px-6 py-4 border-b border-gray-100 flex justify-between items-center">
                         <h3 className="font-bold text-dark text-lg">
-                            {isFinished ? "Hasil Akhir" : "Uji Wawasanmu"}
+                            {gameState === 'finished' ? "Hasil Akhir" : "Uji Wawasan Polimer"}
                         </h3>
-                        <div className="bg-white px-4 py-1 rounded-full font-bold text-dark shadow-sm text-sm">
+                        <div className="bg-white px-4 py-1 rounded-full font-bold text-primary shadow-sm text-sm border border-gray-100">
                             Score: {score}
                         </div>
                     </div>
 
                     <div className="p-6 lg:p-10">
-                        {isLoading ? (
-                            <div className="flex justify-center items-center h-64">
-                                <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-primary"></div>
+                        {gameState === 'loading' ? (
+                            <div className="flex flex-col justify-center items-center h-64 gap-4">
+                                <div className="animate-spin rounded-full h-12 w-12 border-4 border-gray-200 border-t-primary"></div>
+                                <p className="text-gray-400 text-sm font-semibold animate-pulse">Menyiapkan Pertanyaan...</p>
                             </div>
-                        ) : isFinished ? (
+                        ) : gameState === 'finished' ? (
                             <QuizResult
                                 score={score}
                                 totalQuestions={gameQuestions.length}
@@ -89,6 +90,7 @@ export default function QuizGamePage() {
                             />
                         ) : (
                             <QuizQuestion
+                                key={gameQuestions[currentIndex].id}
                                 data={gameQuestions[currentIndex]}
                                 currentNum={currentIndex + 1}
                                 totalNum={gameQuestions.length}

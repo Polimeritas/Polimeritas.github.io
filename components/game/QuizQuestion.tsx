@@ -1,9 +1,10 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import { QuizQuestion as QuestionType } from "@/data/gameData";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCheckCircle, faTimesCircle, faArrowRight } from "@fortawesome/free-solid-svg-icons";
+import { cn } from "@/lib/utils"; // Pakai utility yang sudah kita buat
 
 interface QuizQuestionProps {
     data: QuestionType;
@@ -13,13 +14,9 @@ interface QuizQuestionProps {
 }
 
 const QuizQuestion: React.FC<QuizQuestionProps> = ({ data, currentNum, totalNum, onNext }) => {
-    const [selectedOption, setSelectedOption] = React.useState<string | null>(null);
-    const [isAnswered, setIsAnswered] = React.useState(false);
-
-    React.useEffect(() => {
-        setSelectedOption(null);
-        setIsAnswered(false);
-    }, [data]);
+    // HAPUS useEffect reset state. Biarkan Parent yang handle via 'key' prop.
+    const [selectedOption, setSelectedOption] = useState<string | null>(null);
+    const [isAnswered, setIsAnswered] = useState(false);
 
     const handleOptionClick = (option: string) => {
         if (isAnswered) return;
@@ -30,66 +27,80 @@ const QuizQuestion: React.FC<QuizQuestionProps> = ({ data, currentNum, totalNum,
     const isCorrect = selectedOption === data.answer;
 
     return (
-        <div className="w-full max-w-2xl mx-auto">
+        <div className="w-full max-w-2xl mx-auto animate-fade-in-up">
+            {/* Header Info */}
             <div className="flex justify-between items-center mb-6">
                 <span className="bg-primary/20 text-secondary px-4 py-1 rounded-full font-bold text-sm">
-                    Pertanyaan {currentNum} / {totalNum}
+                    Pertanyaan {currentNum}/{totalNum}
                 </span>
             </div>
 
-            {/* Teks Soal */}
-            <h2 className="text-xl lg:text-2xl font-bold text-dark mb-8 leading-relaxed">
+            {/* Question */}
+            <h3 className="text-xl lg:text-2xl font-bold text-dark mb-6 leading-relaxed">
                 {data.question}
-            </h2>
+            </h3>
 
-            {/* Pilihan Jawaban */}
-            <div className="space-y-3 mb-8">
-                {data.options.map((opt, idx) => {
-                    let btnStyle = "border-gray-200 hover:border-primary hover:bg-yellow-50 text-gray-700";
+            {/* Options Grid */}
+            <div className="grid grid-cols-1 gap-4 mb-8">
+                {data.options.map((option, idx) => {
+                    // Logic style dipisah agar bersih
+                    let optionStyle = "border-gray-200 hover:border-primary hover:bg-gray-50 text-gray-700";
 
                     if (isAnswered) {
-                        if (opt === data.answer) {
-                            btnStyle = "bg-green-100 border-green-500 text-green-800 font-bold";
-                        } else if (opt === selectedOption && opt !== data.answer) {
-                            btnStyle = "bg-red-100 border-red-500 text-red-800";
+                        if (option === data.answer) {
+                            optionStyle = "bg-green-100 border-green-500 text-green-800 font-bold";
+                        } else if (option === selectedOption) {
+                            optionStyle = "bg-red-100 border-red-500 text-red-800";
                         } else {
-                            btnStyle = "border-gray-100 text-gray-400 opacity-50 cursor-not-allowed";
+                            optionStyle = "opacity-50 cursor-not-allowed";
                         }
                     }
 
                     return (
                         <button
                             key={idx}
-                            onClick={() => handleOptionClick(opt)}
+                            onClick={() => handleOptionClick(option)}
                             disabled={isAnswered}
-                            className={`w-full text-left p-4 rounded-xl border-2 transition-all duration-200 font-medium ${btnStyle}`}
+                            className={cn(
+                                "w-full text-left p-4 rounded-xl border-2 transition-all duration-200 flex items-center justify-between group",
+                                optionStyle
+                            )}
                         >
-                            <div className="flex justify-between items-center">
-                                <span>{opt}</span>
-                                {isAnswered && opt === data.answer && <FontAwesomeIcon icon={faCheckCircle} className="text-green-600" />}
-                                {isAnswered && opt === selectedOption && opt !== data.answer && <FontAwesomeIcon icon={faTimesCircle} className="text-red-600" />}
-                            </div>
+                            <span>{option}</span>
+                            {/* Icon penanda jawaban user */}
+                            {isAnswered && option === data.answer && (
+                                <FontAwesomeIcon icon={faCheckCircle} className="text-green-600" />
+                            )}
+                            {isAnswered && option === selectedOption && option !== data.answer && (
+                                <FontAwesomeIcon icon={faTimesCircle} className="text-red-600" />
+                            )}
                         </button>
                     );
                 })}
             </div>
 
+            {/* Feedback & Next Button */}
             {isAnswered && (
                 <div className="animate-fade-in-up">
-                    <div className={`p-5 rounded-xl border mb-6 ${isCorrect ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'}`}>
-                        <div className="flex items-start gap-3">
-                            <div className={`mt-1 text-xl ${isCorrect ? 'text-green-600' : 'text-red-600'}`}>
-                                <FontAwesomeIcon icon={isCorrect ? faCheckCircle : faTimesCircle} />
+                    <div className={cn(
+                        "p-4 rounded-xl mb-6 border-l-4",
+                        isCorrect ? "bg-green-50 border-green-500" : "bg-red-50 border-red-500"
+                    )}>
+                        <div className="flex gap-4">
+                            <div className="mt-1">
+                                <FontAwesomeIcon
+                                    icon={isCorrect ? faCheckCircle : faTimesCircle}
+                                    className={isCorrect ? "text-green-600 text-xl" : "text-red-600 text-xl"}
+                                />
                             </div>
                             <div>
-                                <h4 className={`font-bold text-lg mb-1 ${isCorrect ? 'text-green-800' : 'text-red-800'}`}>
+                                <h4 className={cn("font-bold text-lg mb-1", isCorrect ? "text-green-800" : "text-red-800")}>
                                     {isCorrect ? "Benar!" : "Salah!"}
                                 </h4>
                                 <p className="text-gray-700 leading-relaxed text-sm lg:text-base">
-                                    {isCorrect
-                                        ? data.explanation
-                                        : <span>Jawaban yang benar adalah <strong>{data.answer}</strong>. {data.explanation}</span>
-                                    }
+                                    {isCorrect ? data.explanation : (
+                                        <>Jawaban yang benar adalah <strong className="text-dark">{data.answer}</strong>. {data.explanation}</>
+                                    )}
                                 </p>
                             </div>
                         </div>
