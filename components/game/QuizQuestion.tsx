@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { QuizQuestion as QuestionType } from "@/data/gameData";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCheckCircle, faTimesCircle, faArrowRight } from "@fortawesome/free-solid-svg-icons";
-import { cn } from "@/lib/utils"; // Pakai utility yang sudah kita buat
+import { cn } from "@/lib/utils";
 
 interface QuizQuestionProps {
     data: QuestionType;
@@ -14,7 +14,6 @@ interface QuizQuestionProps {
 }
 
 const QuizQuestion: React.FC<QuizQuestionProps> = ({ data, currentNum, totalNum, onNext }) => {
-    // HAPUS useEffect reset state. Biarkan Parent yang handle via 'key' prop.
     const [selectedOption, setSelectedOption] = useState<string | null>(null);
     const [isAnswered, setIsAnswered] = useState(false);
 
@@ -43,7 +42,6 @@ const QuizQuestion: React.FC<QuizQuestionProps> = ({ data, currentNum, totalNum,
             {/* Options Grid */}
             <div className="grid grid-cols-1 gap-4 mb-8">
                 {data.options.map((option, idx) => {
-                    // Logic style dipisah agar bersih
                     let optionStyle = "border-gray-200 hover:border-primary hover:bg-gray-50 text-gray-700";
 
                     if (isAnswered) {
@@ -67,7 +65,6 @@ const QuizQuestion: React.FC<QuizQuestionProps> = ({ data, currentNum, totalNum,
                             )}
                         >
                             <span>{option}</span>
-                            {/* Icon penanda jawaban user */}
                             {isAnswered && option === data.answer && (
                                 <FontAwesomeIcon icon={faCheckCircle} className="text-green-600" />
                             )}

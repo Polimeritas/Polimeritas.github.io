@@ -2,10 +2,11 @@
 
 import React, { useState, useEffect, useRef, useCallback } from "react";
 import { typingSentences } from "@/data/gameData";
-import TypingModal from "./TypingModal";
+import GameResultModal from "@/components/game/GameResultModal";
 import FloatingFeedback, { FeedbackItem } from "./FloatingFeedback";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faPlay, faFire } from "@fortawesome/free-solid-svg-icons";
+import { faFire, faKeyboard } from "@fortawesome/free-solid-svg-icons";
+import { cn } from "@/lib/utils";
 
 const INITIAL_TIME = 120;
 const TIME_BONUS = 20;
@@ -17,7 +18,7 @@ export default function TypingEngine() {
     const [level, setLevel] = useState(1);
     const [score, setScore] = useState(0);
 
-    // NEW: Fever Mode State
+    // Fever Mode State
     const [isFeverMode, setIsFeverMode] = useState(false);
 
     // Typing Logic State
@@ -33,207 +34,154 @@ export default function TypingEngine() {
     const [feedbacks, setFeedbacks] = useState<FeedbackItem[]>([]);
     const inputRef = useRef<HTMLInputElement>(null);
 
-    // --- INITIALIZE GAME ---
-    const loadNewSentence = useCallback(() => {
-        const randomSentence = typingSentences[Math.floor(Math.random() * typingSentences.length)];
-        setTargetSentence(randomSentence.split(" "));
+    // Sentence Generator
+    const generateSentence = useCallback(() => {
+        const randomIndex = Math.floor(Math.random() * typingSentences.length);
+        const sentence = typingSentences[randomIndex];
+        setTargetSentence(sentence.split(" "));
         setCurrentWordIndex(0);
         setUserInput("");
     }, []);
 
+    // Game Control
     const startGame = () => {
-        setGameState('playing');
-        setTimeLeft(INITIAL_TIME);
-        setLevel(1);
         setScore(0);
+        setLevel(1);
         setStreak(0);
         setMaxStreak(0);
+        setTimeLeft(INITIAL_TIME);
         setIsFeverMode(false);
-        loadNewSentence();
+        generateSentence();
+        setGameState('playing');
         setTimeout(() => inputRef.current?.focus(), 100);
     };
 
-    // --- TIMER LOGIC ---
+    // Timer 
     useEffect(() => {
-        let interval: NodeJS.Timeout;
+        let interval: ReturnType<typeof setInterval>;
+
         if (gameState === 'playing' && timeLeft > 0) {
             interval = setInterval(() => {
                 setTimeLeft((prev) => prev - 1);
             }, 1000);
         } else if (timeLeft === 0 && gameState === 'playing') {
             setGameState('gameover');
-            setIsFeverMode(false);
         }
+
         return () => clearInterval(interval);
     }, [gameState, timeLeft]);
 
-    // --- FEEDBACK VISUAL HELPER ---
-    const triggerFeedback = (text: string, type: 'success' | 'streak' | 'combo') => {
+    // VISUAL FEEDBACK
+    const triggerFeedback = (text: string, type: FeedbackItem['type']) => {
         const id = Date.now() + Math.random();
-        const randomX = 50 + (Math.random() * 20 - 10);
+        const xPos = 30 + Math.random() * 40;
 
-        setFeedbacks(prev => [...prev, {
-            id,
-            text,
-            type,
-            xPos: randomX
-        }]);
+        setFeedbacks((prev) => [...prev, { id, text, type, xPos }]);
 
         setTimeout(() => {
-            setFeedbacks(prev => prev.filter(item => item.id !== id));
+            setFeedbacks((prev) => prev.filter((item) => item.id !== id));
         }, 800);
     };
 
-    // --- INPUT HANDLER ---
+    // Input Handler
     const handleInput = (e: React.ChangeEvent<HTMLInputElement>) => {
-        const val = e.target.value;
-        const targetWord = targetSentence[currentWordIndex];
-        const isLastWord = currentWordIndex === targetSentence.length - 1;
+        if (gameState !== 'playing') return;
 
-        const isWordFinished = val.endsWith(" ") || (isLastWord && val === targetWord);
+        const value = e.target.value;
+        if (value.endsWith(" ")) {
+            const wordToCheck = value.trim();
+            if (wordToCheck.length === 0) {
+                setUserInput("");
+                return;
+            }
 
-        if (isWordFinished) {
-            const wordTyped = val.trim();
+            const targetWord = targetSentence[currentWordIndex];
 
-            if (wordTyped === targetWord) {
-                const newStreak = streak + 1;
-                setStreak(newStreak);
-                if (newStreak > maxStreak) setMaxStreak(newStreak);
+            if (wordToCheck === targetWord) {
+                const wordPoints = 10 * level + (streak > 5 ? 5 : 0);
+                setScore((prev) => prev + wordPoints);
 
-                if (newStreak >= 10 && !isFeverMode) {
-                    setIsFeverMode(true);
-                    triggerFeedback("FEVER MODE ACTIVATED!", 'combo');
-                }
+                setStreak((prev) => {
+                    const newStreak = prev + 1;
+                    if (newStreak > maxStreak) setMaxStreak(newStreak);
 
-                const bonus = Math.floor(newStreak / 5) * 5;
-                const multiplier = isFeverMode ? 2 : 1;
-                const pointsEarned = (10 + bonus) * multiplier;
+                    if (newStreak % 5 === 0) triggerFeedback(`${newStreak} STREAK!`, 'streak');
+                    else triggerFeedback("+10", 'success');
 
-                const newScore = score + pointsEarned;
-                setScore(newScore);
+                    if (newStreak === 10) setIsFeverMode(true);
 
-                if (newStreak % 10 === 0) triggerFeedback(`${newStreak} STREAK! 🔥`, 'combo');
-                else if (newStreak % 5 === 0) triggerFeedback("HEBAT!", 'streak');
-                else triggerFeedback(isFeverMode ? "DOUBLE POINT!" : "BENAR!", 'success');
+                    return newStreak;
+                });
 
                 setUserInput("");
 
-                if (isLastWord) {
-                    const scoreNeeded = level * 200 + (level * level * 50);
-
-                    if (newScore >= scoreNeeded) {
-                        setLevel(prev => prev + 1);
-                        setTimeLeft(prev => prev + TIME_BONUS);
-                        triggerFeedback("LEVEL UP! +20s", 'combo');
-                    }
-
-                    loadNewSentence();
+                if (currentWordIndex === targetSentence.length - 1) {
+                    setLevel((prev) => prev + 1);
+                    setTimeLeft((prev) => prev + TIME_BONUS);
+                    triggerFeedback("LEVEL UP! +TIME", 'combo');
+                    generateSentence();
                 } else {
-                    setCurrentWordIndex(prev => prev + 1);
+                    setCurrentWordIndex((prev) => prev + 1);
                 }
 
             } else {
                 setStreak(0);
                 setIsFeverMode(false);
-
-                if (val.endsWith(" ")) {
-                    setUserInput(val);
-                } else {
-                    setUserInput(val);
-                }
             }
         } else {
-            setUserInput(val);
+            setUserInput(value);
         }
     };
 
     return (
-        <div
-            className={`
-                relative w-full max-w-4xl mx-auto min-h-[500px] flex flex-col rounded-3xl overflow-hidden transition-all duration-500
-                ${isFeverMode
-                    ? 'bg-orange-50 border-4 border-orange-500 shadow-[0_0_50px_rgba(249,115,22,0.6)] scale-[1.02]'
-                    : 'bg-white border border-gray-100 shadow-xl'
-                }
-            `}
-        >
+        <div className="w-full max-w-4xl mx-auto min-h-[500px] flex flex-col relative bg-white rounded-3xl shadow-xl border border-gray-100 overflow-hidden">
 
-            {gameState === 'idle' && (
-                <div className="absolute inset-0 z-50 bg-white/95 backdrop-blur-sm flex flex-col items-center justify-center p-6 text-center animate-fade-in">
-                    <div className="w-24 h-24 bg-primary/20 rounded-full flex items-center justify-center mb-6 animate-pulse">
-                        <span className="text-6xl">⌨️</span>
-                    </div>
+            <FloatingFeedback items={feedbacks} />
 
-                    <h2 className="text-3xl lg:text-5xl font-black text-dark mb-4 uppercase tracking-tight">
-                        Typing Challenge
-                    </h2>
-
-                    <p className="text-gray-500 text-lg max-w-md mb-8 leading-relaxed">
-                        Ketik kalimat secepat mungkin! Raih <strong>10 Streak</strong> untuk mengaktifkan <strong>Fever Mode (2x Score)</strong>.
-                    </p>
-
-                    <button
-                        onClick={startGame}
-                        className="group px-10 py-4 bg-primary text-dark font-black text-xl rounded-full shadow-lg hover:shadow-xl hover:bg-secondary hover:text-white transition-all transform hover:-translate-y-1 flex items-center gap-3"
-                    >
-                        <FontAwesomeIcon icon={faPlay} />
-                        <span>MULAI GAME</span>
-                    </button>
-                </div>
-            )}
-
-            {/* HEADER STATS */}
-            <div className={`flex justify-between items-center p-6 border-b transition-colors duration-300 ${isFeverMode ? 'bg-orange-100 border-orange-200' : 'bg-gray-50 border-gray-100'}`}>
-                <div className="text-center">
-                    <p className="text-xs text-gray-400 font-bold uppercase tracking-wider">Level</p>
-                    <p className="text-2xl font-black text-purple-600">{level}</p>
-                </div>
-                <div className="text-center flex-1">
+            {/* Header Stats */}
+            <div className={cn(
+                "flex justify-between items-center p-6 border-b transition-colors duration-500",
+                isFeverMode ? "bg-orange-50 border-orange-200" : "bg-gray-50 border-gray-100"
+            )}>
+                <div className="text-center w-1/3">
                     <p className="text-xs text-gray-400 font-bold uppercase tracking-wider">Waktu</p>
-                    <p className={`text-4xl font-black ${timeLeft < 10 ? 'text-red-500 animate-pulse' : 'text-dark'}`}>
+                    <p className={cn("text-3xl font-black tabular-nums", timeLeft <= 10 ? "text-red-500 animate-pulse" : "text-dark")}>
                         {timeLeft}s
                     </p>
                 </div>
-                <div className="text-center">
+
+                {/* Streak Indicator */}
+                <div className="text-center w-1/3">
+                    {streak > 2 && (
+                        <div className={cn("inline-flex items-center gap-2 px-4 py-1 rounded-full font-bold animate-bounce",
+                            isFeverMode ? "bg-orange-500 text-white shadow-orange-300 shadow-lg" : "bg-gray-200 text-gray-600"
+                        )}>
+                            <FontAwesomeIcon icon={faFire} className={isFeverMode ? "animate-pulse" : ""} />
+                            <span>{streak} Streak</span>
+                        </div>
+                    )}
+                </div>
+
+                <div className="text-center w-1/3">
                     <p className="text-xs text-gray-400 font-bold uppercase tracking-wider">Skor</p>
-                    <div className={`text-2xl font-black transition-transform duration-200 ${isFeverMode ? 'text-orange-600 scale-110' : 'text-primary'}`}>
-                        {score}
-                    </div>
+                    <p className="text-3xl font-black text-primary tabular-nums">{score}</p>
                 </div>
             </div>
 
-            {/* GAME AREA */}
-            <div className="relative flex-grow p-8 flex flex-col items-center justify-center">
+            {/* Game Area */}
+            <div className="flex-1 flex flex-col items-center justify-center p-8 lg:p-12 relative z-0">
+                <div className="flex flex-wrap justify-center gap-2 mb-12 max-w-2xl leading-relaxed transition-all">
+                    {targetSentence.map((word, index) => {
+                        let styleClass = "text-gray-300";
 
-                <FloatingFeedback items={feedbacks} />
-
-                {/* Streak Counter & Fever Indicator */}
-                <div className="absolute top-4 right-6 flex flex-col items-end">
-                    {streak > 1 && (
-                        <div className={`font-bold italic animate-pulse ${isFeverMode ? 'text-orange-600 text-2xl' : 'text-orange-400'}`}>
-                            🔥 {streak} Streak
-                        </div>
-                    )}
-                    {isFeverMode && (
-                        <div className="text-orange-500 font-black text-sm tracking-widest border border-orange-500 px-2 py-1 rounded bg-orange-100 mt-1 animate-bounce">
-                            FEVER MODE x2
-                        </div>
-                    )}
-                </div>
-
-                {/* Kata-kata Target */}
-                <div className="flex flex-wrap justify-center gap-3 mb-10 text-xl lg:text-3xl font-medium leading-relaxed transition-all">
-                    {targetSentence.map((word, idx) => {
-                        let colorClass = "text-gray-300";
-                        if (idx < currentWordIndex) colorClass = "text-green-500 opacity-50";
-                        if (idx === currentWordIndex) {
-                            colorClass = isFeverMode
-                                ? "text-dark bg-orange-200 px-2 rounded scale-110 shadow-[0_0_15px_rgba(255,165,0,0.5)] border border-orange-500"
-                                : "text-dark bg-yellow-100 px-2 rounded scale-110 shadow-sm border border-primary";
+                        if (index < currentWordIndex) {
+                            styleClass = "text-primary font-bold";
+                        } else if (index === currentWordIndex) {
+                            styleClass = "text-dark font-black scale-110 bg-gray-100 px-2 rounded";
                         }
 
                         return (
-                            <span key={idx} className={`${colorClass} transition-all duration-300`}>
+                            <span key={index} className={`text-2xl lg:text-3xl transition-all duration-200 ${styleClass}`}>
                                 {word}
                             </span>
                         );
@@ -241,40 +189,62 @@ export default function TypingEngine() {
                 </div>
 
                 {/* Input Field */}
-                <input
-                    ref={inputRef}
-                    type="text"
-                    value={userInput}
-                    onChange={handleInput}
-                    disabled={gameState !== 'playing'}
-                    placeholder={gameState === 'playing' ? (isFeverMode ? "KEEP THE FIRE BURNING!" : "Ketik di sini...") : ""}
-                    className={`
-                        w-full max-w-lg text-center text-2xl p-4 border-b-4 focus:outline-none bg-transparent transition-all font-bold placeholder:font-normal
-                        ${isFeverMode
-                            ? 'border-orange-500 text-orange-900 placeholder:text-orange-300 focus:border-orange-600'
-                            : 'border-gray-200 text-dark placeholder:text-gray-300 focus:border-primary'
-                        }
-                    `}
-                    autoComplete="off"
-                    autoCorrect="off"
-                    spellCheck="false"
-                />
+                <div className="relative w-full max-w-lg">
+                    <input
+                        ref={inputRef}
+                        type="text"
+                        value={userInput}
+                        onChange={handleInput}
+                        disabled={gameState !== 'playing'}
+                        placeholder={gameState === 'playing' ? (isFeverMode ? "KEEP THE FIRE BURNING!" : "Ketik di sini...") : ""}
+                        className={cn(
+                            "w-full text-center text-2xl p-4 border-b-4 focus:outline-none bg-transparent transition-all font-bold placeholder:font-normal",
+                            isFeverMode
+                                ? "border-orange-500 text-orange-900 placeholder:text-orange-300 focus:border-orange-600"
+                                : "border-gray-200 text-dark placeholder:text-gray-300 focus:border-primary",
+                            gameState !== 'playing' && "opacity-50 cursor-not-allowed"
+                        )}
+                        autoComplete="off"
+                        autoCorrect="off"
+                        spellCheck="false"
+                    />
+                    {/* Focus Hint Icon */}
+                    {gameState === 'playing' && (
+                        <div className="absolute right-2 top-1/2 -translate-y-1/2 text-gray-300 pointer-events-none">
+                            <FontAwesomeIcon icon={faKeyboard} />
+                        </div>
+                    )}
+                </div>
 
                 {gameState === 'playing' && (
-                    <p className="mt-4 text-gray-400 text-sm animate-fade-in">
-                        Tekan <span className="font-bold border px-1 rounded bg-gray-100">SPASI</span> setelah mengetik kata
+                    <p className="mt-8 text-gray-400 text-sm animate-fade-in flex items-center gap-2">
+                        Tekan <span className="font-bold border px-2 py-0.5 rounded bg-gray-100 text-dark text-xs">SPASI</span> setelah setiap kata
                     </p>
                 )}
-
             </div>
 
-            {/* GAME OVER MODAL */}
+            {/* MODALS */}
+            {gameState === 'idle' && (
+                <GameResultModal
+                    type="start"
+                    title="Typing Challenge"
+                    description="Ketik kata yang muncul secepat dan setepat mungkin. Waktu: 120 Detik."
+                    actionLabel="Mulai Mengetik"
+                    onAction={startGame}
+                />
+            )}
+
             {gameState === 'gameover' && (
-                <TypingModal
-                    type="gameover"
-                    score={score}
-                    level={level}
-                    maxStreak={maxStreak}
+                <GameResultModal
+                    type={score > 500 ? 'success' : 'gameover'}
+                    title={score > 500 ? "Jari Kilat!" : "Waktu Habis!"}
+                    description="Permainan selesai! Latihan terus agar ketikanmu makin cepat."
+                    stats={[
+                        { label: "Total Skor", value: score, color: "text-primary" },
+                        { label: "Level Dicapai", value: level, color: "text-blue-500" },
+                        { label: "Max Streak", value: maxStreak, color: "text-orange-500" }
+                    ]}
+                    actionLabel="Main Lagi"
                     onAction={startGame}
                 />
             )}

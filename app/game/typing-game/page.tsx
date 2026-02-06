@@ -1,10 +1,14 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Header from "@/components/layout/Header";
 import PageHeader from "@/components/common/PageHeader";
 import Footer from "@/components/layout/Footer";
 import TypingEngine from "@/components/game/typing/TypingEngine";
+
+export const metadata: Metadata = {
+    title: "Typing Game | Polimeritas",
+    description: "Uji kecepatan mengetikmu dan pelajari istilah polimer.",
+};
 
 export default function TypingGamePage() {
     return (

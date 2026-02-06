@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+import React, { memo } from "react";
 
 export interface FeedbackItem {
     id: number;
@@ -33,4 +33,4 @@ const FloatingFeedback: React.FC<{ items: FeedbackItem[] }> = ({ items }) => {
     );
 };
 
-export default FloatingFeedback;
+export default memo(FloatingFeedback);
