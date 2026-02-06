@@ -1,77 +1,89 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { partnerItems } from "@/data/partnersData";
+import { cn } from "@/lib/utils";
+
+export interface PartnerItem {
+    id: number | string;
+    name: string;
+    image: string;
+    desc: string;
+    subDesc?: string;
+    link: string;
+}
+
+interface PartnerListProps {
+    data: PartnerItem[];
+}
 
 const ITEMS_PER_PAGE = 24;
 
-const PartnerList = () => {
+const PartnerList: React.FC<PartnerListProps> = ({ data }) => {
     const [currentPage, setCurrentPage] = useState(1);
+    const sectionRef = useRef<HTMLElement>(null);
 
-    const totalPages = Math.ceil(partnerItems.length / ITEMS_PER_PAGE);
+    const totalPages = Math.ceil(data.length / ITEMS_PER_PAGE);
     const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-    const currentItems = partnerItems.slice(startIndex, startIndex + ITEMS_PER_PAGE);
+    const currentItems = data.slice(startIndex, startIndex + ITEMS_PER_PAGE);
 
     const handlePageChange = (page: number) => {
         setCurrentPage(page);
-        const gridElement = document.getElementById("partner-grid");
-        if (gridElement) gridElement.scrollIntoView({ behavior: "smooth" });
+        sectionRef.current?.scrollIntoView({ behavior: "smooth" });
     };
 
     return (
-        <section id="partner-grid" className="w-full max-w-[95%] lg:max-w-[1400px] mx-auto px-4 py-16">
+        <section ref={sectionRef} className="w-full max-w-[95%] lg:max-w-[1400px] mx-auto px-4 py-16">
 
+            {/* Decoration Line */}
             <div className="flex items-center justify-center w-full mb-16">
-
                 <div className="hidden sm:flex flex-col justify-center flex-1 max-w-[200px] lg:max-w-[300px] gap-[3px]">
                     <div className="w-full h-[2px] bg-gradient-to-r from-transparent via-gray-300 to-primary"></div>
-                    <div className="w-full h-[2px] bg-gradient-to-r from-transparent via-gray-300 to-primary"></div>
+                    <div className="w-[80%] ml-auto h-[1px] bg-gradient-to-r from-transparent via-gray-300 to-primary/60"></div>
                 </div>
 
-                <div className="mx-3 text-center px-2">
-                    <h2 className="text-xl lg:text-3xl font-bold uppercase tracking-widest whitespace-nowrap">
-                        <span className="text-secondary drop-shadow-sm">Polimeritas</span>
-                        <span className="mx-2 text-gray-300 font-light">|</span>
-                        <span className="text-gray-600 text-base lg:text-2xl">Boost Your Brand Value</span>
-                    </h2>
-                </div>
+                <h2 className="text-3xl lg:text-4xl font-black text-center text-dark px-6 uppercase tracking-wider relative">
+                    Our Partners
+                    <span className="absolute -top-4 -right-2 text-6xl text-primary/10 select-none z-[-1]">PARTNERS</span>
+                </h2>
 
                 <div className="hidden sm:flex flex-col justify-center flex-1 max-w-[200px] lg:max-w-[300px] gap-[3px]">
                     <div className="w-full h-[2px] bg-gradient-to-l from-transparent via-gray-300 to-primary"></div>
-                    <div className="w-full h-[2px] bg-gradient-to-l from-transparent via-gray-300 to-primary"></div>
+                    <div className="w-[80%] mr-auto h-[1px] bg-gradient-to-l from-transparent via-gray-300 to-primary/60"></div>
                 </div>
-
             </div>
 
-            {/* GRID CONTAINER */}
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-                {currentItems.map((item, index) => (
-                    <div key={index} className="flex flex-col bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden border border-gray-100">
+            {/* GRID PARTNERS */}
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 lg:gap-8">
+                {currentItems.map((item) => (
+                    <div key={item.id} className="group flex flex-col items-center bg-white rounded-xl shadow-xl border border-gray-100">
 
-                        {/* Image Area */}
-                        <div className="relative w-full aspect-square bg-gray-50 border-b border-gray-100">
-                            <Link href={item.link} target="_blank" rel="noopener noreferrer">
+                        <Link
+                            href={item.link}
+                            target="_blank"
+                            className="relative w-full aspect-square bg-white  p-4 flex items-center justify-center transition-all duration-300 group-hover:shadow-2xl group-hover:-translate-y-1 group-hover:border-primary/30 overflow-hidden"
+                        >
+                            <div className="relative w-full h-full">
                                 <Image
                                     src={item.image}
                                     alt={item.name}
                                     fill
-                                    className="object-contain p-2 hover:scale-105 transition-transform duration-300"
+                                    className="object-contain"
+                                    sizes="(max-width: 768px) 50vw, (max-width: 1200px) 25vw, 16vw"
                                 />
-                            </Link>
-                        </div>
+                            </div>
+                        </Link>
 
-                        {/* Content Area */}
-                        <div className="p-4 flex flex-col items-center text-center flex-grow">
-                            <h3 className="font-bold text-dark text-lg mb-1 line-clamp-1">
+                        <div className="mt-4 text-center px-2">
+                            <h3 className="font-bold text-dark text-xl lg:text-base leading-tight group-hover:text-secondary transition-colors">
                                 {item.name}
                             </h3>
-                            <p className="text-primary font-bold text-xs uppercase mb-1 line-clamp-2">
+                            <p className="text-sm text-gray-500 mt-1 line-clamp-2">
                                 {item.desc}
                             </p>
                             {item.subDesc && (
-                                <p className="text-gray-400 text-[10px] mt-auto">
+                                <p className="text-sm text-primary font-medium mt-1 group-hover:text-secondary">
                                     {item.subDesc}
                                 </p>
                             )}
@@ -87,7 +99,10 @@ const PartnerList = () => {
                     <button
                         onClick={() => handlePageChange(Math.max(1, currentPage - 1))}
                         disabled={currentPage === 1}
-                        className="px-4 py-2 rounded bg-gray-100 text-dark hover:bg-primary disabled:opacity-50 disabled:cursor-not-allowed transition-colors font-bold"
+                        className={cn(
+                            "px-4 py-2 rounded bg-gray-100 text-dark font-bold transition-colors",
+                            "hover:bg-primary disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-gray-100"
+                        )}
                     >
                         Prev
                     </button>
@@ -99,13 +114,15 @@ const PartnerList = () => {
                     <button
                         onClick={() => handlePageChange(Math.min(totalPages, currentPage + 1))}
                         disabled={currentPage === totalPages}
-                        className="px-4 py-2 rounded bg-gray-100 text-dark hover:bg-primary disabled:opacity-50 disabled:cursor-not-allowed transition-colors font-bold"
+                        className={cn(
+                            "px-4 py-2 rounded bg-gray-100 text-dark font-bold transition-colors",
+                            "hover:bg-primary disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-gray-200"
+                        )}
                     >
                         Next
                     </button>
                 </div>
             )}
-
         </section>
     );
 };

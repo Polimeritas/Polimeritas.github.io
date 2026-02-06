@@ -6,7 +6,7 @@ import Footer from "@/components/layout/Footer";
 import TypingEngine from "@/components/game/typing/TypingEngine";
 
 export const metadata: Metadata = {
-    title: "Typing Game | Polimeritas",
+    title: "Typing Game",
     description: "Uji kecepatan mengetikmu dan pelajari istilah polimer.",
 };
 

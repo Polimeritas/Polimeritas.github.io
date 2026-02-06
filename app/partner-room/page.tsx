@@ -6,6 +6,7 @@ import FloatingWidgets from "@/components/common/FloatingWidgets";
 import PageHeader from "@/components/common/PageHeader";
 import PartnerCarousel from "@/components/partner/PartnerCarousel";
 import PartnerList from "@/components/partner/PartnerList";
+import { carouselItems, partnerItems } from "@/data/partnersData";
 
 export const metadata: Metadata = {
     title: "Partner Room",
@@ -19,9 +20,9 @@ export default function PartnerRoomPage() {
 
             <PageHeader title="Partner Room" activePage="Partner Room" />
 
-            <PartnerCarousel />
+            <PartnerCarousel data={carouselItems} />
 
-            <PartnerList />
+            <PartnerList data={partnerItems} />
 
             <Footer />
             <FloatingWidgets />

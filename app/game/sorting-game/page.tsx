@@ -6,7 +6,7 @@ import Footer from "@/components/layout/Footer";
 import SortingGameEngine from "@/components/game/sorting/SortingGameEngine";
 
 export const metadata: Metadata = {
-    title: "Sorting Game | Polimeritas",
+    title: "Sorting Game",
     description: "Game edukasi memilah sampah organik dan anorganik.",
 };
 
