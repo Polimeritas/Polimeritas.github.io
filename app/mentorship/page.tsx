@@ -51,8 +51,6 @@ export default function MentorshipPage() {
                             src="https://docs.google.com/presentation/d/e/2PACX-1vReQ6aapF5XiyLvz8u5chG473iGtXE7BVtGn221E1eXA51PTW1gVUCmtSog80vfQTuvdQhY3p6RCuIc/embed?start=false&loop=false&delayms=3000"
                             className="w-full h-full border-none"
                             allowFullScreen
-                            mozallowfullscreen="true"
-                            webkitallowfullscreen="true"
                             title="Polimeritas Partner Testimonials"
                         />
                     </div>
