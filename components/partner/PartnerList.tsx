@@ -33,6 +33,50 @@ const PartnerList: React.FC<PartnerListProps> = ({ data }) => {
         sectionRef.current?.scrollIntoView({ behavior: "smooth" });
     };
 
+    // Logika Pagination
+    const renderPageNumbers = () => {
+        let pages = [];
+
+        if (totalPages <= 3) {
+            pages = Array.from({ length: totalPages }, (_, i) => i + 1);
+        } else {
+            if (currentPage <= 2) {
+                pages = [1, 2, 3];
+            } else if (currentPage >= totalPages - 1) {
+                pages = [totalPages - 2, totalPages - 1, totalPages];
+            } else {
+                pages = [currentPage - 1, currentPage, currentPage + 1];
+            }
+        }
+
+        return (
+            <>
+                {totalPages > 3 && currentPage > 2 && (
+                    <span className="px-1 text-gray-400 tracking-widest font-bold">..</span>
+                )}
+
+                {pages.map((page) => (
+                    <button
+                        key={page}
+                        onClick={() => handlePageChange(page)}
+                        className={cn(
+                            "w-10 h-10 flex items-center justify-center rounded-lg font-bold transition-all",
+                            currentPage === page
+                                ? "bg-primary text-white shadow-md"
+                                : "bg-gray-100 text-gray-600 hover:bg-gray-200"
+                        )}
+                    >
+                        {page}
+                    </button>
+                ))}
+
+                {totalPages > 3 && currentPage < totalPages - 1 && (
+                    <span className="px-1 text-gray-400 tracking-widest font-bold">..</span>
+                )}
+            </>
+        );
+    };
+
     return (
         <section ref={sectionRef} className="w-full max-w-[95%] lg:max-w-[1400px] mx-auto px-4 py-16">
 
@@ -57,16 +101,15 @@ const PartnerList: React.FC<PartnerListProps> = ({ data }) => {
             {/* GRID PARTNERS */}
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 lg:gap-8">
                 {currentItems.map((item) => (
-                    <div key={item.id} className="group flex flex-col items-center bg-white rounded-xl shadow-xl border border-gray-100">
-
+                    <div key={item.id} className="group flex flex-col items-start bg-white rounded-xl shadow-xl border border-gray-100">
                         <Link
                             href={item.link}
                             target="_blank"
-                            className="relative w-full aspect-square bg-white  p-4 flex items-center justify-center transition-all duration-300 group-hover:shadow-2xl group-hover:-translate-y-1 group-hover:border-primary/30 overflow-hidden"
+                            className="relative w-full aspect-square bg-white p-4 flex items-center justify-center transition-all duration-300 group-hover:shadow-2xl group-hover:-translate-y-1 group-hover:border-primary/30 overflow-hidden rounded-t-xl"
                         >
                             <div className="relative w-full h-full">
                                 <Image
-                                    src={item.image}
+                                    src={item.image || "/img/placeholder.png"}
                                     alt={item.name}
                                     fill
                                     className="object-contain"
@@ -75,11 +118,11 @@ const PartnerList: React.FC<PartnerListProps> = ({ data }) => {
                             </div>
                         </Link>
 
-                        <div className="mt-4 text-center px-2">
-                            <h3 className="font-bold text-dark text-xl lg:text-base leading-tight group-hover:text-secondary transition-colors">
+                        <div className="mt-4 text-left px-4 pb-4 w-full">
+                            <h1 className="font-bold text-dark text-2xl leading-tight group-hover:text-secondary transition-colors">
                                 {item.name}
-                            </h3>
-                            <p className="text-sm text-gray-500 mt-1 line-clamp-2">
+                            </h1>
+                            <p className="text-xl text-gray-500 mt-1 line-clamp-2">
                                 {item.desc}
                             </p>
                             {item.subDesc && (
@@ -88,7 +131,6 @@ const PartnerList: React.FC<PartnerListProps> = ({ data }) => {
                                 </p>
                             )}
                         </div>
-
                     </div>
                 ))}
             </div>
@@ -100,26 +142,30 @@ const PartnerList: React.FC<PartnerListProps> = ({ data }) => {
                         onClick={() => handlePageChange(Math.max(1, currentPage - 1))}
                         disabled={currentPage === 1}
                         className={cn(
-                            "px-4 py-2 rounded bg-gray-100 text-dark font-bold transition-colors",
-                            "hover:bg-primary disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-gray-100"
+                            "w-10 h-10 flex items-center justify-center rounded-lg bg-gray-100 text-dark font-bold transition-colors",
+                            "hover:bg-primary hover:text-white disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-gray-100 disabled:hover:text-dark"
                         )}
+                        aria-label="Previous Page"
                     >
-                        Prev
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                            <path fillRule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clipRule="evenodd" />
+                        </svg>
                     </button>
 
-                    <span className="px-4 text-gray-600 font-medium">
-                        Page {currentPage} of {totalPages}
-                    </span>
+                    {renderPageNumbers()}
 
                     <button
                         onClick={() => handlePageChange(Math.min(totalPages, currentPage + 1))}
                         disabled={currentPage === totalPages}
                         className={cn(
-                            "px-4 py-2 rounded bg-gray-100 text-dark font-bold transition-colors",
-                            "hover:bg-primary disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-gray-200"
+                            "w-10 h-10 flex items-center justify-center rounded-lg bg-gray-100 text-dark font-bold transition-colors",
+                            "hover:bg-primary hover:text-white disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-gray-100 disabled:hover:text-dark"
                         )}
+                        aria-label="Next Page"
                     >
-                        Next
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                            <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
+                        </svg>
                     </button>
                 </div>
             )}

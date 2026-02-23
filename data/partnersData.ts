@@ -81,7 +81,7 @@ export const partnerItems: Partner[] = [
     name: "482",
     desc: "Forevet by Anima Companion",
     subDesc: "Indonesia",
-    image: "img/Partner/forevet.jpeg",
+    image: "/img/Partner/forevet.jpeg",
     link: "https://vt.tiktok.com/ZSm2g7r2L/"
   },
   {
@@ -89,7 +89,7 @@ export const partnerItems: Partner[] = [
     name: "481",
     desc: "Booyenku Shop",
     subDesc: "Indonesia",
-    image: "img/Partner2/Booyenku.jpeg",
+    image: "/img/Partner2/Booyenku.jpeg",
     link: "https://www.instagram.com/stories/highlights/18408079471192443/"
   },
   {
