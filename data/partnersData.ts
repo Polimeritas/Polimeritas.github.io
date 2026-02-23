@@ -79,18 +79,18 @@ export const partnerItems: Partner[] = [
   {
     id: "482",
     name: "482",
-    desc: "Coming Soon",
-    subDesc: "Coming Soon",
-    image: "/img/Partner2/PasangIklanProdukPolimeritas.jpg",
-    link: "https://www.instagram.com/stories/highlights/18050248186951277/"
+    desc: "Forevet by Anima Companion",
+    subDesc: "Indonesia",
+    image: "img/Partner/forevet.jpeg",
+    link: "https://vt.tiktok.com/ZSm2g7r2L/"
   },
   {
     id: "481",
     name: "481",
-    desc: "Coming Soon",
-    subDesc: "Coming Soon",
-    image: "/img/Partner2/PasangIklanProdukPolimeritas.jpg",
-    link: "https://www.instagram.com/stories/highlights/18050248186951277/"
+    desc: "Booyenku Shop",
+    subDesc: "Indonesia",
+    image: "img/Partner2/Booyenku.jpeg",
+    link: "https://www.instagram.com/stories/highlights/18408079471192443/"
   },
   {
     id: "480",
