@@ -31,21 +31,21 @@ const Team = () => {
             name: "Mutiara Hikmah",
             role: "Lead of Education",
             image: "/img/team/Mutiara N.jpg",
-            social: {}
+            social: { linkedin: "https://id.linkedin.com/in/mutiara-hikmah-34044612a" }
         },
         {
             id: 4,
             name: "Erythrina Saraswati Chikaruri",
             role: "Lead of Eksternal SDM",
             image: "/img/team/ery.png",
-            social: {}
+            social: { linkedin: "https://id.linkedin.com/in/erythrina-saraswati-chikaruri-25ab2321a" }
         },
         {
             id: 5,
-            name: "HIRING!",
-            role: "Lead of Creative",
+            name: "Serly Purnama",
+            role: "Lead of Marketing",
             image: "/img/Partner2/Coming Soon.jpg",
-            social: {}
+            social: { linkedin: "https://www.linkedin.com/in/serly-purnama-s-kom-98910024b" }
         },
         {
             id: 6,
