@@ -106,7 +106,7 @@ export const partnerItems: Partner[] = [
     desc: "Biomass Resin Holdings",
     subDesc: "Indonesia",
     image: "/img/Partner/resin.png",
-    link: "https://www.instagram.com/biomass_resin_holdings/"
+    link: "https://www.instagram.com/p/DUKF7ZUEo7N/"
   },
   {
     id: "478",
@@ -130,7 +130,7 @@ export const partnerItems: Partner[] = [
     desc: "Custom Cosplay Eko",
     subDesc: "Tulungagung",
     image: "/img/Partner2/Custom Cosplay Eko.jpg",
-    link: "https://www.instagram.com/satya_robot?utm_source=qr&igsh=NGJuZnl6bTJ6eTc1"
+    link: "https://www.instagram.com/reel/DOYh1LikgEp/"
   },
   {
     id: "475",
@@ -151,18 +151,18 @@ export const partnerItems: Partner[] = [
   {
     id: "473",
     name: "473",
-    desc: "Dirham Antam",
+    desc: "Coming Soon",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Dirham Antam.jpg",
-    link: "https://s.shopee.co.id/1B8z7reTjt"
+    image: "Coming Soon",
+    link: "Coming Soon"
   },
   {
     id: "472",
     name: "472",
-    desc: "Emas Antam",
+    desc: "Coming Soon",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Emas Antam.jpg",
-    link: "https://s.shopee.co.id/3VX0IhqzaB"
+    image: "Coming Soon",
+    link: "Coming Soon"
   },
   {
     id: "471",
@@ -170,7 +170,7 @@ export const partnerItems: Partner[] = [
     desc: "Nasi Kuning Mba Selvi",
     subDesc: "Indonesia",
     image: "/img/Partner2/Nasi Kuning Mba Silvi.jpg",
-    link: "https://www.instagram.com/p/DIYgkh9SsMf/"
+    link: "https://www.instagram.com/reel/DKyUFdWTW1h/"
   },
   {
     id: "470",
@@ -186,7 +186,7 @@ export const partnerItems: Partner[] = [
     desc: "Ketapang Manis - Ecoprint",
     subDesc: "Bangka Belitung",
     image: "/img/Partner2/ketapang manis ecoprint.jpg",
-    link: "https://www.instagram.com/apriaminandar1604/"
+    link: "https://www.instagram.com/reel/DHb9znaTQoq/"
   },
   {
     id: "468",
@@ -202,7 +202,7 @@ export const partnerItems: Partner[] = [
     desc: "Roti Bangdo",
     subDesc: "Indonesia",
     image: "/img/Partner2/Berbagi Roti Bareng BangDoIndonesia.jpg",
-    link: "https://www.instagram.com/p/DGUyG7SyRnF/"
+    link: "https://www.instagram.com/reel/DGUyG7SyRnF/"
   },
   {
     id: "466",
@@ -218,7 +218,7 @@ export const partnerItems: Partner[] = [
     desc: "Kinrose Craft Ecoprint",
     subDesc: "Jakarta",
     image: "/img/Partner2/kinrose.jpg",
-    link: "https://www.instagram.com/kinrosecraft/"
+    link: "https://www.instagram.com/reel/DHVkFrayDdO/"
   },
   {
     id: "464",
@@ -466,7 +466,7 @@ export const partnerItems: Partner[] = [
     desc: "Miniatur Gerobak dan Jok",
     subDesc: "Bandung",
     image: "/img/Partner2/jokracing.jpg",
-    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20mau%20beli%20Jok Racing%20"
+    link: "https://www.instagram.com/reel/DP6fo6-EtIS/"
   },
   {
     id: "433",
@@ -506,7 +506,7 @@ export const partnerItems: Partner[] = [
     desc: "Handmade Rajutan",
     subDesc: "Jakarta",
     image: "/img/Partner2/Handmade Rajutan.jpg",
-    link: "https://www.instagram.com/orionrigel_handmade"
+    link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
     id: "428",
