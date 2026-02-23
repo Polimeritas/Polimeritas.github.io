@@ -153,16 +153,16 @@ export const partnerItems: Partner[] = [
     name: "473",
     desc: "Coming Soon",
     subDesc: "Indonesia",
-    image: "#",
-    link: "#"
+    image: "Coming Soon",
+    link: "Coming Soon"
   },
   {
     id: "472",
     name: "472",
     desc: "Coming Soon",
     subDesc: "Indonesia",
-    image: "#",
-    link: "#
+    image: "Coming Soon",
+    link: "Coming Soon"
   },
   {
     id: "471",
