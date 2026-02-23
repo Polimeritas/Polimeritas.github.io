@@ -68,7 +68,7 @@ export const siteConfig: SiteConfig = {
     { name: "Home", href: "/" },
     { name: "About", href: "/about" },
     { name: "Education", href: "/education" },
-    { name: "Mentorship", href: "/Mentorship" },
+    { name: "Mentorship", href: "/mentorship" },
     { name: "Partner Room", href: "/partner-room" },
   ],
 
