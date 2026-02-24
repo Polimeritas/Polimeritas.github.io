@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import SectionTitle from "../common/SectionTitle";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAward, faPlay } from "@fortawesome/free-solid-svg-icons";
@@ -8,16 +8,55 @@ import VideoModal from "../common/VideoModal";
 
 const Experience = () => {
     const [isVideoOpen, setIsVideoOpen] = useState(false);
+    const [experienceYears, setExperienceYears] = useState(0);
+    const sectionRef = useRef<HTMLDivElement>(null);
+
+    // Animasi Counting 1 sampai 8
+    useEffect(() => {
+        const targetNumber = 8;
+        const duration = 1500;
+        const stepTime = Math.abs(Math.floor(duration / targetNumber));
+
+        const observer = new IntersectionObserver(
+            (entries) => {
+                if (entries[0].isIntersecting) {
+                    let currentNumber = 0;
+                    const timer = setInterval(() => {
+                        currentNumber += 1;
+                        setExperienceYears(currentNumber);
+                        if (currentNumber >= targetNumber) {
+                            clearInterval(timer);
+                        }
+                    }, stepTime);
+
+                    if (sectionRef.current) {
+                        observer.unobserve(sectionRef.current);
+                    }
+                }
+            },
+            { threshold: 0.5 }
+        );
+
+        if (sectionRef.current) {
+            observer.observe(sectionRef.current);
+        }
+
+        return () => {
+            if (sectionRef.current) observer.unobserve(sectionRef.current);
+        };
+    }, []);
 
     return (
         <section className="w-full max-w-[95%] lg:max-w-[1400px] mx-auto px-4 py-16 lg:py-24">
 
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20 items-center">
 
-                <div className="lg:col-span-5">
+                <div className="lg:col-span-5" ref={sectionRef}>
                     <div className="bg-black/60 rounded-lg w-full h-full min-h-[500px] py-20 px-8 flex flex-col items-center justify-center text-center shadow-2xl relative overflow-hidden">
                         <FontAwesomeIcon icon={faAward} className="text-primary text-6xl mb-6" />
-                        <h1 className="text-6xl lg:text-7xl font-bold text-white mb-2">8</h1>
+                        <h1 className="text-6xl lg:text-7xl font-bold text-white mb-2">
+                            {experienceYears}
+                        </h1>
                         <h2 className="text-2xl lg:text-3xl font-bold text-white">Years Experience</h2>
                     </div>
                 </div>

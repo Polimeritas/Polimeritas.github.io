@@ -148,22 +148,22 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/jasuke leon.jpg",
     link: "https://www.instagram.com/reel/DIs15N_SWor/"
   },
-  {
-    id: "473",
-    name: "473",
-    desc: "Coming Soon",
-    subDesc: "Indonesia",
-    image: "Coming Soon",
-    link: "Coming Soon"
-  },
-  {
-    id: "472",
-    name: "472",
-    desc: "Coming Soon",
-    subDesc: "Indonesia",
-    image: "Coming Soon",
-    link: "Coming Soon"
-  },
+  // {
+  //   id: "473",
+  //   name: "473",
+  //   desc: "Coming Soon",
+  //   subDesc: "Indonesia",
+  //   image: "Coming Soon",
+  //   link: "Coming Soon"
+  // },
+  // {
+  //   id: "472",
+  //   name: "472",
+  //   desc: "Coming Soon",
+  //   subDesc: "Indonesia",
+  //   image: "Coming Soon",
+  //   link: "Coming Soon"
+  // },
   {
     id: "471",
     name: "471",
