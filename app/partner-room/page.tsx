@@ -13,7 +13,20 @@ export const metadata: Metadata = {
     description: "Ruang kolaborasi dan partner Polimeritas. Temukan berbagai produk UMKM dan partner kami di sini.",
 };
 
-export default function PartnerRoomPage() {
+// Next.js menyediakan props searchParams untuk membaca URL (?kategori=...)
+export default function PartnerRoomPage({ searchParams }: { searchParams: { kategori?: string } }) {
+    // Default kategori adalah 'umum' jika URL tidak memiliki query kategori
+    const currentKategori = searchParams.kategori || 'umum';
+
+    // Filter data berdasarkan kategori
+    const filteredPartners = partnerItems.filter((item) => {
+        if (currentKategori === 'industri') {
+            return item.category === 'industri';
+        }
+        // Jika kategori 'umum', tampilkan semua yang bukan 'industri'
+        return item.category !== 'industri';
+    });
+
     return (
         <main className="min-h-screen bg-white">
             <Header />
@@ -22,7 +35,8 @@ export default function PartnerRoomPage() {
 
             <PartnerCarousel data={carouselItems} />
 
-            <PartnerList data={partnerItems} />
+            {/* Kirim data yang sudah di-filter */}
+            <PartnerList data={filteredPartners} />
 
             <Footer />
             <FloatingWidgets />

@@ -24,6 +24,7 @@ const Navbar = () => {
     };
 
     const isGamesActive = siteConfig.gameLinks.some(game => pathname === game.href);
+    const isPartnerActive = pathname.startsWith('/partner-room');
 
     return (
         <nav className="w-full bg-white relative">
@@ -56,7 +57,7 @@ const Navbar = () => {
                 )}>
 
                     <div className="flex flex-col lg:flex-row lg:items-center w-full lg:w-auto">
-                        {siteConfig.navItems.map((link) => {
+                        {siteConfig.navItems.filter(link => link.name !== 'Partner Room').map((link) => {
                             const isActive = pathname === link.href;
 
                             return (
@@ -74,6 +75,55 @@ const Navbar = () => {
                                 </Link>
                             );
                         })}
+
+                        {/* Dropdown Partner Room */}
+                        <div className="group relative">
+                            <button
+                                onClick={() => toggleDropdown('partner')}
+                                className={cn(
+                                    "w-full font-bold px-6 lg:px-4 py-3 lg:py-6 text-sm uppercase tracking-wide flex items-center justify-between lg:justify-start transition-colors border-b lg:border-none border-gray-50 cursor-pointer",
+                                    "hover:bg-light lg:hover:bg-transparent hover:text-secondary",
+                                    isPartnerActive ? 'text-secondary' : 'text-dark'
+                                )}
+                            >
+                                <span>Partner Room</span>
+                                <FontAwesomeIcon
+                                    icon={faChevronDown}
+                                    className={cn(
+                                        "text-xs ml-1 transition-transform duration-300",
+                                        activeDropdown === 'partner' && 'rotate-180',
+                                        "lg:group-hover:rotate-180"
+                                    )}
+                                />
+                            </button>
+
+                            {/* DROPDOWN CONTENT PARTNER */}
+                            <div className={cn(
+                                "lg:hidden lg:group-hover:block lg:absolute top-full left-0 bg-white lg:shadow-lg py-2 min-w-[200px] z-50 lg:rounded-b-lg border-t-2 border-primary w-full lg:w-auto pl-4 lg:pl-0 bg-gray-50 lg:bg-white",
+                                activeDropdown === 'partner' ? 'block' : 'hidden'
+                            )}>
+                                <Link
+                                    href="/partner-room/umum"
+                                    className={cn(
+                                        "block px-4 py-2 text-sm hover:bg-light hover:text-primary transition-colors",
+                                        pathname === '/partner-room/umum' ? 'text-primary font-bold' : 'text-gray-600'
+                                    )}
+                                    onClick={() => setIsOpen(false)}
+                                >
+                                    Umum
+                                </Link>
+                                <Link
+                                    href="/partner-room/industri"
+                                    className={cn(
+                                        "block px-4 py-2 text-sm hover:bg-light hover:text-primary transition-colors",
+                                        pathname === '/partner-room/industri' ? 'text-primary font-bold' : 'text-gray-600'
+                                    )}
+                                    onClick={() => setIsOpen(false)}
+                                >
+                                    Industri
+                                </Link>
+                            </div>
+                        </div>
 
                         {/* Dropdown Games */}
                         <div className="group relative">
@@ -96,7 +146,7 @@ const Navbar = () => {
                                 />
                             </button>
 
-                            {/* DROPDOWN CONTENT */}
+                            {/* DROPDOWN CONTENT GAMES */}
                             <div className={cn(
                                 "lg:hidden lg:group-hover:block lg:absolute top-full left-0 bg-white lg:shadow-lg py-2 min-w-[200px] z-50 lg:rounded-b-lg border-t-2 border-primary w-full lg:w-auto pl-4 lg:pl-0 bg-gray-50 lg:bg-white",
                                 activeDropdown === 'games' ? 'block' : 'hidden'

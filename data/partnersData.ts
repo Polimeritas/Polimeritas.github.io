@@ -5,7 +5,7 @@ export interface Partner {
   subDesc?: string;
   image: string;
   link: string;
-  category?: 'product' | 'partner' | 'coming-soon';
+  category?: 'product' | 'partner' | 'coming-soon' | 'industri' | 'umum';
 }
 
 // DATA CAROUSEL
@@ -3253,3 +3253,13 @@ export const partnerItems: Partner[] = [
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi Usaha%20"
   }
 ];
+
+// DATA PARTNER INDUSTRI
+export const partnerIndustriItems: Partner[] = Array.from({ length: 15 }).map((_, i) => ({
+  id: `industri-${i + 1}`,
+  name: `Partner Industri ${i + 1}`,
+  desc: "Segera Hadir - Partner Industri Polimeritas",
+  subDesc: "Industri",
+  image: "/img/Partner2/Coming Soon.jpg",
+  link: "#"
+}));
