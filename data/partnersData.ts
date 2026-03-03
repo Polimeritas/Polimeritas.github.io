@@ -3255,11 +3255,22 @@ export const partnerItems: Partner[] = [
 ];
 
 // DATA PARTNER INDUSTRI
-export const partnerIndustriItems: Partner[] = Array.from({ length: 15 }).map((_, i) => ({
-  id: `industri-${i + 1}`,
-  name: `Partner Industri ${i + 1}`,
-  desc: "Segera Hadir - Partner Industri Polimeritas",
-  subDesc: "Industri",
-  image: "/img/Partner2/Coming Soon.jpg",
-  link: "#"
-}));
+export const partnerIndustriItems: Partner[] = [
+  {
+    id: "industri-1",
+    name: "Soft Indonesia",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/soft-indonesia.jpeg",
+    link: "https://vt.tiktok.com/ZSmKPJmST/"
+  },
+
+  ...Array.from({ length: 14 }).map((_, i) => ({
+    id: `industri-${i + 2}`,
+    name: `Partner Industri ${i + 2}`,
+    desc: "Segera Hadir - Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "#"
+  }))
+];
