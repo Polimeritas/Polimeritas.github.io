@@ -79,34 +79,34 @@ export const partnerItems: Partner[] = [
   {
     id: "482",
     name: "482",
-    desc: "Forevet by Anima Companion",
+    desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://vt.tiktok.com/ZSm2g7r2L/"
+    link: "https://www.instagram.com/stories/highlights/18050248186951277/"
   },
   {
     id: "481",
     name: "481",
-    desc: "Booyenku Shop",
+    desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.instagram.com/stories/highlights/18408079471192443/"
+    link: "https://www.instagram.com/stories/highlights/18050248186951277/"
   },
   {
     id: "480",
     name: "480",
-    desc: "Zefa Valindo Jaya",
+    desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.instagram.com/zefavalindojaya/"
+    link: "https://www.instagram.com/stories/highlights/18050248186951277/"
   },
   {
     id: "479",
     name: "479",
-    desc: "Biomass Resin Holdings",
+    desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.instagram.com/p/DUKF7ZUEo7N/"
+    link: "https://www.instagram.com/stories/highlights/18050248186951277/"
   },
   {
     id: "478",
@@ -3297,7 +3297,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Anima Companion",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
-    image: "/img/Partner/forevet.jpeg",
+    image: "/img/Partner2/anima companion.jpg",
     link: "https://www.instagram.com/p/DUxEN76Euf4/"
   },
 
