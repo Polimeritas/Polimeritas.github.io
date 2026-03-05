@@ -3298,7 +3298,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/anima companion.jpg",
-    link: "https://www.instagram.com/p/DUxEN76Euf4/"
+    link: "https://www.tiktok.com/@booyenku/video/7609828032559500564"
   },
 
   {
