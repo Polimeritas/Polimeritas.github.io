@@ -3265,6 +3265,88 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://vt.tiktok.com/ZSmKPJmST/"
   },
 
+  {
+    id: "industri-2",
+    name: "Biomass Resin Holdings",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.instagram.com/p/DUKF7ZUEo7N/"
+  },
+
+  {
+    id: "industri-3",
+    name: "Zefa Valindo Jaya",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.instagram.com/p/DVSPS18km8g/"
+  },
+
+  {
+    id: "industri-4",
+    name: "Booyenku Shop",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.instagram.com/stories/highlights/18408079471192443/"
+  },
+
+  {
+    id: "industri-5",
+    name: "Anima Companion",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.instagram.com/p/DUxEN76Euf4/"
+  },
+
+  {
+    id: "industri-6",
+    name: "Kiyopaw",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7607786649476500756"
+  },
+
+  {
+    id: "industri-7",
+    name: "Anima&Co",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7607417575374359828"
+  },
+
+{
+    id: "industri-8",
+    name: "Ramical",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7611780663938682133"
+  },
+
+  {
+    id: "industri-9",
+    name: "Our Daily Pets",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+  
+{
+    id: "industri-10",
+    name: "Bite of Wild Indonesia",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+  
+
   ...Array.from({ length: 14 }).map((_, i) => ({
     id: `industri-${i + 2}`,
     name: `Partner Industri ${i + 2}`,
