@@ -3258,7 +3258,7 @@ export const partnerItems: Partner[] = [
 export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-1",
-    name: "Soft Indonesia",
+    name: "Dr Soft Indonesia",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/soft-indonesia.jpeg",
