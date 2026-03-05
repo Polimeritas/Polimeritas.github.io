@@ -3306,7 +3306,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Kiyopaw",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/kiyopaw.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7607786649476500756"
   },
 
@@ -3315,7 +3315,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Anima&Co",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/animanco.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7607417575374359828"
   },
 
@@ -3324,7 +3324,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Ramical",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/ramical.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7611780663938682133"
   },
 
