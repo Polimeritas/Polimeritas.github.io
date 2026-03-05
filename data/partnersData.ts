@@ -81,7 +81,7 @@ export const partnerItems: Partner[] = [
     name: "482",
     desc: "Forevet by Anima Companion",
     subDesc: "Indonesia",
-    image: "/img/Partner/forevet.jpeg",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://vt.tiktok.com/ZSm2g7r2L/"
   },
   {
@@ -89,7 +89,7 @@ export const partnerItems: Partner[] = [
     name: "481",
     desc: "Booyenku Shop",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Booyenku.jpeg",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.instagram.com/stories/highlights/18408079471192443/"
   },
   {
@@ -97,7 +97,7 @@ export const partnerItems: Partner[] = [
     name: "480",
     desc: "Zefa Valindo Jaya",
     subDesc: "Indonesia",
-    image: "/img/Partner/zefalindojaya.png",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.instagram.com/zefavalindojaya/"
   },
   {
@@ -105,7 +105,7 @@ export const partnerItems: Partner[] = [
     name: "479",
     desc: "Biomass Resin Holdings",
     subDesc: "Indonesia",
-    image: "/img/Partner/resin.png",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.instagram.com/p/DUKF7ZUEo7N/"
   },
   {
@@ -3270,7 +3270,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Biomass Resin Holdings",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner/resin.png",
     link: "https://www.instagram.com/p/DUKF7ZUEo7N/"
   },
 
@@ -3279,7 +3279,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Zefa Valindo Jaya",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner/zefalindojaya.png",
     link: "https://www.instagram.com/p/DVSPS18km8g/"
   },
 
@@ -3288,7 +3288,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Booyenku Shop",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Booyenku.jpeg",
     link: "https://www.instagram.com/stories/highlights/18408079471192443/"
   },
 
@@ -3297,7 +3297,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Anima Companion",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner/forevet.jpeg",
     link: "https://www.instagram.com/p/DUxEN76Euf4/"
   },
 
