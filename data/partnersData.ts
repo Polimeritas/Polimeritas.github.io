@@ -3348,10 +3348,10 @@ export const partnerIndustriItems: Partner[] = [
 
   {
     id: "industri-11",
-    name: "Bravery Pet Food",
-    desc: "Partner Industri Polimeritas",
+    name: "Industri",
+    desc: "Segera Hadir - Partner Industri Polimeritas",
     subDesc: "Industri",
-    image: "/img/Partner2/bravery pet food.jpg",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku/"
   },
 
