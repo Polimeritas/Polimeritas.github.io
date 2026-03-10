@@ -4,6 +4,7 @@ import Header from "@/components/layout/Header";
 import PageHeader from "@/components/common/PageHeader";
 import Footer from "@/components/layout/Footer";
 import TypingEngine from "@/components/game/typing/TypingEngine";
+import GameDescription from "@/components/game/GameDescription";
 
 export const metadata: Metadata = {
     title: "Typing Game",
@@ -19,6 +20,8 @@ export default function TypingGamePage() {
             <section className="w-full px-4 py-10 lg:py-16">
                 <TypingEngine />
             </section>
+
+            <GameDescription />
 
             <Footer />
         </main>

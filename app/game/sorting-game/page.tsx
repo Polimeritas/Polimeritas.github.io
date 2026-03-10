@@ -4,6 +4,7 @@ import Header from "@/components/layout/Header";
 import PageHeader from "@/components/common/PageHeader";
 import Footer from "@/components/layout/Footer";
 import SortingGameEngine from "@/components/game/sorting/SortingGameEngine";
+import GameDescription from "@/components/game/GameDescription";
 
 export const metadata: Metadata = {
     title: "Sorting Game",
@@ -19,6 +20,8 @@ export default function SortingGamePage() {
             <section className="w-full px-4 py-10 lg:py-16">
                 <SortingGameEngine />
             </section>
+
+            <GameDescription />
 
             <Footer />
         </main>

@@ -8,6 +8,7 @@ import { quizQuestions, QuizQuestion as QuestionType } from "@/data/gameData";
 import QuizQuestion from "@/components/game/QuizQuestion";
 import QuizResult from "@/components/game/QuizResult";
 import confetti from "canvas-confetti";
+import GameDescription from "@/components/game/GameDescription";
 
 const shuffleAndPick = (questions: QuestionType[], count: number) => {
     return [...questions].sort(() => 0.5 - Math.random()).slice(0, count);
@@ -33,7 +34,7 @@ export default function QuizGamePage() {
 
     // Initial Load
     useEffect(() => {
-        startGame();
+        setTimeout(() => startGame(), 300);
     }, [startGame]);
 
     // Handler
@@ -67,8 +68,8 @@ export default function QuizGamePage() {
                 <div className="max-w-3xl mx-auto bg-white rounded-3xl shadow-xl overflow-hidden border border-gray-100 min-h-[400px]">
 
                     {/* Game Header Bar */}
-                    <div className="bg-gray-50 px-6 py-4 border-b border-gray-100 flex justify-between items-center">
-                        <h3 className="font-bold text-dark text-lg">
+                    <div className="bg-primary px-6 py-4 border-b border-gray-100 flex justify-between items-center">
+                        <h3 className="font-bold text-secondary text-lg">
                             {gameState === 'finished' ? "Hasil Akhir" : "Uji Wawasan Polimer"}
                         </h3>
                         <div className="bg-white px-4 py-1 rounded-full font-bold text-primary shadow-sm text-sm border border-gray-100">
@@ -80,7 +81,7 @@ export default function QuizGamePage() {
                         {gameState === 'loading' ? (
                             <div className="flex flex-col justify-center items-center h-64 gap-4">
                                 <div className="animate-spin rounded-full h-12 w-12 border-4 border-gray-200 border-t-primary"></div>
-                                <p className="text-gray-400 text-sm font-semibold animate-pulse">Menyiapkan Pertanyaan...</p>
+                                <p className="text-secondary text-sm font-semibold animate-pulse">Menyiapkan Pertanyaan...</p>
                             </div>
                         ) : gameState === 'finished' ? (
                             <QuizResult
@@ -100,6 +101,7 @@ export default function QuizGamePage() {
                     </div>
                 </div>
             </section>
+            <GameDescription />
 
             <Footer />
         </main>
