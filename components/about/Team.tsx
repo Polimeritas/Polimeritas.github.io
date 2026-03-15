@@ -44,7 +44,7 @@ const Team = () => {
             id: 5,
             name: "Serly Purnama",
             role: "Lead of Marketing",
-            image: "/img/Partner2/Coming Soon.jpg",
+            image: "/img/serly.jpeg",
             social: { linkedin: "https://www.linkedin.com/in/serly-purnama-s-kom-98910024b" }
         },
         {
