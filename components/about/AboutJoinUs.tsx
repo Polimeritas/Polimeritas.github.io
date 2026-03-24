@@ -15,7 +15,7 @@ const AboutJoinUs = () => {
         {
             id: 2,
             label: "Partner of Community",
-            url: "https://docs.google.com/presentation/d/1jIK6UosxkHWcLYVECq2jP3ssxDAHFMMa6e02Jpqw0HA/edit#slide=id.gc1e935cf9a_0_0",
+            url: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1&fbzx=2657530912750765225",
         },
     ];
 
