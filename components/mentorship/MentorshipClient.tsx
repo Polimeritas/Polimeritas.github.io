@@ -40,7 +40,7 @@ export default function MentorshipClient() {
                 <div className="container mx-auto max-w-7xl flex justify-center items-center min-h-[10vh]">
                     <div className="w-full aspect-video rounded-xl overflow-hidden shadow-lg border border-gray-100">
                         <iframe
-                            src="https://www.canva.com/design/DAHFN7JSMQc/KFoW9AxLGWNwFUi4zZqcfw/watch?utm_content=DAHFN7JSMQc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h43405c0ef3"
+                            src="https://www.canva.com/design/DAHFN7JSMQc/b0upEHMowjD3ZvXX9renfA/view?embed"
                             className="w-full h-full border-none"
                             allowFullScreen
                             title="Polimeritas Company Profile"
