@@ -3348,13 +3348,30 @@ export const partnerIndustriItems: Partner[] = [
 
   {
     id: "industri-11",
+    name: "Olive Care",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7615617317711498516"
+  },
+
+  {
+    id: "industri-12",
+    name: "Erapet - Bravery",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7615617317711498516"
+  },
+
+    {
+    id: "industri-13",
     name: "Partner Industri",
     desc: "Segera Hadir - Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
-
   ...Array.from({ length: 14 }).map((_, i) => ({
     id: `industri-${i + 2}`,
     name: `Partner Industri ${i + 2}`,
