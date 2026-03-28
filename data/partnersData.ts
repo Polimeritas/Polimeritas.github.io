@@ -82,7 +82,7 @@ export const partnerItems: Partner[] = [
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.instagram.com/stories/highlights/18050248186951277/"
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "481",
@@ -90,7 +90,7 @@ export const partnerItems: Partner[] = [
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.instagram.com/stories/highlights/18050248186951277/"
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "480",
@@ -98,7 +98,7 @@ export const partnerItems: Partner[] = [
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.instagram.com/stories/highlights/18050248186951277/"
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "479",
@@ -106,7 +106,7 @@ export const partnerItems: Partner[] = [
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.instagram.com/stories/highlights/18050248186951277/"
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "478",
