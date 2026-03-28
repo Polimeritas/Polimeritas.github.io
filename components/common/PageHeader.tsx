@@ -12,7 +12,7 @@ interface PageHeaderProps {
 
 const PageHeader: React.FC<PageHeaderProps> = ({ title, activePage }) => {
     return (
-        <div className="w-full bg-primary py-10 mb-12">
+        <div className="w-full bg-primary py-10 mb-0">
             <div className="container mx-auto px-4 lg:px-8">
                 <div className="flex flex-col md:flex-row items-center justify-between">
 
