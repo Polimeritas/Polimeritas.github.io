@@ -76,53 +76,85 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/ukm dan umkm.jpg",
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi Usaha%20"
   },
-      {
-    id: "490",
-    name: "490",
+        {
+    id: "494",
+    name: "494",
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "493",
+    name: "493",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "492",
+    name: "492",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "491",
+    name: "491",
+    desc: "Plastik Cor Plastik Atap",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Plastik Cor Plastik Atap.jpg",
+    link: "https://s.shopee.co.id/gLpMB8gUb"
+  },
+      {
+    id: "490",
+    name: "490",
+    desc: "Kantong Sampah Cakar Kucing",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kantong Sampah Cakar Kucing.jpg",
+    link: "https://s.shopee.co.id/7AZJ63PLmd"
   },
   {
     id: "489",
     name: "489",
-    desc: "Coming Soon",
+    desc: "Plastik Vacuum Makanan Frozen",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Plastik Vacuum Makanan Frozen.jpg",
+    link: "https://s.shopee.co.id/2VnTXKl5zX"
   },
   {
     id: "488",
     name: "488",
-    desc: "Coming Soon",
+    desc: "Toples Bening Plastik",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Toples Bening Plastik.jpg",
+    link: "https://s.shopee.co.id/2g6tjVS6eI"
   },
   {
     id: "487",
     name: "487",
-    desc: "Coming Soon",
+    desc: "Kantong Plastik Warna Susu",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Kantong Plastik Warna Susu.jpg",
+    link: "https://s.shopee.co.id/gLpLrgt2H"
   },
     {
     id: "486",
     name: "486",
-    desc: "Coming Soon",
+    desc: "Kotak Makan Plastik",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Kotak Makan Plastik.jpg",
+    link: "https://s.shopee.co.id/70FstWASz4"
   },
   {
     id: "485",
     name: "485",
-    desc: "Coming Soon",
+    desc: "Plastik PP (Bunga Sukma)",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Plastik PP (Bunga Sukma).jpg",
+    link: "https://s.shopee.co.id/168YfRuaX"
   },
   {
     id: "484",
