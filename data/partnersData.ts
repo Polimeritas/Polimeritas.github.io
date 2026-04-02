@@ -3348,11 +3348,11 @@ export const partnerIndustriItems: Partner[] = [
 
   {
     id: "industri-11",
-    name: "Olive Care",
+    name: "Olive Care-Cat Grass",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.tiktok.com/@booyenku"
+    image: "/img/Partner2/Olive Care Cat Grass.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7623597299674975508"
   },
 
   {
