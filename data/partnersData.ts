@@ -76,37 +76,69 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/ukm dan umkm.jpg",
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi Usaha%20"
   },
-  {
-    id: "482",
-    name: "482",
+    {
+    id: "486",
+    name: "486",
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "485",
+    name: "485",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "484",
+    name: "484",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "483",
+    name: "483",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "482",
+    name: "482",
+    desc: "Biji Plastik Daur Ulang",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Biji Plastik Daur Ulang.jpg",
+    link: "https://s.shopee.co.id/7AZIg1Uq1O"
   },
   {
     id: "481",
     name: "481",
-    desc: "Coming Soon",
+    desc: "Polymorph",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Polymorph.jpg",
+    link: "https://s.shopee.co.id/8V4gGIPWyY"
   },
   {
     id: "480",
     name: "480",
-    desc: "Coming Soon",
+    desc: "Biji Plastik PP 25kg",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Biji Plastik PP 25kg.jpg",
+    link: "https://s.shopee.co.id/2VnT78Yy5N"
   },
   {
     id: "479",
     name: "479",
-    desc: "Coming Soon",
+    desc: "Casing Kulit untuk Sosis",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Casing Kulit untuk Sosis.jpg",
+    link: "https://s.shopee.co.id/70FsT2e7WO"
   },
   {
     id: "478",
