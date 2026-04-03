@@ -53,6 +53,38 @@ export const partnerItems: Partner[] = [
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
   },
   {
+    id: "Buku Puisi Antologi",
+    name: "Akar Serumpun Anyaman Rasa Jilid 13",
+    desc: "Pesan Disini",
+    subDesc: "polimeritas group",
+    image: "/img/Partner2/Akar serumpun anyaman rasa 13.jpg",
+    link: "https://api.whatsapp.com/send?phone=62895384652297&text=Halo+kak%2C+saya+mau+tanya+Buku+SIP+Publishing%0D%0A%0D%0A*AKAR+SERUMPUN+ANYAMAN+RASA+JILID+13*%0A*Harga:*%20Rp95.000%0A*URL:*%20https%3A%2F%2Ftokobuku.sippublishing.co.id%2Fproduct%2Fakar-serumpun-anyaman-rasa-jilid-13%2F%0D%0A%0D%0ATerima+Kasih"
+  },
+  {
+    id: "Partner Buku",
+    name: "Partner Buku",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "Partner Buku",
+    name: "Partner Buku",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "hubungi-kami",
+    name: "Hubungi Kami",
+    desc: "Pasang Iklan di Polimeritas",
+    subDesc: "polimeritas group",
+    image: "/img/Partner2/Product-Polimeritas.png",
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
+  },
+  {
     id: "toko-polimeritas",
     name: "Toko Polimeritas",
     desc: "Pesan Disini",
