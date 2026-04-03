@@ -86,11 +86,11 @@ export const partnerItems: Partner[] = [
   },
   {
     id: "Partner Buku",
-    name: "Partner Buku",
+    name: "Laskar Pelangi",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Laskar Pelangi.jpg",
+    link: "https://s.shopee.co.id/9KdojvYOwC"
   },
   {
     id: "Partner Buku",
