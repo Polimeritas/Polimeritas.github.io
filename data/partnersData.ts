@@ -117,7 +117,7 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/1VuxP2fPwQ"
   },
   {
-    id: "Partner Buku",
+    id: "Buku Novel",
     name: "Laskar Pelangi",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
@@ -125,7 +125,7 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/9KdojvYOwC"
   },
   {
-    id: "Partner Buku",
+    id: "Buku Novel",
     name: "0 MDPL",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
@@ -139,6 +139,38 @@ export const partnerItems: Partner[] = [
     subDesc: "Indonesia",
     image: "/img/Partner2/Bumi Manusia.jpg",
     link: "https://s.shopee.co.id/40cIRsVsF1"
+  },
+      {
+    id: "Buku Polymer",
+    name: "Pengujian Dalam Pengembangan Bahan Polimer Kedokteran Gigi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pengujian Dalam Pengembangan Bahan Polimer Kedokteran Gigi.jpg",
+    link: "https://s.shopee.co.id/AUpmLtMYSJ"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Kimia Polimer M.A.Cowd ITB 1991",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kimia Polimer M.A.Cowd ITB.jpg",
+    link: "https://s.shopee.co.id/gLqdnd0uZ"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Polimer Anorganik dan Organometalik",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polimer Anorganik dan Organometalik.jpg",
+    link: "https://s.shopee.co.id/3fzSDagWB7"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Teknologi Polimer Industri Pertanian",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teknologi Polimer Industri Pertanian.jpg",
+    link: "https://s.shopee.co.id/AKWMA08uCv"
   },
   {
     id: "Buku Novel",
