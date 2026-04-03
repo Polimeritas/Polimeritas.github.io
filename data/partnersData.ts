@@ -269,6 +269,38 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/6fd3sh0Zoo"
   },
   {
+    id: "Buku Novel",
+    name: "Pulang Leila S",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pulang Leila S.jpg",
+    link: "https://s.shopee.co.id/6fd3zmhA2O"
+  },
+  {
+    id: "Buku Novel",
+    name: "Dompet Ayah Sepatu Ibu",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dompet Ayah Sepatu Ibu.jpg",
+    link: "https://s.shopee.co.id/900ym2vMLw"
+  },
+  {
+    id: "Buku Novel",
+    name: "Hujan Bulan Juni",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Hujan Bulan Juni.jpg",
+    link: "https://s.shopee.co.id/6pwUC209a5"
+  },
+  {
+    id: "Buku Novel",
+    name: "Kado Terbaik",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kado Terbaik.jpg",
+    link: "https://s.shopee.co.id/8phYZcuHhJ"
+  },
+  {
     id: "hubungi-kami",
     name: "Hubungi Kami",
     desc: "Pasang Iklan di Polimeritas",
