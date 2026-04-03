@@ -237,44 +237,36 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/9AKOnTlxCl"
   },
    {
-    id: "Partner Buku",
-    name: "Partner Buku",
+    id: "Buku Polymer",
+    name: "Polimer Termoset",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Polimer Termoset.jpg",
+    link: "https://s.shopee.co.id/1LbXWicnWj"
   },
    {
-    id: "Partner Buku",
-    name: "Partner Buku",
+    id: "Buku Polymer",
+    name: "Polimer Ilmu Material",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Polimer Ilmu Material.jpg",
+    link: "https://s.shopee.co.id/3Vg26lfzm8"
   },
   {
-    id: "Partner Buku",
-    name: "Partner Buku",
+    id: "Buku Polymer",
+    name: "Kimia Polimer Malcolm P.Stevens",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Kimia Polimer Malcolm P.Stevens.jpg",
+    link: "https://s.shopee.co.id/BPa8hmX3Q"
   },
   {
-    id: "Partner Buku",
-    name: "Partner Buku",
+    id: "Buku Polymer",
+    name: "Polimer Biodegradasi",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
-  },
-  {
-    id: "Partner Buku",
-    name: "Partner Buku",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Polimer Biodegradasi.jpg",
+    link: "https://s.shopee.co.id/6fd3sh0Zoo"
   },
   {
     id: "hubungi-kami",
