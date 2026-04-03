@@ -76,6 +76,38 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
+    {
+    id: "Partner Buku",
+    name: "Partner Buku",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "Partner Buku",
+    name: "Partner Buku",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "Partner Buku",
+    name: "Partner Buku",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "Partner Buku",
+    name: "Partner Buku",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
   {
     id: "hubungi-kami",
     name: "Hubungi Kami",
