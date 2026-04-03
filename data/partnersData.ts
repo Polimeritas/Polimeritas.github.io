@@ -69,12 +69,12 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/7VCAUgjvwU"
   },
   {
-    id: "Partner Buku",
-    name: "Partner Buku",
+    id: "Buku Novel",
+    name: "Laut Bercerita",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Laut Bercerita.jpg",
+    link: "https://s.shopee.co.id/1qXnnBz0RQ"
   },
     {
     id: "Partner Buku",
