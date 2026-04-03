@@ -365,6 +365,70 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/"
   },
   {
+    id: "Buku Polymer",
+    name: "Textbook of Polymer Science",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Textbook of Polymer Science.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+   {
+    id: "Buku Polymer",
+    name: "Polimer dalam Sistem Penghantaran Obat",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polimer dalam Sistem Penghantaran Obat.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Polymer Adhesion",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polymer Adhesion.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Bahan Polimer Konstruksi Bangunan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bahan Polimer Konstruksi Bangunan.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+      {
+    id: "Buku Polymer",
+    name: "Strategi Skrining Polimer EOR",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Strategi Skrining Polimer EOR.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+   {
+    id: "Buku Polymer",
+    name: "Polymer Processing",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polymer Processing.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Molekular Imprinting Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Molekular Imprinting Polimer.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Design of Fibre-Polymer Composite Structures",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Design of Fibre-Polymer Composite Structures.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "hubungi-kami",
     name: "Hubungi Kami",
     desc: "Pasang Iklan di Polimeritas",
