@@ -77,6 +77,38 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/1qXnnBz0RQ"
   },
     {
+    id: "Buku",
+    name: "Sebuah Seni untuk Bersikap Bodo Amat",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/sebuah seni untuk bersikap bodo amat.jpg",
+    link: "https://s.shopee.co.id/1VuxP2fPwQ"
+  },
+  {
+    id: "Partner Buku",
+    name: "Partner Buku",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "Partner Buku",
+    name: "Partner Buku",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "Partner Buku",
+    name: "Partner Buku",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+      {
     id: "Partner Buku",
     name: "Partner Buku",
     desc: "Pesan Disini",
