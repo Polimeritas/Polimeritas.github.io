@@ -56,22 +56,22 @@ export const partnerItems: Partner[] = [
     id: "Buku Puisi Antologi",
     name: "Akar Serumpun Anyaman Rasa Jilid 13",
     desc: "Pesan Disini",
-    subDesc: "polimeritas group",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Akar serumpun anyaman rasa 13.jpg",
     link: "https://api.whatsapp.com/send?phone=62895384652297&text=Halo+kak%2C+saya+mau+tanya+Buku+SIP+Publishing%0D%0A%0D%0A*AKAR+SERUMPUN+ANYAMAN+RASA+JILID+13*%0A*Harga:*%20Rp95.000%0A*URL:*%20https%3A%2F%2Ftokobuku.sippublishing.co.id%2Fproduct%2Fakar-serumpun-anyaman-rasa-jilid-13%2F%0D%0A%0D%0ATerima+Kasih"
   },
   {
-    id: "Partner Buku",
-    name: "Partner Buku",
-    desc: "Coming Soon",
+    id: "Buku Novel",
+    name: "Seporsi Mie Ayam Sebelum Mati",
+    desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/seporsi mie ayam sebelum mati.jpg",
+    link: "https://s.shopee.co.id/7VCAUgjvwU"
   },
   {
     id: "Partner Buku",
     name: "Partner Buku",
-    desc: "Coming Soon",
+    desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
@@ -79,7 +79,7 @@ export const partnerItems: Partner[] = [
     {
     id: "Partner Buku",
     name: "Partner Buku",
-    desc: "Coming Soon",
+    desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
@@ -87,7 +87,7 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Buku",
     name: "Partner Buku",
-    desc: "Coming Soon",
+    desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
@@ -95,7 +95,7 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Buku",
     name: "Partner Buku",
-    desc: "Coming Soon",
+    desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
@@ -103,7 +103,7 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Buku",
     name: "Partner Buku",
-    desc: "Coming Soon",
+    desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
