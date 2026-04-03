@@ -222,10 +222,10 @@ export const partnerItems: Partner[] = [
   },
   {
     id: "Buku Polymer",
-    name: "Polymer Composite Systems in Pipeline Repair",
+    name: "Sustainability in Polymer Technology and Plastics Engineering",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Polymer Composite Systems in Pipeline Repair.jpg",
+    image: "/img/Partner2/Sustainability in Polymer Technology and Plastics Engineering.jpg",
     link: "https://s.shopee.co.id/5AoG1usoy3"
   },
   {
