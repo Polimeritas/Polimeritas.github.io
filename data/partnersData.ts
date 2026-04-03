@@ -197,12 +197,12 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/qfGgeXJXC"
   },
   {
-    id: "Partner Buku",
-    name: "Partner Buku",
+    id: "Buku Novel",
+    name: "Hujan",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Hujan.jpg",
+    link: "https://s.shopee.co.id/4AvipPzeAl"
   },
     {
     id: "Partner Buku",
