@@ -126,7 +126,7 @@ export const partnerItems: Partner[] = [
   },
   {
     id: "Buku Novel",
-    name: "Partner Buku",
+    name: "3726 MPDL",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/3726 MPDL.jpg",
