@@ -3417,16 +3417,15 @@ export const partnerItems: Partner[] = [
 // DATA PARTNER INDUSTRI
 export const partnerIndustriItems: Partner[] = [
   {
-    id: "industri-1",
-    name: "Dr Soft Indonesia",
-    desc: "Partner Industri Polimeritas",
-    subDesc: "Industri",
-    image: "/img/Partner2/soft-indonesia.jpeg",
-    link: "https://www.tiktok.com/@booyenku/video/7612607096403528980"
+    id: "hubungi-kami",
+    name: "Hubungi Kami",
+    desc: "Pasang Iklan di Polimeritas",
+    subDesc: "polimeritas group",
+    image: "/img/Partner2/Product-Polimeritas.png",
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
   },
-
   {
-    id: "industri-2",
+    id: "industri-14",
     name: "Biomass Resin Holdings",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3435,7 +3434,7 @@ export const partnerIndustriItems: Partner[] = [
   },
 
   {
-    id: "industri-3",
+    id: "industri-13",
     name: "Zefa Valindo Jaya",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3444,7 +3443,7 @@ export const partnerIndustriItems: Partner[] = [
   },
 
   {
-    id: "industri-4",
+    id: "industri-12",
     name: "Booyenku Shop",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3453,7 +3452,7 @@ export const partnerIndustriItems: Partner[] = [
   },
 
   {
-    id: "industri-5",
+    id: "industri-11",
     name: "Anima Companion",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3462,7 +3461,7 @@ export const partnerIndustriItems: Partner[] = [
   },
 
   {
-    id: "industri-6",
+    id: "industri-10",
     name: "Kiyopaw",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3471,7 +3470,7 @@ export const partnerIndustriItems: Partner[] = [
   },
 
   {
-    id: "industri-7",
+    id: "industri-9",
     name: "Anima&Co",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3489,7 +3488,7 @@ export const partnerIndustriItems: Partner[] = [
   },
 
   {
-    id: "industri-9",
+    id: "industri-7",
     name: "Our Daily Pets",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3498,7 +3497,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   
 {
-    id: "industri-10",
+    id: "industri-6",
     name: "Bite of Wild Indonesia",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3507,7 +3506,7 @@ export const partnerIndustriItems: Partner[] = [
   },
 
   {
-    id: "industri-11",
+    id: "industri-5",
     name: "Olive Care-Cat Grass",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3516,7 +3515,7 @@ export const partnerIndustriItems: Partner[] = [
   },
 
   {
-    id: "industri-12",
+    id: "industri-4",
     name: "Erapet - Bravery",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3525,7 +3524,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   
   {
-    id: "industri-13",
+    id: "industri-3",
     name: "Kaizoo Japanese",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3533,7 +3532,15 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku"
   },
     {
-    id: "industri-13",
+    id: "industri-2",
+    name: "Dr Soft Indonesia",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/soft-indonesia.jpeg",
+    link: "https://www.tiktok.com/@booyenku/video/7612607096403528980"
+  },
+    {
+    id: "industri-1",
     name: "Partner Industri",
     desc: "Segera Hadir - Partner Industri Polimeritas",
     subDesc: "Industri",
