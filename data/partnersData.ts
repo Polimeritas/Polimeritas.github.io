@@ -77,6 +77,38 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/1qXnnBz0RQ"
   },
     {
+    id: "Buku Polymer",
+    name: "Mengenal Polimer dan Polimerisasi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Mengenal Polimer dan Polimerisasi.jpg",
+    link: "https://s.shopee.co.id/2LU4UGeqHL"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Konsep Dasar Kimia Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Konsep Dasar Kimia Polimer.jpg",
+    link: "https://s.shopee.co.id/1LbXIYx9bY"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Material Komposit Polimer Berpenguat Serat",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Material Komposit Polimer Berpenguat Serat.jpg",
+    link: "https://s.shopee.co.id/1VuxV54XLO"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Manufaktur Aditif Material Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Manufaktur Aditif Material Polimer.jpg",
+    link: "https://s.shopee.co.id/60NMrTfIBq"
+  },
+    {
     id: "Buku",
     name: "Sebuah Seni untuk Bersikap Bodo Amat",
     desc: "Pesan Disini",
