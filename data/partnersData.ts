@@ -101,6 +101,38 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/8fO7wuaIFt"
   },
   {
+    id: "Buku Novel",
+    name: "Bumi Manusia",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bumi Manusia.jpg",
+    link: "https://s.shopee.co.id/40cIRsVsF1"
+  },
+  {
+    id: "Buku Novel",
+    name: "Broken Strings",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Broken Strings.jpg",
+    link: "https://s.shopee.co.id/W2QHfczcS"
+  },
+  {
+    id: "Buku Novel",
+    name: "Cantik Itu Luka",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Cantik Itu Luka.jpg",
+    link: "https://s.shopee.co.id/6L0DEZTwQ7"
+  },
+  {
+    id: "Buku Novel",
+    name: "Partner Buku",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/3726 MPDL.jpg",
+    link: "https://s.shopee.co.id/qfGgeXJXC"
+  },
+  {
     id: "Partner Buku",
     name: "Partner Buku",
     desc: "Pesan Disini",
@@ -108,7 +140,7 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
-      {
+    {
     id: "Partner Buku",
     name: "Partner Buku",
     desc: "Pesan Disini",
