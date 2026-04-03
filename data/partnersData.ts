@@ -301,6 +301,70 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/8phYZcuHhJ"
   },
   {
+    id: "Buku Polymer",
+    name: "Pemodelan dan Simulasi Aliran Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pemodelan dan Simulasi Aliran Polimer.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+   {
+    id: "Buku Polymer",
+    name: "Principles of Polymer Engineering",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Principles of Polymer Engineering.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Polimer Tercetak Molekul",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polimer Tercetak Molekul.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Introduction to Physical Polymer Science",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Introduction to Physical Polymer Science.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Pengembangan Surfaktan dan Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pengembangan Surfaktan dan Polimer.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+   {
+    id: "Buku Polymer",
+    name: "Polimer Mutakhir",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polimer Mutakhir.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Kimia Material Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kimia Material Polimer.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Kimia Polimer Dr Eli",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kimia Polimer Dr Eli.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "hubungi-kami",
     name: "Hubungi Kami",
     desc: "Pasang Iklan di Polimeritas",
