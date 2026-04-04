@@ -53,454 +53,6 @@ export const partnerItems: Partner[] = [
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
   },
   {
-    id: "Buku Puisi Antologi",
-    name: "Akar Serumpun Anyaman Rasa Jilid 13",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Akar serumpun anyaman rasa 13.jpg",
-    link: "https://api.whatsapp.com/send?phone=62895384652297&text=Halo+kak%2C+saya+mau+tanya+Buku+SIP+Publishing%0D%0A%0D%0A*AKAR+SERUMPUN+ANYAMAN+RASA+JILID+13*%0A*Harga:*%20Rp95.000%0A*URL:*%20https%3A%2F%2Ftokobuku.sippublishing.co.id%2Fproduct%2Fakar-serumpun-anyaman-rasa-jilid-13%2F%0D%0A%0D%0ATerima+Kasih"
-  },
-  {
-    id: "Buku Novel",
-    name: "Seporsi Mie Ayam Sebelum Mati",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/seporsi mie ayam sebelum mati.jpg",
-    link: "https://s.shopee.co.id/7VCAUgjvwU"
-  },
-  {
-    id: "Buku Novel",
-    name: "Laut Bercerita",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Laut Bercerita.jpg",
-    link: "https://s.shopee.co.id/1qXnnBz0RQ"
-  },
-    {
-    id: "Buku Polymer",
-    name: "Mengenal Polimer dan Polimerisasi",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Mengenal Polimer dan Polimerisasi.jpg",
-    link: "https://s.shopee.co.id/2LU4UGeqHL"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Konsep Dasar Kimia Polimer",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Konsep Dasar Kimia Polimer.jpg",
-    link: "https://s.shopee.co.id/1LbXIYx9bY"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Material Komposit Polimer Berpenguat Serat",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Material Komposit Polimer Berpenguat Serat.jpg",
-    link: "https://s.shopee.co.id/1VuxV54XLO"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Manufaktur Aditif Material Polimer",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Manufaktur Aditif Material Polimer.jpg",
-    link: "https://s.shopee.co.id/60NMrTfIBq"
-  },
-    {
-    id: "Buku",
-    name: "Sebuah Seni untuk Bersikap Bodo Amat",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/sebuah seni untuk bersikap bodo amat.jpg",
-    link: "https://s.shopee.co.id/1VuxP2fPwQ"
-  },
-  {
-    id: "Buku Novel",
-    name: "Laskar Pelangi",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Laskar Pelangi.jpg",
-    link: "https://s.shopee.co.id/9KdojvYOwC"
-  },
-  {
-    id: "Buku Novel",
-    name: "0 MDPL",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/0 MDPL.jpg",
-    link: "https://s.shopee.co.id/8fO7wuaIFt"
-  },
-  {
-    id: "Buku Novel",
-    name: "Bumi Manusia",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Bumi Manusia.jpg",
-    link: "https://s.shopee.co.id/40cIRsVsF1"
-  },
-      {
-    id: "Buku Polymer",
-    name: "Pengujian Dalam Pengembangan Bahan Polimer Kedokteran Gigi",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Pengujian Dalam Pengembangan Bahan Polimer Kedokteran Gigi.jpg",
-    link: "https://s.shopee.co.id/AUpmLtMYSJ"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Kimia Polimer M.A.Cowd ITB 1991",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Kimia Polimer M.A.Cowd ITB.jpg",
-    link: "https://s.shopee.co.id/gLqdnd0uZ"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Polimer Anorganik dan Organometalik",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Polimer Anorganik dan Organometalik.jpg",
-    link: "https://s.shopee.co.id/3fzSDagWB7"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Teknologi Polimer Industri Pertanian",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Teknologi Polimer Industri Pertanian.jpg",
-    link: "https://s.shopee.co.id/AKWMA08uCv"
-  },
-  {
-    id: "Buku Novel",
-    name: "Broken Strings",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Broken Strings.jpg",
-    link: "https://s.shopee.co.id/W2QHfczcS"
-  },
-  {
-    id: "Buku Novel",
-    name: "Cantik Itu Luka",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Cantik Itu Luka.jpg",
-    link: "https://s.shopee.co.id/6L0DEZTwQ7"
-  },
-  {
-    id: "Buku Novel",
-    name: "3726 MPDL",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/3726 MPDL.jpg",
-    link: "https://s.shopee.co.id/qfGgeXJXC"
-  },
-  {
-    id: "Buku Novel",
-    name: "Hujan",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Hujan.jpg",
-    link: "https://s.shopee.co.id/4AvipPzeAl"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Nanokomposit Polimer",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Nanokomposit Polimer.jpg",
-    link: "https://s.shopee.co.id/169s6uBBG"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Polymer Composite Systems in Pipeline Repair",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Polymer Composite Systems in Pipeline Repair.jpg",
-    link: "https://s.shopee.co.id/Lj0GteqIm"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Sustainability in Polymer Technology and Plastics Engineering",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Sustainability in Polymer Technology and Plastics Engineering.jpg",
-    link: "https://s.shopee.co.id/5AoG1usoy3"
-  },
-  {
-    id: "Buku Polymer",
-    name: "The Essential Handbook of Polymer Terms and Attributes",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/The Essential Handbook of Polymer Terms and Attributes.jpg",
-    link: "https://s.shopee.co.id/9AKOnTlxCl"
-  },
-   {
-    id: "Buku Polymer",
-    name: "Polimer Termoset",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Polimer Termoset.jpg",
-    link: "https://s.shopee.co.id/1LbXWicnWj"
-  },
-   {
-    id: "Buku Polymer",
-    name: "Polimer Ilmu Material",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Polimer Ilmu Material.jpg",
-    link: "https://s.shopee.co.id/3Vg26lfzm8"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Kimia Polimer Malcolm P.Stevens",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Kimia Polimer Malcolm P.Stevens.jpg",
-    link: "https://s.shopee.co.id/BPa8hmX3Q"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Polimer Biodegradasi",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Polimer Biodegradasi.jpg",
-    link: "https://s.shopee.co.id/6fd3sh0Zoo"
-  },
-  {
-    id: "Buku Novel",
-    name: "Pulang Leila S",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Pulang Leila S.jpg",
-    link: "https://s.shopee.co.id/6fd3zmhA2O"
-  },
-  {
-    id: "Buku Novel",
-    name: "Dompet Ayah Sepatu Ibu",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Dompet Ayah Sepatu Ibu.jpg",
-    link: "https://s.shopee.co.id/900ym2vMLw"
-  },
-  {
-    id: "Buku Novel",
-    name: "Hujan Bulan Juni",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Hujan Bulan Juni.jpg",
-    link: "https://s.shopee.co.id/6pwUC209a5"
-  },
-  {
-    id: "Buku Novel",
-    name: "Kado Terbaik",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Kado Terbaik.jpg",
-    link: "https://s.shopee.co.id/8phYZcuHhJ"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Pemodelan dan Simulasi Aliran Polimer",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Pemodelan dan Simulasi Aliran Polimer.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-   {
-    id: "Buku Polymer",
-    name: "Principles of Polymer Engineering",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Principles of Polymer Engineering.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Polimer Tercetak Molekul",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Polimer Tercetak Molekul.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Introduction to Physical Polymer Science",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Introduction to Physical Polymer Science.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Pengembangan Surfaktan dan Polimer",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Pengembangan Surfaktan dan Polimer.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-   {
-    id: "Buku Polymer",
-    name: "Polimer Mutakhir",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Polimer Mutakhir.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Kimia Material Polimer",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Kimia Material Polimer.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Kimia Polimer Dr Eli",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Kimia Polimer Dr Eli.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Textbook of Polymer Science",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Textbook of Polymer Science.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-   {
-    id: "Buku Polymer",
-    name: "Polimer dalam Sistem Penghantaran Obat",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Polimer dalam Sistem Penghantaran Obat.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Polymer Adhesion",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Polymer Adhesion.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Bahan Polimer Konstruksi Bangunan",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Bahan Polimer Konstruksi Bangunan.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-      {
-    id: "Buku Polymer",
-    name: "Strategi Skrining Polimer EOR",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Strategi Skrining Polimer EOR.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-   {
-    id: "Buku Polymer",
-    name: "Polymer Processing",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Polymer Processing.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Molekular Imprinting Polimer",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Molekular Imprinting Polimer.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-  {
-    id: "Buku Polymer",
-    name: "Design of Fibre-Polymer Composite Structures",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Design of Fibre-Polymer Composite Structures.jpg",
-    link: "https://s.shopee.co.id/"
-  },
-  {
-    id: "Buku Novel",
-    name: "The Overstory",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/The Overstory.jpg",
-    link: "https://s.shopee.co.id/8ARsmaJn6d"
-  },
-  {
-    id: "Buku Novel",
-    name: "Jejak Balak",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Jejak Balak.jpg",
-    link: "https://s.shopee.co.id/AACxAIX1Zg"
-  },
-  {
-    id: "Buku Novel",
-    name: "The Morningside",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/The Morningside.jpg",
-    link: "https://s.shopee.co.id/2g6wEYyVAR"
-  },
-  {
-    id: "Buku Novel",
-    name: "Sumur Eka Kurniawan",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Sumur Eka Kurniawan.jpg",
-    link: "https://s.shopee.co.id/AUpnZ07g0s"
-  },
-      {
-    id: "Buku Novel",
-    name: "Dunia Sophie",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Dunia Sophie.jpg",
-    link: "https://s.shopee.co.id/6AgoP5mbTw"
-  },
-  {
-    id: "Buku Novel",
-    name: "Pasien Naomi",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Pasien Naomi.jpg",
-    link: "https://s.shopee.co.id/9KdqB0hTS9"
-  },
-  {
-    id: "Buku Novel",
-    name: "Rumah JS. Khairen",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Rumah JS. Khairen.jpg",
-    link: "https://s.shopee.co.id/AKWNMn5PFI"
-  },
-  {
-    id: "Buku Novel",
-    name: "Tentang Kamu",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Tentang Kamu.jpg",
-    link: "https://s.shopee.co.id/900zmR3NrU"
-  },
-  {
-    id: "hubungi-kami",
-    name: "Hubungi Kami",
-    desc: "Pasang Iklan di Polimeritas",
-    subDesc: "polimeritas group",
-    image: "/img/Partner2/Product-Polimeritas.png",
-    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
-  },
-  {
     id: "toko-polimeritas",
     name: "Toko Polimeritas",
     desc: "Pesan Disini",
@@ -3943,20 +3495,452 @@ export const partnerIndustriItems: Partner[] = [
 
 // Data Book Store
 export const partnerBookItems: Partner[] = [
+    {
+    id: "hubungi-kami",
+    name: "Hubungi Kami",
+    desc: "Pasang Iklan di Polimeritas",
+    subDesc: "polimeritas group",
+    image: "/img/Partner2/Product-Polimeritas.png",
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
+  },
   {
     id: "Buku Puisi Antologi",
     name: "Akar Serumpun Anyaman Rasa Jilid 13",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Akar serumpun anyaman rasa 13.jpg",
-    link: "https://api.whatsapp.com/send?phone=62895384652297&text=Halo+kak..."
+    link: "https://api.whatsapp.com/send?phone=62895384652297&text=Halo+kak%2C+saya+mau+tanya+Buku+SIP+Publishing%0D%0A%0D%0A*AKAR+SERUMPUN+ANYAMAN+RASA+JILID+13*%0A*Harga:*%20Rp95.000%0A*URL:*%20https%3A%2F%2Ftokobuku.sippublishing.co.id%2Fproduct%2Fakar-serumpun-anyaman-rasa-jilid-13%2F%0D%0A%0D%0ATerima+Kasih"
   },
   {
-    id: "Buku Novel 1",
+    id: "Buku Novel",
     name: "Seporsi Mie Ayam Sebelum Mati",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/seporsi mie ayam sebelum mati.jpg",
     link: "https://s.shopee.co.id/7VCAUgjvwU"
+  },
+  {
+    id: "Buku Novel",
+    name: "Laut Bercerita",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Laut Bercerita.jpg",
+    link: "https://s.shopee.co.id/1qXnnBz0RQ"
+  },
+    {
+    id: "Buku Polymer",
+    name: "Mengenal Polimer dan Polimerisasi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Mengenal Polimer dan Polimerisasi.jpg",
+    link: "https://s.shopee.co.id/2LU4UGeqHL"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Konsep Dasar Kimia Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Konsep Dasar Kimia Polimer.jpg",
+    link: "https://s.shopee.co.id/1LbXIYx9bY"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Material Komposit Polimer Berpenguat Serat",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Material Komposit Polimer Berpenguat Serat.jpg",
+    link: "https://s.shopee.co.id/1VuxV54XLO"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Manufaktur Aditif Material Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Manufaktur Aditif Material Polimer.jpg",
+    link: "https://s.shopee.co.id/60NMrTfIBq"
+  },
+    {
+    id: "Buku",
+    name: "Sebuah Seni untuk Bersikap Bodo Amat",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/sebuah seni untuk bersikap bodo amat.jpg",
+    link: "https://s.shopee.co.id/1VuxP2fPwQ"
+  },
+  {
+    id: "Buku Novel",
+    name: "Laskar Pelangi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Laskar Pelangi.jpg",
+    link: "https://s.shopee.co.id/9KdojvYOwC"
+  },
+  {
+    id: "Buku Novel",
+    name: "0 MDPL",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/0 MDPL.jpg",
+    link: "https://s.shopee.co.id/8fO7wuaIFt"
+  },
+  {
+    id: "Buku Novel",
+    name: "Bumi Manusia",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bumi Manusia.jpg",
+    link: "https://s.shopee.co.id/40cIRsVsF1"
+  },
+      {
+    id: "Buku Polymer",
+    name: "Pengujian Dalam Pengembangan Bahan Polimer Kedokteran Gigi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pengujian Dalam Pengembangan Bahan Polimer Kedokteran Gigi.jpg",
+    link: "https://s.shopee.co.id/AUpmLtMYSJ"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Kimia Polimer M.A.Cowd ITB 1991",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kimia Polimer M.A.Cowd ITB.jpg",
+    link: "https://s.shopee.co.id/gLqdnd0uZ"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Polimer Anorganik dan Organometalik",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polimer Anorganik dan Organometalik.jpg",
+    link: "https://s.shopee.co.id/3fzSDagWB7"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Teknologi Polimer Industri Pertanian",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teknologi Polimer Industri Pertanian.jpg",
+    link: "https://s.shopee.co.id/AKWMA08uCv"
+  },
+  {
+    id: "Buku Novel",
+    name: "Broken Strings",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Broken Strings.jpg",
+    link: "https://s.shopee.co.id/W2QHfczcS"
+  },
+  {
+    id: "Buku Novel",
+    name: "Cantik Itu Luka",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Cantik Itu Luka.jpg",
+    link: "https://s.shopee.co.id/6L0DEZTwQ7"
+  },
+  {
+    id: "Buku Novel",
+    name: "3726 MPDL",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/3726 MPDL.jpg",
+    link: "https://s.shopee.co.id/qfGgeXJXC"
+  },
+  {
+    id: "Buku Novel",
+    name: "Hujan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Hujan.jpg",
+    link: "https://s.shopee.co.id/4AvipPzeAl"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Nanokomposit Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Nanokomposit Polimer.jpg",
+    link: "https://s.shopee.co.id/169s6uBBG"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Polymer Composite Systems in Pipeline Repair",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polymer Composite Systems in Pipeline Repair.jpg",
+    link: "https://s.shopee.co.id/Lj0GteqIm"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Sustainability in Polymer Technology and Plastics Engineering",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sustainability in Polymer Technology and Plastics Engineering.jpg",
+    link: "https://s.shopee.co.id/5AoG1usoy3"
+  },
+  {
+    id: "Buku Polymer",
+    name: "The Essential Handbook of Polymer Terms and Attributes",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/The Essential Handbook of Polymer Terms and Attributes.jpg",
+    link: "https://s.shopee.co.id/9AKOnTlxCl"
+  },
+   {
+    id: "Buku Polymer",
+    name: "Polimer Termoset",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polimer Termoset.jpg",
+    link: "https://s.shopee.co.id/1LbXWicnWj"
+  },
+   {
+    id: "Buku Polymer",
+    name: "Polimer Ilmu Material",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polimer Ilmu Material.jpg",
+    link: "https://s.shopee.co.id/3Vg26lfzm8"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Kimia Polimer Malcolm P.Stevens",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kimia Polimer Malcolm P.Stevens.jpg",
+    link: "https://s.shopee.co.id/BPa8hmX3Q"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Polimer Biodegradasi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polimer Biodegradasi.jpg",
+    link: "https://s.shopee.co.id/6fd3sh0Zoo"
+  },
+  {
+    id: "Buku Novel",
+    name: "Pulang Leila S",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pulang Leila S.jpg",
+    link: "https://s.shopee.co.id/6fd3zmhA2O"
+  },
+  {
+    id: "Buku Novel",
+    name: "Dompet Ayah Sepatu Ibu",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dompet Ayah Sepatu Ibu.jpg",
+    link: "https://s.shopee.co.id/900ym2vMLw"
+  },
+  {
+    id: "Buku Novel",
+    name: "Hujan Bulan Juni",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Hujan Bulan Juni.jpg",
+    link: "https://s.shopee.co.id/6pwUC209a5"
+  },
+  {
+    id: "Buku Novel",
+    name: "Kado Terbaik",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kado Terbaik.jpg",
+    link: "https://s.shopee.co.id/8phYZcuHhJ"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Pemodelan dan Simulasi Aliran Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pemodelan dan Simulasi Aliran Polimer.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+   {
+    id: "Buku Polymer",
+    name: "Principles of Polymer Engineering",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Principles of Polymer Engineering.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Polimer Tercetak Molekul",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polimer Tercetak Molekul.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Introduction to Physical Polymer Science",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Introduction to Physical Polymer Science.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Pengembangan Surfaktan dan Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pengembangan Surfaktan dan Polimer.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+   {
+    id: "Buku Polymer",
+    name: "Polimer Mutakhir",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polimer Mutakhir.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Kimia Material Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kimia Material Polimer.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Kimia Polimer Dr Eli",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kimia Polimer Dr Eli.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Textbook of Polymer Science",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Textbook of Polymer Science.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+   {
+    id: "Buku Polymer",
+    name: "Polimer dalam Sistem Penghantaran Obat",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polimer dalam Sistem Penghantaran Obat.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Polymer Adhesion",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polymer Adhesion.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Bahan Polimer Konstruksi Bangunan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bahan Polimer Konstruksi Bangunan.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+      {
+    id: "Buku Polymer",
+    name: "Strategi Skrining Polimer EOR",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Strategi Skrining Polimer EOR.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+   {
+    id: "Buku Polymer",
+    name: "Polymer Processing",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polymer Processing.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Molekular Imprinting Polimer",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Molekular Imprinting Polimer.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Design of Fibre-Polymer Composite Structures",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Design of Fibre-Polymer Composite Structures.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Novel",
+    name: "The Overstory",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/The Overstory.jpg",
+    link: "https://s.shopee.co.id/8ARsmaJn6d"
+  },
+  {
+    id: "Buku Novel",
+    name: "Jejak Balak",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Jejak Balak.jpg",
+    link: "https://s.shopee.co.id/AACxAIX1Zg"
+  },
+  {
+    id: "Buku Novel",
+    name: "The Morningside",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/The Morningside.jpg",
+    link: "https://s.shopee.co.id/2g6wEYyVAR"
+  },
+  {
+    id: "Buku Novel",
+    name: "Sumur Eka Kurniawan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sumur Eka Kurniawan.jpg",
+    link: "https://s.shopee.co.id/AUpnZ07g0s"
+  },
+      {
+    id: "Buku Novel",
+    name: "Dunia Sophie",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dunia Sophie.jpg",
+    link: "https://s.shopee.co.id/6AgoP5mbTw"
+  },
+  {
+    id: "Buku Novel",
+    name: "Pasien Naomi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pasien Naomi.jpg",
+    link: "https://s.shopee.co.id/9KdqB0hTS9"
+  },
+  {
+    id: "Buku Novel",
+    name: "Rumah JS. Khairen",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Rumah JS. Khairen.jpg",
+    link: "https://s.shopee.co.id/AKWNMn5PFI"
+  },
+  {
+    id: "Buku Novel",
+    name: "Tentang Kamu",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tentang Kamu.jpg",
+    link: "https://s.shopee.co.id/900zmR3NrU"
   },
 ];
