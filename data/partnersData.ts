@@ -3911,7 +3911,7 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Sumur Eka Kurniawan.jpg",
     link: "https://s.shopee.co.id/AUpnZ07g0s"
   },
-      {
+{
     id: "Buku Novel",
     name: "Dunia Sophie",
     desc: "Pesan Disini",
@@ -3942,5 +3942,37 @@ export const partnerBookItems: Partner[] = [
     subDesc: "Indonesia",
     image: "/img/Partner2/Tentang Kamu.jpg",
     link: "https://s.shopee.co.id/900zmR3NrU"
+  },
+        {
+    id: "Buku Novel",
+    name: "Jika Kucing Lenyap dari Dunia",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Jika Kucing Lenyap dari Dunia.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Cintaku Antara Jakarta dan Kuala Lumpur",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Cintaku Antara Jakarta dan Kuala Lumpur.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Sang Eksekutor Tere Liye",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sang Eksekutor Tere Liye.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Langit Senja Nadilla TP",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Langit Senja Nadilla TP.jpg",
+    link: "https://s.shopee.co.id/"
   },
 ];
