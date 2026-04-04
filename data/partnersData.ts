@@ -429,6 +429,70 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/"
   },
   {
+    id: "Buku Novel",
+    name: "The Overstory",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/The Overstory.jpg",
+    link: "https://s.shopee.co.id/8ARsmaJn6d"
+  },
+  {
+    id: "Buku Novel",
+    name: "Jejak Balak",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Jejak Balak.jpg",
+    link: "https://s.shopee.co.id/AACxAIX1Zg"
+  },
+  {
+    id: "Buku Novel",
+    name: "The Morningside",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/The Morningside.jpg",
+    link: "https://s.shopee.co.id/2g6wEYyVAR"
+  },
+  {
+    id: "Buku Novel",
+    name: "Sumur Eka Kurniawan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sumur Eka Kurniawan.jpg",
+    link: "https://s.shopee.co.id/AUpnZ07g0s"
+  },
+      {
+    id: "Buku Novel",
+    name: "Dunia Sophie",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dunia Sophie.jpg",
+    link: "https://s.shopee.co.id/6AgoP5mbTw"
+  },
+  {
+    id: "Buku Novel",
+    name: "Pasien Naomi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pasien Naomi.jpg",
+    link: "https://s.shopee.co.id/9KdqB0hTS9"
+  },
+  {
+    id: "Buku Novel",
+    name: "Rumah JS. Khairen",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Rumah JS. Khairen.jpg",
+    link: "https://s.shopee.co.id/AKWNMn5PFI"
+  },
+  {
+    id: "Buku Novel",
+    name: "Tentang Kamu",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tentang Kamu.jpg",
+    link: "https://s.shopee.co.id/900zmR3NrU"
+  },
+  {
     id: "hubungi-kami",
     name: "Hubungi Kami",
     desc: "Pasang Iklan di Polimeritas",
