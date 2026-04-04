@@ -122,6 +122,16 @@ const Navbar = () => {
                                 >
                                     Industri
                                 </Link>
+                                <Link
+                                    href="/partner-room/book-store"
+                                    className={cn(
+                                        "block px-4 py-2 text-sm hover:bg-light hover:text-primary transition-colors",
+                                        pathname === '/partner-room/book-store' ? 'text-primary font-bold' : 'text-gray-600'
+                                    )}
+                                    onClick={() => setIsOpen(false)}
+                                >
+                                    Book Store
+                                </Link>
                             </div>
                         </div>
 

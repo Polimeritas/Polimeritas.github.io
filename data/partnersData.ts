@@ -3940,3 +3940,23 @@ export const partnerIndustriItems: Partner[] = [
     link: "#"
   }))
 ];
+
+// Data Book Store
+export const partnerBookItems: Partner[] = [
+  {
+    id: "Buku Puisi Antologi",
+    name: "Akar Serumpun Anyaman Rasa Jilid 13",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Akar serumpun anyaman rasa 13.jpg",
+    link: "https://api.whatsapp.com/send?phone=62895384652297&text=Halo+kak..."
+  },
+  {
+    id: "Buku Novel 1",
+    name: "Seporsi Mie Ayam Sebelum Mati",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/seporsi mie ayam sebelum mati.jpg",
+    link: "https://s.shopee.co.id/7VCAUgjvwU"
+  },
+];
