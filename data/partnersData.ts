@@ -3943,13 +3943,13 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Tentang Kamu.jpg",
     link: "https://s.shopee.co.id/900zmR3NrU"
   },
-        {
+  {
     id: "Buku Novel",
     name: "Jika Kucing Lenyap dari Dunia",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Jika Kucing Lenyap dari Dunia.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/16CqqUzMV"
   },
   {
     id: "Buku Novel",
@@ -3957,7 +3957,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Cintaku Antara Jakarta dan Kuala Lumpur.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/W2TRmk8tZ"
   },
   {
     id: "Buku Novel",
@@ -3965,7 +3965,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Sang Eksekutor Tere Liye.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/8KlKmDpKWw"
   },
   {
     id: "Buku Novel",
@@ -3973,6 +3973,38 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Langit Senja Nadilla TP.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9ztYlJUMLy"
+  },
+          {
+    id: "Buku Novel",
+    name: "Berpayung Tuhan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Berpayung Tuhan.jpg",
+    link: "https://s.shopee.co.id/7KsnaRqplZ"
+  },
+  {
+    id: "Buku Novel",
+    name: "Aku Kalah Aku Merindukanmu",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Aku Kalah Aku Merindukanmu.jpg",
+    link: "https://s.shopee.co.id/4VYcDIw5Ni"
+  },
+  {
+    id: "Buku Novel",
+    name: "Metamorfosis",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Metamorfosis.jpg",
+    link: "https://s.shopee.co.id/1gEQq817B3"
+  },
+  {
+    id: "Buku Novel",
+    name: "Teka Teki Gambar Aneh",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teka Teki Gambar Aneh.jpg",
+    link: "https://s.shopee.co.id/AUppMOg9Xu"
   },
 ];
