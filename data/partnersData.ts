@@ -3496,12 +3496,12 @@ export const partnerIndustriItems: Partner[] = [
 // Data Book Store
 export const partnerBookItems: Partner[] = [
     {
-    id: "hubungi-kami",
-    name: "Hubungi Kami",
-    desc: "Pasang Iklan di Polimeritas",
-    subDesc: "polimeritas group",
-    image: "/img/Partner2/Product-Polimeritas.png",
-    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
+    id: "KAJZ Entertainment",
+    name: "KAJZ Entertainment",
+    desc: "Pasang Iklan",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/kajzentertainment.jpg",
+    link: "https://www.instagram.com/kajz.entertainment"
   },
   {
     id: "Buku Puisi Antologi",
