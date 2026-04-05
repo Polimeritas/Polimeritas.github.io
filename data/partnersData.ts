@@ -4007,4 +4007,68 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Teka Teki Gambar Aneh.jpg",
     link: "https://s.shopee.co.id/AUppMOg9Xu"
   },
+  {
+    id: "Buku Novel",
+    name: "Tulus untuk Orang yang Salah",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tulus untuk Orang yang Salah.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Novel",
+    name: "7 Our Family",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/7 Our Family.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Remember Paris",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Remember Paris.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Orang Miskin Dilarang Sekolah",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Orang Miskin Dilarang Sekolah.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Hotel Magnifique",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Hotel Magnifique.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Sisi Tergelap Surga",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sisi Tergelap Surga.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Novel",
+    name: "By Your Side",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/By Your Side.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Janji Tere Liye",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Janji Tere Liye.jpg",
+    link: "https://s.shopee.co.id/"
+  },
 ];
