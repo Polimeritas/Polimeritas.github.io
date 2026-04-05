@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import "./globals.css";
+import { GoogleAnalytics } from '@next/third-parties/google';
 
 // Konfigurasi Font
 const poppins = Poppins({
@@ -79,6 +80,9 @@ export default function RootLayout({
     <html lang="id">
       <body className={`${poppins.variable} font-sans antialiased`}>
         {children}
+        {process.env.NEXT_PUBLIC_GA_ID && (
+          <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
+        )}
       </body>
     </html>
   );
