@@ -135,50 +135,50 @@ export const partnerItems: Partner[] = [
     {
     id: "502",
     name: "502",
-    desc: "Coming Soon",
+    desc: "Plastik HD Joyo Boyo",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Plastik HD Joyo Boyo.jpg",
+    link: "https://s.shopee.co.id/4fs5NJReuV"
   },
   {
     id: "501",
     name: "501",
-    desc: "Coming Soon",
+    desc: "Kresek Pundi Mas",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Kresek Pundi Mas.jpg",
+    link: "https://s.shopee.co.id/8ARxXi2Ue8"
   },
   {
     id: "500",
     name: "500",
-    desc: "Coming Soon",
+    desc: "Kresek Kaktus",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Kresek Kaktus.jpg",
+    link: "https://s.shopee.co.id/70G09VlScX"
   },
   {
     id: "499",
     name: "499",
-    desc: "Coming Soon",
+    desc: "JCM Plastik Makanan Microwave",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/JCM Plastik Makanan Microwave.jpg",
+    link: "https://s.shopee.co.id/2qQRBoJzo9"
   },
   {
     id: "498",
     name: "498",
-    desc: "Coming Soon",
+    desc: "Plastik Gelas Datar",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Plastik Gelas Datar.jpg",
+    link: "https://s.shopee.co.id/4VYfAqSHDs"
   },
   {
     id: "497",
     name: "497",
-    desc: "Coming Soon",
+    desc: "Plastik Karung Ayam",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Plastik Karung Ayam.jpg",
+    link: "https://s.shopee.co.id/8KlNjnotP2"
   },
   {
     id: "496",
