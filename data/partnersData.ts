@@ -77,7 +77,7 @@ export const partnerItems: Partner[] = [
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi Usaha%20"
   },
   {
-    id: "49"8,
+    id: "498",
     name: "498",
     desc: "Coming Soon",
     subDesc: "Indonesia",
