@@ -77,67 +77,131 @@ export const partnerItems: Partner[] = [
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi Usaha%20"
   },
   {
-    id: "517",
-    name: "517",
+    id: "525",
+    name: "525",
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "524",
+    name: "524",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "523",
+    name: "523",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+    {
+    id: "522",
+    name: "522",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "521",
+    name: "521",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "520",
+    name: "520",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "519",
+    name: "519",
+    desc: "Plastik Beras 2,5kg",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Plastik Beras 2,5kg.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+    {
+    id: "518",
+    name: "518",
+    desc: "Plastik PE untuk Minyak Santan Gula",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Plastik PE untuk Minyak Santan Gula.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "517",
+    name: "517",
+    desc: "Plastik Laundry",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Plastik Laundry.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "516",
     name: "516",
-    desc: "Coming Soon",
+    desc: "Plastik Klip Isi 100 Lembar",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Plastik Klip Isi 100 Lembar.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "515",
     name: "515",
-    desc: "Coming Soon",
+    desc: "Plastik Kresek Merk Jisi",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Plastik Kresek Merk Jisi.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
     {
     id: "514",
     name: "514",
-    desc: "Coming Soon",
+    desc: "Kantong Bening PE Merk Akraplas",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Kantong Bening PE Merk Akraplas.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
 {
     id: "513",
     name: "513",
-    desc: "Coming Soon",
+    desc: "Bioplastik OPP Transparan",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Bioplastik OPP Transparan.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "512",
     name: "512",
-    desc: "Coming Soon",
+    desc: "Bioplastik Merk Epi",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Bioplastik Merk Epi.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "511",
     name: "511",
-    desc: "Coming Soon",
+    desc: "Cassava Polybag Merk Avani",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Cassava Polybag Merk Avani.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
     {
     id: "510",
     name: "510",
-    desc: "Coming Soon",
+    desc: "Biopac Lembaran Kemasan Ramah Lingkungan",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Biopac Lembaran Kemasan Ramah Lingkungan.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
     {
