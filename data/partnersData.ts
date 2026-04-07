@@ -4220,4 +4220,76 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Ancika Pidi Baiq.jpg",
     link: "https://s.shopee.co.id/1gETit7gQL"
   },
+  {
+    id: "Buku",
+    name: "The Black Swan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/The Black Swan.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku",
+    name: "Bio Etika",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bio Etika.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku",
+    name: "Kartun Genetika",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kartun Genetika.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku",
+    name: "Fenomenologi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Fenomenologi.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku",
+    name: "10 Besar Tari Daerah di Indonesia",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/10 Besar Tari Daerah di Indonesia.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku",
+    name: "Ensiklopedia Sains",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ensiklopedia Sains.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku",
+    name: "Hidrologi Pengelolaan Daerah Air Sungai",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Hidrologi Pengelolaan Daerah Air Sungai.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku",
+    name: "100 Lagu Daerah Terbaik Nusantara",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/100 Lagu Daerah Terbaik Nusantara.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku",
+    name: "Bangunan Gedung Hijau untuk Daerah Tropis",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bangunan Gedung Hijau untuk Daerah Tropis.jpg",
+    link: "https://s.shopee.co.id/"
+  },
 ];
