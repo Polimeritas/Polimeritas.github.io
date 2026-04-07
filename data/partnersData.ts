@@ -3353,12 +3353,12 @@ export const partnerItems: Partner[] = [
 // DATA PARTNER INDUSTRI
 export const partnerIndustriItems: Partner[] = [
   {
-    id: "hubungi-kami",
-    name: "Hubungi Kami",
-    desc: "Pasang Iklan di Polimeritas",
-    subDesc: "polimeritas group",
-    image: "/img/Partner2/Product-Polimeritas.png",
-    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
+    id: "industri-15",
+    name: "Booyenku Shop",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/booyenku shop.jpg",
+    link: "https://www.tiktok.com/@booyenku"
   },
   {
     id: "industri-14",
@@ -3377,16 +3377,14 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner/zefalindojaya.png",
     link: "https://www.instagram.com/p/DVSPS18km8g/"
   },
-
   {
-    id: "industri-12",
-    name: "Booyenku Shop",
-    desc: "Partner Industri Polimeritas",
-    subDesc: "Industri",
-    image: "/img/Partner2/booyenku shop.jpg",
-    link: "https://www.instagram.com/stories/highlights/18408079471192443/"
+    id: "Hubungi Kami",
+    name: "Hubungi Kami",
+    desc: "Pasang Iklan di Polimeritas",
+    subDesc: "polimeritas group",
+    image: "/img/Partner2/Product-Polimeritas.png",
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
   },
-
   {
     id: "industri-11",
     name: "Anima Companion",
