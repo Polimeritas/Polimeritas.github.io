@@ -119,18 +119,18 @@ export const partnerItems: Partner[] = [
   {
     id: "493",
     name: "493",
-    desc: "Coming Soon",
+    desc: "Kertas Nasi Laminasi",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Kertas Nasi Laminasi.jpg",
+    link: "https://s.shopee.co.id/9UxL3vbFOp"
   },
   {
     id: "492",
     name: "492",
-    desc: "Coming Soon",
+    desc: "Daun Pisang Fresh",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Daun Pisang Fresh.jpg",
+    link: "https://s.shopee.co.id/8fOE4KkdqB"
   },
   {
     id: "491",
