@@ -76,60 +76,124 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/ukm dan umkm.jpg",
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi Usaha%20"
   },
-    {
-    id: "509",
-    name: "509",
+  {
+    id: "517",
+    name: "517",
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "516",
+    name: "516",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "515",
+    name: "515",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+    {
+    id: "514",
+    name: "514",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+{
+    id: "513",
+    name: "513",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "512",
+    name: "512",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "511",
+    name: "511",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+    {
+    id: "510",
+    name: "510",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+    {
+    id: "509",
+    name: "509",
+    desc: "Plastik Merk Oscar",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Plastik Merk Oscar.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "508",
     name: "508",
-    desc: "Coming Soon",
+    desc: "Plastik Tahan Panas",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Plastik Tahan Panas.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "507",
     name: "507",
-    desc: "Coming Soon",
+    desc: "Plastik OPP Lem Seal",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Plastik OPP Lem Seal.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
     {
     id: "506",
     name: "506",
-    desc: "Coming Soon",
+    desc: "Plastik Merk Sussy",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Plastik Merk Sussy.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "505",
     name: "505",
-    desc: "Coming Soon",
+    desc: "Kantong Plastik untuk Gelas",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Kantong Plastik untuk Gelas.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "504",
     name: "504",
-    desc: "Coming Soon",
+    desc: "Plastik Kresek Bening",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Plastik Kresek Bening.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
     id: "503",
     name: "503",
-    desc: "Coming Soon",
+    desc: "Kantong Plastik HDPE Kareo",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Kantong Plastik HDPE Kareo.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
     {
