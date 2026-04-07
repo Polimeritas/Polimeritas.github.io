@@ -191,9 +191,9 @@ export const partnerItems: Partner[] = [
   {
     id: "503",
     name: "503",
-    desc: "Kantong Plastik Padi",
+    desc: "Kantong Plastik Merk Padi",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Kantong Plastik HDPE Kareo.jpg",
+    image: "/img/Partner2/Kantong Plastik Merk Padi.jpg",
     link: "https://s.shopee.co.id/7fVh7LYJCn"
   },
     {
