@@ -146,7 +146,7 @@ export const partnerItems: Partner[] = [
     desc: "Plastik Merk Oscar",
     subDesc: "Indonesia",
     image: "/img/Partner2/Plastik Merk Oscar.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/2VnaxYvKYW"
   },
   {
     id: "508",
@@ -154,7 +154,7 @@ export const partnerItems: Partner[] = [
     desc: "Plastik Tahan Panas",
     subDesc: "Indonesia",
     image: "/img/Partner2/Plastik Tahan Panas.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/9paBh4jNYp"
   },
   {
     id: "507",
@@ -162,7 +162,7 @@ export const partnerItems: Partner[] = [
     desc: "Plastik OPP Lem Seal",
     subDesc: "Indonesia",
     image: "/img/Partner2/Plastik OPP Lem Seal.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/9paBh69iYA"
   },
     {
     id: "506",
@@ -170,7 +170,7 @@ export const partnerItems: Partner[] = [
     desc: "Plastik Merk Sussy",
     subDesc: "Indonesia",
     image: "/img/Partner2/Plastik Merk Sussy.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/qfMya3VOx"
   },
   {
     id: "505",
@@ -178,7 +178,7 @@ export const partnerItems: Partner[] = [
     desc: "Kantong Plastik untuk Gelas",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kantong Plastik untuk Gelas.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/9014hcG98Z"
   },
   {
     id: "504",
@@ -186,15 +186,15 @@ export const partnerItems: Partner[] = [
     desc: "Plastik Kresek Bening",
     subDesc: "Indonesia",
     image: "/img/Partner2/Plastik Kresek Bening.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/8fOEJ1v1N2"
   },
   {
     id: "503",
     name: "503",
-    desc: "Kantong Plastik HDPE Kareo",
+    desc: "Kantong Plastik Padi",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kantong Plastik HDPE Kareo.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/7fVh7LYJCn"
   },
     {
     id: "502",
