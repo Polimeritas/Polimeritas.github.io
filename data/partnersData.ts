@@ -3458,9 +3458,16 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Bravery.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7625094064530083092"
   },
-  
   {
     id: "industri-3",
+    name: "Dr Soft Indonesia",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/soft-indonesia.jpeg",
+    link: "https://www.tiktok.com/@booyenku/video/7612607096403528980"
+  },
+  {
+    id: "industri-2",
     name: "Kaizoo Japanese",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3468,16 +3475,8 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku"
   },
     {
-    id: "industri-2",
-    name: "Dr Soft Indonesia",
-    desc: "Partner Industri Polimeritas",
-    subDesc: "Industri",
-    image: "/img/Partner2/soft-indonesia.jpeg",
-    link: "https://www.tiktok.com/@booyenku/video/7612607096403528980"
-  },
-    {
     id: "industri-1",
-    name: "Partner Industri",
+    name: "Partner Industri 1",
     desc: "Segera Hadir - Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Coming Soon.jpg",
