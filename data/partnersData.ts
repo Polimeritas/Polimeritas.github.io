@@ -130,7 +130,7 @@ export const partnerItems: Partner[] = [
     desc: "Plastik Beras 2,5kg",
     subDesc: "Indonesia",
     image: "/img/Partner2/Plastik Beras 2,5kg.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/2LUBCUDrZx"
   },
     {
     id: "518",
@@ -138,7 +138,7 @@ export const partnerItems: Partner[] = [
     desc: "Plastik PE untuk Minyak Santan Gula",
     subDesc: "Indonesia",
     image: "/img/Partner2/Plastik PE untuk Minyak Santan Gula.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/1Lbe0cVXVI"
   },
   {
     id: "517",
@@ -146,7 +146,7 @@ export const partnerItems: Partner[] = [
     desc: "Plastik Laundry",
     subDesc: "Indonesia",
     image: "/img/Partner2/Plastik Laundry.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/30jrze8Kp6"
   },
   {
     id: "516",
@@ -154,7 +154,7 @@ export const partnerItems: Partner[] = [
     desc: "Plastik Klip Isi 100 Lembar",
     subDesc: "Indonesia",
     image: "/img/Partner2/Plastik Klip Isi 100 Lembar.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/2BAl05TIN8"
   },
   {
     id: "515",
@@ -162,7 +162,7 @@ export const partnerItems: Partner[] = [
     desc: "Plastik Kresek Merk Jisi",
     subDesc: "Indonesia",
     image: "/img/Partner2/Plastik Kresek Merk Jisi.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/9fGlvq6E4Z"
   },
     {
     id: "514",
@@ -170,7 +170,7 @@ export const partnerItems: Partner[] = [
     desc: "Kantong Bening PE Merk Akraplas",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kantong Bening PE Merk Akraplas.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/8V4oXf2bhY"
   },
 {
     id: "513",
@@ -178,7 +178,7 @@ export const partnerItems: Partner[] = [
     desc: "Bioplastik OPP Transparan",
     subDesc: "Indonesia",
     image: "/img/Partner2/Bioplastik OPP Transparan.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/9ztcKLqC6o"
   },
   {
     id: "512",
@@ -186,7 +186,7 @@ export const partnerItems: Partner[] = [
     desc: "Bioplastik Merk Epi",
     subDesc: "Indonesia",
     image: "/img/Partner2/Bioplastik Merk Epi.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/6pwaYUcafN"
   },
   {
     id: "511",
@@ -194,7 +194,7 @@ export const partnerItems: Partner[] = [
     desc: "Cassava Polybag Merk Avani",
     subDesc: "Indonesia",
     image: "/img/Partner2/Cassava Polybag Merk Avani.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/9fGlveoObR"
   },
     {
     id: "510",
@@ -202,7 +202,7 @@ export const partnerItems: Partner[] = [
     desc: "Biopac Lembaran Kemasan Ramah Lingkungan",
     subDesc: "Indonesia",
     image: "/img/Partner2/Biopac Lembaran Kemasan Ramah Lingkungan.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    link: "https://s.shopee.co.id/50UwN1hf8S"
   },
     {
     id: "509",
