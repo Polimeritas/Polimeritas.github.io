@@ -4290,7 +4290,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/The Black Swan.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/1Vv3vge4pR"
   },
   {
     id: "Buku",
@@ -4298,7 +4298,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Bio Etika.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/2Vnb7Zuv3U"
   },
   {
     id: "Buku",
@@ -4306,7 +4306,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kartun Genetika.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/2BAkizUm9t"
   },
   {
     id: "Buku",
@@ -4314,7 +4314,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Fenomenologi.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/1qXuKPmlc5"
   },
   {
     id: "Buku",
@@ -4322,7 +4322,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/10 Besar Tari Daerah di Indonesia.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/qfN8azAww"
   },
   {
     id: "Buku",
@@ -4330,7 +4330,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Ensiklopedia Sains.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/4VYfVNJC6m"
   },
   {
     id: "Buku",
@@ -4338,7 +4338,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Hidrologi Pengelolaan Daerah Air Sungai.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/6fdA5P5P3h"
   },
   {
     id: "Buku",
@@ -4346,7 +4346,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/100 Lagu Daerah Terbaik Nusantara.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/W2Wk5p1XK"
   },
   {
     id: "Buku",
@@ -4354,6 +4354,22 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Bangunan Gedung Hijau untuk Daerah Tropis.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/2BAkjB4Y4U"
+  },
+  {
+    id: "Buku",
+    name: "Bioplastik Berbahan Dasar Sisa Hasil Pertanian",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bioplastik Berbahan Dasar Sisa Hasil Pertanian.jpg",
+    link: "https://s.shopee.co.id/2LUAvWkHJy"
+  },
+  {
+    id: "Buku",
+    name: "Teknologi Hilir Sawit",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teknologi Hilir Sawit.jpg",
+    link: "https://s.shopee.co.id/4VYfVX6Ysj"
   },
 ];
