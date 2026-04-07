@@ -127,26 +127,26 @@ export const partnerItems: Partner[] = [
   {
     id: "496",
     name: "496",
-    desc: "Coming Soon",
+    desc: "Besek Bambu - Wadah Makanan",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Besek Bambu - Wadah Makanan.jpg",
+    link: "https://s.shopee.co.id/1gETl5WUYE"
   },
   {
     id: "495",
     name: "495",
-    desc: "Coming Soon",
+    desc: "Beeswax Wraps",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Beeswax Wraps.jpg",
+    link: "https://s.shopee.co.id/6L0JJd1vEj"
   },
   {
     id: "494",
     name: "494",
-    desc: "Coming Soon",
+    desc: "Daun Jati - Wadah Makanan",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Daun Jati - Wadah Makanan.jpg",
+    link: "https://s.shopee.co.id/gLwZAcWYv"
   },
   {
     id: "493",
