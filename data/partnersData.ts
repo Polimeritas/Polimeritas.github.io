@@ -4042,7 +4042,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Tulus untuk Orang yang Salah.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/7fVgrd1fVd"
   },
   {
     id: "Buku Novel",
@@ -4050,7 +4050,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/7 Our Family.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/4AvohDZlKR"
   },
   {
     id: "Buku Novel",
@@ -4058,7 +4058,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Remember Paris.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/2BAkJYyMgg"
   },
   {
     id: "Buku Novel",
@@ -4066,7 +4066,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Orang Miskin Dilarang Sekolah.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/3qIyIfvCx9"
   },
   {
     id: "Buku Novel",
@@ -4074,7 +4074,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Hotel Magnifique.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/qfMjBt2B1"
   },
   {
     id: "Buku Novel",
@@ -4082,7 +4082,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Sisi Tergelap Surga.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/16FjgI0WN"
   },
   {
     id: "Buku Novel",
@@ -4090,7 +4090,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/By Your Side.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/6fd9fx9Cif"
   },
   {
     id: "Buku Novel",
@@ -4098,6 +4098,38 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Janji Tere Liye.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/4fs5IIYDfC"
+  },
+  {
+    id: "Buku Novel",
+    name: "Dilan 1990",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dilan 1990.jpg",
+    link: "https://s.shopee.co.id/AUpsF3GDrg"
+  },
+  {
+    id: "Buku Novel",
+    name: "Dilan 1983",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dilan 1983.jpg",
+    link: "https://s.shopee.co.id/5VRCHt36Lc"
+  },
+  {
+    id: "Buku Novel",
+    name: "Dilan ITB 1997",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dilan ITB 1997.jpg",
+    link: "https://s.shopee.co.id/7AZQGyMxOv"
+  },
+  {
+    id: "Buku Novel",
+    name: "Ancika Pidi Baiq",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ancika Pidi Baiq.jpg",
+    link: "https://s.shopee.co.id/1gETit7gQL"
   },
 ];
