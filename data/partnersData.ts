@@ -76,6 +76,38 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/ukm dan umkm.jpg",
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi Usaha%20"
   },
+    {
+    id: "502",
+    name: "502",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "501",
+    name: "501",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "500",
+    name: "500",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "499",
+    name: "499",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
   {
     id: "498",
     name: "498",
