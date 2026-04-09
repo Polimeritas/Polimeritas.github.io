@@ -3800,6 +3800,46 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Affiliate-Tas Astronot Premium.jpg",
     link: "https://s.shopee.co.id/gLzzIVFQm"
   },
+  {
+    id: "Affiliate",
+    name: "Vitamin Penggemuk Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Vitamin Penggemuk Kucing.jpg",
+    link: "https://s.shopee.co.id/W2ZuAJNrF"
+  },
+  {
+    id: "Affiliate",
+    name: "Parfum BAB Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Parfum BAB Kucing.jpg",
+    link: "https://s.shopee.co.id/5q46G0l58g"
+  },
+  {
+    id: "Affiliate",
+    name: "Shampo Anabul ROA",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Shampo Anabul ROA.jpg",
+    link: "https://s.shopee.co.id/BPjVda5vi"
+  },
+  {
+    id: "Affiliate",
+    name: "Kalung Nama Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Kalung Nama Kucing.jpg",
+    link: "https://s.shopee.co.id/4AvsH1oa8X"
+  },
+  {
+    id: "Affiliate",
+    name: "Cat Feeder",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Cat Feeder.jpg",
+    link: "https://s.shopee.co.id/7AZTqac9hj"
+  },
     {
     id: "industri-1",
     name: "Partner Industri 1",
