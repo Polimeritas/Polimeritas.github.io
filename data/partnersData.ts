@@ -3714,7 +3714,23 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-2",
-    name: "Kaizoo Japanese",
+    name: "Coming Soon",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+    {
+    id: "industri-2",
+    name: "Coming Soon",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+    {
+    id: "industri-2",
+    name: "Coming Soon",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Coming Soon.jpg",
