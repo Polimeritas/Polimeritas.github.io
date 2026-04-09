@@ -3736,7 +3736,7 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
-    {
+  {
     id: "Affiliate",
     name: "Affiliate-Makanan Basah Kucing MR.VET",
     desc: "Partner Industri Polimeritas",
@@ -3767,6 +3767,38 @@ export const partnerIndustriItems: Partner[] = [
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Cemilan Creamy Kucing.jpg",
     link: "https://s.shopee.co.id/30jukwL898"
+  },
+{
+    id: "Affiliate",
+    name: "Affiliate-Mainan Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Mainan Kucing.jpg",
+    link: "https://s.shopee.co.id/808aiep2ZP"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-Baju Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Baju Kucing.jpg",
+    link: "https://s.shopee.co.id/70G3Wr5NNj"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-Tas Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Tas Kucing.jpg",
+    link: "https://s.shopee.co.id/10yqNsUiaG"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-Tas Astronot Premium",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Tas Astronot Premium.jpg",
+    link: "https://s.shopee.co.id/gLzzIVFQm"
   },
     {
     id: "industri-1",
