@@ -3721,7 +3721,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku"
   },
     {
-    id: "industri-2",
+    id: "industri-1",
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
@@ -3729,12 +3729,44 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku"
   },
     {
-    id: "industri-2",
+    id: "industri-1",
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku"
+  },
+    {
+    id: "Affiliate",
+    name: "Affiliate-Makanan Basah Kucing MR.VET",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Makanan Basah Kucing MR.VET.jpg",
+    link: "https://s.shopee.co.id/AAD5Hre7A4"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-Toppet",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Toppet.jpg",
+    link: "https://s.shopee.co.id/8AS0uTvEO1"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-AMI GO",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-AMI GO.jpg",
+    link: "https://s.shopee.co.id/60NWKTdceY"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-Cemilan Creamy Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Cemilan Creamy Kucing.jpg",
+    link: "https://s.shopee.co.id/30jukwL898"
   },
     {
     id: "industri-1",
