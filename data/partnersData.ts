@@ -3738,7 +3738,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Makanan Basah Kucing MR.VET",
+    name: "Makanan Basah Kucing MR.VET",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Makanan Basah Kucing MR.VET.jpg",
@@ -3746,7 +3746,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Toppet",
+    name: "Toppet",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Toppet.jpg",
@@ -3754,7 +3754,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-AMI GO",
+    name: "AMI GO",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-AMI GO.jpg",
@@ -3762,7 +3762,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Cemilan Creamy Kucing",
+    name: "Cemilan Creamy Kucing",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Cemilan Creamy Kucing.jpg",
@@ -3770,7 +3770,7 @@ export const partnerIndustriItems: Partner[] = [
   },
 {
     id: "Affiliate",
-    name: "Affiliate-Mainan Kucing",
+    name: "Mainan Kucing",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Mainan Kucing.jpg",
@@ -3778,7 +3778,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Baju Kucing",
+    name: "Baju Kucing",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Baju Kucing.jpg",
@@ -3786,7 +3786,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Tas Kucing",
+    name: "Tas Kucing",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Tas Kucing.jpg",
@@ -3794,7 +3794,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Tas Astronot Premium",
+    name: "Tas Astronot Premium",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Tas Astronot Premium.jpg",
