@@ -4516,4 +4516,28 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Teknologi Hilir Sawit.jpg",
     link: "https://s.shopee.co.id/4VYfVX6Ysj"
   },
+  {
+    id: "Buku",
+    name: "26 Kisah Inspiratif Pemimpin Industri Properti",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/26 Kisah Inspiratif Pemimpin Industri Properti.jpg",
+    link: "https://s.shopee.co.id/AUpvoysGkD"
+  },
+  {
+    id: "Buku",
+    name: "Mikroorganisme dan Aplikasinya Diberbagai Industri",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Mikroorganisme dan Aplikasinya Diberbagai Industri.jpg",
+    link: "https://s.shopee.co.id/2LUE60iH5j"
+  },
+  {
+    id: "Buku",
+    name: "Psikologi Industri dan Organisasi Masyarakat",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Psikologi Industri dan Organisasi Masyarakat.jpg",
+    link: "https://s.shopee.co.id/1BIGhv7ZV3"
+  },
 ];
