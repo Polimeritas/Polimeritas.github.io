@@ -3800,6 +3800,62 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Affiliate-Tas Astronot Premium.jpg",
     link: "https://s.shopee.co.id/gLzzIVFQm"
   },
+  {
+    id: "Affiliate",
+    name: "Affiliate-VEV Pounch",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-VEV Pounch.jpg",
+    link: "https://s.shopee.co.id/9019Vc6ccf"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-Snack Kucing OYISI",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Snack Kucing OYISI.jpg",
+    link: "https://s.shopee.co.id/40cTYUMFm2"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-Cat Choize Kitten",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Cat Choize Kitten.jpg",
+    link: "https://s.shopee.co.id/AKWX6AL7Z5"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-Felibite",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Felibite.jpg",
+    link: "https://s.shopee.co.id/2LUFZWV3VN"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-Excel",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Excel.jpg",
+    link: "https://s.shopee.co.id/7ppC7f6HiR"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-Liebao Snack",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Liebao Snack.jpg",
+    link: "https://s.shopee.co.id/3fzdA2Kiie"
+  },
+  {
+    id: "Affiliate",
+    name: "Affiliate-Snack Kucing Creamy (Susu Kambing)",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Snack Kucing Creamy (Susu Kambing).jpg",
+    link: "https://s.shopee.co.id/2VnflujaUx"
+  },
     {
     id: "industri-1",
     name: "Partner Industri 1",
