@@ -3862,7 +3862,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Stick Bulu untuk Kucing.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/70G5C27BpF"
   },
   {
     id: "Affiliate",
@@ -3870,7 +3870,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Tas Kucing Selempang.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/4fsAPvleSb"
   },
   {
     id: "Affiliate",
@@ -3878,7 +3878,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Gantungan Kunci Kucing.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/2LUFdfWu2y"
   },
   {
     id: "Affiliate",
@@ -3886,7 +3886,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Mister Puss Dry Food.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/6pwezxbEHr"
   },
   {
     id: "Affiliate",
@@ -3894,7 +3894,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Poocha Wet Food.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/16KrQrI9o"
   },
     {
     id: "industri-1",
