@@ -3802,7 +3802,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-VEV Pounch",
+    name: "VEV Pounch",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-VEV Pounch.jpg",
@@ -3810,7 +3810,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Snack Kucing OYISI",
+    name: "Snack Kucing OYISI",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Snack Kucing OYISI.jpg",
@@ -3818,7 +3818,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Cat Choize Kitten",
+    name: "Cat Choize Kitten",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Cat Choize Kitten.jpg",
@@ -3826,7 +3826,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Felibite",
+    name: "Felibite",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Felibite.jpg",
@@ -3834,7 +3834,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Excel",
+    name: "Excel",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Excel.jpg",
@@ -3842,7 +3842,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Liebao Snack",
+    name: "Liebao Snack",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Liebao Snack.jpg",
@@ -3850,11 +3850,51 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Affiliate-Snack Kucing Creamy (Susu Kambing)",
+    name: "Snack Kucing Creamy (Susu Kambing)",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Snack Kucing Creamy (Susu Kambing).jpg",
     link: "https://s.shopee.co.id/2VnflujaUx"
+  },
+  {
+    id: "Affiliate",
+    name: "Stick Bulu untuk Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Stick Bulu untuk Kucing.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
+    name: "Tas Kucing Selempang",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Tas Kucing Selempang.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
+    name: "Gantungan Kunci Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Gantungan Kunci Kucing.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
+    name: "Mister Puss Dry Food",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Mister Puss Dry Food.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
+    name: "Poocha Wet Food",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Poocha Wet Food.jpg",
+    link: "https://s.shopee.co.id/"
   },
     {
     id: "industri-1",
