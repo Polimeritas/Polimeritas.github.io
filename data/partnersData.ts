@@ -3928,6 +3928,39 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Affiliate-Poocha Wet Food.jpg",
     link: "https://s.shopee.co.id/16KrQrI9o"
   },
+  {
+    id: "Affiliate",
+    name: "Tempat Minum Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Tempat Minum Kucing.jpg",
+    link: "https://s.shopee.co.id/16MSKSIt8"
+  },
+  {
+    id: "Affiliate",
+    name: "Paket Grooming Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Paket Grooming Kucing.jpg",
+    link: "https://s.shopee.co.id/8fOKmCww0f"
+  },
+
+  {
+    id: "Affiliate",
+    name: "Box BAB Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Box BAB Kucing.jpg",
+    link: "https://s.shopee.co.id/3fzeoyyhHR"
+  },
+  {
+    id: "Affiliate",
+    name: "Starter Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Starter Kucing.jpg",
+    link: "https://s.shopee.co.id/AUpyxUwNIQ"
+  },
     {
     id: "industri-1",
     name: "Partner Industri 1",
