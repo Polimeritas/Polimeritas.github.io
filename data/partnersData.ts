@@ -3999,6 +3999,14 @@ export const partnerBookItems: Partner[] = [
   },
   {
     id: "Buku Novel",
+    name: "MEOW",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/MEOW - SAM AUSTEN.jpg",
+    link: "https://s.shopee.co.id/4qBdUomCNg"
+  },
+  {
+    id: "Buku Novel",
     name: "Seporsi Mie Ayam Sebelum Mati",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
