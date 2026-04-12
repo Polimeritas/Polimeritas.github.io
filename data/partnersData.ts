@@ -3600,6 +3600,7 @@ export const partnerItems: Partner[] = [
 
 // DATA PARTNER INDUSTRI
 export const partnerIndustriItems: Partner[] = [
+  // --- PARTNER UTAMA ---
   {
     id: "industri-15",
     name: "Booyenku Shop",
@@ -3616,7 +3617,6 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner/resin.png",
     link: "https://www.instagram.com/p/DUKF7ZUEo7N/"
   },
-
   {
     id: "industri-13",
     name: "Zefa Valindo Jaya",
@@ -3641,7 +3641,6 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/anima companion.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7609828032559500564"
   },
-
   {
     id: "industri-10",
     name: "Kiyopaw",
@@ -3650,7 +3649,6 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/kiyopaw.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7607786649476500756"
   },
-
   {
     id: "industri-9",
     name: "Anima&Co",
@@ -3659,8 +3657,7 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/animanco.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7607417575374359828"
   },
-
-{
+  {
     id: "industri-8",
     name: "Ramical",
     desc: "Partner Industri Polimeritas",
@@ -3668,7 +3665,6 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/ramical.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7611780663938682133"
   },
-
   {
     id: "industri-7",
     name: "Our Daily Pets",
@@ -3677,8 +3673,7 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/ourdailypet.jpeg",
     link: "https://www.tiktok.com/@booyenku/video/7615819238514625813"
   },
-  
-{
+  {
     id: "industri-6",
     name: "Bite of Wild Indonesia",
     desc: "Partner Industri Polimeritas",
@@ -3686,7 +3681,6 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/bite of wild indonesia.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7615617317711498516"
   },
-
   {
     id: "industri-5",
     name: "Olive Care-Cat Grass",
@@ -3695,7 +3689,6 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Olive Care Cat Grass.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7623597299674975508"
   },
-
   {
     id: "industri-4",
     name: "Erapet - Bravery",
@@ -3720,7 +3713,9 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/PET VIGOR ID.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
-    {
+
+  // --- COMING SOON SECTION ---
+  {
     id: "industri-1",
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas",
@@ -3728,7 +3723,7 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
-    {
+  {
     id: "industri-1",
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas",
@@ -3736,7 +3731,7 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
-    {
+  {
     id: "industri-1",
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas",
@@ -3744,7 +3739,7 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
-    {
+  {
     id: "industri-1",
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas",
@@ -3752,7 +3747,7 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
-    {
+  {
     id: "industri-1",
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas",
@@ -3760,7 +3755,7 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
-    {
+  {
     id: "industri-1",
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas",
@@ -3768,6 +3763,8 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
+
+  // --- AFFILIATE SECTION ---
   {
     id: "Affiliate",
     name: "Makanan Basah Kucing MR.VET",
@@ -3800,7 +3797,7 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Affiliate-Cemilan Creamy Kucing.jpg",
     link: "https://s.shopee.co.id/30jukwL898"
   },
-{
+  {
     id: "Affiliate",
     name: "Mainan Kucing",
     desc: "Partner Industri Polimeritas",
@@ -3944,7 +3941,6 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Affiliate-Paket Grooming Kucing.jpg",
     link: "https://s.shopee.co.id/8fOKmCww0f"
   },
-
   {
     id: "Affiliate",
     name: "Box BAB Kucing",
@@ -3961,17 +3957,12 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Affiliate-Starter Kucing.jpg",
     link: "https://s.shopee.co.id/AUpyxUwNIQ"
   },
-    {
-    id: "industri-1",
-    name: "Partner Industri 1",
-    desc: "Segera Hadir - Partner Industri Polimeritas",
-    subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
-  },
-  ...Array.from({ length: 14 }).map((_, i) => ({
-    id: `industri-${i + 2}`,
-    name: `Partner Industri ${i + 2}`,
+
+  // --- LAST ITEMS & DYNAMIC DUMMY ---
+  { id: "industri-1", name: "Coming Soon", desc: "Partner Industri Polimeritas", subDesc: "Industri", image: "/img/Partner2/Coming Soon.jpg", link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1" },
+  ...Array.from({ length: 20 }).map((_, i) => ({
+    id: `industri-dummy-${i + 100}`, 
+    name: `Coming Soon ${i + 1}`,
     desc: "Segera Hadir - Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Coming Soon.jpg",
