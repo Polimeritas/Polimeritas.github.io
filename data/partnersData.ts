@@ -4804,4 +4804,55 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/untuk Satu Nama yang Sulit Kuhapus.jpg",
     link: "https://s.shopee.co.id/qfVSGMpoC"
   },
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    id: "Buku Novel",
+    name: "Mari Pergi Lebih Jauh",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Mari Pergi Lebih Jauh.jpg",
+    link: "https://s.shopee.co.id/6Ah1oOPFZV"
+  },
+  {
+    id: "Buku Novel",
+    name: "Namaku Alam",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Namaku Alam.jpg",
+    link: "https://s.shopee.co.id/AADAZljZYG"
+  },
+  {
+    id: "Buku Novel",
+    name: "Ronggeng Dukuh Paruk",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ronggeng Dukuh Paruk.jpg",
+    link: "https://s.shopee.co.id/5VRL1D6ZTu"
+  },
+  {
+    id: "Buku Novel",
+    name: "Kudasai",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kudasai.jpg",
+    link: "https://s.shopee.co.id/8fOMn5AUTg"
+  },
+  {
+    id: "Buku Novel",
+    name: "Aku Kalah Aku Merindukanmu",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Aku Kalah Aku Merindukanmu.jpg",
+    link: "https://s.shopee.co.id/2qQZqOaq6V"
+  },
 ];
