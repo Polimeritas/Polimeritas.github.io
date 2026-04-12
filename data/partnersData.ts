@@ -4764,4 +4764,44 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Nasi Lemak.jpg",
     link: "https://s.shopee.co.id/3LMqOXY1Gd"
   },
+  {
+    id: "Buku Novel",
+    name: "Musim yang Tak Sempat Kita Miliki",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Musim yang Tak Sempat Kita Miliki.jpg",
+    link: "https://s.shopee.co.id/16OSmI3fS"
+  },
+  {
+    id: "Buku Novel",
+    name: "Bandung Menjelang Pagi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bandung Menjelang Pagi.jpg",
+    link: "https://s.shopee.co.id/901DBIxOnc"
+  },
+  {
+    id: "Buku Novel",
+    name: "Berandal Bandung",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Berandal Bandung.jpg",
+    link: "https://s.shopee.co.id/9AKdNbQ6tv"
+  },
+  {
+    id: "Buku Novel",
+    name: "Lima Tanya yang Tertinggal Saat Ibu Pergi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Lima Tanya yang Tertinggal Saat Ibu Pergi.jpg",
+    link: "https://s.shopee.co.id/901DBHrcFy"
+  },
+  {
+    id: "Buku Novel",
+    name: "untuk Satu Nama yang Sulit Kuhapus",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/untuk Satu Nama yang Sulit Kuhapus.jpg",
+    link: "https://s.shopee.co.id/qfVSGMpoC"
+  },
 ];
