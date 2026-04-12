@@ -4700,4 +4700,68 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Psikologi Industri dan Organisasi Masyarakat.jpg",
     link: "https://s.shopee.co.id/1BIGhv7ZV3"
   },
+  {
+    id: "Buku Novel",
+    name: "Merantau Ke Deli",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Merantau Ke Deli.jpg",
+    link: "https://s.shopee.co.id/5q4BMhlAFu"
+  },
+  {
+    id: "Buku Novel",
+    name: "Terusir",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Terusir.jpg",
+    link: "https://s.shopee.co.id/2LUJCIuAtQ"
+  },
+  {
+    id: "Buku Novel",
+    name: "Buya Hamka",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Buya Hamka.jpg",
+    link: "https://s.shopee.co.id/1Lbm0W4GML"
+  },
+  {
+    id: "Buku Novel",
+    name: "Negeri 5 Menara",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Negeri 5 Menara.jpg",
+    link: "https://s.shopee.co.id/1qY2bSbdOe"
+  },
+  {
+    id: "Buku Novel",
+    name: "Guru Aini",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Guru Aini.jpg",
+    link: "https://s.shopee.co.id/808fx2zn1d"
+  },
+  {
+    id: "Buku Novel",
+    name: "As Long As The Lemon Trees Grow",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/As Long As The Lemon Trees Grow.jpg",
+    link: "https://s.shopee.co.id/5VRKyTYL3x"
+  },
+  {
+    id: "Buku Novel",
+    name: "Orang Orang Biasa",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Orang Orang Biasa.jpg",
+    link: "https://s.shopee.co.id/9fGtw9hzQD"
+  },
+  {
+    id: "Buku Novel",
+    name: "Nasi Lemak",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Nasi Lemak.jpg",
+    link: "https://s.shopee.co.id/3LMqOXY1Gd"
+  },
 ];
