@@ -3713,24 +3713,23 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/PET VIGOR ID.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
-
+  {
+    id: "industri-1",
+    name: "Kaizo Japaness",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+  {
+    id: "industri-1",
+    name: "Pororo Official",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
   // --- COMING SOON SECTION ---
-  {
-    id: "industri-1",
-    name: "Coming Soon",
-    desc: "Partner Industri Polimeritas",
-    subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.tiktok.com/@booyenku"
-  },
-  {
-    id: "industri-1",
-    name: "Coming Soon",
-    desc: "Partner Industri Polimeritas",
-    subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.tiktok.com/@booyenku"
-  },
   {
     id: "industri-1",
     name: "Coming Soon",
