@@ -4855,4 +4855,36 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Aku Kalah Aku Merindukanmu.jpg",
     link: "https://s.shopee.co.id/2qQZqOaq6V"
   },
+  {
+    id: "Buku Novel",
+    name: "Delapan at Edinburgh",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Delapan at Edinburgh.jpg",
+    link: "https://s.shopee.co.id/9AKeRe1lXm"
+  },
+  {
+    id: "Buku Novel",
+    name: "Ada Zombie di Sekolah",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ada Zombie di Sekolah.jpg",
+    link: "https://s.shopee.co.id/W2g7jfA2q"
+  },
+  {
+    id: "Buku Novel",
+    name: "Kami Bukan Sarjana Kertas",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kami Bukan Sarjana Kertas.jpg",
+    link: "https://s.shopee.co.id/3B3RIeAKF6"
+  },
+  {
+    id: "Buku Novel",
+    name: "Kios Pasar Sore",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kios Pasar Sore.jpg",
+    link: "https://s.shopee.co.id/2qQatyox3A"
+  },
 ];
