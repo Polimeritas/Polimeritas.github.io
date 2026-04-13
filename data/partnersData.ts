@@ -540,22 +540,22 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/jasuke leon.jpg",
     link: "https://www.instagram.com/reel/DIs15N_SWor/"
   },
-  // {
-  //   id: "473",
-  //   name: "473",
-  //   desc: "Coming Soon",
-  //   subDesc: "Indonesia",
-  //   image: "Coming Soon",
-  //   link: "Coming Soon"
-  // },
-  // {
-  //   id: "472",
-  //   name: "472",
-  //   desc: "Coming Soon",
-  //   subDesc: "Indonesia",
-  //   image: "Coming Soon",
-  //   link: "Coming Soon"
-  // },
+  {
+    id: "473",
+    name: "473",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "472",
+    name: "472",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
   {
     id: "471",
     name: "471",
@@ -1517,6 +1517,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/6AWaJMBGsA"
   },
   {
+    id: "294",
+    name: "294",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "293",
     name: "293",
     desc: "Fresh Fruit Juice Pengekstrak Buah",
@@ -1731,6 +1739,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/267.jpg",
     link: "https://s.shopee.co.id/7peoHwcpxi"
+  },
+  {
+    id: "266",
+    name: "97",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "265",
@@ -2021,12 +2037,52 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/4VOMD7uRbN"
   },
   {
+    id: "229",
+    name: "229",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "228",
+    name: "228",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "227",
+    name: "227",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "226",
+    name: "226",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "225",
     name: "225",
     desc: "Mainan Motor Hamster Elektrik Mini",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/225.png",
     link: "https://s.shopee.co.id/1VkkdPl8g3"
+  },
+  {
+    id: "224",
+    name: "224",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "223",
@@ -2149,6 +2205,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/7KiXZatquy"
   },
   {
+    id: "208",
+    name: "208",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "207",
     name: "207",
     desc: "Morphy Richards Mr9802 Juicer",
@@ -2195,6 +2259,22 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/cuka apel premium.jpg",
     link: "https://s.shopee.co.id/8pYWdkcGkd"
+  },
+  {
+    id: "201",
+    name: "201",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "200",
+    name: "200",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "199",
@@ -2341,6 +2421,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/8pXLKEAs6s"
   },
   {
+    id: "181",
+    name: "181",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "180",
     name: "180",
     desc: "Stiker Dinding Dapur / Stiker Dinding",
@@ -2355,6 +2443,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/179.jpg",
     link: "https://s.shopee.co.id/AA2iudaqK8"
+  },
+  {
+    id: "178",
+    name: "178",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "177",
@@ -2395,6 +2491,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/173.png",
     link: "https://s.shopee.co.id/3q8fMvEJGt"
+  },
+  {
+    id: "172",
+    name: "172",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "171",
@@ -2485,6 +2589,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/1LRK0DtyIS"
   },
   {
+    id: "160",
+    name: "160",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "159",
     name: "159",
     desc: "Hicon Portable Ice Maker Dengan Handle",
@@ -2547,6 +2659,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/151.png",
     link: "https://s.shopee.co.id/20h0nHD8G2"
+  },
+  {
+    id: "150",
+    name: "150",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "149",
@@ -2677,6 +2797,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/10oTZoZsPq"
   },
   {
+    id: "133",
+    name: "133",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "132",
     name: "132",
     desc: "Kasur Angin Naturehike Nh22Fcd04",
@@ -2723,6 +2851,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/127.jpg",
     link: "https://s.shopee.co.id/7AP6u8ysZJ"
+  },
+  {
+    id: "126",
+    name: "126",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "125",
@@ -2941,6 +3077,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/9zj91sOKxk"
   },
   {
+    id: "97",
+    name: "97",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "96",
     name: "96",
     desc: "(100 Lembaran) Amplop Lebaran ViralShopee - Polimeritas",
@@ -2971,6 +3115,22 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/93.jpg",
     link: "https://s.shopee.co.id/30ZOgwhwIs"
+  },
+  {
+    id: "92",
+    name: "92",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "91",
+    name: "91",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "90",
@@ -3067,6 +3227,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/79.jpg",
     link: "https://s.shopee.co.id/AKLzQDCPB3"
+  },
+  {
+    id: "78",
+    name: "78",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "77",
@@ -3237,6 +3405,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/2qFyGgyIW4"
   },
   {
+    id: "52",
+    name: "52",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "51",
     name: "51",
     desc: "Meja Pintar Multi Teknologi Meja Viral Tronxi",
@@ -3357,6 +3533,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/9UmsBFKLHZ"
   },
   {
+    id: "35",
+    name: "35",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "34",
     name: "34",
     desc: "Gpd Micro Pc 8Gb/256Gb Pocket Mini",
@@ -3387,6 +3571,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/31.png",
     link: "https://s.shopee.co.id/6fSgnxjB8z"
+  },
+  {
+    id: "30",
+    name: "30",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "29",
@@ -3467,6 +3659,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/20.png",
     link: "https://s.shopee.co.id/10oK39X8Vw"
+  },
+  {
+    id: "19",
+    name: "19",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "18",
