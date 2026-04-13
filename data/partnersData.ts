@@ -3715,7 +3715,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-1",
-    name: "Kaizo Japaness",
+    name: "Kaizo Japanese",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Coming Soon.jpg",
