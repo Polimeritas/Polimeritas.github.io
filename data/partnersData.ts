@@ -1325,22 +1325,6 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/1B7uO6huRN"
   },
   {
-    id: "377",
-    name: "377",
-    desc: "Mainan Anak Bebek Pingguin",
-    subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/377.png",
-    link: "https://s.shopee.co.id/1B7uO6huRN"
-  },
-  {
-    id: "376",
-    name: "376",
-    desc: "Han River Rice Cooker Mini 0.8L",
-    subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/376.jpg",
-    link: "https://s.shopee.co.id/8zqliUMKTw"
-  },
-  {
     id: "376",
     name: "376",
     desc: "Han River Rice Cooker Mini 0.8L",
@@ -1649,7 +1633,7 @@ export const partnerItems: Partner[] = [
     name: "278",
     desc: "Ccg Alat Pengupas Sisik Ikan Stainless Steel",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/282.jpg",
+    image: "/img/Partner/278.jpg",
     link: "https://s.shopee.co.id/vwxphien"
   },
   {
@@ -1823,10 +1807,10 @@ export const partnerItems: Partner[] = [
   {
     id: "256",
     name: "256",
-    desc: "Back Flow Valve Rucika 3' Dan 4' ,Fiting Katup",
+    desc: "Coming Soon",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/256.jpg",
-    link: "https://s.shopee.co.id/10oU9E2yKI"
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "255",
@@ -2217,7 +2201,7 @@ export const partnerItems: Partner[] = [
     name: "207",
     desc: "Morphy Richards Mr9802 Juicer",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/206.jpg",
+    image: "/img/Partner/207.jpg",
     link: "https://s.shopee.co.id/6V9Qa0BQZ2"
   },
   {
