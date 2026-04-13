@@ -3391,10 +3391,10 @@ export const partnerItems: Partner[] = [
   {
     id: "52",
     name: "52",
-    desc: "Coming Soon",
+    desc: "Lab-Gelas Ukur Takar",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Lab-Gelas Ukur Takar.png",
+    link: "https://s.shopee.co.id/8V4xkVAKwa"
   },
   {
     id: "51",
@@ -3519,10 +3519,10 @@ export const partnerItems: Partner[] = [
   {
     id: "35",
     name: "35",
-    desc: "Coming Soon",
+    desc: "Lab-Kertas Lakmus",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Lab-Kertas Lakmus.png",
+    link: "https://s.shopee.co.id/8pho94nffA"
   },
   {
     id: "34",
@@ -3559,10 +3559,10 @@ export const partnerItems: Partner[] = [
   {
     id: "30",
     name: "30",
-    desc: "Coming Soon",
+    desc: "Lab-Kaca Arloji",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Lab-Kaca Arloji.png",
+    link: "https://s.shopee.co.id/4AvyaTMC2x"
   },
   {
     id: "29",
@@ -3647,10 +3647,10 @@ export const partnerItems: Partner[] = [
   {
     id: "19",
     name: "19",
-    desc: "Coming Soon",
+    desc: "Lab-Stainless Steel SUS 304",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Lab-Stainless Steel SUS 304.png",
+    link: "https://s.shopee.co.id/9Ke4jvPb5E"
   },
   {
     id: "18",
