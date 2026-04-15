@@ -3843,8 +3843,8 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-14",
-    name: "Biomass Resin Holdings-Exclusive",
-    desc: "Partner Industri Polimeritas",
+    name: "Biomass Resin Holdings",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner/resin.png",
     link: "https://www.instagram.com/p/DUKF7ZUEo7N/"
