@@ -3886,7 +3886,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Anima&Co",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/animanco.jpg",
+    image: "/img/Partner2/animalncowithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7607417575374359828"
   },
   {
@@ -3902,7 +3902,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Our Daily Pets",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/ourdailypet.jpeg",
+    image: "/img/Partner2/ourdailypetswithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7615819238514625813"
   },
   {
@@ -3910,7 +3910,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Bite of Wild Indonesia",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/bite of wild indonesia.jpg",
+    image: "/img/Partner2/biteofwildwithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7615617317711498516"
   },
   {
