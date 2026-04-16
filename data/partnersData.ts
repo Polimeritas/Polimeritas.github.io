@@ -4537,7 +4537,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Textbook of Polymer Science.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/7AZf6lp3K5"
   },
    {
     id: "Buku Polymer",
@@ -4545,7 +4545,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Polimer dalam Sistem Penghantaran Obat.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/5q4HWL0bCi"
   },
   {
     id: "Buku Polymer",
@@ -4553,7 +4553,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Polymer Adhesion.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9AKjUTwZzm"
   },
   {
     id: "Buku Polymer",
@@ -4561,7 +4561,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Bahan Polimer Konstruksi Bangunan.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/5L80vSEkwK"
   },
       {
     id: "Buku Polymer",
@@ -4569,7 +4569,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Strategi Skrining Polimer EOR.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/70GEuaXOrK"
   },
    {
     id: "Buku Polymer",
@@ -4577,7 +4577,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Polymer Processing.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/AKWgskYXrR"
   },
   {
     id: "Buku Polymer",
@@ -4585,7 +4585,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Molekular Imprinting Polimer.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/40cdL8N3w4"
   },
   {
     id: "Buku Polymer",
@@ -4593,7 +4593,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Design of Fibre-Polymer Composite Structures.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/901JILEy0o"
   },
   {
     id: "Buku Novel",
