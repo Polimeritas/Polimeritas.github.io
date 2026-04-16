@@ -4473,7 +4473,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Pemodelan dan Simulasi Aliran Polimer.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9paQHQ9pxu"
   },
    {
     id: "Buku Polymer",
@@ -4481,7 +4481,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Principles of Polymer Engineering.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9ztqTkLvfO"
   },
   {
     id: "Buku Polymer",
@@ -4489,7 +4489,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Polimer Tercetak Molekul.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/gMBMcIdVK"
   },
   {
     id: "Buku Polymer",
@@ -4497,7 +4497,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Introduction to Physical Polymer Science.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/5fkrJpTznb"
   },
   {
     id: "Buku Polymer",
@@ -4505,7 +4505,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Pengembangan Surfaktan dan Polimer.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/30k68wty2p"
   },
    {
     id: "Buku Polymer",
@@ -4513,7 +4513,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Polimer Mutakhir.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9paQHWrKrg"
   },
   {
     id: "Buku Polymer",
@@ -4521,7 +4521,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kimia Material Polimer.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9UxZsw3TVB"
   },
   {
     id: "Buku Polymer",
@@ -4529,7 +4529,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kimia Polimer Dr Eli.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/50VAWhd7EH"
   },
   {
     id: "Buku Polymer",
@@ -5117,5 +5117,45 @@ export const partnerBookItems: Partner[] = [
     subDesc: "Indonesia",
     image: "/img/Partner2/Kios Pasar Sore.jpg",
     link: "https://s.shopee.co.id/2qQatyox3A"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Biokomposit Masa Depan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Biokomposit Masa Depan.jpg",
+    link: "https://s.shopee.co.id/1Lbs9jI23Z"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Film Biokomposit",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Film Biokomposit.jpg",
+    link: "https://s.shopee.co.id/9Ke9gPBHEY"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Biokomposit Berbasis Serat Sembukan (Paederia Foetida L.) – Pati Colocasia Esculenta",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Biokomposit Berbasis Serat Sembukan (Paederia Foetida L.) – Pati Colocasia Esculenta.jpg",
+    link: "https://s.shopee.co.id/9Ke9gNWQwY"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Produksi Kertas & Papan Komposit Tanpa Kayu Hutan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Produksi Kertas & Papan Komposit Tanpa Kayu Hutan.jpg",
+    link: "https://s.shopee.co.id/4fsK7lkslg"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Teknologi Papan Komposit Diperkuat Serat Kulit Jagung",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teknologi Papan Komposit Diperkuat Serat Kulit Jagung.jpg",
+    link: "https://s.shopee.co.id/20rYwrHR8Z"
   },
 ];
