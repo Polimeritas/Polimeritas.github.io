@@ -3950,7 +3950,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Pororo Official",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/pororo.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
   {
@@ -3958,7 +3958,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Holycats Lab",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Vita Meat.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
   {
@@ -3968,6 +3968,30 @@ export const partnerIndustriItems: Partner[] = [
     subDesc: "Industri",
     image: "/img/Partner2/DS Exclusive Parfume.jpg",
     link: "https://chat.whatsapp.com/C0InZ1RMjsT2ghPiuQSV1a?mode=gi_t"
+  },
+  {
+    id: "industri-1",
+    name: "Coming Soon",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/DS Exclusive Parfume.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+  {
+    id: "industri-1",
+    name: "Coming Soon",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/DS Exclusive Parfume.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+  {
+    id: "industri-1",
+    name: "Coming Soon",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/DS Exclusive Parfume.jpg",
+    link: "https://www.tiktok.com/@booyenku"
   },
   // --- COMING SOON SECTION ---
   {
