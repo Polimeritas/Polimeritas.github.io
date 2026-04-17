@@ -3971,10 +3971,10 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-1",
-    name: "Coming Soon",
+    name: "Furlife",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Furlife.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
   {
