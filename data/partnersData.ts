@@ -4220,7 +4220,30 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Affiliate-Starter Kucing.jpg",
     link: "https://s.shopee.co.id/AUpyxUwNIQ"
   },
-
+  {
+    id: "Affiliate",
+    name: "Hairball Gel Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Hairball Gel Kucing.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
+    name: "Topi Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Topi Kucing.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
+    name: "Kandang Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Kandang Kucing.jpg",
+    link: "https://s.shopee.co.id/"
+  },
   // --- LAST ITEMS & DYNAMIC DUMMY ---
   { id: "industri-1", name: "Coming Soon", desc: "Partner Industri Polimeritas", subDesc: "Industri", image: "/img/Partner2/Coming Soon.jpg", link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1" },
   ...Array.from({ length: 20 }).map((_, i) => ({
