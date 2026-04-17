@@ -3967,7 +3967,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/DS Exclusive Parfume.jpg",
-    link: "https://www.tiktok.com/@booyenku"
+    link: "https://wa.me/6285214991705"
   },
   // --- COMING SOON SECTION ---
   {
