@@ -3963,10 +3963,10 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-1",
-    name: "Kaizoo Japanese",
+    name: "DS Exclusive Parfume",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/DS Exclusive Parfume.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
   // --- COMING SOON SECTION ---
