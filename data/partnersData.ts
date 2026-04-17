@@ -3974,7 +3974,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/DS Exclusive Parfume.jpg",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
   {
@@ -3982,7 +3982,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/DS Exclusive Parfume.jpg",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
   {
@@ -3990,7 +3990,15 @@ export const partnerIndustriItems: Partner[] = [
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/DS Exclusive Parfume.jpg",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+  {
+    id: "industri-1",
+    name: "Coming Soon",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
   // --- COMING SOON SECTION ---
