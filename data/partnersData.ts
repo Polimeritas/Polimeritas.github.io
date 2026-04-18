@@ -143,10 +143,10 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "Partner Polimeritas-Umum",
-    desc: "Coming Soon",
+    desc: "Sendal Jepit Terapi",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Sendal Jepit Terapi.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7623602472594001172"
   },
   {
     id: "Partner Polimeritas",
