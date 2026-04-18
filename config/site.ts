@@ -61,7 +61,7 @@ export const siteConfig: SiteConfig = {
   ],
 
   links: {
-    volunteer: "https://bit.ly/opvolunteerpolimeritas2",
+    volunteer: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1&fbzx=2657530912750765225",
   },
 
   navItems: [
