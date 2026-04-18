@@ -77,16 +77,96 @@ export const partnerItems: Partner[] = [
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi Usaha%20"
   },
   {
-    id: "525",
-    name: "525",
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Roti Bangdo",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Berbagi Roti Bareng BangDoIndonesia.jpg",
+    link: "https://www.instagram.com/reel/DGUyG7SyRnF/"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Custom Cosplay Eko",
+    subDesc: "Tulungagung",
+    image: "/img/Partner2/Custom Cosplay Eko.jpg",
+    link: "https://www.instagram.com/reel/DOYh1LikgEp/"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Kinrose Craft Ecoprint",
+    subDesc: "Jakarta",
+    image: "/img/Partner2/kinrose.jpg",
+    link: "https://www.instagram.com/reel/DHVkFrayDdO/"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Ketapang Manis - Ecoprint",
+    subDesc: "Bangka Belitung",
+    image: "/img/Partner2/ketapang manis ecoprint.jpg",
+    link: "https://www.instagram.com/reel/DHb9znaTQoq/"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Lu Li Hortifulli Hampers by ESC",
+    subDesc: "Jabodetabek",
+    image: "/img/Partner2/Lu Li Hortifulli Hampers by ESC.png",
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20mau%20beli%20Hampers%20"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Miniatur Gerobak dan Jok",
+    subDesc: "Bandung",
+    image: "/img/Partner2/jokracing.jpg",
+    link: "https://www.instagram.com/reel/DP6fo6-EtIS/"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Nasi Kuning Mba Selvi",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Nasi Kuning Mba Silvi.jpg",
+    link: "https://www.instagram.com/reel/DKyUFdWTW1h/"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Handmade Rajutan",
+    subDesc: "Jakarta",
+    image: "/img/Partner2/Handmade Rajutan.jpg",
+    link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
   },
   {
-    id: "524",
-    name: "524",
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Coming Soon",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
@@ -95,34 +175,34 @@ export const partnerItems: Partner[] = [
   {
     id: "523",
     name: "523",
-    desc: "Coming Soon",
+    desc: "Mainan Mobil Panel Surya",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Mainan Mobil Panel Surya.jpg",
+    link: "https://s.shopee.co.id/2LUKNtFx8J"
   },
     {
     id: "522",
     name: "522",
-    desc: "Coming Soon",
+    desc: "Mainan Generator Tangan",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Mainan Generator Tangan.jpg",
+    link: "https://s.shopee.co.id/3qJ8AcAQom"
   },
   {
     id: "521",
     name: "521",
-    desc: "Coming Soon",
+    desc: "Mainan Kayu",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Mainan Kayu.jpg",
+    link: "https://s.shopee.co.id/8V4xj9vXJ5"
   },
   {
     id: "520",
     name: "520",
-    desc: "Coming Soon",
+    desc: "Mainan Mikroskop",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Mainan Mikroskop.jpg",
+    link: "https://s.shopee.co.id/4AvyZAYhZi"
   },
   {
     id: "519",
@@ -492,22 +572,22 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/jasuke leon.jpg",
     link: "https://www.instagram.com/reel/DIs15N_SWor/"
   },
-  // {
-  //   id: "473",
-  //   name: "473",
-  //   desc: "Coming Soon",
-  //   subDesc: "Indonesia",
-  //   image: "Coming Soon",
-  //   link: "Coming Soon"
-  // },
-  // {
-  //   id: "472",
-  //   name: "472",
-  //   desc: "Coming Soon",
-  //   subDesc: "Indonesia",
-  //   image: "Coming Soon",
-  //   link: "Coming Soon"
-  // },
+  {
+    id: "473",
+    name: "473",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "472",
+    name: "472",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
   {
     id: "471",
     name: "471",
@@ -1277,22 +1357,6 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/1B7uO6huRN"
   },
   {
-    id: "377",
-    name: "377",
-    desc: "Mainan Anak Bebek Pingguin",
-    subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/377.png",
-    link: "https://s.shopee.co.id/1B7uO6huRN"
-  },
-  {
-    id: "376",
-    name: "376",
-    desc: "Han River Rice Cooker Mini 0.8L",
-    subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/376.jpg",
-    link: "https://s.shopee.co.id/8zqliUMKTw"
-  },
-  {
     id: "376",
     name: "376",
     desc: "Han River Rice Cooker Mini 0.8L",
@@ -1469,6 +1533,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/6AWaJMBGsA"
   },
   {
+    id: "294",
+    name: "294",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "293",
     name: "293",
     desc: "Fresh Fruit Juice Pengekstrak Buah",
@@ -1593,7 +1665,7 @@ export const partnerItems: Partner[] = [
     name: "278",
     desc: "Ccg Alat Pengupas Sisik Ikan Stainless Steel",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/282.jpg",
+    image: "/img/Partner/278.jpg",
     link: "https://s.shopee.co.id/vwxphien"
   },
   {
@@ -1685,6 +1757,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/7peoHwcpxi"
   },
   {
+    id: "266",
+    name: "97",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "265",
     name: "265",
     desc: "Ortopedi Alat Terapi Sakit Pinggang",
@@ -1759,10 +1839,10 @@ export const partnerItems: Partner[] = [
   {
     id: "256",
     name: "256",
-    desc: "Back Flow Valve Rucika 3' Dan 4' ,Fiting Katup",
+    desc: "Coming Soon",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/256.jpg",
-    link: "https://s.shopee.co.id/10oU9E2yKI"
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "255",
@@ -1973,12 +2053,52 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/4VOMD7uRbN"
   },
   {
+    id: "229",
+    name: "229",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "228",
+    name: "228",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "227",
+    name: "227",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "226",
+    name: "226",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "225",
     name: "225",
     desc: "Mainan Motor Hamster Elektrik Mini",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/225.png",
     link: "https://s.shopee.co.id/1VkkdPl8g3"
+  },
+  {
+    id: "224",
+    name: "224",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "223",
@@ -2101,11 +2221,19 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/7KiXZatquy"
   },
   {
+    id: "208",
+    name: "208",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "207",
     name: "207",
     desc: "Morphy Richards Mr9802 Juicer",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/206.jpg",
+    image: "/img/Partner/207.jpg",
     link: "https://s.shopee.co.id/6V9Qa0BQZ2"
   },
   {
@@ -2147,6 +2275,22 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/cuka apel premium.jpg",
     link: "https://s.shopee.co.id/8pYWdkcGkd"
+  },
+  {
+    id: "201",
+    name: "201",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "200",
+    name: "200",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "199",
@@ -2293,6 +2437,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/8pXLKEAs6s"
   },
   {
+    id: "181",
+    name: "181",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "180",
     name: "180",
     desc: "Stiker Dinding Dapur / Stiker Dinding",
@@ -2307,6 +2459,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/179.jpg",
     link: "https://s.shopee.co.id/AA2iudaqK8"
+  },
+  {
+    id: "178",
+    name: "178",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "177",
@@ -2347,6 +2507,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/173.png",
     link: "https://s.shopee.co.id/3q8fMvEJGt"
+  },
+  {
+    id: "172",
+    name: "172",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "171",
@@ -2437,6 +2605,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/1LRK0DtyIS"
   },
   {
+    id: "160",
+    name: "160",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "159",
     name: "159",
     desc: "Hicon Portable Ice Maker Dengan Handle",
@@ -2499,6 +2675,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/151.png",
     link: "https://s.shopee.co.id/20h0nHD8G2"
+  },
+  {
+    id: "150",
+    name: "150",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "149",
@@ -2629,6 +2813,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/10oTZoZsPq"
   },
   {
+    id: "133",
+    name: "133",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "132",
     name: "132",
     desc: "Kasur Angin Naturehike Nh22Fcd04",
@@ -2675,6 +2867,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/127.jpg",
     link: "https://s.shopee.co.id/7AP6u8ysZJ"
+  },
+  {
+    id: "126",
+    name: "126",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "125",
@@ -2893,6 +3093,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/9zj91sOKxk"
   },
   {
+    id: "97",
+    name: "97",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "96",
     name: "96",
     desc: "(100 Lembaran) Amplop Lebaran ViralShopee - Polimeritas",
@@ -2923,6 +3131,22 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/93.jpg",
     link: "https://s.shopee.co.id/30ZOgwhwIs"
+  },
+  {
+    id: "92",
+    name: "92",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "91",
+    name: "91",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "90",
@@ -3019,6 +3243,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/79.jpg",
     link: "https://s.shopee.co.id/AKLzQDCPB3"
+  },
+  {
+    id: "78",
+    name: "78",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Coming Soon.png",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "77",
@@ -3189,6 +3421,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/2qFyGgyIW4"
   },
   {
+    id: "52",
+    name: "52",
+    desc: "Lab-Gelas Ukur Takar",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Lab-Gelas Ukur Takar.png",
+    link: "https://s.shopee.co.id/8V4xkVAKwa"
+  },
+  {
     id: "51",
     name: "51",
     desc: "Meja Pintar Multi Teknologi Meja Viral Tronxi",
@@ -3309,6 +3549,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/9UmsBFKLHZ"
   },
   {
+    id: "35",
+    name: "35",
+    desc: "Lab-Kertas Lakmus",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Lab-Kertas Lakmus.png",
+    link: "https://s.shopee.co.id/8pho94nffA"
+  },
+  {
     id: "34",
     name: "34",
     desc: "Gpd Micro Pc 8Gb/256Gb Pocket Mini",
@@ -3339,6 +3587,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/31.png",
     link: "https://s.shopee.co.id/6fSgnxjB8z"
+  },
+  {
+    id: "30",
+    name: "30",
+    desc: "Lab-Kaca Arloji",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Lab-Kaca Arloji.png",
+    link: "https://s.shopee.co.id/4AvyaTMC2x"
   },
   {
     id: "29",
@@ -3419,6 +3675,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/20.png",
     link: "https://s.shopee.co.id/10oK39X8Vw"
+  },
+  {
+    id: "19",
+    name: "19",
+    desc: "Lab-Stainless Steel SUS 304",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Lab-Stainless Steel SUS 304.png",
+    link: "https://s.shopee.co.id/9Ke4jvPb5E"
   },
   {
     id: "18",
@@ -3604,7 +3868,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-15",
     name: "Booyenku Shop",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/booyenku shop.jpg",
     link: "https://www.tiktok.com/@booyenku"
@@ -3612,7 +3876,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-14",
     name: "Biomass Resin Holdings",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner/resin.png",
     link: "https://www.instagram.com/p/DUKF7ZUEo7N/"
@@ -3620,15 +3884,23 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-13",
     name: "Zefa Valindo Jaya",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner/zefalindojaya.png",
     link: "https://www.instagram.com/p/DVSPS18km8g/"
   },
   {
+    id: "industri-12",
+    name: "DS Exclusive Parfume",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/DS Exclusive Parfume.jpg",
+    link: "https://wa.me/6285214991705"
+  },
+  {
     id: "Hubungi Kami",
     name: "Hubungi Kami",
-    desc: "Pasang Iklan di Polimeritas",
+    desc: "Pasang Iklan di Polimeritas-Exclusive",
     subDesc: "polimeritas group",
     image: "/img/Partner2/Product-Polimeritas.png",
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
@@ -3636,7 +3908,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-11",
     name: "Anima Companion",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/anima companion.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7609828032559500564"
@@ -3644,7 +3916,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-10",
     name: "Kiyopaw",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/kiyopaw.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7607786649476500756"
@@ -3652,15 +3924,15 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-9",
     name: "Anima&Co",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/animanco.jpg",
+    image: "/img/Partner2/animalncowithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7607417575374359828"
   },
   {
     id: "industri-8",
     name: "Ramical",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/ramical.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7611780663938682133"
@@ -3668,23 +3940,23 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-7",
     name: "Our Daily Pets",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/ourdailypet.jpeg",
+    image: "/img/Partner2/ourdailypetswithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7615819238514625813"
   },
   {
     id: "industri-6",
     name: "Bite of Wild Indonesia",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/bite of wild indonesia.jpg",
+    image: "/img/Partner2/biteofwildwithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7615617317711498516"
   },
   {
     id: "industri-5",
     name: "Olive Care-Cat Grass",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Olive Care Cat Grass.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7623597299674975508"
@@ -3692,7 +3964,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-4",
     name: "Erapet - Bravery",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Bravery.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7625094064530083092"
@@ -3700,45 +3972,68 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-3",
     name: "Dr Soft Indonesia",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/soft-indonesia.jpeg",
+    image: "/img/Partner2/catsmellowwithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7612607096403528980"
   },
   {
     id: "industri-2",
     name: "PET VIGOR ID",
-    desc: "Partner Industri Polimeritas",
+    desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/PET VIGOR ID.jpg",
+    image: "/img/Partner2/petvigorwithboyen.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7628471599531969813"
+  },
+  {
+    id: "industri-1",
+    name: "Pororo Official",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/pororo.jpg",
     link: "https://www.tiktok.com/@booyenku"
   },
-
+  {
+    id: "industri-1",
+    name: "Holycats Lab",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Vita Meat.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+  {
+    id: "industri-1",
+    name: "Furlife",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Furlife.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+  {
+    id: "industri-1",
+    name: "Coming Soon",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+  {
+    id: "industri-1",
+    name: "Coming Soon",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+  {
+    id: "industri-1",
+    name: "Coming Soon",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
   // --- COMING SOON SECTION ---
-  {
-    id: "industri-1",
-    name: "Coming Soon",
-    desc: "Partner Industri Polimeritas",
-    subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.tiktok.com/@booyenku"
-  },
-  {
-    id: "industri-1",
-    name: "Coming Soon",
-    desc: "Partner Industri Polimeritas",
-    subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.tiktok.com/@booyenku"
-  },
-  {
-    id: "industri-1",
-    name: "Coming Soon",
-    desc: "Partner Industri Polimeritas",
-    subDesc: "Industri",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.tiktok.com/@booyenku"
-  },
   {
     id: "industri-1",
     name: "Coming Soon",
@@ -3957,7 +4252,30 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Affiliate-Starter Kucing.jpg",
     link: "https://s.shopee.co.id/AUpyxUwNIQ"
   },
-
+  {
+    id: "Affiliate",
+    name: "Hairball Gel Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Hairball Gel Kucing.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
+    name: "Topi Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Topi Kucing.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
+    name: "Kandang Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Kandang Kucing.jpg",
+    link: "https://s.shopee.co.id/"
+  },
   // --- LAST ITEMS & DYNAMIC DUMMY ---
   { id: "industri-1", name: "Coming Soon", desc: "Partner Industri Polimeritas", subDesc: "Industri", image: "/img/Partner2/Coming Soon.jpg", link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1" },
   ...Array.from({ length: 20 }).map((_, i) => ({
@@ -4242,7 +4560,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Pemodelan dan Simulasi Aliran Polimer.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9paQHQ9pxu"
   },
    {
     id: "Buku Polymer",
@@ -4250,7 +4568,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Principles of Polymer Engineering.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9ztqTkLvfO"
   },
   {
     id: "Buku Polymer",
@@ -4258,7 +4576,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Polimer Tercetak Molekul.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/gMBMcIdVK"
   },
   {
     id: "Buku Polymer",
@@ -4266,7 +4584,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Introduction to Physical Polymer Science.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/5fkrJpTznb"
   },
   {
     id: "Buku Polymer",
@@ -4274,7 +4592,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Pengembangan Surfaktan dan Polimer.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/30k68wty2p"
   },
    {
     id: "Buku Polymer",
@@ -4282,7 +4600,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Polimer Mutakhir.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9paQHWrKrg"
   },
   {
     id: "Buku Polymer",
@@ -4290,7 +4608,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kimia Material Polimer.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9UxZsw3TVB"
   },
   {
     id: "Buku Polymer",
@@ -4298,7 +4616,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kimia Polimer Dr Eli.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/50VAWhd7EH"
   },
   {
     id: "Buku Polymer",
@@ -4306,7 +4624,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Textbook of Polymer Science.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/7AZf6lp3K5"
   },
    {
     id: "Buku Polymer",
@@ -4314,7 +4632,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Polimer dalam Sistem Penghantaran Obat.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/5q4HWL0bCi"
   },
   {
     id: "Buku Polymer",
@@ -4322,7 +4640,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Polymer Adhesion.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9AKjUTwZzm"
   },
   {
     id: "Buku Polymer",
@@ -4330,7 +4648,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Bahan Polimer Konstruksi Bangunan.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/5L80vSEkwK"
   },
       {
     id: "Buku Polymer",
@@ -4338,7 +4656,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Strategi Skrining Polimer EOR.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/70GEuaXOrK"
   },
    {
     id: "Buku Polymer",
@@ -4346,7 +4664,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Polymer Processing.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/AKWgskYXrR"
   },
   {
     id: "Buku Polymer",
@@ -4354,7 +4672,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Molekular Imprinting Polimer.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/40cdL8N3w4"
   },
   {
     id: "Buku Polymer",
@@ -4362,7 +4680,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Design of Fibre-Polymer Composite Structures.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/901JILEy0o"
   },
   {
     id: "Buku Novel",
@@ -4699,5 +5017,232 @@ export const partnerBookItems: Partner[] = [
     subDesc: "Indonesia",
     image: "/img/Partner2/Psikologi Industri dan Organisasi Masyarakat.jpg",
     link: "https://s.shopee.co.id/1BIGhv7ZV3"
+  },
+  {
+    id: "Buku Novel",
+    name: "Merantau Ke Deli",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Merantau Ke Deli.jpg",
+    link: "https://s.shopee.co.id/5q4BMhlAFu"
+  },
+  {
+    id: "Buku Novel",
+    name: "Terusir",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Terusir.jpg",
+    link: "https://s.shopee.co.id/2LUJCIuAtQ"
+  },
+  {
+    id: "Buku Novel",
+    name: "Buya Hamka",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Buya Hamka.jpg",
+    link: "https://s.shopee.co.id/1Lbm0W4GML"
+  },
+  {
+    id: "Buku Novel",
+    name: "Negeri 5 Menara",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Negeri 5 Menara.jpg",
+    link: "https://s.shopee.co.id/1qY2bSbdOe"
+  },
+  {
+    id: "Buku Novel",
+    name: "Guru Aini",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Guru Aini.jpg",
+    link: "https://s.shopee.co.id/808fx2zn1d"
+  },
+  {
+    id: "Buku Novel",
+    name: "As Long As The Lemon Trees Grow",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/As Long As The Lemon Trees Grow.jpg",
+    link: "https://s.shopee.co.id/5VRKyTYL3x"
+  },
+  {
+    id: "Buku Novel",
+    name: "Orang Orang Biasa",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Orang Orang Biasa.jpg",
+    link: "https://s.shopee.co.id/9fGtw9hzQD"
+  },
+  {
+    id: "Buku Novel",
+    name: "Nasi Lemak",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Nasi Lemak.jpg",
+    link: "https://s.shopee.co.id/3LMqOXY1Gd"
+  },
+  {
+    id: "Buku Novel",
+    name: "Musim yang Tak Sempat Kita Miliki",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Musim yang Tak Sempat Kita Miliki.jpg",
+    link: "https://s.shopee.co.id/16OSmI3fS"
+  },
+  {
+    id: "Buku Novel",
+    name: "Bandung Menjelang Pagi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bandung Menjelang Pagi.jpg",
+    link: "https://s.shopee.co.id/901DBIxOnc"
+  },
+  {
+    id: "Buku Novel",
+    name: "Berandal Bandung",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Berandal Bandung.jpg",
+    link: "https://s.shopee.co.id/9AKdNbQ6tv"
+  },
+  {
+    id: "Buku Novel",
+    name: "Lima Tanya yang Tertinggal Saat Ibu Pergi",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Lima Tanya yang Tertinggal Saat Ibu Pergi.jpg",
+    link: "https://s.shopee.co.id/901DBHrcFy"
+  },
+  {
+    id: "Buku Novel",
+    name: "untuk Satu Nama yang Sulit Kuhapus",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/untuk Satu Nama yang Sulit Kuhapus.jpg",
+    link: "https://s.shopee.co.id/qfVSGMpoC"
+  },
+
+
+
+
+
+
+
+
+
+
+  
+  {
+    id: "Buku Novel",
+    name: "Mari Pergi Lebih Jauh",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Mari Pergi Lebih Jauh.jpg",
+    link: "https://s.shopee.co.id/6Ah1oOPFZV"
+  },
+  {
+    id: "Buku Novel",
+    name: "Namaku Alam",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Namaku Alam.jpg",
+    link: "https://s.shopee.co.id/AADAZljZYG"
+  },
+  {
+    id: "Buku Novel",
+    name: "Ronggeng Dukuh Paruk",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ronggeng Dukuh Paruk.jpg",
+    link: "https://s.shopee.co.id/5VRL1D6ZTu"
+  },
+  {
+    id: "Buku Novel",
+    name: "Kudasai",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kudasai.jpg",
+    link: "https://s.shopee.co.id/8fOMn5AUTg"
+  },
+  {
+    id: "Buku Novel",
+    name: "Aku Kalah Aku Merindukanmu",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Aku Kalah Aku Merindukanmu.jpg",
+    link: "https://s.shopee.co.id/2qQZqOaq6V"
+  },
+  {
+    id: "Buku Novel",
+    name: "Delapan at Edinburgh",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Delapan at Edinburgh.jpg",
+    link: "https://s.shopee.co.id/9AKeRe1lXm"
+  },
+  {
+    id: "Buku Novel",
+    name: "Ada Zombie di Sekolah",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ada Zombie di Sekolah.jpg",
+    link: "https://s.shopee.co.id/W2g7jfA2q"
+  },
+  {
+    id: "Buku Novel",
+    name: "Kami Bukan Sarjana Kertas",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kami Bukan Sarjana Kertas.jpg",
+    link: "https://s.shopee.co.id/3B3RIeAKF6"
+  },
+  {
+    id: "Buku Novel",
+    name: "Kios Pasar Sore",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kios Pasar Sore.jpg",
+    link: "https://s.shopee.co.id/2qQatyox3A"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Biokomposit Masa Depan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Biokomposit Masa Depan.jpg",
+    link: "https://s.shopee.co.id/1Lbs9jI23Z"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Film Biokomposit",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Film Biokomposit.jpg",
+    link: "https://s.shopee.co.id/9Ke9gPBHEY"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Biokomposit Berbasis Serat Sembukan (Paederia Foetida L.) – Pati Colocasia Esculenta",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Biokomposit Berbasis Serat Sembukan (Paederia Foetida L.) – Pati Colocasia Esculenta.jpg",
+    link: "https://s.shopee.co.id/9Ke9gNWQwY"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Produksi Kertas & Papan Komposit Tanpa Kayu Hutan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Produksi Kertas & Papan Komposit Tanpa Kayu Hutan.jpg",
+    link: "https://s.shopee.co.id/4fsK7lkslg"
+  },
+  {
+    id: "Buku Polymer",
+    name: "Teknologi Papan Komposit Diperkuat Serat Kulit Jagung",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teknologi Papan Komposit Diperkuat Serat Kulit Jagung.jpg",
+    link: "https://s.shopee.co.id/20rYwrHR8Z"
   },
 ];
