@@ -109,6 +109,22 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHb9znaTQoq/"
   },
   {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Lu Li Hortifulli Hampers by ESC",
+    subDesc: "Jabodetabek",
+    image: "/img/Partner2/Lu Li Hortifulli Hampers by ESC.png",
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20mau%20beli%20Hampers%20"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Miniatur Gerobak dan Jok",
+    subDesc: "Bandung",
+    image: "/img/Partner2/jokracing.jpg",
+    link: "https://www.instagram.com/reel/DP6fo6-EtIS/"
+  },
+  {
     id: "531",
     name: "531",
     desc: "Coming Soon",
