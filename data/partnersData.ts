@@ -85,6 +85,14 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DGUyG7SyRnF/"
   },
   {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Custom Cosplay Eko",
+    subDesc: "Tulungagung",
+    image: "/img/Partner2/Custom Cosplay Eko.jpg",
+    link: "https://www.instagram.com/reel/DOYh1LikgEp/"
+  },
+  {
     id: "531",
     name: "531",
     desc: "Coming Soon",
