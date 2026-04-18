@@ -4347,6 +4347,14 @@ export const partnerBookItems: Partner[] = [
     link: "https://www.instagram.com/p/DXPgXlFGe-X/"
   },
   {
+    id: "Buku Novel",
+    name: "Coming Soon",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/coming soon.jpg",
+    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
+  },
+  {
     id: "Buku Puisi Antologi",
     name: "Akar Serumpun Anyaman Rasa Jilid 13",
     desc: "Pesan Disini",
