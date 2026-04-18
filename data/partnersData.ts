@@ -93,6 +93,22 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DOYh1LikgEp/"
   },
   {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Kinrose Craft Ecoprint",
+    subDesc: "Jakarta",
+    image: "/img/Partner2/kinrose.jpg",
+    link: "https://www.instagram.com/reel/DHVkFrayDdO/"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Ketapang Manis - Ecoprint",
+    subDesc: "Bangka Belitung",
+    image: "/img/Partner2/ketapang manis ecoprint.jpg",
+    link: "https://www.instagram.com/reel/DHb9znaTQoq/"
+  },
+  {
     id: "531",
     name: "531",
     desc: "Coming Soon",
