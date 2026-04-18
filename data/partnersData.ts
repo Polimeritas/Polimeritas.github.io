@@ -3890,20 +3890,20 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.instagram.com/p/DVSPS18km8g/"
   },
   {
-    id: "Hubungi Kami",
-    name: "Hubungi Kami",
-    desc: "Pasang Iklan di Polimeritas-Exclusive",
-    subDesc: "polimeritas group",
-    image: "/img/Partner2/Product-Polimeritas.png",
-    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
-  },
-  {
     id: "industri-12",
     name: "DS Exclusive Parfume",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/DS Exclusive Parfume.jpg",
     link: "https://wa.me/6285214991705"
+  },
+  {
+    id: "Hubungi Kami",
+    name: "Hubungi Kami",
+    desc: "Pasang Iklan di Polimeritas-Exclusive",
+    subDesc: "polimeritas group",
+    image: "/img/Partner2/Product-Polimeritas.png",
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
   },
   {
     id: "industri-11",
