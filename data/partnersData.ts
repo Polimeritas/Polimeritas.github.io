@@ -77,6 +77,14 @@ export const partnerItems: Partner[] = [
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi Usaha%20"
   },
   {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Roti Bangdo",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Berbagi Roti Bareng BangDoIndonesia.jpg",
+    link: "https://www.instagram.com/reel/DGUyG7SyRnF/"
+  },
+  {
     id: "531",
     name: "531",
     desc: "Coming Soon",
