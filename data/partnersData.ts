@@ -3900,9 +3900,9 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Hubungi Kami",
     name: "Hubungi Kami",
-    desc: "Pasang Iklan di Polimeritas-Exclusive",
+    desc: "Bantu Kamu Lebih Dekat",
     subDesc: "polimeritas group",
-    image: "/img/Partner2/Product-Polimeritas.png",
+    image: "/img/Partner2/gabung di polimeritas.png",
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
   },
   {
