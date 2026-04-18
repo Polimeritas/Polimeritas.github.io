@@ -135,6 +135,14 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "Partner Polimeritas-Umum",
+    desc: "Handmade Rajutan",
+    subDesc: "Jakarta",
+    image: "/img/Partner2/Handmade Rajutan.jpg",
+    link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
