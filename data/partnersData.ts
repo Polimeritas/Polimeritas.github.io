@@ -4299,20 +4299,60 @@ export const partnerBookItems: Partner[] = [
     link: "https://www.instagram.com/kajz.entertainment"
   },
   {
+    id: "Buku Novel",
+    name: "MEOW",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/MEOW - SAM AUSTEN.jpg",
+    link: "https://www.instagram.com/p/DXBGo0hEU7D/"
+  },
+  {
+    id: "Buku Puisi Antologi",
+    name: "Menulis Tanpa Topeng",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Menulis Tanpa Topeng.jpg",
+    link: "https://www.instagram.com/p/DWoMhNeEw6zX0nl4b0shUhFUM7Nubb6Zc2Y8Gk0/?img_index=1"
+  },
+  {
+    id: "Buku Novel",
+    name: "Tentangmu",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tentangmu.jpg",
+    link: "https://www.instagram.com/p/DXR195DGaVJ/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Merah Sejuta Harapan",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Merah Sejuta Harapan.jpg",
+    link: "https://www.instagram.com/p/DWxlDMuD8Ar/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Karam",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Karam.jpg",
+    link: "https://www.instagram.com/p/DWvTxxKlOdQ/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Ethereal",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ethereal.jpg",
+    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
+  },
+  {
     id: "Buku Puisi Antologi",
     name: "Akar Serumpun Anyaman Rasa Jilid 13",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Akar serumpun anyaman rasa 13.jpg",
     link: "https://api.whatsapp.com/send?phone=62895384652297&text=Halo+kak%2C+saya+mau+tanya+Buku+SIP+Publishing%0D%0A%0D%0A*AKAR+SERUMPUN+ANYAMAN+RASA+JILID+13*%0A*Harga:*%20Rp95.000%0A*URL:*%20https%3A%2F%2Ftokobuku.sippublishing.co.id%2Fproduct%2Fakar-serumpun-anyaman-rasa-jilid-13%2F%0D%0A%0D%0ATerima+Kasih"
-  },
-  {
-    id: "Buku Novel",
-    name: "MEOW",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/MEOW - SAM AUSTEN.jpg",
-    link: "https://s.shopee.co.id/4qBdUomCNg"
   },
   {
     id: "Buku Novel",
