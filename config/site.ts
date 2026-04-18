@@ -76,5 +76,6 @@ export const siteConfig: SiteConfig = {
     { name: "Sorting Challenge", href: "/game/sorting-game" },
     { name: "Quiz Challenge", href: "/game/quiz-game" },
     { name: "Typing Challenge", href: "/game/typing-game" },
+    { name: "Polymer Interactive Lab", href: "/game/polymer-lab" },
   ]
 };

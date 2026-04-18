@@ -185,7 +185,7 @@ const Navbar = () => {
                             target="_blank"
                             className="block w-full lg:w-auto text-center bg-primary text-dark font-semibold px-4 py-2 rounded-[25px] hover:bg-primary/45 transition-colors duration-300 lg:mr-3 shadow-sm"
                         >
-                            Join Volunteer
+                            Join Partner
                         </a>
                     </div>
 
