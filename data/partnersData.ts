@@ -4351,7 +4351,7 @@ export const partnerBookItems: Partner[] = [
     name: "Coming Soon",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/coming soon.jpg",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.instagram.com/p/DXPgXlFGe-X/"
   },
   {
