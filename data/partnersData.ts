@@ -5371,6 +5371,6 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Bekisar Merah-Ahmad Tohari.png",
-    link: "https://s.shopee.co.id/30kAsQnpYa"
+    link: "https://s.shopee.co.id/3qJHs341C7"
   },
 ];
