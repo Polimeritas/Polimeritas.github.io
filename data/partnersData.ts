@@ -3866,6 +3866,14 @@ export const partnerItems: Partner[] = [
 export const partnerIndustriItems: Partner[] = [
   // --- PARTNER UTAMA ---
   {
+    id: "Hubungi Kami",
+    name: "Hubungi Kami",
+    desc: "Bantu Kamu Lebih Dekat",
+    subDesc: "polimeritas group",
+    image: "/img/Partner2/gabung di polimeritas.png",
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
+  },
+  {
     id: "industri-15",
     name: "Booyenku Shop",
     desc: "Partner Industri Polimeritas-Exclusive",
@@ -3896,14 +3904,6 @@ export const partnerIndustriItems: Partner[] = [
     subDesc: "Industri",
     image: "/img/Partner2/DS Exclusive Parfume.jpg",
     link: "https://wa.me/6285214991705"
-  },
-  {
-    id: "Hubungi Kami",
-    name: "Hubungi Kami",
-    desc: "Bantu Kamu Lebih Dekat",
-    subDesc: "polimeritas group",
-    image: "/img/Partner2/gabung di polimeritas.png",
-    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
   },
   {
     id: "industri-11",
