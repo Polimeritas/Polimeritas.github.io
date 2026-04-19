@@ -5325,4 +5325,52 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Teknologi Papan Komposit Diperkuat Serat Kulit Jagung.jpg",
     link: "https://s.shopee.co.id/20rYwrHR8Z"
   },
+  {
+    id: "Buku Novel",
+    name: "Amba",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/amba-Laksmi Pamuntjak.jpg",
+    link: "https://s.shopee.co.id/3fzrfPuVxB"
+  },
+  {
+    id: "Buku Novel",
+    name: "Amba",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/amba-Laksmi Pamuntjak.png",
+    link: "https://s.shopee.co.id/3fzrfPuVxB"
+  },
+  {
+    id: "Buku",
+    name: "Atomic Habits",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Atomic Habits karya James Clear.png",
+    link: "https://s.shopee.co.id/AKWlbpbPIO"
+  },
+  {
+    id: "Buku Novel",
+    name: "Atomic Habits",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Atomic Habits karya James Clear.png",
+    link: "https://s.shopee.co.id/AKWlbpbPIO"
+  },
+  {
+    id: "Buku Novel",
+    name: "Ayah Dan Sirkus Pohon",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ayah Dan Sirkus Pohon - Andrea Hirata.png",
+    link: "https://s.shopee.co.id/30kAsQnpYa"
+  },
+  {
+    id: "Buku Novel",
+    name: "Bekisar Merah",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bekisar Merah-Ahmad Tohari.png",
+    link: "https://s.shopee.co.id/30kAsQnpYa"
+  },
 ];
