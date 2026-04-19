@@ -4356,18 +4356,10 @@ export const partnerBookItems: Partner[] = [
   },
   {
     id: "Buku Novel",
-    name: "Coming Soon",
-    desc: "Pesan Disini",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
-  },
-  {
-    id: "Buku Novel",
     name: "Cedrica",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Cedria.jpeg",
+    image: "/img/Partner2/Cedrica.jpeg",
     link: "https://www.instagram.com/p/DWvMlo7gb3y/?img_index=1"
   },
   {
@@ -4385,6 +4377,14 @@ export const partnerBookItems: Partner[] = [
     subDesc: "Indonesia",
     image: "/img/Partner2/Kata Hati.jpeg",
     link: "https://www.instagram.com/p/DWvMlo7gb3y/?img_index=1"
+  },
+  {
+    id: "Buku Novel",
+    name: "Coming Soon",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
   },
   {
     id: "Buku Puisi Antologi",
