@@ -50,7 +50,7 @@ export const partnerItems: Partner[] = [
     desc: "Bantu Kamu Lebih Dekat",
     subDesc: "polimeritas group",
     image: "/img/Partner2/gabung di polimeritas.png",
-    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20polimeritas.com!%20Bantuin%20Saya%20Dong!%20"
   },
   {
     id: "toko-polimeritas",
@@ -3871,7 +3871,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Bantu Kamu Lebih Dekat",
     subDesc: "polimeritas group",
     image: "/img/Partner2/gabung di polimeritas.png",
-    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20polimeritas.com!%20Bantuin%20Saya%20Dong!%20"
   },
   {
     id: "industri-15",
@@ -4296,7 +4296,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Bantu Kamu Lebih Dekat",
     subDesc: "polimeritas group",
     image: "/img/Partner2/gabung di polimeritas.png",
-    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20pasang%20iklan%20"
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20polimeritas.com!%20Bantuin%20Saya%20Dong!%20"
     },
     {
     id: "KAJZ Entertainment",
