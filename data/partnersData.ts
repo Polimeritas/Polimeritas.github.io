@@ -4367,7 +4367,7 @@ export const partnerBookItems: Partner[] = [
     name: "Cedrica",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Cedria.jpg",
+    image: "/img/Partner2/Cedria.jpeg",
     link: "https://www.instagram.com/p/DXPgXlFGe-X/"
   },
   {
@@ -4375,7 +4375,7 @@ export const partnerBookItems: Partner[] = [
     name: "Segelas Empon-Empon",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Segelas Empon-Empon.jpg",
+    image: "/img/Partner2/Segelas Empon-Empon.jpeg",
     link: "https://www.instagram.com/p/DXPgXlFGe-X/"
   },
   {
@@ -4383,7 +4383,7 @@ export const partnerBookItems: Partner[] = [
     name: "Kata Hati",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Kata Hati.jpg",
+    image: "/img/Partner2/Kata Hati.jpeg",
     link: "https://www.instagram.com/p/DXPgXlFGe-X/"
   },
   {
