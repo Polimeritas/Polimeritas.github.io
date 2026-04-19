@@ -4363,6 +4363,30 @@ export const partnerBookItems: Partner[] = [
     link: "https://www.instagram.com/p/DXPgXlFGe-X/"
   },
   {
+    id: "Buku Novel",
+    name: "Cedrica",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Cedria.jpg",
+    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Segelas Empon-Empon",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Segelas Empon-Empon.jpg",
+    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Kata Hati",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kata Hati.jpg",
+    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
+  },
+  {
     id: "Buku Puisi Antologi",
     name: "Akar Serumpun Anyaman Rasa Jilid 13",
     desc: "Pesan Disini",
