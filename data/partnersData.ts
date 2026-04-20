@@ -4395,6 +4395,14 @@ export const partnerBookItems: Partner[] = [
     link: "https://api.whatsapp.com/send?phone=62895384652297&text=Halo+kak%2C+saya+mau+tanya+Buku+SIP+Publishing%0D%0A%0D%0A*AKAR+SERUMPUN+ANYAMAN+RASA+JILID+13*%0A*Harga:*%20Rp95.000%0A*URL:*%20https%3A%2F%2Ftokobuku.sippublishing.co.id%2Fproduct%2Fakar-serumpun-anyaman-rasa-jilid-13%2F%0D%0A%0D%0ATerima+Kasih"
   },
   {
+    id: "Buku",
+    name: "Bismillah Hamasah",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bismillah Hamasah.jpg",
+    link: "https://s.shopee.co.id/20reyyBqik"
+  },
+  {
     id: "Buku Novel",
     name: "Seporsi Mie Ayam Sebelum Mati",
     desc: "Pesan Disini",
