@@ -4379,6 +4379,38 @@ export const partnerBookItems: Partner[] = [
     link: "https://www.instagram.com/p/DWvMlo7gb3y/?img_index=1"
   },
   {
+    id: "Buku",
+    name: "Jerat di Balik Bulan Puasa",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Jerat di Balik Bulan Puasa.jpg",
+    link: "https://www.instagram.com/p/DXWCn2XgcpA/?img_index=1"
+  },
+  {
+    id: "Buku",
+    name: "Tuhan Selalu Mengabulkan Doa Hambanya",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tuhan Selalu Mengabulkan Doa Hambanya.jpg",
+    link: "https://www.instagram.com/p/DXWCn2XgcpA/?img_index=1"
+  },
+  {
+    id: "Buku Novel",
+    name: "Coming Soon",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
+  },
+  {
+    id: "Buku Novel",
+    name: "Coming Soon",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
+  },
+  {
     id: "Buku Novel",
     name: "Coming Soon",
     desc: "Pesan Disini",
