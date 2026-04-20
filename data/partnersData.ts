@@ -4444,10 +4444,10 @@ export const partnerBookItems: Partner[] = [
   },
   {
     id: "Buku Novel",
-    name: "Seporsi Mie Ayam Sebelum Mati",
+    name: "Laut Bercerita",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/seporsi mie ayam sebelum mati.jpg",
+    image: "/img/Partner2/Laut Bercerita.jpg",
     link: "https://s.shopee.co.id/7VCAUgjvwU"
   },
   {
