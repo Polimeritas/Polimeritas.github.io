@@ -4448,7 +4448,7 @@ export const partnerBookItems: Partner[] = [
     desc: "Pesan Disini",
     subDesc: "Indonesia",
     image: "/img/Partner2/Laut Bercerita.jpg",
-    link: "https://s.shopee.co.id/7VCAUgjvwU"
+    link: "https://s.shopee.co.id/qfhnZPdeo"
   },
   {
     id: "Buku Novel",
