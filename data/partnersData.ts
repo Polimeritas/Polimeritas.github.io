@@ -4444,11 +4444,19 @@ export const partnerBookItems: Partner[] = [
   },
   {
     id: "Buku Novel",
-    name: "Laut Bercerita",
+    name: "Seporsi Mie Ayam Sebelum Mati",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Laut Bercerita.jpg",
-    link: "https://s.shopee.co.id/1qXnnBz0RQ"
+    image: "/img/Partner2/seporsi mie ayam sebelum mati.jpg",
+    link: "https://s.shopee.co.id/7VCAUgjvwU"
+  },
+  {
+    id: "Buku Novel",
+    name: "Jurnal Qolbu Muslimah",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Jurnal Qolbu Muslimah.jpg",
+    link: "https://s.shopee.co.id/4LFZxaePqd"
   },
     {
     id: "Buku Polymer",
