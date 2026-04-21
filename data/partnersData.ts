@@ -3898,12 +3898,20 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.instagram.com/p/DVSPS18km8g/"
   },
   {
-    id: "industri-12",
-    name: "DS Exclusive Parfume",
+    id: "industri-5",
+    name: "Cat Grass-Olive Care [BEST SELLER]",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/DS Exclusive Parfume.jpg",
-    link: "https://wa.me/6285214991705"
+    image: "/img/Partner2/Olive Care Cat Grass.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7623597299674975508"
+  },
+  {
+    id: "industri-5",
+    name: "Creamy Treats - Olive Care [BEST SELLER]",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Creamy Treats - Olive Care.jpg",
+    link: "https://s.shopee.co.id/W2t7TIaor"
   },
   {
     id: "industri-11",
@@ -3954,14 +3962,6 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7615617317711498516"
   },
   {
-    id: "industri-5",
-    name: "Olive Care-Cat Grass",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/Olive Care Cat Grass.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7623597299674975508"
-  },
-  {
     id: "industri-4",
     name: "Erapet - Bravery",
     desc: "Partner Industri Polimeritas-Exclusive",
@@ -4008,6 +4008,14 @@ export const partnerIndustriItems: Partner[] = [
     subDesc: "Industri",
     image: "/img/Partner2/Furlife.jpg",
     link: "https://www.tiktok.com/@booyenku"
+  },
+  {
+    id: "industri-12",
+    name: "DS Exclusive Parfume",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/DS Exclusive Parfume.jpg",
+    link: "https://wa.me/6285214991705"
   },
   {
     id: "industri-1",
