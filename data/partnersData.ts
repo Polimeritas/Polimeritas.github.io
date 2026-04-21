@@ -3950,7 +3950,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Pouch-Anima&Co",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/animalncowetfoodwithboyen.jpg",
+    image: "/img/Partner2/animalncopouchwithboyen.jpg",
     link: "https://s.shopee.co.id/3B3eT2nTs1"
   },
   {
