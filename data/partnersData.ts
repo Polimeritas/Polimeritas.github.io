@@ -4019,6 +4019,14 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-1",
+    name: "Head to Paw Serum - UrbanMoof",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Head to Paw Serum - UrbanMoof.jpg",
+    link: "https://s.shopee.co.id/8ASKHDuCeo"
+  },
+  {
+    id: "industri-1",
     name: "Coming Soon",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
