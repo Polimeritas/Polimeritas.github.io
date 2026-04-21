@@ -151,6 +151,14 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "Partner Polimeritas-Umum",
+    desc: "DS Exclusive Parfume",
+    subDesc: "Industri",
+    image: "/img/Partner2/DS Exclusive Parfume.jpg",
+    link: "https://wa.me/6285214991705"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
     desc: "Coming Soon",
     subDesc: "Indonesia",
     image: "/img/Partner2/Coming Soon.jpg",
@@ -4008,14 +4016,6 @@ export const partnerIndustriItems: Partner[] = [
     subDesc: "Industri",
     image: "/img/Partner2/Furlife.jpg",
     link: "https://www.tiktok.com/@booyenku"
-  },
-  {
-    id: "industri-12",
-    name: "DS Exclusive Parfume",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/DS Exclusive Parfume.jpg",
-    link: "https://wa.me/6285214991705"
   },
   {
     id: "industri-1",
