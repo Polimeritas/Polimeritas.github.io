@@ -5434,7 +5434,7 @@ export const partnerBookItems: Partner[] = [
     name: "Polymer Processing Principles and Design-Wiley (2014) Donald G. Baird, Dimitris I. Collias",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Polymer Processing Principles and Design-Wiley (2014) Donald G. Baird, Dimitris I. Collias.jpg",
+    image: "/img/Partner2/Polymer Processing Principles and Design-Wiley (2014) Donald G. Baird, Dimitris I. Collias.png",
     link: ""
   },
   {
@@ -5442,7 +5442,7 @@ export const partnerBookItems: Partner[] = [
     name: "Self-Reinforced Polymer Composites The Science, Engineering and Technology",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Self-Reinforced Polymer Composites The Science, Engineering and Technology.jpg",
+    image: "/img/Partner2/Self-Reinforced Polymer Composites The Science, Engineering and Technology.png",
     link: ""
   },
   {
@@ -5450,7 +5450,7 @@ export const partnerBookItems: Partner[] = [
     name: "Machining and Machinability of Fiber Reinforced Polymer Composites",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Machining and Machinability of Fiber Reinforced Polymer Composites.jpg",
+    image: "/img/Partner2/Machining and Machinability of Fiber Reinforced Polymer Composites.png",
     link: ""
   },
   {
@@ -5458,7 +5458,7 @@ export const partnerBookItems: Partner[] = [
     name: "Polymer Materials in Additive Manufacturing Modelling and Simulation",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Polymer Materials in Additive Manufacturing Modelling and Simulation.jpg",
+    image: "/img/Partner2/Polymer Materials in Additive Manufacturing Modelling and Simulation.png",
     link: ""
   },
   {
@@ -5466,7 +5466,7 @@ export const partnerBookItems: Partner[] = [
     name: "Reinforced Polymer Composites Processing, Characterization and Post Life Cycle Assessment",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Reinforced Polymer Composites Processing, Characterization and Post Life Cycle Assessment.jpg",
+    image: "/img/Partner2/Reinforced Polymer Composites Processing, Characterization and Post Life Cycle Assessment.png",
     link: ""
   },
   {
@@ -5474,7 +5474,7 @@ export const partnerBookItems: Partner[] = [
     name: "Hydrothermal Behavior of Fiber- and Nanomaterial-Reinforced Polymer Composites",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Hydrothermal Behavior of Fiber- and Nanomaterial-Reinforced Polymer Composites.jpg",
+    image: "/img/Partner2/Hydrothermal Behavior of Fiber- and Nanomaterial-Reinforced Polymer Composites.png",
     link: ""
   },
   {
@@ -5482,7 +5482,7 @@ export const partnerBookItems: Partner[] = [
     name: "Fiber Reinforced Polymer Composites Mechanical Properties and Applications",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Fiber Reinforced Polymer Composites Mechanical Properties and Applications.jpg",
+    image: "/img/Partner2/Fiber Reinforced Polymer Composites Mechanical Properties and Applications.png",
     link: ""
   },
 ];
