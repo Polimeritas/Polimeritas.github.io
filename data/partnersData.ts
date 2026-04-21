@@ -53,28 +53,28 @@ export const partnerItems: Partner[] = [
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20polimeritas.com!%20Bantuin%20Saya%20Dong!%20"
   },
   {
-    id: "toko-polimeritas",
-    name: "Toko Polimeritas",
-    desc: "Pesan Disini",
-    subDesc: "polimeritas group",
-    image: "/img/Partner2/Toko Polimeritas.jpg",
-    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20beli%20bahan sembako%20"
-  },
-  {
     id: "konsultasi-cv",
-    name: "Layanan Konsultasi CV",
+    name: "Layanan Pengembangan Diri",
     desc: "Pesan Disini",
     subDesc: "polimeritas group",
     image: "/img/Partner2/Konsultasi CV Polimeritas.jpg",
     link: "https://www.instagram.com/infokanorangdalam"
   },
   {
+    id: "toko-polimeritas",
+    name: "Layanan Produk",
+    desc: "Pesan Disini",
+    subDesc: "polimeritas group",
+    image: "/img/Partner2/Toko Polimeritas.jpg",
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi produk%20"
+  },
+  {
     id: "konsultasi-usaha",
-    name: "Layanan Konsultasi Usaha",
+    name: "Layanan Pengembangan Usaha",
     desc: "Pesan Disini",
     subDesc: "polimeritas group",
     image: "/img/Partner2/ukm dan umkm.jpg",
-    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi Usaha%20"
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20Polimeritas!%20Saya%20ingin%20konsultasi usaha%20"
   },
   {
     id: "Partner Polimeritas",
