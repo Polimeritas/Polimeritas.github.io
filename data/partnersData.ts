@@ -5405,4 +5405,84 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Bekisar Merah-Ahmad Tohari.png",
     link: "https://s.shopee.co.id/3qJHs341C7"
   },
+  {
+    id: "Buku Polymer",
+    name: "Cellulose Fibers Bio- and Nano-Polymer Composites",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Cellulose Fibers Bio- and Nano-Polymer Composites.png",
+    link: ""
+  },
+  {
+    id: "Buku Polymer",
+    name: "Complete Part Design Handbook Injection Molding Of Thermoplas Softcover",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Complete Part Design Handbook Injection Molding Of Thermoplas Softcover.png",
+    link: ""
+  },
+  {
+    id: "Buku",
+    name: "Teknik Tata Cara Kerja",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teknik Tata Cara Kerja.jpg",
+    link: ""
+  },
+  {
+    id: "Buku Polymer",
+    name: "Polymer Processing Principles and Design-Wiley (2014) Donald G. Baird, Dimitris I. Collias",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polymer Processing Principles and Design-Wiley (2014) Donald G. Baird, Dimitris I. Collias.jpg",
+    link: ""
+  },
+  {
+    id: "Buku Polymer",
+    name: "Self-Reinforced Polymer Composites The Science, Engineering and Technology",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Self-Reinforced Polymer Composites The Science, Engineering and Technology.jpg",
+    link: ""
+  },
+  {
+    id: "Buku Polymer",
+    name: "Machining and Machinability of Fiber Reinforced Polymer Composites",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Machining and Machinability of Fiber Reinforced Polymer Composites.jpg",
+    link: ""
+  },
+  {
+    id: "Buku Polymer",
+    name: "Polymer Materials in Additive Manufacturing Modelling and Simulation",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Polymer Materials in Additive Manufacturing Modelling and Simulation.jpg",
+    link: ""
+  },
+  {
+    id: "Buku Polymer",
+    name: "Reinforced Polymer Composites Processing, Characterization and Post Life Cycle Assessment",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Reinforced Polymer Composites Processing, Characterization and Post Life Cycle Assessment.jpg",
+    link: ""
+  },
+  {
+    id: "Buku Polymer",
+    name: "Hydrothermal Behavior of Fiber- and Nanomaterial-Reinforced Polymer Composites",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Hydrothermal Behavior of Fiber- and Nanomaterial-Reinforced Polymer Composites.jpg",
+    link: ""
+  },
+  {
+    id: "Buku Polymer",
+    name: "Fiber Reinforced Polymer Composites Mechanical Properties and Applications",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Fiber Reinforced Polymer Composites Mechanical Properties and Applications.jpg",
+    link: ""
+  },
 ];
