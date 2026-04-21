@@ -3939,11 +3939,19 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-9",
-    name: "Anima&Co",
+    name: "Cat Litter-Anima&Co",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/animalncowithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7607417575374359828"
+  },
+  {
+    id: "industri-9",
+    name: "Pouch-Anima&Co",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/animalncowetfoodwithboyen.jpg",
+    link: "https://s.shopee.co.id/3B3eT2nTs1"
   },
   {
     id: "industri-8",
