@@ -3938,6 +3938,38 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://s.shopee.co.id/3B3eT2nTs1"
   },
   {
+    id: "industri-6",
+    name: "Bite of Wild Indonesia",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/biteofwildwithboyen.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7615617317711498516"
+  },
+  {
+    id: "industri-4",
+    name: "Erapet - Bravery",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Bravery.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7625094064530083092"
+  },
+  {
+    id: "industri-3",
+    name: "Dr Soft Indonesia",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/catsmellowwithboyen.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7612607096403528980"
+  },
+  {
+    id: "industri-1",
+    name: "Pororo Official",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/pororo.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+  {
     id: "industri-11",
     name: "Anima Companion",
     desc: "Partner Industri Polimeritas-Exclusive",
@@ -3970,46 +4002,6 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7615819238514625813"
   },
   {
-    id: "industri-6",
-    name: "Bite of Wild Indonesia",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/biteofwildwithboyen.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7615617317711498516"
-  },
-  {
-    id: "industri-4",
-    name: "Erapet - Bravery",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/Bravery.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7625094064530083092"
-  },
-  {
-    id: "industri-3",
-    name: "Dr Soft Indonesia",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/catsmellowwithboyen.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7612607096403528980"
-  },
-  {
-    id: "industri-2",
-    name: "PET VIGOR ID",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/petvigorwithboyen.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7628471599531969813"
-  },
-  {
-    id: "industri-1",
-    name: "Pororo Official",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/pororo.jpg",
-    link: "https://www.tiktok.com/@booyenku"
-  },
-  {
     id: "industri-1",
     name: "Holycats Lab",
     desc: "Partner Industri Polimeritas-Exclusive",
@@ -4032,6 +4024,14 @@ export const partnerIndustriItems: Partner[] = [
     subDesc: "Industri",
     image: "/img/Partner2/Head to Paw Serum - UrbanMoof.jpg",
     link: "https://s.shopee.co.id/8ASKHDuCeo"
+  },
+  {
+    id: "industri-2",
+    name: "PET VIGOR ID",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/petvigorwithboyen.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7628471599531969813"
   },
   {
     id: "industri-1",
