@@ -1,4 +1,4 @@
-export interface Partner {
+Kandang Kucingexport interface Partner {
   id: number | string;
   name: string;
   desc: string;
@@ -4282,7 +4282,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Hairball Gel Kucing.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/5VRaipdGO5"
   },
   {
     id: "Affiliate",
@@ -4290,7 +4290,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Topi Kucing.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/5L8AWVbtaf"
   },
   {
     id: "Affiliate",
@@ -4298,7 +4298,31 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Kandang Kucing.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/8pi2gvEniq"
+  },
+  {
+    id: "Affiliate",
+    name: "Chiro",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Chiro.jpg",
+    link: "https://s.shopee.co.id/W2ula2raq"
+  },
+  {
+    id: "Affiliate",
+    name: "Happy Cat Minkas",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Happy Cat Minkas.jpg",
+    link: "https://s.shopee.co.id/9paZsi971u"
+  },
+  {
+    id: "Affiliate",
+    name: "Catlife",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Catlife.jpg",
+    link: "https://s.shopee.co.id/8fOcUXrXxA"
   },
   // --- LAST ITEMS & DYNAMIC DUMMY ---
   { id: "industri-1", name: "Coming Soon", desc: "Partner Industri Polimeritas", subDesc: "Industri", image: "/img/Partner2/Coming Soon.jpg", link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1" },
