@@ -3999,7 +3999,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Forevet Vitamin Stress Kucing Anjing.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7602850727035292948"
+    link: "https://s.shopee.co.id/4AwDBUAzdk"
   },
   {
     id: "industri-10",
