@@ -4318,14 +4318,6 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "Affiliate",
-    name: "Kandang Kucing",
-    desc: "Partner Industri Polimeritas",
-    subDesc: "Industri",
-    image: "/img/Partner2/Affiliate-Kandang Kucing.jpg",
-    link: "https://s.shopee.co.id/8pi2gvEniq"
-  },
-  {
-    id: "Affiliate",
     name: "Chiro",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
