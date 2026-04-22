@@ -1,4 +1,4 @@
-Kandang Kucingexport interface Partner {
+export interface Partner {
   id: number | string;
   name: string;
   desc: string;
@@ -4315,6 +4315,14 @@ export const partnerIndustriItems: Partner[] = [
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Topi Kucing.jpg",
     link: "https://s.shopee.co.id/5L8AWVbtaf"
+  },
+  {
+    id: "Affiliate",
+    name: "Kandang Kucing",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Affiliate-Kandang Kucing.jpg",
+    link: "https://s.shopee.co.id/8pi2gvEniq"
   },
   {
     id: "Affiliate",
