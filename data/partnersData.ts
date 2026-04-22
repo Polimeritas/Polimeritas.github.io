@@ -5514,7 +5514,7 @@ export const partnerBookItems: Partner[] = [
     name: "Produk Digital",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/EBOOK.jpg",
     link: "https://lynk.id/polimeritas.com/36y624z7qrl0"
   },
   {
@@ -5522,7 +5522,7 @@ export const partnerBookItems: Partner[] = [
     name: "Digital Product Mastery1",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/EBOOK.jpg",
     link: "https://lynk.id/polimeritas.com/qplpz2x8oep3"
   },
   {
@@ -5530,7 +5530,7 @@ export const partnerBookItems: Partner[] = [
     name: "Digital Product Mastery2",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/EBOOK.jpg",
     link: "http://lynk.id/polimeritas.com/y96g90V"
   },
   {
@@ -5538,7 +5538,7 @@ export const partnerBookItems: Partner[] = [
     name: "Digital Branding, Digital Operation dan Digital Marketing",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/EBOOK.jpg",
     link: "http://lynk.id/polimeritas.com/6j46kxzk7wln"
   },
   {
@@ -5546,7 +5546,7 @@ export const partnerBookItems: Partner[] = [
     name: "MEMULAI DIGITAL PRODUK - POTENSI DIGITAL PRODUK",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/EBOOK.jpg",
     link: "http://lynk.id/polimeritas.com/4LAjXyo"
   },
 ];
