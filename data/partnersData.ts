@@ -3986,6 +3986,14 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku"
   },
   {
+    id: "industri-1",
+    name: "Holycats Lab",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/vitameatwithboyen.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7631465562409012500"
+  },
+  {
     id: "industri-11",
     name: "Felcover+ Anima Companion",
     desc: "Partner Industri Polimeritas-Exclusive",
@@ -4024,14 +4032,6 @@ export const partnerIndustriItems: Partner[] = [
     subDesc: "Industri",
     image: "/img/Partner2/ourdailypetswithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7615819238514625813"
-  },
-  {
-    id: "industri-1",
-    name: "Holycats Lab",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/vitameatwithboyen.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7631465562409012500"
   },
   {
     id: "industri-1",
