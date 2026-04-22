@@ -3922,22 +3922,6 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://s.shopee.co.id/W2t7TIaor"
   },
   {
-    id: "industri-11",
-    name: "Anima Companion",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/anima companion.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7609828032559500564"
-  },
-  {
-    id: "industri-10",
-    name: "Kiyopaw",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/kiyopaw.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7607786649476500756"
-  },
-  {
     id: "industri-9",
     name: "Cat Litter-Anima&Co",
     desc: "Partner Industri Polimeritas-Exclusive",
@@ -3952,6 +3936,22 @@ export const partnerIndustriItems: Partner[] = [
     subDesc: "Industri",
     image: "/img/Partner2/animalncopouchwithboyen.jpg",
     link: "https://s.shopee.co.id/3B3eT2nTs1"
+  },
+  {
+    id: "industri-11",
+    name: "Anima Companion",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/anima companion.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7609828032559500564"
+  },
+  {
+    id: "industri-10",
+    name: "Kiyopaw",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/kiyopaw.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7607786649476500756"
   },
   {
     id: "industri-8",
