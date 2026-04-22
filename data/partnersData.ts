@@ -3947,11 +3947,27 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-4",
-    name: "Erapet - Bravery",
+    name: "Wet Food- Bravery",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Bravery.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7625094064530083092"
+  },
+  {
+    id: "industri-4",
+    name: "Dry Food - Bravery",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Dry Food - Bravery.jpg",
+    link: "https://s.shopee.co.id/qflCnd3gx"
+  },
+  {
+    id: "industri-4",
+    name: "Creamy Treats - Bravery",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Creamy Treats - Bravery.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7624744850260348181"
   },
   {
     id: "industri-3",
