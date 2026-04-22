@@ -5509,4 +5509,44 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Fiber Reinforced Polymer Composites Mechanical Properties and Applications.png",
     link: "https://s.shopee.co.id/7KtD8Tdreb"
   },
+  {
+    id: "E-Book",
+    name: "Produk Digital",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://lynk.id/polimeritas.com/36y624z7qrl0"
+  },
+  {
+    id: "E-Book",
+    name: "Digital Product Mastery1",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://lynk.id/polimeritas.com/qplpz2x8oep3"
+  },
+  {
+    id: "E-Book",
+    name: "Digital Product Mastery2",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "http://lynk.id/polimeritas.com/y96g90V"
+  },
+  {
+    id: "E-Book",
+    name: "Digital Branding, Digital Operation dan Digital Marketing",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "http://lynk.id/polimeritas.com/6j46kxzk7wln"
+  },
+  {
+    id: "E-Book",
+    name: "MEMULAI DIGITAL PRODUK - POTENSI DIGITAL PRODUK",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "http://lynk.id/polimeritas.com/4LAjXyo"
+  },
 ];
