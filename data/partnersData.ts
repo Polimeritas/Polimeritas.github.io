@@ -3934,8 +3934,8 @@ export const partnerIndustriItems: Partner[] = [
     name: "Pouch-Anima&Co",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/animalncopouchwithboyen.jpg",
-    link: "https://s.shopee.co.id/3B3eT2nTs1"
+    image: "/img/Partner2/Animalnco Pouch.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7631824065275153685"
   },
   {
     id: "industri-6",
@@ -4006,8 +4006,8 @@ export const partnerIndustriItems: Partner[] = [
     name: "Pororo Official",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/pororo.jpg",
-    link: "https://www.tiktok.com/@booyenku"
+    image: "/img/Partner2/Pororo Creamy Treats.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7632245475634138388"
   },
   {
     id: "industri-1",
