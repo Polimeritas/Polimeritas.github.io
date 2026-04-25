@@ -149,36 +149,36 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7623602472594001172"
   },
   {
-    id: "Partner Polimeritas",
-    name: "Partner Polimeritas-Umum",
+    id: "527",
+    name: "527",
     desc: "DS Exclusive Parfume",
     subDesc: "Industri",
     image: "/img/Partner2/DS Exclusive Parfume.jpg",
     link: "https://wa.me/6285214991705"
   },
   {
-    id: "Partner Polimeritas",
-    name: "Partner Polimeritas-Umum",
-    desc: "Coming Soon",
+    id: "526",
+    name: "526",
+    desc: "Cultivia Belitung Signature Oil",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/cultivia belitung signature oil.jpg",
+    link: "https://s.shopee.co.id/8090eBBJBp"
   },
   {
-    id: "Partner Polimeritas",
-    name: "Partner Polimeritas-Umum",
-    desc: "Coming Soon",
+    id: "525",
+    name: "525",
+    desc: "Billiton Spice - Black Pepper",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Billiton Spice - Black Pepper.jpg",
+    link: "https://s.shopee.co.id/qfq738Zj1"
   },
   {
-    id: "Partner Polimeritas",
-    name: "Partner Polimeritas-Umum",
-    desc: "Coming Soon",
+    id: "524",
+    name: "524",
+    desc: "Ferratti Ferro Espresso Machine",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1"
+    image: "/img/Partner2/Ferratti Ferro Espresso Machine.jpg",
+    link: "https://s.shopee.co.id/1gEx6ctk2o"
   },
   {
     id: "523",
