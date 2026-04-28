@@ -3938,6 +3938,14 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7631824065275153685"
   },
   {
+    id: "industri-9",
+    name: "Animal&co - Holistic Gourment",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Animal&co - Holistic Gourment.jpg",
+    link: "https://s.shopee.co.id/7VCoyKT97C"
+  },
+  {
     id: "industri-6",
     name: "Bite of Wild Indonesia",
     desc: "Partner Industri Polimeritas-Exclusive",
