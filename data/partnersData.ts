@@ -79,6 +79,14 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "Partner Polimeritas-Umum",
+    desc: "Sendal Jepit Terapi",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sendal Jepit Terapi.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7623602472594001172"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
     desc: "Roti Bangdo",
     subDesc: "Indonesia",
     image: "/img/Partner2/Berbagi Roti Bareng BangDoIndonesia.jpg",
@@ -139,14 +147,6 @@ export const partnerItems: Partner[] = [
     subDesc: "Jakarta",
     image: "/img/Partner2/Handmade Rajutan.jpg",
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
-  },
-  {
-    id: "Partner Polimeritas",
-    name: "Partner Polimeritas-Umum",
-    desc: "Sendal Jepit Terapi",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Sendal Jepit Terapi.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7623602472594001172"
   },
   {
     id: "527",
