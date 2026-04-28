@@ -3919,7 +3919,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Creamy Treats - Olive Care.jpg",
-    link: "https://s.shopee.co.id/W2t7TIaor"
+    link: "https://www.tiktok.com/@booyenku/video/7633015270570872085"
   },
   {
     id: "industri-9",
@@ -4031,7 +4031,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Forevet Vitamin Stress Kucing Anjing.jpg",
-    link: "https://s.shopee.co.id/4AwDBUAzdk"
+    link: "https://www.tiktok.com/@booyenku/video/7602850727035292948"
   },
   {
     id: "industri-10",
