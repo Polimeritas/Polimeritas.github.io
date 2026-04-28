@@ -3939,7 +3939,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-9",
-    name: "Animal&co - Holistic Gourment",
+    name: "Holistic Gourment-Animal&co",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&co - Holistic Gourment.jpg",
