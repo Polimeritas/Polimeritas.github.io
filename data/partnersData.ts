@@ -3907,7 +3907,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-5",
-    name: "Cat Grass-Olive Care [BEST SELLER]",
+    name: "[BEST SELLER] Cat Grass-Olive Care",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Olive Care Cat Grass.jpg",
@@ -3915,7 +3915,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-5",
-    name: "Creamy Treats - Olive Care [BEST SELLER]",
+    name: "[BEST SELLER] Creamy Treats - Olive Care",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Creamy Treats - Olive Care.jpg",
