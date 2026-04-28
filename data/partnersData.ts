@@ -3982,7 +3982,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Atlantic Salmon-Silly Beast",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/Atlantic Salmon-Silly Beast.jpg",
+    image: "/img/Partner2/boyensalmonsillybeast.jpg",
     link: "https://s.shopee.co.id/9fHBGcH2vJ"
   },
   {
@@ -3990,7 +3990,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Tuna Cubes-Silly Beast",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/Tuna Cubes-Silly Beast.jpg",
+    image: "/img/Partner2/boyentunasillybeast.jpg",
     link: "https://s.shopee.co.id/5L8C6gJ3Sd"
   },
   {
