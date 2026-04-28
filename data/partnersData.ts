@@ -3978,6 +3978,14 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7624744850260348181"
   },
   {
+    id: "industri-3",
+    name: "Dr Soft Indonesia",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/catsmellowwithboyen.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7612607096403528980"
+  },
+  {
     id: "industri-4",
     name: "Chicken Cubes-Silly Beast",
     desc: "Partner Industri Polimeritas-Exclusive",
@@ -4000,14 +4008,6 @@ export const partnerIndustriItems: Partner[] = [
     subDesc: "Industri",
     image: "/img/Partner2/boyentunasillybeast.jpg",
     link: "https://s.shopee.co.id/5L8C6gJ3Sd"
-  },
-  {
-    id: "industri-3",
-    name: "Dr Soft Indonesia",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/catsmellowwithboyen.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7612607096403528980"
   },
   {
     id: "industri-1",
