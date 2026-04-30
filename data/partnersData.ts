@@ -3990,7 +3990,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Chicken Cubes-Silly Beast",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
-    image: "/img/Partner2/Chicken Cubes-Silly Beast.jpg",
+    image: "/img/Partner2/Chicken Cubes-Silly Beast Boyen.jpg",
     link: "https://s.shopee.co.id/4fsVJPR4Bk"
   },
   {
