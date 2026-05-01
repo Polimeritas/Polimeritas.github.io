@@ -4067,11 +4067,27 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-1",
-    name: "Furlife",
+    name: "Furlife - Wonder Moist Balm",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Furlife.jpg",
     link: "https://www.instagram.com/furlife.id"
+  },
+  {
+    id: "industri-1",
+    name: "Furlife - Magic Fluff Shampoo",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Furlife - Magic Fluff Shampoo.jpg",
+    link: "https://s.shopee.co.id/1LcFueBI7U"
+  },
+  {
+    id: "industri-1",
+    name: "Furlife - Whimsi Calm",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Furlife - Whimsi Calm.jpg",
+    link: "https://s.shopee.co.id/5q4fGvrHX5"
   },
   {
     id: "industri-1",
