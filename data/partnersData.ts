@@ -4071,7 +4071,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Furlife.jpg",
-    link: "https://www.tiktok.com/@booyenku"
+    link: "https://www.instagram.com/furlife.id"
   },
   {
     id: "industri-1",
