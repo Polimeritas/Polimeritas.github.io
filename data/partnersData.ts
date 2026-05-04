@@ -4099,7 +4099,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    name: "Pororo Official",
+    name: "Snack Basah-Pororo Official",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Pororo Creamy Treats.jpg",
