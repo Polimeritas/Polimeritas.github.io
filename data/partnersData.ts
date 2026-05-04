@@ -4107,7 +4107,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    name: "Holycats Lab",
+    name: "Vitameat-Holycats Lab",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/vitameatwithboyen.jpg",
