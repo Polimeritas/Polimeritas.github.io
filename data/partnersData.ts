@@ -3911,7 +3911,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Olive Care Cat Grass.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7623597299674975508"
+    link: "https://www.tiktok.com/@booyenku/video/7626282085728161044"
   },
   {
     id: "industri-5",
