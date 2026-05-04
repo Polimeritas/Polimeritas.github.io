@@ -4131,7 +4131,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    name: "Kiyopaw",
+    name: "Bye Scabies-Kiyopaw",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/kiyopaw.jpg",
@@ -4139,7 +4139,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    name: "Ramical",
+    name: "Gastrointestinal Care-Ramical",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/ramical.jpg",
@@ -4147,7 +4147,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    name: "Our Daily Pets",
+    name: "Bovine Colostrum Plus-Our Daily Pets",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/ourdailypetswithboyen.jpg",
@@ -4187,7 +4187,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    name: "PET VIGOR ID",
+    name: "Spray Pet Skin-PET VIGOR ID",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/petvigorwithboyen.jpg",
