@@ -157,14 +157,6 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
-    id: "534",
-    name: "534",
-    desc: "Animal&Co - All Life Stages With Digestive Probiotics",
-    subDesc: "Industri",
-    image: "/img/Partner2/Animal&Co - All Life Stages With Digestive Probiotics.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7635288992627313941"
-  },
-  {
     id: "533",
     name: "533",
     desc: "Stella Pocket",
@@ -3946,7 +3938,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20polimeritas.com!%20Bantuin%20Saya%20Dong!%20"
   },
   {
-    id: "industri-15",
+    id: "industri-factory",
     name: "Booyenku Shop",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -3954,7 +3946,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku"
   },
   {
-    id: "industri-14",
+    id: "industri-factory",
     name: "Biomass Resin Holdings",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -3962,7 +3954,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.instagram.com/p/DUKF7ZUEo7N/"
   },
   {
-    id: "industri-13",
+    id: "industri-factory",
     name: "Zefa Valindo Jaya",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -3970,7 +3962,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.instagram.com/p/DVSPS18km8g/"
   },
   {
-    id: "industri-5",
+    id: "industri-petshop",
     name: "[BEST SELLER] Cat Grass-Olive Care",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -3978,7 +3970,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7626282085728161044"
   },
   {
-    id: "industri-5",
+    id: "industri-petshop",
     name: "[BEST SELLER] Creamy Treats - Olive Care",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -3986,7 +3978,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7633015270570872085"
   },
   {
-    id: "industri-5",
+    id: "industri-petshop",
     name: "[BEST SELLER] Creamy Treats - Olive Care",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -3994,7 +3986,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7633411213585616149"
   },
   {
-    id: "industri-5",
+    id: "industri-petshop",
     name: "[BEST SELLER] Creamy Treats - Olive Care",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4002,7 +3994,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7633015270570872085"
   },
   {
-    id: "industri-5",
+    id: "industri-petshop",
     name: "[BEST SELLER] Creamy Treats - Olive Care",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4010,7 +4002,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7633619902280060181"
   },
   {
-    id: "industri-9",
+    id: "industri-petshop",
     name: "Cat Litter-Anima&Co",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4018,7 +4010,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7607417575374359828"
   },
   {
-    id: "industri-9",
+    id: "industri-petshop",
     name: "Pouch-Anima&Co",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4026,7 +4018,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7631824065275153685"
   },
   {
-    id: "industri-9",
+    id: "industri-petshop",
     name: "Holistic Gourment-Animal&co",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4034,7 +4026,15 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://s.shopee.co.id/7VCoyKT97C"
   },
   {
-    id: "industri-6",
+    id: "industri-petshop",
+    desc: "Animal&Co - All Life Stages With Digestive Probiotics",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Animal&Co - All Life Stages With Digestive Probiotics.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635288992627313941"
+  },
+  {
+    id: "industri-petshop",
     name: "Bite of Wild Indonesia",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4042,7 +4042,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7615617317711498516"
   },
   {
-    id: "industri-4",
+    id: "industri-petshop",
     name: "Wet Food- Bravery",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4050,7 +4050,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7625094064530083092"
   },
   {
-    id: "industri-4",
+    id: "industri-petshop",
     name: "Dry Food - Bravery",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4058,7 +4058,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://s.shopee.co.id/qflCnd3gx"
   },
   {
-    id: "industri-4",
+    id: "industri-petshop",
     name: "Creamy Treats - Bravery",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4066,7 +4066,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7624744850260348181"
   },
   {
-    id: "industri-3",
+    id: "industri-petshop",
     name: "Dr Soft Indonesia",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4074,7 +4074,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7612607096403528980"
   },
   {
-    id: "industri-4",
+    id: "industri-petshop",
     name: "Chicken Cubes-Silly Beast",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4082,7 +4082,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://s.shopee.co.id/4fsVJPR4Bk"
   },
   {
-    id: "industri-4",
+    id: "industri-petshop",
     name: "Atlantic Salmon-Silly Beast",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4090,7 +4090,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://s.shopee.co.id/9fHBGcH2vJ"
   },
   {
-    id: "industri-4",
+    id: "industri-petshop",
     name: "Tuna Cubes-Silly Beast",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4098,7 +4098,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://s.shopee.co.id/5L8C6gJ3Sd"
   },
   {
-    id: "industri-1",
+    id: "industri-petshop",
     name: "Pororo Official",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4106,7 +4106,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7632245475634138388"
   },
   {
-    id: "industri-1",
+    id: "industri-petshop",
     name: "Holycats Lab",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4114,7 +4114,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7631465562409012500"
   },
   {
-    id: "industri-11",
+    id: "industri-petshop",
     name: "Felcover+ Anima Companion",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4122,7 +4122,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7609828032559500564"
   },
   {
-    id: "industri-11",
+    id: "industri-petshop",
     name: "Forevet-Anima Companion",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4130,7 +4130,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7602850727035292948"
   },
   {
-    id: "industri-10",
+    id: "industri-petshop",
     name: "Kiyopaw",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4138,7 +4138,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7607786649476500756"
   },
   {
-    id: "industri-8",
+    id: "industri-petshop",
     name: "Ramical",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4146,7 +4146,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7611780663938682133"
   },
   {
-    id: "industri-7",
+    id: "industri-petshop",
     name: "Our Daily Pets",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4154,7 +4154,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7615819238514625813"
   },
   {
-    id: "industri-1",
+    id: "industri-petshop",
     name: "Furlife - Wonder Moist Balm",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4162,7 +4162,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.instagram.com/furlife.id"
   },
   {
-    id: "industri-1",
+    id: "industri-petshop",
     name: "Furlife - Magic Fluff Shampoo",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4170,7 +4170,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://s.shopee.co.id/1LcFueBI7U"
   },
   {
-    id: "industri-1",
+    id: "industri-petshop",
     name: "Furlife - Whimsi Calm",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4178,7 +4178,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://s.shopee.co.id/5q4fGvrHX5"
   },
   {
-    id: "industri-1",
+    id: "industri-petshop",
     name: "Head to Paw Serum - UrbanMoof",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
@@ -4186,7 +4186,7 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://s.shopee.co.id/8ASKHDuCeo"
   },
   {
-    id: "industri-2",
+    id: "industri-petshop",
     name: "PET VIGOR ID",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
