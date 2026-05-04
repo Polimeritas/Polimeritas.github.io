@@ -157,6 +157,54 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "533",
+    name: "533",
+    desc: "Stella Pocket",
+    subDesc: "Industri",
+    image: "/img/Partner2/Stella Pocket.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635288992627313941"
+  },
+  {
+    id: "532",
+    name: "532",
+    desc: "Soffell Korean Summer",
+    subDesc: "Industri",
+    image: "/img/Partner2/Soffell Korean Summer.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635508252645543189"
+  },
+  {
+    id: "531",
+    name: "531",
+    desc: "Betadine",
+    subDesc: "Industri",
+    image: "/img/Partner2/Betadine.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635506361727601941"
+  },
+  {
+    id: "530",
+    name: "530",
+    desc: "Zuper Spray",
+    subDesc: "Industri",
+    image: "/img/Partner2/Zuper Spray.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635981939098357012"
+  },
+  {
+    id: "529",
+    name: "529",
+    desc: "Ovaltine Malty Bites Wafer",
+    subDesc: "Industri",
+    image: "/img/Partner2/Ovaltine Malty Bites Wafer.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635979579110346004"
+  },
+  {
+    id: "528",
+    name: "528",
+    desc: "Sendok Super Doll",
+    subDesc: "Industri",
+    image: "/img/Partner2/Sendok Super Doll.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635880143549893909"
+  },
+  {
     id: "527",
     name: "527",
     desc: "DS Exclusive Parfume",
