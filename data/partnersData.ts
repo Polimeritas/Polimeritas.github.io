@@ -4011,7 +4011,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    name: "Pouch-Anima&Co",
+    name: "Pouch-Animal&Co",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Animalnco Pouch.jpg",
