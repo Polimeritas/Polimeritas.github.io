@@ -78,16 +78,16 @@ export const partnerItems: Partner[] = [
   },
   {
     id: "Partner Polimeritas",
-    name: "Partner Polimeritas-Umum",
-    desc: "[BEST SELLER] Sendal Jepit Terapi",
+    name: "BEST SELLER",
+    desc: "Sendal Jepit Terapi",
     subDesc: "Indonesia",
     image: "/img/Partner2/Sendal Jepit Terapi.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7623602472594001172"
   },
   {
     id: "Partner Polimeritas",
-    name: "Partner Polimeritas-Umum",
-    desc: "[BEST SELLER] Dahlia - Automatic Refill",
+    name: "BEST SELLER",
+    desc: "Dahlia - Automatic Refill",
     subDesc: "Indonesia",
     image: "/img/Partner2/Dahlia - Automatic Refill.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7635883547655474453"
