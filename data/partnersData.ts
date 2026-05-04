@@ -4031,7 +4031,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&Co - All Life Stages With Digestive Probiotics.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7635288992627313941"
+    link: "https://s.shopee.co.id/7VCoyKT97C"
   },
   {
     id: "industri-petshop",
