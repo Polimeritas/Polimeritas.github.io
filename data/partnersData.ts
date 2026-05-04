@@ -3922,6 +3922,30 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7633015270570872085"
   },
   {
+    id: "industri-5",
+    name: "[BEST SELLER] Creamy Treats - Olive Care",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Creamy Treats - Tuna.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7633411213585616149"
+  },
+  {
+    id: "industri-5",
+    name: "[BEST SELLER] Creamy Treats - Olive Care",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Creamy Treats - Chicken.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7633015270570872085"
+  },
+  {
+    id: "industri-5",
+    name: "[BEST SELLER] Creamy Treats - Olive Care",
+    desc: "Partner Industri Polimeritas-Exclusive",
+    subDesc: "Industri",
+    image: "/img/Partner2/Creamy Treats - Salmon.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7633619902280060181"
+  },
+  {
     id: "industri-9",
     name: "Cat Litter-Anima&Co",
     desc: "Partner Industri Polimeritas-Exclusive",
