@@ -4027,11 +4027,11 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    desc: "Animal&Co - All Life Stages With Digestive Probiotics",
+    name: "Animal&Co - All Life Stages With Digestive Probiotics",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&Co - All Life Stages With Digestive Probiotics.jpg",
-    link: "https://s.shopee.co.id/7VCoyKT97C"
+    link: "https://s.shopee.co.id/gMeArmHTo"
   },
   {
     id: "industri-petshop",
