@@ -87,6 +87,14 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "Partner Polimeritas-Umum",
+    desc: "[BEST SELLER] Dahlia - Automatic Refill",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dahlia - Automatic Refill.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635883547655474453"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
     desc: "Roti Bangdo",
     subDesc: "Indonesia",
     image: "/img/Partner2/Berbagi Roti Bareng BangDoIndonesia.jpg",
