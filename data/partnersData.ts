@@ -157,6 +157,14 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "534",
+    name: "534",
+    desc: "Animal&Co - All Life Stages With Digestive Probiotics",
+    subDesc: "Industri",
+    image: "/img/Partner2/Animal&Co - All Life Stages With Digestive Probiotics.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635288992627313941"
+  },
+  {
     id: "533",
     name: "533",
     desc: "Stella Pocket",
