@@ -3940,7 +3940,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-factory",
     name: "Booyenku Shop",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    desc: "Factory Industry",
     subDesc: "Industri",
     image: "/img/Partner2/booyenku shop.jpg",
     link: "https://www.tiktok.com/@booyenku"
@@ -3948,7 +3948,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-factory",
     name: "Biomass Resin Holdings",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    desc: "Factory Industry",
     subDesc: "Industri",
     image: "/img/Partner/resin.png",
     link: "https://www.instagram.com/p/DUKF7ZUEo7N/"
@@ -3956,79 +3956,79 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-factory",
     name: "Zefa Valindo Jaya",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    desc: "Factory Industry",
     subDesc: "Industri",
     image: "/img/Partner/zefalindojaya.png",
     link: "https://www.instagram.com/p/DVSPS18km8g/"
   },
   {
     id: "industri-petshop",
-    name: "[BEST SELLER] Cat Grass-Olive Care",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "[BEST SELLER] Olive Care",
+    desc: "Cat Grass",
     subDesc: "Industri",
     image: "/img/Partner2/Olive Care Cat Grass.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7626282085728161044"
   },
   {
     id: "industri-petshop",
-    name: "[BEST SELLER] Creamy Treats - Olive Care",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "[BEST SELLER] Olive Care",
+    desc: "Creamy Treats",
     subDesc: "Industri",
     image: "/img/Partner2/Creamy Treats - Olive Care.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7633015270570872085"
   },
   {
     id: "industri-petshop",
-    name: "[BEST SELLER] Creamy Treats - Olive Care",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "[BEST SELLER] Olive Care",
+    desc: "Creamy Treats",
     subDesc: "Industri",
     image: "/img/Partner2/Creamy Treats - Tuna.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7633411213585616149"
   },
   {
     id: "industri-petshop",
-    name: "[BEST SELLER] Creamy Treats - Olive Care",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "[BEST SELLER] Olive Care",
+    desc: "Creamy Treats",
     subDesc: "Industri",
     image: "/img/Partner2/Creamy Treats - Chicken.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7633015270570872085"
   },
   {
     id: "industri-petshop",
-    name: "[BEST SELLER] Creamy Treats - Olive Care",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "[BEST SELLER] Olive Care",
+    desc: "Creamy Treats",
     subDesc: "Industri",
     image: "/img/Partner2/Creamy Treats - Salmon.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7633619902280060181"
   },
   {
     id: "industri-petshop",
-    name: "Cat Litter-Animal&Co",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Animal&Co",
+    desc: "Cat Litter",
     subDesc: "Industri",
     image: "/img/Partner2/animalncowithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7607417575374359828"
   },
   {
     id: "industri-petshop",
-    name: "Pouch-Animal&Co",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Animal&Co",
+    desc: "Pouch",
     subDesc: "Industri",
     image: "/img/Partner2/Animalnco Pouch.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7631824065275153685"
   },
   {
     id: "industri-petshop",
-    name: "Holistic Gourment-Animal&co",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Animal&co",
+    desc: "Holistic Gourment",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&co - Holistic Gourment.jpg",
     link: "https://s.shopee.co.id/7VCoyKT97C"
   },
   {
     id: "industri-petshop",
-    name: "Animal&Co - All Life Stages With Digestive Probiotics",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Animal&Co",
+    desc: "All Life Stages With Digestive Probiotics",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&Co - All Life Stages With Digestive Probiotics.jpg",
     link: "https://s.shopee.co.id/gMeArmHTo"
@@ -4036,31 +4036,31 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-petshop",
     name: "Bite of Wild Indonesia",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    desc: "Dry Food  Grain Free",
     subDesc: "Industri",
     image: "/img/Partner2/biteofwildwithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7615617317711498516"
   },
   {
     id: "industri-petshop",
-    name: "Wet Food- Bravery",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Bravery",
+    desc: "Wet Food",
     subDesc: "Industri",
     image: "/img/Partner2/Bravery.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7625094064530083092"
   },
   {
     id: "industri-petshop",
-    name: "Dry Food - Bravery",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Bravery",
+    desc: "Dry Food",
     subDesc: "Industri",
     image: "/img/Partner2/Dry Food - Bravery.jpg",
     link: "https://s.shopee.co.id/qflCnd3gx"
   },
   {
     id: "industri-petshop",
-    name: "Creamy Treats - Bravery",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Bravery",
+    desc: "Creamy Treats",
     subDesc: "Industri",
     image: "/img/Partner2/Bravery Creamy Treats.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7624744850260348181"
@@ -4068,127 +4068,119 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-petshop",
     name: "Dr Soft Indonesia",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    desc: "Cats Mellow Snack",
     subDesc: "Industri",
     image: "/img/Partner2/catsmellowwithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7612607096403528980"
   },
   {
     id: "industri-petshop",
-    name: "Chicken Cubes-Silly Beast",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Silly Beast",
+    desc: "Chicken Cubes",
     subDesc: "Industri",
     image: "/img/Partner2/Chicken Cubes-Silly Beast Boyen.jpg",
     link: "https://s.shopee.co.id/4fsVJPR4Bk"
   },
   {
     id: "industri-petshop",
-    name: "Atlantic Salmon-Silly Beast",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Silly Beast",
+    desc: "Atlantic Salmon",
     subDesc: "Industri",
     image: "/img/Partner2/boyensalmonsillybeast.jpg",
     link: "https://s.shopee.co.id/9fHBGcH2vJ"
   },
   {
     id: "industri-petshop",
-    name: "Tuna Cubes-Silly Beast",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Silly Beast",
+    desc: "Tuna Cubes",
     subDesc: "Industri",
     image: "/img/Partner2/boyentunasillybeast.jpg",
     link: "https://s.shopee.co.id/5L8C6gJ3Sd"
   },
   {
     id: "industri-petshop",
-    name: "Snack Basah-Pororo Official",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Pororo Official",
+    desc: "Snack Basah",
     subDesc: "Industri",
     image: "/img/Partner2/Pororo Creamy Treats.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7632245475634138388"
   },
   {
     id: "industri-petshop",
-    name: "Vitameat-Holycats Lab",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Holycats Lab",
+    desc: "Vitameat",
     subDesc: "Industri",
     image: "/img/Partner2/vitameatwithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7631465562409012500"
   },
   {
     id: "industri-petshop",
-    name: "Felcover+ Anima Companion",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Anima Companion",
+    desc: "Felcover+",
     subDesc: "Industri",
     image: "/img/Partner2/anima companion.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7609828032559500564"
   },
   {
     id: "industri-petshop",
-    name: "Forevet-Anima Companion",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Anima Companion",
+    desc: "Forevet",
     subDesc: "Industri",
     image: "/img/Partner2/Forevet Vitamin Stress Kucing Anjing.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7602850727035292948"
   },
   {
     id: "industri-petshop",
-    name: "Bye Scabies-Kiyopaw",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Kiyopaw",
+    desc: "Bye Scabies",
     subDesc: "Industri",
     image: "/img/Partner2/kiyopaw.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7607786649476500756"
   },
   {
     id: "industri-petshop",
-    name: "Gastrointestinal Care-Ramical",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Ramical",
+    desc: "Gastrointestinal Care",
     subDesc: "Industri",
     image: "/img/Partner2/ramical.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7611780663938682133"
   },
   {
     id: "industri-petshop",
-    name: "Bovine Colostrum Plus-Our Daily Pets",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Our Daily Pets",
+    desc: "Bovine Colostrum Plus",
     subDesc: "Industri",
     image: "/img/Partner2/ourdailypetswithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7615819238514625813"
   },
   {
     id: "industri-petshop",
-    name: "Furlife - Wonder Moist Balm",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Furlife",
+    desc: "Wonder Moist Balm",
     subDesc: "Industri",
     image: "/img/Partner2/Furlife.jpg",
     link: "https://www.instagram.com/furlife.id"
   },
   {
     id: "industri-petshop",
-    name: "Furlife - Magic Fluff Shampoo",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Furlife",
+    desc: "Magic Fluff Shampoo",
     subDesc: "Industri",
     image: "/img/Partner2/Furlife - Magic Fluff Shampoo.jpg",
     link: "https://s.shopee.co.id/1LcFueBI7U"
   },
   {
     id: "industri-petshop",
-    name: "Furlife - Whimsi Calm",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "Furlife",
+    desc: "Whimsi Calm",
     subDesc: "Industri",
     image: "/img/Partner2/Furlife - Whimsi Calm.jpg",
     link: "https://s.shopee.co.id/5q4fGvrHX5"
   },
   {
     id: "industri-petshop",
-    name: "Head to Paw Serum - UrbanMoof",
-    desc: "Partner Industri Polimeritas-Exclusive",
-    subDesc: "Industri",
-    image: "/img/Partner2/Head to Paw Serum - UrbanMoof.jpg",
-    link: "https://s.shopee.co.id/8ASKHDuCeo"
-  },
-  {
-    id: "industri-petshop",
-    name: "Spray Pet Skin-PET VIGOR ID",
-    desc: "Partner Industri Polimeritas-Exclusive",
+    name: "PET VIGOR ID",
+    desc: "Spray Pet Skin",
     subDesc: "Industri",
     image: "/img/Partner2/petvigorwithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7628471599531969813"
