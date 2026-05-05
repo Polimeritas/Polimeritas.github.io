@@ -4020,6 +4020,14 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-petshop",
     name: "Animal&co",
+    desc: "Gourmet Wet Cat Food",
+    subDesc: "Industri",
+    image: "/img/Partner2/Animal&Co Gourmet Wet Cat Food.jpg",
+    link: "https://s.shopee.co.id/7ppqQB305C"
+  },
+  {
+    id: "industri-petshop",
+    name: "Animal&co",
     desc: "Holistic Gourment",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&co - Holistic Gourment.jpg",
