@@ -90,7 +90,7 @@ export const partnerItems: Partner[] = [
     desc: "Dahlia - Automatic Refill",
     subDesc: "Indonesia",
     image: "/img/Partner2/Dahlia - Automatic Refill.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7635883547655474453"
+    link: "https://www.tiktok.com/@booyenku/video/7635977337875696916"
   },
   {
     id: "Partner Polimeritas",
