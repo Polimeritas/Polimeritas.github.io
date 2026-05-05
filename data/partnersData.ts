@@ -4019,7 +4019,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    name: "Animal&co",
+    name: "Animal&Co",
     desc: "Gourmet Wet Cat Food",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&Co Gourmet Wet Cat Food.jpg",
@@ -4027,7 +4027,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    name: "Animal&co",
+    name: "Animal&Co",
     desc: "Holistic Gourment",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&co - Holistic Gourment.jpg",
