@@ -4003,7 +4003,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    name: "Cat Litter-Anima&Co",
+    name: "Cat Litter-Animal&Co",
     desc: "Partner Industri Polimeritas-Exclusive",
     subDesc: "Industri",
     image: "/img/Partner2/animalncowithboyen.jpg",
