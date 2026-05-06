@@ -3161,7 +3161,7 @@ export const partnerItems: Partner[] = [
     name: "97",
     desc: "Coming Soon",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://s.shopee.co.id/"
   },
   {
@@ -3201,7 +3201,7 @@ export const partnerItems: Partner[] = [
     name: "92",
     desc: "Coming Soon",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://s.shopee.co.id/"
   },
   {
@@ -3313,7 +3313,7 @@ export const partnerItems: Partner[] = [
     name: "78",
     desc: "Coming Soon",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
+    image: "/img/Partner2/Coming Soon.jpg",
     link: "https://s.shopee.co.id/"
   },
   {
@@ -3426,6 +3426,38 @@ export const partnerItems: Partner[] = [
     desc: "Vespa Sprint S 150 I-Get Abs",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/64.jpg",
+    link: "https://s.shopee.co.id/8KauoxctWd"
+  },
+  {
+    id: "63",
+    name: "63",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner/Coming Soon.jpg",
+    link: "https://s.shopee.co.id/8KauoxctWd"
+  },
+  {
+    id: "62",
+    name: "62",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner/Coming Soon.jpg",
+    link: "https://s.shopee.co.id/8KauoxctWd"
+  },
+  {
+    id: "61",
+    name: "61",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner/Coming Soon.jpg",
+    link: "https://s.shopee.co.id/8KauoxctWd"
+  },
+  {
+    id: "60",
+    name: "60",
+    desc: "Coming Soon",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner/Coming Soon.jpg",
     link: "https://s.shopee.co.id/8KauoxctWd"
   },
   {
