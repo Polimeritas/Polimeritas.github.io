@@ -3521,7 +3521,7 @@ export const partnerItems: Partner[] = [
     name: "52",
     desc: "Lab-Gelas Ukur Takar",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Lab-Gelas Ukur Takar.png",
+    image: "/img/Partner2/Lab-Gelas Ukur Takar.jpg",
     link: "https://s.shopee.co.id/8V4xkVAKwa"
   },
   {
@@ -3649,7 +3649,7 @@ export const partnerItems: Partner[] = [
     name: "35",
     desc: "Lab-Kertas Lakmus",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Lab-Kertas Lakmus.png",
+    image: "/img/Partner2/Lab-Kertas Lakmus.jpg",
     link: "https://s.shopee.co.id/8pho94nffA"
   },
   {
@@ -3689,7 +3689,7 @@ export const partnerItems: Partner[] = [
     name: "30",
     desc: "Lab-Kaca Arloji",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Lab-Kaca Arloji.png",
+    image: "/img/Partner2/Lab-Kaca Arloji.jpg",
     link: "https://s.shopee.co.id/4AvyaTMC2x"
   },
   {
@@ -3777,7 +3777,7 @@ export const partnerItems: Partner[] = [
     name: "19",
     desc: "Lab-Stainless Steel SUS 304",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Lab-Stainless Steel SUS 304.png",
+    image: "/img/Partner2/Lab-Stainless Steel SUS 304.jpg",
     link: "https://s.shopee.co.id/9Ke4jvPb5E"
   },
   {
