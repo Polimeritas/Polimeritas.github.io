@@ -4071,7 +4071,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "All Life Stages With Digestive Probiotics",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&Co - All Life Stages With Digestive Probiotics.jpg",
-    link: "https://s.shopee.co.id/gMeArmHTo"
+    link: "https://www.tiktok.com/@booyenku/video/7637379897979489556"
   },
   {
     id: "industri-petshop",
