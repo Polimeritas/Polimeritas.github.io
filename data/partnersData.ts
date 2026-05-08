@@ -4035,6 +4035,14 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
+    name: "Vitakraft",
+    desc: "Vitakraft-Liquid Snack Cat",
+    subDesc: "Industri",
+    image: "/img/Partner2/Vitakraft-Liquid Snack Cat.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7637412558751780117"
+  },
+  {
+    id: "industri-petshop",
     name: "Animal&Co",
     desc: "Cat Litter",
     subDesc: "Industri",
