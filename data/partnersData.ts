@@ -4055,7 +4055,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Gourmet Wet Cat Food",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&Co Gourmet Wet Cat Food.jpg",
-    link: "https://s.shopee.co.id/7ppqQB305C"
+    link: "https://www.tiktok.com/@booyenku/video/7637390352839855380"
   },
   {
     id: "industri-petshop",
