@@ -4135,7 +4135,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Atlantic Salmon",
     subDesc: "Industri",
     image: "/img/Partner2/boyensalmonsillybeast.jpg",
-    link: "https://s.shopee.co.id/9fHBGcH2vJ"
+    link: "https://www.tiktok.com/@booyenku/video/7636260288467062036"
   },
   {
     id: "industri-petshop",
@@ -4143,7 +4143,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Tuna Cubes",
     subDesc: "Industri",
     image: "/img/Partner2/boyentunasillybeast.jpg",
-    link: "https://s.shopee.co.id/5L8C6gJ3Sd"
+    link: "https://www.tiktok.com/@booyenku/video/7636260288467062036"
   },
   {
     id: "industri-petshop",
