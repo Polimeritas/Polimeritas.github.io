@@ -2351,10 +2351,10 @@ export const partnerItems: Partner[] = [
   {
     id: "200",
     name: "200",
-    desc: "Coming Soon",
+    desc: "[RA.ID] Flips Kidz - Tas SD & TK Premium Viral ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/[RA.ID] Flips Kidz - Tas SD & TK Premium Viral .jpg",
+    link: "https://s.shopee.co.id/6pxPcvS5DU"
   },
   {
     id: "199",
@@ -2503,10 +2503,10 @@ export const partnerItems: Partner[] = [
   {
     id: "181",
     name: "181",
-    desc: "Coming Soon",
+    desc: "Tiby Kids - TS06 Tas Ransel Sekolah Anak ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Tiby Kids - TS06 Tas Ransel Sekolah Anak .jpg",
+    link: "https://s.shopee.co.id/3g0Nr4ADW1"
   },
   {
     id: "180",
@@ -2527,10 +2527,10 @@ export const partnerItems: Partner[] = [
   {
     id: "178",
     name: "178",
-    desc: "Coming Soon",
+    desc: "KINOKIMI - 2in1 TAS SEKOLAH ANAK",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/KINOKIMI - 2in1 TAS SEKOLAH ANAK.jpg",
+    link: "https://s.shopee.co.id/Ljvstr3q3"
   },
   {
     id: "177",
@@ -2575,10 +2575,10 @@ export const partnerItems: Partner[] = [
   {
     id: "172",
     name: "172",
-    desc: "Coming Soon",
+    desc: "Tas Ransel Paud TK Custom Nama Naimax Kids",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Tas Ransel Paud TK Custom Nama Naimax Kids.jpg",
+    link: "https://s.shopee.co.id/6VKZEBdSUA"
   },
   {
     id: "171",
@@ -2671,10 +2671,10 @@ export const partnerItems: Partner[] = [
   {
     id: "160",
     name: "160",
-    desc: "Coming Soon",
+    desc: "Coming [RA.ID] SnigglePop - Tas Ransel TK Premium",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/[RA.ID] SnigglePop - Tas Ransel TK Premium.jpg",
+    link: "https://s.shopee.co.id/9zuROZnPgF"
   },
   {
     id: "159",
