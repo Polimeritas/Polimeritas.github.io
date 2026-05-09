@@ -12,18 +12,12 @@ const ACHIEVEMENT_DATA = [
     },
     {
         id: 2,
-        target: 100,
+        target: 400,
         suffix: "+",
-        label: "Partnerships",
+        label: "Partnerships & Volunteers",
     },
     {
         id: 3,
-        target: 300,
-        suffix: "+",
-        label: "Volunteer",
-    },
-    {
-        id: 4,
         target: 750,
         suffix: "+",
         label: "Polymer Insights",
