@@ -104,7 +104,7 @@ const Testimonials = () => {
 
                 <div className="mb-12 px-2 lg:px-6">
                     <h2 className="text-3xl lg:text-4xl font-bold text-secondary">
-                        Our Beloved Volunteer
+                        Our Dedicated Volunteers
                     </h2>
                 </div>
 
