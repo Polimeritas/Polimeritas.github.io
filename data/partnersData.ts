@@ -3431,34 +3431,34 @@ export const partnerItems: Partner[] = [
   {
     id: "63",
     name: "63",
-    desc: "Coming Soon",
+    desc: "OLUMU Vitamin C Bright Body Cream Pelembab",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/Coming Soon.jpg",
-    link: "https://s.shopee.co.id/8KauoxctWd"
+    image: "/img/Partner2/OLUMU Vitamin C Bright Body Cream Pelembab.jpg",
+    link: "https://s.shopee.co.id/7KtgCv3twg"
   },
   {
     id: "62",
     name: "62",
-    desc: "Coming Soon",
+    desc: "[400ml] WHITE INC Alpha Glow White Body Lotion Whitening & Moisturizing",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/Coming Soon.jpg",
-    link: "https://s.shopee.co.id/8KauoxctWd"
+    image: "/img/Partner2/[400ml] WHITE INC Alpha Glow White Body Lotion Whitening & Moisturizing.jpg",
+    link: "https://s.shopee.co.id/2BBa3PC0qO"
   },
   {
     id: "61",
     name: "61",
-    desc: "Coming Soon",
+    desc: "Buy Vaseline Gluta Hya 330ml Multi Pack",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/Coming Soon.jpg",
-    link: "https://s.shopee.co.id/8KauoxctWd"
+    image: "/img/Partner2/Buy Vaseline Gluta Hya 330ml Multi Pack.jpg",
+    link: "https://s.shopee.co.id/40dEEkHBU6"
   },
   {
     id: "60",
     name: "60",
-    desc: "Coming Soon",
+    desc: "Guardian Soft & Moisturizing Shower Cream",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/Coming Soon.jpg",
-    link: "https://s.shopee.co.id/8KauoxctWd"
+    image: "/img/Partner2/Guardian Soft & Moisturizing Shower Cream.jpg",
+    link: "https://s.shopee.co.id/gMmGaUkb2"
   },
   {
     id: "59",
