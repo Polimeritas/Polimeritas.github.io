@@ -22,6 +22,12 @@ const ACHIEVEMENT_DATA = [
         suffix: "+",
         label: "Volunteer",
     },
+    {
+        id: 4,
+        target: 750,
+        suffix: "+",
+        label: "Polymer Insights",
+    },
 ];
 
 interface AnimatedCounterProps {
