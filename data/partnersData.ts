@@ -2351,10 +2351,10 @@ export const partnerItems: Partner[] = [
   {
     id: "200",
     name: "200",
-    desc: "Coming Soon",
+    desc: "[RA.ID] Flips Kidz - Tas SD & TK Premium Viral ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/[RA.ID] Flips Kidz - Tas SD & TK Premium Viral .jpg",
+    link: "https://s.shopee.co.id/6pxPcvS5DU"
   },
   {
     id: "199",
@@ -2503,10 +2503,10 @@ export const partnerItems: Partner[] = [
   {
     id: "181",
     name: "181",
-    desc: "Coming Soon",
+    desc: "Tiby Kids - TS06 Tas Ransel Sekolah Anak ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Tiby Kids - TS06 Tas Ransel Sekolah Anak .jpg",
+    link: "https://s.shopee.co.id/3g0Nr4ADW1"
   },
   {
     id: "180",
@@ -2527,10 +2527,10 @@ export const partnerItems: Partner[] = [
   {
     id: "178",
     name: "178",
-    desc: "Coming Soon",
+    desc: "KINOKIMI - 2in1 TAS SEKOLAH ANAK",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/KINOKIMI - 2in1 TAS SEKOLAH ANAK.jpg",
+    link: "https://s.shopee.co.id/Ljvstr3q3"
   },
   {
     id: "177",
@@ -2575,10 +2575,10 @@ export const partnerItems: Partner[] = [
   {
     id: "172",
     name: "172",
-    desc: "Coming Soon",
+    desc: "Tas Ransel Paud TK Custom Nama Naimax Kids",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Tas Ransel Paud TK Custom Nama Naimax Kids.jpg",
+    link: "https://s.shopee.co.id/6VKZEBdSUA"
   },
   {
     id: "171",
@@ -2671,10 +2671,10 @@ export const partnerItems: Partner[] = [
   {
     id: "160",
     name: "160",
-    desc: "Coming Soon",
+    desc: "Coming [RA.ID] SnigglePop - Tas Ransel TK Premium",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/[RA.ID] SnigglePop - Tas Ransel TK Premium.jpg",
+    link: "https://s.shopee.co.id/9zuROZnPgF"
   },
   {
     id: "159",
@@ -2743,10 +2743,10 @@ export const partnerItems: Partner[] = [
   {
     id: "150",
     name: "150",
-    desc: "Coming Soon",
+    desc: "Glad2Glow Peach Retinol Moisturizer 30g",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Glad2Glow Peach Retinol Moisturizer 30g.jpg",
+    link: "https://s.shopee.co.id/8piTzB1uis"
   },
   {
     id: "149",
@@ -2879,10 +2879,10 @@ export const partnerItems: Partner[] = [
   {
     id: "133",
     name: "133",
-    desc: "Coming Soon",
+    desc: "Glad2Glow Brightening Lip Serum",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Glad2Glow Brightening Lip Serum.jpg",
+    link: "https://s.shopee.co.id/60OIbwmhou"
   },
   {
     id: "132",
@@ -2935,10 +2935,10 @@ export const partnerItems: Partner[] = [
   {
     id: "126",
     name: "126",
-    desc: "Coming Soon",
+    desc: "Glad2Glow Brightening Lip Serum 7G",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Glad2Glow Brightening Lip Serum 7G.jpg",
+    link: "https://s.shopee.co.id/W3M3oPZNa"
   },
   {
     id: "125",
@@ -3103,10 +3103,10 @@ export const partnerItems: Partner[] = [
   {
     id: "104",
     name: "104",
-    desc: "Fila Sepatu Jalan Pria V1 (Boa)",
+    desc: "Skincare Mencerahkan Wajah Reglow dr Shindy Skincare ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/104.jpg",
-    link: "https://s.shopee.co.id/4fhlv0uIVO"
+    image: "/img/Partner2/Skincare Mencerahkan Wajah Reglow dr Shindy Skincare .jpg",
+    link: "https://s.shopee.co.id/8piTz6Zcpn"
   },
   {
     id: "103",
@@ -3159,10 +3159,10 @@ export const partnerItems: Partner[] = [
   {
     id: "97",
     name: "97",
-    desc: "Coming Soon",
+    desc: "SONIK SCENTS SKIN NICE BODY TONER MERAH 200 ML Glycerin, Niacinamide, Glycolic Acid, allantoin",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/SONIK SCENTS SKIN NICE BODY TONER MERAH 200 ML Glycerin, Niacinamide, Glycolic Acid, allantoin.jpg",
+    link: "https://s.shopee.co.id/70Gpni6R5m"
   },
   {
     id: "96",
@@ -3199,18 +3199,18 @@ export const partnerItems: Partner[] = [
   {
     id: "92",
     name: "92",
-    desc: "Coming Soon",
+    desc: "SCORA Tone Up Cream Series 30 Gr Tone Up Viral Mencerahkan Secara Natural",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/SCORA Tone Up Cream Series 30 Gr Tone Up Viral Mencerahkan Secara Natural.jpg",
+    link: "https://s.shopee.co.id/2VoQRPouX8"
   },
   {
     id: "91",
     name: "91",
-    desc: "Coming Soon",
+    desc: "SKIN1004 Madagascar Centella Ampoule 55ml",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/SKIN1004 Madagascar Centella Ampoule 55ml.jpg",
+    link: "https://s.shopee.co.id/3VgxdD5Z3o"
   },
   {
     id: "90",
@@ -3287,7 +3287,7 @@ export const partnerItems: Partner[] = [
   {
     id: "81",
     name: "81",
-    desc: "Coming SoonShopee - Polimeritas",
+    desc: "Shopee - Polimeritas",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/81.webp",
     link: "https://s.shopee.co.id/3fp5U0adpn"
@@ -3311,10 +3311,10 @@ export const partnerItems: Partner[] = [
   {
     id: "78",
     name: "78",
-    desc: "Coming Soon",
+    desc: "[50ml] Azarine Hydrasoothe Sunscreen Gel SPF45 ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/[50ml] Azarine Hydrasoothe Sunscreen Gel SPF45 .jpg",
+    link: "https://s.shopee.co.id/9KekZuUm6T"
   },
   {
     id: "77",
@@ -3431,34 +3431,34 @@ export const partnerItems: Partner[] = [
   {
     id: "63",
     name: "63",
-    desc: "Coming Soon",
+    desc: "OLUMU Vitamin C Bright Body Cream Pelembab",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/Coming Soon.jpg",
-    link: "https://s.shopee.co.id/8KauoxctWd"
+    image: "/img/Partner2/OLUMU Vitamin C Bright Body Cream Pelembab.jpg",
+    link: "https://s.shopee.co.id/7KtgCv3twg"
   },
   {
     id: "62",
     name: "62",
-    desc: "Coming Soon",
+    desc: "[400ml] WHITE INC Alpha Glow White Body Lotion Whitening & Moisturizing",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/Coming Soon.jpg",
-    link: "https://s.shopee.co.id/8KauoxctWd"
+    image: "/img/Partner2/[400ml] WHITE INC Alpha Glow White Body Lotion Whitening & Moisturizing.jpg",
+    link: "https://s.shopee.co.id/2BBa3PC0qO"
   },
   {
     id: "61",
     name: "61",
-    desc: "Coming Soon",
+    desc: "Buy Vaseline Gluta Hya 330ml Multi Pack",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/Coming Soon.jpg",
-    link: "https://s.shopee.co.id/8KauoxctWd"
+    image: "/img/Partner2/Buy Vaseline Gluta Hya 330ml Multi Pack.jpg",
+    link: "https://s.shopee.co.id/40dEEkHBU6"
   },
   {
     id: "60",
     name: "60",
-    desc: "Coming Soon",
+    desc: "Guardian Soft & Moisturizing Shower Cream",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/Coming Soon.jpg",
-    link: "https://s.shopee.co.id/8KauoxctWd"
+    image: "/img/Partner2/Guardian Soft & Moisturizing Shower Cream.jpg",
+    link: "https://s.shopee.co.id/gMmGaUkb2"
   },
   {
     id: "59",
@@ -4127,7 +4127,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Chicken Cubes",
     subDesc: "Industri",
     image: "/img/Partner2/Chicken Cubes-Silly Beast Boyen.jpg",
-    link: "https://s.shopee.co.id/4fsVJPR4Bk"
+    link: "https://www.tiktok.com/@booyenku/video/7636705218457046293"
   },
   {
     id: "industri-petshop",
@@ -4135,7 +4135,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Atlantic Salmon",
     subDesc: "Industri",
     image: "/img/Partner2/boyensalmonsillybeast.jpg",
-    link: "https://s.shopee.co.id/9fHBGcH2vJ"
+    link: "https://www.tiktok.com/@booyenku/video/7636260288467062036"
   },
   {
     id: "industri-petshop",
@@ -4143,7 +4143,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Tuna Cubes",
     subDesc: "Industri",
     image: "/img/Partner2/boyentunasillybeast.jpg",
-    link: "https://s.shopee.co.id/5L8C6gJ3Sd"
+    link: "https://www.tiktok.com/@booyenku/video/7636260288467062036"
   },
   {
     id: "industri-petshop",
