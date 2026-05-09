@@ -4127,7 +4127,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Chicken Cubes",
     subDesc: "Industri",
     image: "/img/Partner2/Chicken Cubes-Silly Beast Boyen.jpg",
-    link: "https://s.shopee.co.id/4fsVJPR4Bk"
+    link: "https://www.tiktok.com/@booyenku/video/7636705218457046293"
   },
   {
     id: "industri-petshop",
