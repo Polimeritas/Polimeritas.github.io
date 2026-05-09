@@ -157,6 +157,62 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "540",
+    name: "540",
+    desc: "Azzura Micellar Cleansing Water",
+    subDesc: "Industri",
+    image: "/img/Partner2/Azzura Micellar Cleansing Water.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7636768485044964629"
+  },
+  {
+    id: "539",
+    name: "539",
+    desc: "WPC Toilet",
+    subDesc: "Industri",
+    image: "/img/Partner2/WPC Toilet.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7636645396474907924"
+  },
+  {
+    id: "538",
+    name: "538",
+    desc: "Steker 3 Kaki",
+    subDesc: "Industri",
+    image: "/img/Partner2/Steker 3 Kaki.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7637532036923854101"
+  },
+  {
+    id: "537",
+    name: "537",
+    desc: "Pulpen Snowman",
+    subDesc: "Industri",
+    image: "/img/Partner2/Pulpen Snowman.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7637533529538153748"
+  },
+  {
+    id: "536",
+    name: "536",
+    desc: "Listerine Watermelon",
+    subDesc: "Industri",
+    image: "/img/Partner2/Listerine Watermelon.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7637826633465990421"
+  },
+  {
+    id: "535",
+    name: "535",
+    desc: "Listerine Sakura Peach",
+    subDesc: "Industri",
+    image: "/img/Partner2/Listerine Sakura Peach.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7637829685434715413"
+  },
+  {
+    id: "534",
+    name: "534",
+    desc: "Posh Parfume",
+    subDesc: "Industri",
+    image: "/img/Partner2/Posh Parfume.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7637896263085722901"
+  },
+  {
     id: "533",
     name: "533",
     desc: "Stella Pocket",
