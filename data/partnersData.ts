@@ -2746,7 +2746,7 @@ export const partnerItems: Partner[] = [
     desc: "Glad2Glow Peach Retinol Moisturizer 30g",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Glad2Glow Peach Retinol Moisturizer 30g.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/8piTzB1uis"
   },
   {
     id: "149",
@@ -2882,7 +2882,7 @@ export const partnerItems: Partner[] = [
     desc: "Glad2Glow Brightening Lip Serum",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Glad2Glow Brightening Lip Serum.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/60OIbwmhou"
   },
   {
     id: "132",
@@ -2938,7 +2938,7 @@ export const partnerItems: Partner[] = [
     desc: "Glad2Glow Brightening Lip Serum 7G",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Glad2Glow Brightening Lip Serum 7G.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/W3M3oPZNa"
   },
   {
     id: "125",
@@ -3106,7 +3106,7 @@ export const partnerItems: Partner[] = [
     desc: "Skincare Mencerahkan Wajah Reglow dr Shindy Skincare ",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Skincare Mencerahkan Wajah Reglow dr Shindy Skincare .jpg",
-    link: "https://s.shopee.co.id/4fhlv0uIVO"
+    link: "https://s.shopee.co.id/8piTz6Zcpn"
   },
   {
     id: "103",
@@ -3162,7 +3162,7 @@ export const partnerItems: Partner[] = [
     desc: "SONIK SCENTS SKIN NICE BODY TONER MERAH 200 ML Glycerin, Niacinamide, Glycolic Acid, allantoin",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/SONIK SCENTS SKIN NICE BODY TONER MERAH 200 ML Glycerin, Niacinamide, Glycolic Acid, allantoin.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/70Gpni6R5m"
   },
   {
     id: "96",
@@ -3202,7 +3202,7 @@ export const partnerItems: Partner[] = [
     desc: "SCORA Tone Up Cream Series 30 Gr Tone Up Viral Mencerahkan Secara Natural",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/SCORA Tone Up Cream Series 30 Gr Tone Up Viral Mencerahkan Secara Natural.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/2VoQRPouX8"
   },
   {
     id: "91",
@@ -3210,7 +3210,7 @@ export const partnerItems: Partner[] = [
     desc: "SKIN1004 Madagascar Centella Ampoule 55ml",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/SKIN1004 Madagascar Centella Ampoule 55ml.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/3VgxdD5Z3o"
   },
   {
     id: "90",
@@ -3314,7 +3314,7 @@ export const partnerItems: Partner[] = [
     desc: "[50ml] Azarine Hydrasoothe Sunscreen Gel SPF45 ",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/[50ml] Azarine Hydrasoothe Sunscreen Gel SPF45 .jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9KekZuUm6T"
   },
   {
     id: "77",
