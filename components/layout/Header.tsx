@@ -6,30 +6,31 @@ import Navbar from './Navbar';
 
 const Header = () => {
   return (
-    <header className="w-full shadow-sm">
-      <div className="flex flex-col lg:flex-row">
-        
-        <div className="hidden lg:flex w-full lg:w-1/4 bg-dark items-center justify-center p-4">
-           <Link href="/" className="relative w-[250px] h-[80px]">
-             <Image 
-                src="/img/logo.png" 
-                alt="Polimeritas Logo" 
+    <header className="w-full shadow-sm flex flex-col relative z-50">
+
+      <div className="w-full bg-secondary hidden lg:block">
+        <Topbar />
+      </div>
+
+      <div className="w-full bg-white px-4 lg:px-8">
+        <div className="flex items-center justify-between">
+
+          <div className="hidden lg:flex items-center w-[200px] h-[80px]">
+            <Link href="/" className="relative w-full h-[100px]">
+              <Image
+                src="/img/logo.png"
+                alt="Polimeritas Logo"
                 fill
-                className="object-contain"
+                className="object-contain object-left"
                 priority
-             />
-           </Link>
-        </div>
+              />
+            </Link>
+          </div>
 
-        <div className="w-full lg:w-3/4 flex flex-col">
-           
-           <div className="bg-dark hidden lg:block">
-              <Topbar />
-           </div>
+          <div className="w-full lg:flex-1 lg:pl-8">
+            <Navbar />
+          </div>
 
-           <div className="bg-white">
-              <Navbar />
-           </div>
         </div>
       </div>
     </header>

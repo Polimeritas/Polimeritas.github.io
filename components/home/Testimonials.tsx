@@ -2,12 +2,13 @@
 
 import React from "react";
 import Image from "next/image";
-import SectionTitle from "../common/SectionTitle";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay, Pagination } from "swiper/modules";
+import { Autoplay, Navigation } from "swiper/modules";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faChevronLeft, faChevronRight } from "@fortawesome/free-solid-svg-icons";
 
 import "swiper/css";
-import "swiper/css/pagination";
+import "swiper/css/navigation";
 
 const Testimonials = () => {
     const testimonials = [
@@ -98,77 +99,85 @@ const Testimonials = () => {
     ];
 
     return (
-        <section className="w-full bg-[#444444] py-20 lg:py-24 text-white">
-            <div className="w-full max-w-[95%] lg:max-w-[1400px] mx-auto px-4">
+        <section className="w-full bg-white py-20">
+            <div className="max-w-[95%] lg:max-w-[1400px] mx-auto px-4">
 
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-16 items-center">
+                <div className="mb-12 px-2 lg:px-6">
+                    <h2 className="text-3xl lg:text-4xl font-bold text-secondary">
+                        Our Beloved Volunteer
+                    </h2>
+                </div>
 
-                    <div className="lg:col-span-7">
-                        <SectionTitle
-                            subtitle="Testimonial"
-                            title="Our Beloved Volunteer"
-                            textColor="text-white"
-                            className="mb-10"
-                        />
+                {/* CAROUSEL SECTION */}
+                <div className="relative group/slider px-2 lg:px-6">
+                    <Swiper
+                        modules={[Autoplay, Navigation]}
+                        spaceBetween={24}
+                        loop={true}
+                        autoplay={{
+                            delay: 3000,
+                            disableOnInteraction: false,
+                        }}
+                        navigation={{
+                            nextEl: ".testi-next",
+                            prevEl: ".testi-prev",
+                        }}
+                        breakpoints={{
+                            0: { slidesPerView: 1 },
+                            768: { slidesPerView: 2 },
+                            1024: { slidesPerView: 3 },
+                        }}
+                        className="pb-12 pt-4"
+                    >
+                        {testimonials.map((item) => (
+                            <SwiperSlide key={item.id} className="px-1">
 
-                        <Swiper
-                            modules={[Autoplay, Pagination]}
-                            spaceBetween={30}
-                            slidesPerView={1}
-                            loop={true}
-                            autoplay={{
-                                delay: 5000,
-                                disableOnInteraction: false,
-                            }}
-                            pagination={{
-                                clickable: true,
-                            }}
-                            className="testimonials-swiper"
-                        >
-                            {testimonials.map((item) => (
-                                <SwiperSlide key={item.id}>
-                                    <div className="flex flex-col text-white">
+                                {/* CARD CONTAINER */}
+                                <div className="flex flex-col h-[420px] w-full bg-white rounded-xl overflow-hidden shadow-[0_2px_10px_rgba(0,0,0,0.08)] border border-gray-100 border-t-[6px] border-t-secondary transition-all hover:shadow-[0_8px_20px_rgba(0,0,0,0.12)]">
 
-                                        <div className="flex items-center mb-6">
-                                            <div className="relative w-[80px] h-[80px] rounded-full overflow-hidden border-2 border-white mr-5 shrink-0">
-                                                <Image
-                                                    src={item.image}
-                                                    alt={item.name}
-                                                    fill
-                                                    className="object-cover"
-                                                />
-                                            </div>
+                                    <div className="relative w-full h-[180px] shrink-0 bg-gray-200 overflow-hidden">
+                                        <Image
+                                            src={item.image}
+                                            alt={item.name}
+                                            fill
+                                            className="object-cover"
+                                            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                                        />
+                                    </div>
 
-                                            <div>
-                                                <h4 className="text-primary font-bold text-xl lg:text-2xl mb-1">
-                                                    {item.name}
-                                                </h4>
-                                                <span className="text-white text-base italic font-light block">
-                                                    {item.role}
-                                                </span>
-                                            </div>
-                                        </div>
-
-                                        <p className="text-white text-lg lg:text-xl leading-relaxed font-light pr-0 lg:pr-4">
+                                    {/* Content Area */}
+                                    <div className="p-6 flex flex-col flex-grow bg-white overflow-hidden">
+                                        <h3 className="font-bold text-secondary text-xl mb-1 truncate">
+                                            {item.name}
+                                        </h3>
+                                        <p className="text-gray-500 text-sm font-medium mb-3 shrink-0">
+                                            {item.role}
+                                        </p>
+                                        <p className="text-dark/80 text-sm leading-relaxed line-clamp-5">
                                             {item.quote}
                                         </p>
                                     </div>
-                                </SwiperSlide>
-                            ))}
-                        </Swiper>
-                    </div>
 
-                    <div className="lg:col-span-5 w-full">
-                        <div className="relative w-full rounded-2xl overflow-hidden aspect-4/3 sm:aspect-16/10 lg:aspect-auto lg:h-full min-h-[260px] sm:min-h-[360px] lg:min-h-[500px]">
-                            <Image
-                                src="/img/testimoni.jpg"
-                                alt="Testimonials Collage"
-                                fill
-                                className="object-contain object-center p-2 sm:p-3"
-                                sizes="(max-width: 1024px) 100vw, 40vw"
-                            />
-                        </div>
-                    </div>
+                                </div>
+
+                            </SwiperSlide>
+                        ))}
+                    </Swiper>
+
+                    {/* NAVIGATION BUTTONS */}
+                    <button
+                        className="testi-prev absolute top-1/2 left-0 lg:-left-2 -translate-y-1/2 z-30 w-12 h-12 bg-white text-dark border border-gray-200 shadow-lg flex items-center justify-center hover:bg-secondary hover:text-white hover:border-secondary transition-all duration-300 rounded-full cursor-pointer opacity-0 group-hover/slider:opacity-100"
+                        aria-label="Previous slide"
+                    >
+                        <FontAwesomeIcon icon={faChevronLeft} />
+                    </button>
+
+                    <button
+                        className="testi-next absolute top-1/2 right-0 lg:-right-2 -translate-y-1/2 z-30 w-12 h-12 bg-white text-dark border border-gray-200 shadow-lg flex items-center justify-center hover:bg-secondary hover:text-white hover:border-secondary transition-all duration-300 rounded-full cursor-pointer opacity-0 group-hover/slider:opacity-100"
+                        aria-label="Next slide"
+                    >
+                        <FontAwesomeIcon icon={faChevronRight} />
+                    </button>
 
                 </div>
             </div>
