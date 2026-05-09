@@ -2743,9 +2743,9 @@ export const partnerItems: Partner[] = [
   {
     id: "150",
     name: "150",
-    desc: "Coming Soon",
+    desc: "Glad2Glow Peach Retinol Moisturizer 30g",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
+    image: "/img/Partner2/Glad2Glow Peach Retinol Moisturizer 30g.jpg",
     link: "https://s.shopee.co.id/"
   },
   {
@@ -2879,9 +2879,9 @@ export const partnerItems: Partner[] = [
   {
     id: "133",
     name: "133",
-    desc: "Coming Soon",
+    desc: "Glad2Glow Brightening Lip Serum",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
+    image: "/img/Partner2/Glad2Glow Brightening Lip Serum.jpg",
     link: "https://s.shopee.co.id/"
   },
   {
@@ -2935,9 +2935,9 @@ export const partnerItems: Partner[] = [
   {
     id: "126",
     name: "126",
-    desc: "Coming Soon",
+    desc: "Glad2Glow Brightening Lip Serum 7G",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
+    image: "/img/Partner2/Glad2Glow Brightening Lip Serum 7G.jpg",
     link: "https://s.shopee.co.id/"
   },
   {
@@ -3103,9 +3103,9 @@ export const partnerItems: Partner[] = [
   {
     id: "104",
     name: "104",
-    desc: "Fila Sepatu Jalan Pria V1 (Boa)",
+    desc: "Skincare Mencerahkan Wajah Reglow dr Shindy Skincare ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/104.jpg",
+    image: "/img/Partner2/Skincare Mencerahkan Wajah Reglow dr Shindy Skincare .jpg",
     link: "https://s.shopee.co.id/4fhlv0uIVO"
   },
   {
@@ -3159,9 +3159,9 @@ export const partnerItems: Partner[] = [
   {
     id: "97",
     name: "97",
-    desc: "Coming Soon",
+    desc: "SONIK SCENTS SKIN NICE BODY TONER MERAH 200 ML Glycerin, Niacinamide, Glycolic Acid, allantoin",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/SONIK SCENTS SKIN NICE BODY TONER MERAH 200 ML Glycerin, Niacinamide, Glycolic Acid, allantoin.jpg",
     link: "https://s.shopee.co.id/"
   },
   {
@@ -3199,17 +3199,17 @@ export const partnerItems: Partner[] = [
   {
     id: "92",
     name: "92",
-    desc: "Coming Soon",
+    desc: "SCORA Tone Up Cream Series 30 Gr Tone Up Viral Mencerahkan Secara Natural",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/SCORA Tone Up Cream Series 30 Gr Tone Up Viral Mencerahkan Secara Natural.jpg",
     link: "https://s.shopee.co.id/"
   },
   {
     id: "91",
     name: "91",
-    desc: "Coming Soon",
+    desc: "SKIN1004 Madagascar Centella Ampoule 55ml",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
+    image: "/img/Partner2/SKIN1004 Madagascar Centella Ampoule 55ml.jpg",
     link: "https://s.shopee.co.id/"
   },
   {
@@ -3311,9 +3311,9 @@ export const partnerItems: Partner[] = [
   {
     id: "78",
     name: "78",
-    desc: "Coming Soon",
+    desc: "[50ml] Azarine Hydrasoothe Sunscreen Gel SPF45 ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/[50ml] Azarine Hydrasoothe Sunscreen Gel SPF45 .jpg",
     link: "https://s.shopee.co.id/"
   },
   {
