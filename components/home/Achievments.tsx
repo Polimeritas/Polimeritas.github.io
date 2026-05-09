@@ -18,9 +18,9 @@ const ACHIEVEMENT_DATA = [
     },
     {
         id: 3,
-        target: 200,
+        target: 300,
         suffix: "+",
-        label: "Content",
+        label: "Volunteer",
     },
 ];
 
@@ -90,7 +90,7 @@ const Achievement = () => {
                     <p className="text-white/90 text-sm md:text-base lg:text-lg leading-relaxed lg:leading-loose">
                         Polimeritas adalah komunitas yang bekerja sama untuk memajukan masyarakat
                         yang ahli, produktif dan inovatif untuk mendukung Indonesia yang lebih baik di
-                        bidang polimer. Untuk itu, gabunglah bersama kami sebagai :
+                        bidang polimer. Sejak 2018 kami menjangkau:
                     </p>
                 </div>
 
