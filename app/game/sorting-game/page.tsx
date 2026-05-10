@@ -7,7 +7,7 @@ import SortingGameEngine from "@/components/game/sorting/SortingGameEngine";
 import GameDescription from "@/components/game/GameDescription";
 
 export const metadata: Metadata = {
-    title: "Sorting Game",
+    title: "Polymer Sorting Game",
     description: "Game edukasi memilah sampah organik dan anorganik.",
 };
 
