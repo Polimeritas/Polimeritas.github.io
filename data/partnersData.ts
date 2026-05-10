@@ -1549,12 +1549,52 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/4AlVxaEsAG"
   },
   {
+    id: "373",
+    name: "373",
+    desc: "Giv Sabun Mandi Cair Ungu",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Giv Sabun Mandi Cair Ungu.jpg",
+    link: "https://s.shopee.co.id/1qYlFdwaOn"
+  },
+  {
+    id: "372",
+    name: "372",
+    desc: "",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "371",
+    name: "371",
+    desc: "Marina Hand Body Lotion UV White Marina",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Marina Hand Body Lotion UV White Marina.jpg",
+    link: "https://s.shopee.co.id/2VoS2tEPC6"
+  },
+  {
+    id: "370",
+    name: "370",
+    desc: "SCARLETT 10% NIACINAMIDE Fragrance Brightening Body Serum 170ml ",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/SCARLETT 10% NIACINAMIDE Fragrance Brightening Body Serum 170ml .jpg",
+    link: "https://s.shopee.co.id/6L1Aby7nt4"
+  },
+  {
+    id: "369",
+    name: "369",
+    desc: "Sabun Arab PYARY Nalpamara Coconut Oil Soap 100% Original ",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Sabun Arab PYARY Nalpamara Coconut Oil Soap 100% Original .jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "368",
     name: "368",
     desc: "Allefix Tool Box 85 Pcs Kunci Sok Set Pekerjaan Otomotif",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Allefix Tool Box 85 Pcs Kunci Sok Set Pekerjaan Otomotif.jpg",
-    link: "https://s.shopee.co.id/8V5fBMOskF"
+    link: "https://s.shopee.co.id/BQXGfCjel"
   },
   {
     id: "367",
