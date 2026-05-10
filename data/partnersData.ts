@@ -4846,6 +4846,62 @@ export const partnerIndustriItems: Partner[] = [
   // --- AFFILIATE SECTION ---
   {
     id: "Affiliate",
+    name: "SAVIONYX Meal Topper Savory Sprinkle for Cats",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/SAVIONYX Meal Topper Savory Sprinkle for Cats.jpg",
+    link: "https://s.shopee.co.id/7ppyTRgFtx"
+  },
+  {
+    id: "Affiliate",
+    name: "Makanan Kucing Enak & Bergizi – Cocok untuk Kitten & Kucing Dewasa",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Makanan Kucing Enak & Bergizi – Cocok untuk Kitten & Kucing Dewasa.jpg",
+    link: "https://s.shopee.co.id/4qCMtzUbzm"
+  },
+  {
+    id: "Affiliate",
+    name: "Majes Immunity Meat Pack Makanan Kucing Basah (100 gr)",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Majes Immunity Meat Pack Makanan Kucing Basah (100 gr).jpg",
+    link: "https://s.shopee.co.id/LjxXlxjL0"
+  },
+  {
+    id: "Affiliate",
+    name: "Majes Freeze-Dried Digestive Health",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Majes Freeze-Dried Digestive Health.jpg",
+    link: "https://s.shopee.co.id/6AhkUXoxDl"
+  },
+  {
+    id: "Affiliate",
+    name: "ANIMAL STAR 1,5kg premium cat food makanan kucing kering dry food kucing ukuran 1,5kg",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/ANIMAL STAR 1,5kg premium cat food makanan kucing kering dry food kucing ukuran 1,5kg.jpg",
+    link: "https://s.shopee.co.id/20sBWvz4Ed"
+  },
+  {
+    id: "Affiliate",
+    name: "Catto Premium Dry Food - Bundle Complete 50gr x 6pcs",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Catto Premium Dry Food - Bundle Complete 50gr x 6pcs.jpg",
+    link: "https://s.shopee.co.id/1qYlKg5Mf9"
+  },
+  {
+    id: "Affiliate",
+    name: "CATAPAW Susu Bayi Kucing Cat Milk for Kitten",
+    desc: "Partner Industri Polimeritas",
+    subDesc: "Industri",
+    image: "/img/Partner2/CATAPAW Susu Bayi Kucing Cat Milk for Kitten.jpg",
+    link: "https://s.shopee.co.id/1qYlKjs8Ac"
+  },
+  {
+    id: "Affiliate",
     name: "Makanan Basah Kucing MR.VET",
     desc: "Partner Industri Polimeritas",
     subDesc: "Industri",
