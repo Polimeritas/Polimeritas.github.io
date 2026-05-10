@@ -79,6 +79,14 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "BEST SELLER",
+    desc: "Kurban",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kurban.jpg",
+    link: "https://qurban.amalsholeh.com/?ref=bJmk9"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
     desc: "Sendal Jepit Terapi",
     subDesc: "Indonesia",
     image: "/img/Partner2/Sendal Jepit Terapi.jpg",
