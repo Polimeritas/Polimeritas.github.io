@@ -4847,7 +4847,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "SAVIONYX Meal Topper Savory Sprinkle for Cats",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/SAVIONYX Meal Topper Savory Sprinkle for Cats.jpg",
     link: "https://s.shopee.co.id/7ppyTRgFtx"
@@ -4855,7 +4855,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Makanan Kucing Enak & Bergizi – Cocok untuk Kitten & Kucing Dewasa",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Makanan Kucing Enak & Bergizi – Cocok untuk Kitten & Kucing Dewasa.jpg",
     link: "https://s.shopee.co.id/4qCMtzUbzm"
@@ -4863,7 +4863,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Majes Immunity Meat Pack Makanan Kucing Basah (100 gr)",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Majes Immunity Meat Pack Makanan Kucing Basah (100 gr).jpg",
     link: "https://s.shopee.co.id/LjxXlxjL0"
@@ -4871,7 +4871,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Majes Freeze-Dried Digestive Health",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Majes Freeze-Dried Digestive Health.jpg",
     link: "https://s.shopee.co.id/6AhkUXoxDl"
@@ -4879,7 +4879,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "ANIMAL STAR 1,5kg premium cat food makanan kucing kering dry food kucing ukuran 1,5kg",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/ANIMAL STAR 1,5kg premium cat food makanan kucing kering dry food kucing ukuran 1,5kg.jpg",
     link: "https://s.shopee.co.id/20sBWvz4Ed"
@@ -4887,7 +4887,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Catto Premium Dry Food - Bundle Complete 50gr x 6pcs",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Catto Premium Dry Food - Bundle Complete 50gr x 6pcs.jpg",
     link: "https://s.shopee.co.id/1qYlKg5Mf9"
@@ -4895,7 +4895,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "CATAPAW Susu Bayi Kucing Cat Milk for Kitten",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/CATAPAW Susu Bayi Kucing Cat Milk for Kitten.jpg",
     link: "https://s.shopee.co.id/1qYlKjs8Ac"
@@ -4903,7 +4903,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Makanan Basah Kucing MR.VET",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Makanan Basah Kucing MR.VET.jpg",
     link: "https://s.shopee.co.id/AAD5Hre7A4"
@@ -4911,7 +4911,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Toppet",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Toppet.jpg",
     link: "https://s.shopee.co.id/8AS0uTvEO1"
@@ -4919,7 +4919,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "AMI GO",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-AMI GO.jpg",
     link: "https://s.shopee.co.id/60NWKTdceY"
@@ -4927,7 +4927,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Cemilan Creamy Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Cemilan Creamy Kucing.jpg",
     link: "https://s.shopee.co.id/30jukwL898"
@@ -4935,7 +4935,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Mainan Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Mainan Kucing.jpg",
     link: "https://s.shopee.co.id/808aiep2ZP"
@@ -4943,7 +4943,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Baju Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Baju Kucing.jpg",
     link: "https://s.shopee.co.id/70G3Wr5NNj"
@@ -4951,7 +4951,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Tas Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Tas Kucing.jpg",
     link: "https://s.shopee.co.id/10yqNsUiaG"
@@ -4959,7 +4959,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Tas Astronot Premium",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Tas Astronot Premium.jpg",
     link: "https://s.shopee.co.id/gLzzIVFQm"
@@ -4967,7 +4967,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "VEV Pounch",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-VEV Pounch.jpg",
     link: "https://s.shopee.co.id/9019Vc6ccf"
@@ -4975,7 +4975,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Snack Kucing OYISI",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Snack Kucing OYISI.jpg",
     link: "https://s.shopee.co.id/40cTYUMFm2"
@@ -4983,7 +4983,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Cat Choize Kitten",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Cat Choize Kitten.jpg",
     link: "https://s.shopee.co.id/AKWX6AL7Z5"
@@ -4991,7 +4991,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Felibite",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Felibite.jpg",
     link: "https://s.shopee.co.id/2LUFZWV3VN"
@@ -4999,7 +4999,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Excel",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Excel.jpg",
     link: "https://s.shopee.co.id/7ppC7f6HiR"
@@ -5007,7 +5007,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Liebao Snack",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Liebao Snack.jpg",
     link: "https://s.shopee.co.id/3fzdA2Kiie"
@@ -5015,7 +5015,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Snack Kucing Creamy (Susu Kambing)",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Snack Kucing Creamy (Susu Kambing).jpg",
     link: "https://s.shopee.co.id/2VnflujaUx"
@@ -5023,7 +5023,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Stick Bulu untuk Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Stick Bulu untuk Kucing.jpg",
     link: "https://s.shopee.co.id/70G5C27BpF"
@@ -5031,7 +5031,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Tas Kucing Selempang",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Tas Kucing Selempang.jpg",
     link: "https://s.shopee.co.id/4fsAPvleSb"
@@ -5039,7 +5039,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Gantungan Kunci Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Gantungan Kunci Kucing.jpg",
     link: "https://s.shopee.co.id/2LUFdfWu2y"
@@ -5047,7 +5047,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Mister Puss Dry Food",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Mister Puss Dry Food.jpg",
     link: "https://s.shopee.co.id/6pwezxbEHr"
@@ -5055,7 +5055,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Poocha Wet Food",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Poocha Wet Food.jpg",
     link: "https://s.shopee.co.id/16KrQrI9o"
@@ -5063,7 +5063,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Tempat Minum Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Tempat Minum Kucing.jpg",
     link: "https://s.shopee.co.id/16MSKSIt8"
@@ -5071,7 +5071,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Paket Grooming Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Paket Grooming Kucing.jpg",
     link: "https://s.shopee.co.id/8fOKmCww0f"
@@ -5079,7 +5079,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Box BAB Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Box BAB Kucing.jpg",
     link: "https://s.shopee.co.id/3fzeoyyhHR"
@@ -5087,7 +5087,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Starter Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Starter Kucing.jpg",
     link: "https://s.shopee.co.id/AUpyxUwNIQ"
@@ -5095,7 +5095,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Hairball Gel Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Hairball Gel Kucing.jpg",
     link: "https://s.shopee.co.id/5VRaipdGO5"
@@ -5103,7 +5103,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Topi Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Topi Kucing.jpg",
     link: "https://s.shopee.co.id/5L8AWVbtaf"
@@ -5111,7 +5111,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Kandang Kucing",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Kandang Kucing.jpg",
     link: "https://s.shopee.co.id/8pi2gvEniq"
@@ -5119,7 +5119,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Chiro",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Chiro.jpg",
     link: "https://s.shopee.co.id/W2ula2raq"
@@ -5127,7 +5127,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Happy Cat Minkas",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Happy Cat Minkas.jpg",
     link: "https://s.shopee.co.id/9paZsi971u"
@@ -5135,7 +5135,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "Affiliate",
     name: "Catlife",
-    desc: "Partner Industri Polimeritas",
+    desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Affiliate-Catlife.jpg",
     link: "https://s.shopee.co.id/8fOcUXrXxA"
