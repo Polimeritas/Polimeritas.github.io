@@ -1525,6 +1525,86 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/4AlVxaEsAG"
   },
   {
+    id: "328",
+    name: "328",
+    desc: "ASUS VIVOBOOK 14 ",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/ASUS VIVOBOOK 14 .jpg",
+    link: "https://s.shopee.co.id/40dFXt8nKK"
+  },
+  {
+    id: "327",
+    name: "327",
+    desc: "Laptop Lenovo Intel ",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Laptop Lenovo Intel .jpg",
+    link: "https://s.shopee.co.id/7VD7i7iidM"
+  },
+  {
+    id: "326",
+    name: "326",
+    desc: "Laptop HP 14 Intel",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Laptop HP 14 Intel.jpg",
+    link: "https://s.shopee.co.id/50VmjXy5Wb"
+  },  
+  {
+    id: "325",
+    name: "325",
+    desc: "Lenovo IdeaPad Slim ",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Lenovo IdeaPad Slim .jpg",
+    link: "https://s.shopee.co.id/901vUuu4g5"
+  },  
+  {
+    id: "324",
+    name: "324",
+    desc: "Laptop LENOVO LOQ ",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Laptop LENOVO LOQ .jpg",
+    link: "https://s.shopee.co.id/2VoRkzvjog"
+  },   
+  {
+    id: "323",
+    name: "323",
+    desc: "Laptop Macbook Pro Intel",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Laptop Macbook Pro Intel.jpg",
+    link: "https://s.shopee.co.id/1gFKlU0MXi"
+  }, 
+  {
+    id: "322",
+    name: "322",
+    desc: "LAPTOP AXIOO HYPE 10",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/LAPTOP AXIOO HYPE 10.jpg",
+    link: "https://s.shopee.co.id/5ApCvviIse"
+  }, 
+  {
+    id: "321",
+    name: "321",
+    desc: "Lenovo laptop baru 15.6''",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Lenovo laptop baru 15.6''.jpg",
+    link: "https://s.shopee.co.id/8piVIgjcBC"
+  }, 
+  {
+    id: "320",
+    name: "320",
+    desc: "Lenovo LOQ 15",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Lenovo LOQ 15.jpg",
+    link: "https://s.shopee.co.id/30kiLynkao"
+  },  
+  {
+    id: "319",
+    name: "319",
+    desc: "[BEST SELLER] ADVAN Laptop WorkMate",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/[BEST SELLER] ADVAN Laptop WorkMate.jpg",
+    link: "https://s.shopee.co.id/5L8d8IRTla"
+  },
+  {
     id: "318",
     name: "318",
     desc: "Toples Set Dengan Nampan Guci Makanan Toples Penyimpanan Dapur Set Toples Kue",
