@@ -1549,6 +1549,86 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/4AlVxaEsAG"
   },
   {
+    id: "368",
+    name: "368",
+    desc: "Allefix Tool Box 85 Pcs Kunci Sok Set Pekerjaan Otomotif",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Allefix Tool Box 85 Pcs Kunci Sok Set Pekerjaan Otomotif.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "367",
+    name: "367",
+    desc: "FEIBAO Dongkrak Botol Hidrolik",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/FEIBAO Dongkrak Botol Hidrolik.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "366",
+    name: "366",
+    desc: "Cat Semprot Chrome 350ml",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Cat Semprot Chrome 350ml.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "365",
+    name: "365",
+    desc: "JLD Impact Baterai Brushless 2Baterai ",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/JLD Impact Baterai Brushless 2Baterai .jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "364",
+    name: "364",
+    desc: "REAIM 13MM Cordless Impact Wrench",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/REAIM 13MM Cordless Impact Wrench.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "363",
+    name: "363",
+    desc: "Pembersih Jok Kulit Serta Beludru Serta Plafond Mobil Stain Remover",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Pembersih Jok Kulit Serta Beludru Serta Plafond Mobil Stain Remover.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "362",
+    name: "362",
+    desc: "Oli Transmisi Matic CVT Honda HCF-2 (3,5L) Original",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Oli Transmisi Matic CVT Honda HCF-2 (3,5L) Original.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "361",
+    name: "361",
+    desc: "Oli Gardan Ahm Gear Oil Gir Matic Honda 120ml",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Oli Gardan Ahm Gear Oil Gir Matic Honda 120ml.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "360",
+    name: "360",
+    desc: "LOWKOS Cairan Infus Injeksi 1 Liter ",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/LOWKOS Cairan Infus Injeksi 1 Liter.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "359",
+    name: "359",
+    desc: "ISKU Tool Kit Kunci Sok Set 187 Pcs",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/ISKU Tool Kit Kunci Sok Set 187 Pcs.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "358",
     name: "358",
     desc: "Meja Makan Bar Dapur Kayu Natural Custom",
