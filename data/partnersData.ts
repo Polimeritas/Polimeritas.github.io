@@ -110,14 +110,6 @@ export const partnerItems: Partner[] = [
   },
   {
     id: "Partner Polimeritas",
-    name: "BEST SELLER",
-    desc: "Telur ayam negeri 1 kg",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Telur ayam negeri 1 kg.jpg",
-    link: "https://shopee.co.id/product/13309900/54408998851?credential_token=8wEwiDL7ZRjBNA33XvvuXzKoijidLYBzhNNkS4k2i4&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAwrC7_-sZ471SxvUf--B-RcwDmFduQp2U04zidUZh-sZWe24N-tqL_v7JOaZoaFIDwBnFCu9FxfoZiQfmv3p9oVLa17-qIot5Jm23bxosE6GX0bMSc4mUYx7_024q_CefXadTcfd9fTfEVNUosqNEnmMxAluXVY1mvz6VTLni6XpcYlhd9ZcOTNaC8GMvtA8uI&mmp_pid=an_11393951005&uls_trackid=55k1c6rq00kg&utm_campaign=id_oDwmflgQMl&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evka8otk73q9"
-  },
-  {
-    id: "Partner Polimeritas",
     name: "Partner Polimeritas-Umum",
     desc: "Roti Bangdo",
     subDesc: "Indonesia",
@@ -147,6 +139,38 @@ export const partnerItems: Partner[] = [
     subDesc: "Bangka Belitung",
     image: "/img/Partner2/ketapang manis ecoprint.jpg",
     link: "https://www.instagram.com/reel/DHb9znaTQoq/"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Telur ayam negeri 1 kg",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Telur ayam negeri 1 kg.jpg",
+    link: "https://shopee.co.id/product/13309900/54408998851?credential_token=8wEwiDL7ZRjBNA33XvvuXzKoijidLYBzhNNkS4k2i4&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAwrC7_-sZ471SxvUf--B-RcwDmFduQp2U04zidUZh-sZWe24N-tqL_v7JOaZoaFIDwBnFCu9FxfoZiQfmv3p9oVLa17-qIot5Jm23bxosE6GX0bMSc4mUYx7_024q_CefXadTcfd9fTfEVNUosqNEnmMxAluXVY1mvz6VTLni6XpcYlhd9ZcOTNaC8GMvtA8uI&mmp_pid=an_11393951005&uls_trackid=55k1c6rq00kg&utm_campaign=id_oDwmflgQMl&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evka8otk73q9"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Bawang Merah Jatim Berkualitas Ukuran Campur",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bawang Merah Jatim Berkualitas Ukuran Campur.jpg",
+    link: "https://shopee.co.id/opaanlp/1462373945/28324853887?__mobile__=1&credential_token=8wEwiDL7YE5VveyQV9K2Q7Su2jaXymUe72ofudmFme&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAzay3Kj5wggC9XJwGny_Y1Ri5Uf_xxc4c7lqkEMHHQi7SCJcUB8aasPcrkhT256h0y95OvjF67y9p-LDwFTICZd0BJNCagknokIx7PlfvHoWuo3L7BEpejZJt1kGkEvHXgAodk2CypzzESrQzid-2fPjA8JMpv3cYER-6AmhsTmKyAD66xQQ5nYMTz3z54iFq0TlqOR&mmp_pid=an_11393951005&uls_trackid=55k2mkdk037h&utm_campaign=id_kvvTzv3Zxb&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evm8vsm2n4u5"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "BAWANG GORENG ASLI SUMENEP",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/BAWANG GORENG ASLI SUMENEP.jpg",
+    link: "https://shopee.co.id/opaanlp/1031236160/24172114053?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAmVbR3Xx4Puszr1vQBVhyXtvranTtZLrTzA&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAzIaINKdq8aylR0OjHhbMBM2FHi-CnuhMA8UXFsyh_tV3sakOF2GxvWniiuMhE3GF4qkL88QhxkwOi47vvWbUXZe-rpqciRyhRPZQMws3QZYg9Dc2DvFfAVWyiort0qqKg-IXBpGC6OQjPiKS4_u8CZk2o2UP5fDSFk9dmymUhTOFDrcq3M5MOeIsOPakZu8WnbZ2Sh&mmp_pid=an_11393951005&uls_trackid=55k2mp9500ci&utm_campaign=id_IhhimTjTc3&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evm8zrryxdc3"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "KUNYIT Fresh Bersih Murah Kaya Manfaat 1 Kg",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/KUNYIT Fresh Bersih Murah Kaya Manfaat 1 Kg.jpg",
+    link: "https://shopee.co.id/opaanlp/1444174639/25341347335?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAmVgk6scPnzcTmykocczUbBbuoFMTobrjoL&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAxNmWYMcnQZSdJ_LnutJa2OJp6DHsmLV3C4TiQAkDbD5ZZ0nl6j7tF_1GB6z3PKBceok9Ktef-YL9lNk5O66LGQZXlQ4hYjuzhRujj4iVjKA1WZfRzyXAihMPkZRihdBCOtnMlAjGLGhFHyfTEBsN_SFix4oCMRFe2tWEXIfUCukNKwdg3m-mo-9kPakg3-c98dAqIQ&mmp_pid=an_11393951005&uls_trackid=55k2mtat00td&utm_campaign=id_o1XwF9RsZf&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evm943ih25ao"
   },
   {
     id: "Partner Polimeritas",
