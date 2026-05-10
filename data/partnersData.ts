@@ -1935,9 +1935,9 @@ export const partnerItems: Partner[] = [
   {
     id: "325",
     name: "325",
-    desc: "Lenovo IdeaPad Slim ",
+    desc: "Lenovo IdeaPad Slim",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Lenovo IdeaPad Slim .jpg",
+    image: "/img/Partner2/Lenovo IdeaPad Slim.jpg",
     link: "https://s.shopee.co.id/901vUuu4g5"
   },  
   {
@@ -1945,7 +1945,7 @@ export const partnerItems: Partner[] = [
     name: "324",
     desc: "Laptop LENOVO LOQ ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Laptop LENOVO LOQ .jpg",
+    image: "/img/Partner2/Laptop LENOVO LOQ.jpg",
     link: "https://s.shopee.co.id/2VoRkzvjog"
   },   
   {
