@@ -1583,10 +1583,10 @@ export const partnerItems: Partner[] = [
   {
     id: "369",
     name: "369",
-    desc: "Sabun Arab PYARY Nalpamara Coconut Oil Soap 100% Original ",
+    desc: "Sabun Arab PYARY Nalpamara Coconut Oil Soap 100% Original",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Sabun Arab PYARY Nalpamara Coconut Oil Soap 100% Original .jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Sabun Arab PYARY Nalpamara Coconut Oil Soap 100% Original.jpg",
+    link: "https://s.shopee.co.id/BQXGfCjel"
   },
   {
     id: "368",
