@@ -1525,6 +1525,46 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/4AlVxaEsAG"
   },
   {
+    id: "318",
+    name: "318",
+    desc: "Toples Set Dengan Nampan Guci Makanan Toples Penyimpanan Dapur Set Toples Kue",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Toples Set Dengan Nampan Guci Makanan Toples Penyimpanan Dapur Set Toples Kue.jpg",
+    link: "https://s.shopee.co.id/4AwfiIcIP9"
+  },
+  {
+    id: "317",
+    name: "317",
+    desc: "SET 4 Tempat Bumbu Dapur Serbaguna Termasuk Sendok",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/SET 4 Tempat Bumbu Dapur Serbaguna Termasuk Sendok.jpg",
+    link: "https://s.shopee.co.id/3qJpJeNFsh"
+  },
+  {
+    id: "316",
+    name: "316",
+    desc: "Serbet dapur 1 LUSIN jumbo 60x60cm bahan katun tebal",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Serbet dapur 1 LUSIN jumbo 60x60cm bahan katun tebal.jpg",
+    link: "https://s.shopee.co.id/50VmhlKaGm"
+  },
+  {
+    id: "315",
+    name: "315",
+    desc: "JOODUTP Spatula Set Putih 3 PC Sutil Silicone Alat Masak Tahan Panas",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/JOODUTP Spatula Set Putih 3 PC Sutil Silicone Alat Masak Tahan Panas.jpg",
+    link: "https://s.shopee.co.id/809OHFAJa0"
+  },
+  {
+    id: "314",
+    name: "314",
+    desc: "Delaney [Beli 5 Gratis 1] Toples Mini 320ml Mawar Ungu",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Delaney [Beli 5 Gratis 1] Toples Mini 320ml Mawar Ungu.jpg",
+    link: "https://s.shopee.co.id/2g7rvOaEJv"
+  },
+  {
     id: "313",
     name: "313",
     desc: "Disney Cinderella Lucifer Cat Plush",
