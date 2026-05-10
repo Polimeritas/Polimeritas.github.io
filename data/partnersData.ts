@@ -1959,10 +1959,10 @@ export const partnerItems: Partner[] = [
   {
     id: "256",
     name: "256",
-    desc: "Coming Soon",
+    desc: "Kipas Angin Fan Elektrik Rotation Stand Fan Premium 3 Tingkat Kecepatan",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Kipas Angin Fan Elektrik Rotation Stand Fan Premium 3 Tingkat Kecepatan.jpg",
+    link: "https://s.shopee.co.id/4LG5rPLXKd"
   },
   {
     id: "255",
