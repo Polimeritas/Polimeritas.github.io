@@ -1559,10 +1559,10 @@ export const partnerItems: Partner[] = [
   {
     id: "372",
     name: "372",
-    desc: "",
+    desc: "AMORENS Body Wash BPOM 1000ml ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/.jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/AMORENS Body Wash BPOM 1000ml .jpg",
+    link: "https://s.shopee.co.id/7AaHbmkdsl"
   },
   {
     id: "371",
@@ -1575,9 +1575,9 @@ export const partnerItems: Partner[] = [
   {
     id: "370",
     name: "370",
-    desc: "SCARLETT 10% NIACINAMIDE Fragrance Brightening Body Serum 170ml ",
+    desc: "SCARLETT 10% NIACINAMIDE Fragrance Brightening Body Serum 170ml",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/SCARLETT 10% NIACINAMIDE Fragrance Brightening Body Serum 170ml .jpg",
+    image: "/img/Partner2/SCARLETT 10% NIACINAMIDE Fragrance Brightening Body Serum 170ml.jpg",
     link: "https://s.shopee.co.id/6L1Aby7nt4"
   },
   {
