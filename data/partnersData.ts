@@ -1554,7 +1554,7 @@ export const partnerItems: Partner[] = [
     desc: "Allefix Tool Box 85 Pcs Kunci Sok Set Pekerjaan Otomotif",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Allefix Tool Box 85 Pcs Kunci Sok Set Pekerjaan Otomotif.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/8V5fBMOskF"
   },
   {
     id: "367",
@@ -1562,7 +1562,7 @@ export const partnerItems: Partner[] = [
     desc: "FEIBAO Dongkrak Botol Hidrolik",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/FEIBAO Dongkrak Botol Hidrolik.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/1BJ4Ru1sN7"
   },
   {
     id: "366",
@@ -1570,7 +1570,7 @@ export const partnerItems: Partner[] = [
     desc: "Cat Semprot Chrome 350ml",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Cat Semprot Chrome 350ml.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9pb2lqNOjJ"
   },
   {
     id: "365",
@@ -1578,7 +1578,7 @@ export const partnerItems: Partner[] = [
     desc: "JLD Impact Baterai Brushless 2Baterai ",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/JLD Impact Baterai Brushless 2Baterai .jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/AUqjZ5N4IV"
   },
   {
     id: "364",
@@ -1586,7 +1586,7 @@ export const partnerItems: Partner[] = [
     desc: "REAIM 13MM Cordless Impact Wrench",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/REAIM 13MM Cordless Impact Wrench.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/5ApDDIVh4R"
   },
   {
     id: "363",
@@ -1594,7 +1594,7 @@ export const partnerItems: Partner[] = [
     desc: "Pembersih Jok Kulit Serta Beludru Serta Plafond Mobil Stain Remover",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Pembersih Jok Kulit Serta Beludru Serta Plafond Mobil Stain Remover.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/3qJpcrelVs"
   },
   {
     id: "362",
@@ -1602,7 +1602,7 @@ export const partnerItems: Partner[] = [
     desc: "Oli Transmisi Matic CVT Honda HCF-2 (3,5L) Original",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Oli Transmisi Matic CVT Honda HCF-2 (3,5L) Original.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/9zuSyD2JMg"
   },
   {
     id: "361",
@@ -1610,7 +1610,7 @@ export const partnerItems: Partner[] = [
     desc: "Oli Gardan Ahm Gear Oil Gir Matic Honda 120ml",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Oli Gardan Ahm Gear Oil Gir Matic Honda 120ml.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/7ppyOFEYUu"
   },
   {
     id: "360",
@@ -1618,7 +1618,7 @@ export const partnerItems: Partner[] = [
     desc: "LOWKOS Cairan Infus Injeksi 1 Liter ",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/LOWKOS Cairan Infus Injeksi 1 Liter.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/1773rU5OG"
   },
   {
     id: "359",
@@ -1626,7 +1626,7 @@ export const partnerItems: Partner[] = [
     desc: "ISKU Tool Kit Kunci Sok Set 187 Pcs",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/ISKU Tool Kit Kunci Sok Set 187 Pcs.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/1773sIXr6"
   },
   {
     id: "358",
