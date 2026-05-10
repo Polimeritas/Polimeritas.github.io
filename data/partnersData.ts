@@ -1514,7 +1514,7 @@ export const partnerItems: Partner[] = [
     desc: "Plastik Penutup dan Pelindung Perabot dan Elektronik Homecare 1 Roll",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Plastik Penutup dan Pelindung Perabot dan Elektronik Homecare 1 Roll.jpg",
-    link: "https://vt.tiktok.com/ZSYkqgGVL/?page=Mall"
+    link: "https://s.shopee.co.id/8piVDHw1JH"
   },
   {
     id: "311",
