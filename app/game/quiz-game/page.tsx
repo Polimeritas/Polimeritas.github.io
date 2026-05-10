@@ -62,7 +62,7 @@ export default function QuizGamePage() {
     return (
         <main className="min-h-screen bg-gray-50 flex flex-col">
             <Header />
-            <PageHeader title="Quiz Challenge" activePage="Game" />
+            <PageHeader title="Polymer Quiz Challenge" activePage="Game" />
 
             <section className="w-full px-4 py-10 lg:py-16 flex-grow container mx-auto">
                 <div className="max-w-3xl mx-auto bg-white rounded-3xl shadow-xl overflow-hidden border border-gray-100 min-h-[400px]">
