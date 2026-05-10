@@ -7,7 +7,7 @@ import TypingEngine from "@/components/game/typing/TypingEngine";
 import GameDescription from "@/components/game/GameDescription";
 
 export const metadata: Metadata = {
-    title: "Typing Game",
+    title: "Polymer Typing Game",
     description: "Uji kecepatan mengetikmu dan pelajari istilah polimer.",
 };
 
@@ -15,7 +15,7 @@ export default function TypingGamePage() {
     return (
         <main className="min-h-screen bg-gray-50">
             <Header />
-            <PageHeader title="Typing Challenge" activePage="Game" />
+            <PageHeader title="Polymer Typing Challenge" activePage="Game" />
 
             <section className="w-full px-4 py-10 lg:py-16">
                 <TypingEngine />
