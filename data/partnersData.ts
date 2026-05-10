@@ -1525,6 +1525,86 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/4AlVxaEsAG"
   },
   {
+    id: "358",
+    name: "358",
+    desc: "Meja Makan Bar Dapur Kayu Natural Custom",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Meja Makan Bar Dapur Kayu Natural Custom.jpg",
+    link: "https://s.shopee.co.id/7VD7sroSx7"
+  },
+  {
+    id: "357",
+    name: "357",
+    desc: "Sofa Bed Gen Z ala Pinterest by Bangun Karya - Sofa Bed - Teddy Sofa",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Sofa Bed Gen Z ala Pinterest by Bangun Karya - Sofa Bed - Teddy Sofa.jpg",
+    link: "https://s.shopee.co.id/9UyCGWgm6Y"
+  },
+  {
+    id: "356",
+    name: "356",
+    desc: "Meja TV Minimalis Lengkung Oval Desain Estetik",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Meja TV Minimalis Lengkung Oval Desain Estetik.jpg",
+    link: "https://s.shopee.co.id/5VS3VA85qM"
+  },
+  {
+    id: "355",
+    name: "355",
+    desc: "PIRA - KATE DS50 Meja Rias",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/PIRA - KATE DS50 Meja Rias.jpg",
+    link: "https://s.shopee.co.id/7AaHUDKIjY"
+  },
+  {
+    id: "354",
+    name: "354",
+    desc: "CLEARANCE SALE - CLUB Plastik Furniture Large Flip Brown Cream",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/CLEARANCE SALE - CLUB Plastik Furniture Large Flip Brown Cream.jpg",
+    link: "https://s.shopee.co.id/5q4ttkY1xz"
+  },
+  {
+    id: "353",
+    name: "353",
+    desc: "PIRA KIDS - CHICCO DKK90 Meja Belajar Anak dengan Rak Buku",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/PIRA KIDS - CHICCO DKK90 Meja Belajar Anak dengan Rak Buku.jpg",
+    link: "https://s.shopee.co.id/9ALLrrMIKc"
+  },
+  {
+    id: "352",
+    name: "352",
+    desc: "IH meja kantor meja komputer meja kerja Meja Kerjadan Rak Serbaguna Multifungsi",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/IH meja kantor meja komputer meja kerja Meja Kerjadan Rak Serbaguna Multifungsi.jpg",
+    link: "https://s.shopee.co.id/20sBKfowaZ"
+  },
+  {
+    id: "351",
+    name: "351",
+    desc: "Meja Tamu Coffee Table Ruang Utama",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Meja Tamu Coffee Table Ruang Utama.jpg",
+    link: "https://s.shopee.co.id/50VmuAePNk"
+  },
+  {
+    id: "350",
+    name: "350",
+    desc: "Lemari Kabinet Bangku Kayu Penyimpanan Kursi Box Multifungsi Elegan",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Lemari Kabinet Bangku Kayu Penyimpanan Kursi Box Multifungsi Elegan.jpg",
+    link: "https://s.shopee.co.id/2LV1jFtMcV"
+  },
+  {
+    id: "349",
+    name: "349",
+    desc: "JUSTIN Duo Double - Kabinet Plastik TV",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/JUSTIN Duo Double - Kabinet Plastik TV.jpg",
+    link: "https://s.shopee.co.id/4LG66l5jJu"
+  },
+  {
     id: "348",
     name: "348",
     desc: "Bumbu Rempah Dapur Bubuk Dasar Halus Tabur",
