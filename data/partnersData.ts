@@ -298,7 +298,7 @@ export const partnerItems: Partner[] = [
     desc: "Cultivia Belitung Signature Oil",
     subDesc: "Indonesia",
     image: "/img/Partner2/cultivia belitung signature oil.jpg",
-    link: "https://s.shopee.co.id/8090eBBJBp"
+    link: "https://shopee.co.id/opaanlp/227338163/43868651166?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAnJBUifRV1xNdF1EbwhKieUotwq4c4U9Zbr&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAxlMmrL81g2ulNGTIw2CtvcakEzIpajj0e7jzMlwyKFSA0M9euAZCBOP6xdmjoXr75xQWwxm0zlWjlvGhJ2HTxDJ8BX6mwlTwXb1W54muYsDcDzlAqU_u-U-gMZgoPVNKOAX2A1GodLkwO2potupgyJNAwSy8fHR4QOAgY_OhARnbHjjCl0PGEV9BDuTrbjSpyACA&mmp_pid=an_11393951005&uls_trackid=55k1k4m200td&utm_campaign=id_kvrDvqyZh7&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evkgc8t71equ"
   },
   {
     id: "525",
@@ -306,7 +306,7 @@ export const partnerItems: Partner[] = [
     desc: "Billiton Spice - Black Pepper",
     subDesc: "Indonesia",
     image: "/img/Partner2/Billiton Spice - Black Pepper.jpg",
-    link: "https://s.shopee.co.id/qfq738Zj1"
+    link: "https://shopee.co.id/opaanlp/257638998/7732983017?__mobile__=1&credential_token=2oGr6iJvCP1dxL7FkxYi6yZ4imRGomFDQZdQEVqmU&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAx4Obupp5TxVoM9oVSmAyYxYAOXr7dyXr-bX5WwsT2aG56AvVlolFQmQ6rta1QONq_AYcstHUulpzMIK-icfNvPZbSXRVh9jaiKJlxj2FiBlUgOLB_1E6t-NGs5Ng_mUMJkPG7ZdHLHYk1Ku_bm5_ORv21OjSe9nYY2Coaiv1Vb_t11ccBJAXg3OXYma7DrIRs&mmp_pid=an_11393951005&uls_trackid=55k1k66i01kg&utm_campaign=id_WtFZyPzjH3&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evkgdh14dopc"
   },
   {
     id: "524",
@@ -314,7 +314,7 @@ export const partnerItems: Partner[] = [
     desc: "Ferratti Ferro Espresso Machine",
     subDesc: "Indonesia",
     image: "/img/Partner2/Ferratti Ferro Espresso Machine.jpg",
-    link: "https://s.shopee.co.id/1gEx6ctk2o"
+    link: "https://shopee.co.id/opaanlp/48095478/2329682246?__mobile__=1&credential_token=2oGr6iJvBvVTok9WcvcWfbBWxqMmujapsfsKRn4Vi&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkgAAAAynGOm2Ngqv46z2W-vnryYUr5Xf7JyA1v_N-BYD-KwQ-deB6gvhSFAcdC3AdGIk-7ensNpeXmvCccqyyUhoRZ5Re8to7VPzG3sBr0qS7uQLQjVs53LCAETufYTgBS-v8kixG04IIu8qJUBUhnTYRXX_jKX6DyWqm3PuZa0MHmWTB-Hhd8w3u8vU-qMzvhpT&mmp_pid=an_11393951005&uls_trackid=55k1k7ni00kg&utm_campaign=id_13Ajd1eA3zR&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evkgeqjufx95"
   },
   {
     id: "523",
@@ -322,7 +322,7 @@ export const partnerItems: Partner[] = [
     desc: "Mainan Mobil Panel Surya",
     subDesc: "Indonesia",
     image: "/img/Partner2/Mainan Mobil Panel Surya.jpg",
-    link: "https://s.shopee.co.id/2LUKNtFx8J"
+    link: "https://shopee.co.id/opaanlp/1506717646/48952288556?__mobile__=1&credential_token=8wEwiDL7Z2kq6a8kXXHknq8HeQdTEzWnrDW5pUAjGW&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAyHy5xG2_7-AXgmUeXFV_VT1ZxSEYlzZkrIEga3eluP6e6NVsRZTCRK8BOUSItOBCawuawLQyFR-biHbdlBWLa-3Lqgmmb33E64Vqysw3yKeNqHXkW5GTMzuNokQjyB-k4MXlvIGPLc1OJQgCoeGd8NS0naZm6oeUmj-NNZy4-n-csA4gbToCKBf9v9uSGCdHynFstT&mmp_pid=an_11393951005&uls_trackid=55k1k94i0ekg&utm_campaign=id_C3S9V17Vsf&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evkgfvkk9qkc"
   },
     {
     id: "522",
@@ -330,7 +330,7 @@ export const partnerItems: Partner[] = [
     desc: "Mainan Generator Tangan",
     subDesc: "Indonesia",
     image: "/img/Partner2/Mainan Generator Tangan.jpg",
-    link: "https://s.shopee.co.id/3qJ8AcAQom"
+    link: "https://shopee.co.id/opaanlp/1597093038/52103099981?__mobile__=1&credential_token=8wEwiDL7ZRYYRKjzsPbPuFj5kv71p4vDYzMnhM3j3y&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAzv8kMbNKt9lhUpI0RRQDR-Zr9TE9zLG2GNuWJJvRITGwFZgEsJbnQu_mxdSdkY0q2Rklf6eabrDaUEyvoTvWfC0VC-6JNpcI-g3_TwuYOWLB5C4Zlc529bhDxrmVhzwNHDb4aOuVQ1AR5TQCzA6_xvz4xilE72HcdrwzdzcL4LJvAcnxJ2Jo_0tqAkJnc06UDyh74V&mmp_pid=an_11393951005&uls_trackid=55k1kaq6067h&utm_campaign=id_JAox4nkOlF&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evkgh9aa3c5d"
   },
   {
     id: "521",
@@ -338,7 +338,7 @@ export const partnerItems: Partner[] = [
     desc: "Mainan Kayu",
     subDesc: "Indonesia",
     image: "/img/Partner2/Mainan Kayu.jpg",
-    link: "https://s.shopee.co.id/8V4xj9vXJ5"
+    link: "https://shopee.co.id/opaanlp/1231765979/27128947588?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAmVsH3kzPYRdkrTkaQ2dH5NewoPcaNmdaGq&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAxlVfeXv2nLaS_fSp4L43-3yeNxnltbTMFlxfp_uytcreKsKzs0y8IE1PIZT4vCbqnbS-wOk_M10OQ7FNZJhp2thYcbmv1qb8cC-G8D1WGo4VBMomI9odsBNYCqJoVfMrSmNekZHgCc6vetgWzFRVAw2ETapz2Be9htjqZH4oQ-SHCDr7BCv25DNHNJnJYdFKNMxVSR&mmp_pid=an_11393951005&uls_trackid=55k1kcbk027h&utm_campaign=id_jGUxCNjuiX&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evkgii7gui7z"
   },
   {
     id: "520",
@@ -346,7 +346,7 @@ export const partnerItems: Partner[] = [
     desc: "Mainan Mikroskop",
     subDesc: "Indonesia",
     image: "/img/Partner2/Mainan Mikroskop.jpg",
-    link: "https://s.shopee.co.id/4AvyZAYhZi"
+    link: "https://shopee.co.id/opaanlp/451272134/17525958672?__mobile__=1&credential_token=8wEwiDL7XpeefKS1sXLiNrdHrHixL4AoVupkWgTDyd&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAwV2pMH6uLVW6rB-weP4O5ADIfxnUVznK1uIGWTJJ1moS7b5g3KtOgJ_25f0hOyM2TE3E4BliTL1tF-a8eCoCyOX96gO3wgz7cC3k-8r90H83pIsyrGlMg5l06_5HN20aMNAKHc8m5Aq_Cc3bkp4or02HJH4usXyEQZGGld0hGHqYCJzZhZhCzwXHu7Gv7_gNYGxA&mmp_pid=an_11393951005&uls_trackid=55k1kdfl00cb&utm_campaign=id_11oIbeO5LRx&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evkgjfhh2cyd"
   },
   {
     id: "519",
