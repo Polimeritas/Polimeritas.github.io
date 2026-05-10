@@ -1530,7 +1530,7 @@ export const partnerItems: Partner[] = [
     desc: "Toples Set Dengan Nampan Guci Makanan Toples Penyimpanan Dapur Set Toples Kue",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Toples Set Dengan Nampan Guci Makanan Toples Penyimpanan Dapur Set Toples Kue.jpg",
-    link: "https://s.shopee.co.id/4AwfiIcIP9"
+    link: "https://shopee.co.id/product/1545406142/29238256096?credential_token=8wEwiDL7YEAmQeB7c7WA9XwPViEFZmSFiyH6yL64Gk&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAwS--tT7tw1u_m3IqMCLVck8PpTDYfpFi8ekjOFskFPzUA8WoHu4R-XfftKi_TEnLcssgmvMAAjMqpejjHJIYQJcs0tIs_LI0Nn2q82u9zs5-z5isflIl9bEqeblgQSdwAwD_hoPF21_jViz1I3qcEDTEBrf-PILDZO5bA472VLEf3hhyXnGL1ycv9k2paTK32gYjCL&mmp_pid=an_11393951005&uls_trackid=55k1hult02kg&utm_campaign=id_mSXtdOp9lz&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evkenzhi85j5"
   },
   {
     id: "317",
@@ -1538,7 +1538,7 @@ export const partnerItems: Partner[] = [
     desc: "SET 4 Tempat Bumbu Dapur Serbaguna Termasuk Sendok",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/SET 4 Tempat Bumbu Dapur Serbaguna Termasuk Sendok.jpg",
-    link: "https://s.shopee.co.id/3qJpJeNFsh"
+    link: "https://shopee.co.id/product/109803736/5078018130?affiliate_seller_voucher_token=2ijYYWYXMzwKuDG7TMe4jQmfAjcL6potbPVWex72U&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAwMx422IRR63NTJQhF6e-hzOzqxcQ__5BroO2BFKsrVcoc-X86vRU5LmNAC_NJZ_dewaJw_E5_Xp-754eyUnz6qD2v4F8JBjdmf01Aj8mgZikX5_HFHY0jyHDTM3nMOc3m_LHK5Pf7ol2OrTR4BvNBroKtOjBASrvrCJmekyHV4eN_bxvMUUWwVmUoX3mZ63Gg&mmp_pid=an_11393951005&uls_trackid=55k1i2ep02td&utm_campaign=id_LYeUccejmN&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evker3j84mj5"
   },
   {
     id: "316",
@@ -1546,7 +1546,7 @@ export const partnerItems: Partner[] = [
     desc: "Serbet dapur 1 LUSIN jumbo 60x60cm bahan katun tebal",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Serbet dapur 1 LUSIN jumbo 60x60cm bahan katun tebal.jpg",
-    link: "https://s.shopee.co.id/50VmhlKaGm"
+    link: "https://shopee.co.id/product/1709999478/50058889682?credential_token=8wEwiDL7ZRMwtpbd5s52u2Pp6rsBWy5ks8Dbx6yfvV&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAxp5lApvwiQO8U67vLyOJsiL-eQ5139hP0t518n590I0O0TzU9YnnXeYHwimO4g0W64jm1-cqWrKjAFY01AAkTo90FsF1n0FU2C_Z4ZZPXhlbD70TPgojz39jCYH_hAo6huYTlnmPP_uUXDuUHQOnUpkJjhbj-90tKbP7QKdas-BLsNYTOrzVsPo7awNQVKy5hTAlOI&mmp_pid=an_11393951005&uls_trackid=55k1i41g00pk&utm_campaign=id_VDbAW3OZGl&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evkesdnk7z8f"
   },
   {
     id: "315",
@@ -1554,7 +1554,7 @@ export const partnerItems: Partner[] = [
     desc: "JOODUTP Spatula Set Putih 3 PC Sutil Silicone Alat Masak Tahan Panas",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/JOODUTP Spatula Set Putih 3 PC Sutil Silicone Alat Masak Tahan Panas.jpg",
-    link: "https://s.shopee.co.id/809OHFAJa0"
+    link: "https://shopee.co.id/opaanlp/1414571451/26527376711?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAmVn5AVSh87VLN594bLzCbsibX8ScNMumC4&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAyMlSpBDMkoRsqJgxBkIpdOKU0IPEIk-ObXezwBix-9tToZqQiwYesTIDmwHJtfsC0G8uycDKpwWU1gowrD5Zc3ejUE75eKceS7sKs6n3vJakqT-51e_wbFsJYNMqNnIJuV-nWmrN-5r817728gykD8Pw3a-96Z7mv1--LrxQdh9JWqP_Ck8wlp-0hwiWQuKJ5TuVEo&mmp_pid=an_11393951005&uls_trackid=55k1i5rc08cb&utm_campaign=id_CP5rUMJPxL&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evketuwatbdq"
   },
   {
     id: "314",
