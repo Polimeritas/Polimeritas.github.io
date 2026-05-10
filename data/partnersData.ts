@@ -4642,6 +4642,38 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7631824065275153685"
   },
   {
+    id: "industri-jasa",
+    name: "Jasa",
+    desc: "Jasa Desain Rumah Profesional Arsitek Minimalis 2 Lantai",
+    subDesc: "Industri",
+    image: "/img/Partner2/Jasa Desain Rumah Profesional Arsitek Minimalis 2 Lantai.jpg",
+    link: "https://s.shopee.co.id/8piVgZS8Cj"
+  },
+  {
+    id: "industri-jasa",
+    name: "Jasa",
+    desc: "Jasa Cetak Print DTF 58 x 100 cm Sablon DTF",
+    subDesc: "Industri",
+    image: "/img/Partner2/Jasa Cetak Print DTF 58 x 100 cm Sablon DTF.jpg",
+    link: "https://s.shopee.co.id/1Vvux1BBzz"
+  },
+  {
+    id: "industri-jasa",
+    name: "Jasa",
+    desc: "Jasa Sablon Tas Spunbond Desain Bebas",
+    subDesc: "Industri",
+    image: "/img/Partner2/Jasa Sablon Tas Spunbond Desain Bebas.jpg",
+    link: "https://s.shopee.co.id/8piVgb1TX2"
+  },
+   {
+    id: "industri-jasa",
+    name: "JASA",
+    desc: "JASA EDITING VIDEO SHORT FILM, DOKUMENTER, CONTENT YT DAN SEBAGAINYA",
+    subDesc: "Industri",
+    image: "/img/Partner2/JASA EDITING VIDEO SHORT FILM, DOKUMENTER, CONTENT YT DAN SEBAGAINYA.jpg",
+    link: "https://s.shopee.co.id/2g7sLH717O"
+  }, 
+  {
     id: "industri-petshop",
     name: "Animal&Co",
     desc: "Gourmet Wet Cat Food",
