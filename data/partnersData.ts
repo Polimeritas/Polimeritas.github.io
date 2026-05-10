@@ -94,6 +94,14 @@ export const partnerItems: Partner[] = [
   },
   {
     id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Lem Penambal Gigi Bolong Dengan Etching Biru",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Lem Penambal Gigi Bolong Dengan Etching Biru.jpg",
+    link: "https://shopee.co.id/product/17902952/3979182381?credential_token=2oGr6iJvC1uMF3S9nXAC3WHQNJ2gNMzn9oJPvQwqN&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkgAAAAyZ31oxlq6MbsId1h3HgCyarscmue1S3UJ-ugMV3Hmn3CiF2ZRtUVSJDGkBhvhfzVubrja2mw5nxBYGMQwNONQMgamAlFst7jQ39OGnyPebs_3n66PyPWYo9Kq4W5ZsodumCnI6eIi-dMd78LDM_0dj8xtYXggCTFEBBZsqC743B3tvCclOe-1_HRp2Hdh0&mmp_pid=an_11393951005&uls_trackid=55k1bca601ci&utm_campaign=id_zG5eylnHzv&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evk9kysj6auu"
+  },
+  {
+    id: "Partner Polimeritas",
     name: "Partner Polimeritas-Umum",
     desc: "Roti Bangdo",
     subDesc: "Indonesia",
