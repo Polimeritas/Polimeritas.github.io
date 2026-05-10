@@ -1561,7 +1561,7 @@ export const partnerItems: Partner[] = [
     name: "372",
     desc: "AMORENS Body Wash BPOM 1000ml ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/AMORENS Body Wash BPOM 1000ml .jpg",
+    image: "/img/Partner2/AMORENS Body Wash BPOM 1000ml.jpg",
     link: "https://s.shopee.co.id/7AaHbmkdsl"
   },
   {
