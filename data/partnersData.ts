@@ -2199,10 +2199,10 @@ export const partnerItems: Partner[] = [
   {
     id: "226",
     name: "226",
-    desc: "Coming Soon",
+    desc: "Yuwell Homecare Oxygen Concentrator Nebulizer Alat Bantu Pernapasan Oksigen Konsentrator Original",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Yuwell Homecare Oxygen Concentrator Nebulizer Alat Bantu Pernapasan Oksigen Konsentrator Original.jpg",
+    link: "https://s.shopee.co.id/1VvuTTTG41"
   },
   {
     id: "225",
@@ -2215,10 +2215,10 @@ export const partnerItems: Partner[] = [
   {
     id: "224",
     name: "224",
-    desc: "Coming Soon",
+    desc: "MEDRIS Oxygen Concentrator 1L 3L 5L 7L Heavy Duty",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/MEDRIS Oxygen Concentrator 1L 3L 5L 7L Heavy Duty.jpg",
+    link: "https://s.shopee.co.id/2qRI3sK22b"
   },
   {
     id: "223",
@@ -2343,10 +2343,10 @@ export const partnerItems: Partner[] = [
   {
     id: "208",
     name: "208",
-    desc: "Coming Soon",
+    desc: "Homecare Lemari Pakaian 52cm Plastik 5 Tingkat Laci Modern",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Homecare Lemari Pakaian 52cm Plastik 5 Tingkat Laci Modern.jpg",
+    link: "https://s.shopee.co.id/70Gr1TVZ6T"
   },
   {
     id: "207",
@@ -2399,10 +2399,10 @@ export const partnerItems: Partner[] = [
   {
     id: "201",
     name: "201",
-    desc: "Coming Soon",
+    desc: "betulan murah Yuwell YU300 300S Oxygen Concentrator Homecare ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/betulan murah Yuwell YU300 300S Oxygen Concentrator Homecare .jpg",
+    link: "https://s.shopee.co.id/2g7rrT9GwP"
   },
   {
     id: "200",
