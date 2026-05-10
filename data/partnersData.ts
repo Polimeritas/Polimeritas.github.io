@@ -695,18 +695,18 @@ export const partnerItems: Partner[] = [
   {
     id: "473",
     name: "473",
-    desc: "Coming Soon",
+    desc: "Alat pembersih karang gigi elektrik Ultrasonic Scaling Menghilangkan Karang Gigi Penghilang dan Plak Gigi",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Alat pembersih karang gigi elektrik Ultrasonic Scaling Menghilangkan Karang Gigi Penghilang dan Plak Gigi.jpg",
+    link: "https://s.shopee.co.id/5ApCrKRMtF"
   },
   {
     id: "472",
     name: "472",
-    desc: "Coming Soon",
+    desc: "KAPAS SELECTION Facial Cotton 75gr ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/KAPAS SELECTION Facial Cotton 75gr .jpg",
+    link: "https://s.shopee.co.id/8piVE3Xt4B"
   },
   {
     id: "471",
