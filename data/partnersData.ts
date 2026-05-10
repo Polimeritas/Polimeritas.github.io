@@ -4670,7 +4670,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "JASA",
     desc: "JASA EDITING VIDEO SHORT FILM, DOKUMENTER, CONTENT YT DAN SEBAGAINYA",
     subDesc: "Industri",
-    image: "/img/Partner2/JASA EDITING VIDEO SHORT FILM, DOKUMENTER, CONTENT YT DAN SEBAGAINYA.jpg",
+    image: "/img/Partner2/JASA EDITING VIDEO SHORT FILM DLL.jpg",
     link: "https://s.shopee.co.id/2g7sLH717O"
   }, 
   {
