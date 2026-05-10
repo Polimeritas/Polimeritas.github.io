@@ -1511,9 +1511,9 @@ export const partnerItems: Partner[] = [
   {
     id: "312",
     name: "312",
-    desc: "Coming Soon",
+    desc: "Plastik Penutup dan Pelindung Perabot dan Elektronik Homecare 1 Roll",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner/312.jpg",
+    image: "/img/Partner2/Plastik Penutup dan Pelindung Perabot dan Elektronik Homecare 1 Roll.jpg",
     link: "https://vt.tiktok.com/ZSYkqgGVL/?page=Mall"
   },
   {
@@ -1655,10 +1655,10 @@ export const partnerItems: Partner[] = [
   {
     id: "294",
     name: "294",
-    desc: "Coming Soon",
+    desc: "OXYGEN CONCENTRATOR HOMECARE TAISHUAI IMPORT",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/OXYGEN CONCENTRATOR HOMECARE TAISHUAI IMPORT.jpg",
+    link: "https://s.shopee.co.id/40dFSL7EjG"
   },
   {
     id: "293",
@@ -1878,11 +1878,11 @@ export const partnerItems: Partner[] = [
   },
   {
     id: "266",
-    name: "97",
-    desc: "Coming Soon",
+    name: "266",
+    desc: "Kuas home 2,5 inch (6,25cm) Serbaguna",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Kuas home 2,5 inch (6,25cm) Serbaguna.jpg",
+    link: "https://s.shopee.co.id/40dFSIUEzQ"
   },
   {
     id: "265",
@@ -2175,26 +2175,26 @@ export const partnerItems: Partner[] = [
   {
     id: "229",
     name: "229",
-    desc: "Coming Soon",
+    desc: "Set Jet Shower Toilet Homecare Putih & Chrome Homecare - Anti Karat, Tekanan Kuat, Ringan dan Nyaman",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Set Jet Shower Toilet Homecare Putih & Chrome Homecare - Anti Karat, Tekanan Kuat, Ringan dan Nyaman.jpg",
+    link: "https://s.shopee.co.id/50Vme4Wvl4"
   },
   {
     id: "228",
     name: "228",
-    desc: "Coming Soon",
+    desc: "Alat Pijat Elektrik Wanita USB Rechargeable Penghilang Nyeri Tubuh, Relaksasi instan portabel, homecare SPA",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Alat Pijat Elektrik Wanita USB Rechargeable Penghilang Nyeri Tubuh, Relaksasi instan portabel, homecare SPA.jpg",
+    link: "https://s.shopee.co.id/qgDgOMnbO"
   },
   {
     id: "227",
     name: "227",
-    desc: "Coming Soon",
+    desc: "Lampu Fisioterapi Infrared Satu Set Lengkap Remot dan pengatur suhu ",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/Coming Soon.png",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Lampu Fisioterapi Infrared Satu Set Lengkap Remot dan pengatur suhu .jpg",
+    link: "https://s.shopee.co.id/AKXIzovpMn"
   },
   {
     id: "226",
