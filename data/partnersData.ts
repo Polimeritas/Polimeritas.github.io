@@ -1525,6 +1525,86 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/4AlVxaEsAG"
   },
   {
+    id: "338",
+    name: "338",
+    desc: "EDT 35ML BPOM Halal",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/EDT 35ML BPOM Halal.jpg",
+    link: "https://s.shopee.co.id/2qRIH84prY"
+  },
+  {
+    id: "337",
+    name: "337",
+    desc: "Zafa Cincin Titanium Pria Wanita Silver Gold Anti Karat - Langris",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Zafa Cincin Titanium Pria Wanita Silver Gold Anti Karat - Langris.jpg",
+    link: "https://s.shopee.co.id/7ppyELyBya"
+  },
+  {
+    id: "336",
+    name: "336",
+    desc: "TNW Lampu Foto Lampu LED Video Light Fill light Tripod Ring Light Lampu Fotografi Live Vlogging",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/TNW Lampu Foto Lampu LED Video Light Fill light Tripod Ring Light Lampu Fotografi Live Vlogging.jpg",
+    link: "https://s.shopee.co.id/50VmrBPHvj"
+  },
+  {
+    id: "335",
+    name: "335",
+    desc: "Bulumata Tanpa Lem Korean Eyelashes NO GLUE Eyelash Extention No Glue Eyelashes Bulu Mata Korea Fake Eyelashes Bulu Mata Palsu Natural",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Bulumata Tanpa Lem Korean Eyelashes NO GLUE Eyelash Extention No Glue Eyelashes Bulu Mata Korea Fake Eyelashes Bulu Mata Palsu Natural.jpg",
+    link: "https://s.shopee.co.id/3g0PGlQX0e"
+  },
+  {
+    id: "334",
+    name: "334",
+    desc: "Animate 5X Active Whitening Night Cream ",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Animate 5X Active Whitening Night Cream .jpg",
+    link: "https://s.shopee.co.id/7KthdXyA5Q"
+  },
+  {
+    id: "333",
+    name: "333",
+    desc: "Gadoeh Rasa Kremes Hati Ayam Renyah Halal",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Gadoeh Rasa Kremes Hati Ayam Renyah Halal.jpg",
+    link: "https://s.shopee.co.id/1qYl5TEND7"
+  },
+  {
+    id: "332",
+    name: "332",
+    desc: "Waterproof Case HP Universal Anti Air ",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Waterproof Case HP Universal Anti Air .jpg",
+    link: "https://s.shopee.co.id/8piVQNdETJ"
+  },
+  {
+    id: "331",
+    name: "331",
+    desc: "Cuka Apel Gemeli Premium 500ml With Mother",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Cuka Apel Gemeli Premium 500ml With Mother.jpg",
+    link: "https://s.shopee.co.id/4VZWGSJnhm"
+  },
+  {
+    id: "330",
+    name: "330",
+    desc: "Vitabumin Madu 130ml - 1 pcs",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Vitabumin Madu 130ml - 1 pcs.jpg",
+    link: "https://s.shopee.co.id/8ASodE83iK"
+  },
+  {
+    id: "329",
+    name: "329",
+    desc: "Happy Shampoo Kemiriku Shampo Penghitam Rambut",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Happy Shampoo Kemiriku Shampo Penghitam Rambut.jpg",
+    link: "https://s.shopee.co.id/8KmEpZPWOe"
+  },
+  {
     id: "328",
     name: "328",
     desc: "ASUS VIVOBOOK 14 ",
