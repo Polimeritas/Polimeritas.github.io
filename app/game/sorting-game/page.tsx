@@ -15,7 +15,7 @@ export default function SortingGamePage() {
     return (
         <main className="min-h-screen bg-gray-50">
             <Header />
-            <PageHeader title="Sorting Challenge" activePage="Game" />
+            <PageHeader title="Polymer Sorting Challenge" activePage="Game" />
 
             <section className="w-full px-4 py-10 lg:py-16">
                 <SortingGameEngine />
