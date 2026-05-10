@@ -1530,7 +1530,7 @@ export const partnerItems: Partner[] = [
     desc: "Bumbu Rempah Dapur Bubuk Dasar Halus Tabur",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Bumbu Rempah Dapur Bubuk Dasar Halus Tabur.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/2BBbWJuUUM"
   },
   {
     id: "347",
@@ -1538,7 +1538,7 @@ export const partnerItems: Partner[] = [
     desc: "Cengkeh Utuh Rempah Organik - Bumbu Dapur Berkualitas",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Cengkeh Utuh Rempah Organik - Bumbu Dapur Berkualitas.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/7ppyGioVzE"
   },
   {
     id: "346",
@@ -1546,7 +1546,7 @@ export const partnerItems: Partner[] = [
     desc: "Tani Organic Bumbu Dapur Bubuk",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Tani Organic Bumbu Dapur Bubuk.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/gMnjXRTag"
   },
   {
     id: "345",
@@ -1554,7 +1554,7 @@ export const partnerItems: Partner[] = [
     desc: "GARLICKYS Dapur Bumbu Herbs",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/GARLICKYS Dapur Bumbu Herbs.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/7ppyGh58OI"
   },
   {
     id: "344",
@@ -1562,7 +1562,7 @@ export const partnerItems: Partner[] = [
     desc: "Organic Hub Garlic Powder Asli 100% Rempah Nusantara Bumbu Dapur Premium Quality 60 gr",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Organic Hub Garlic Powder Asli 100% Rempah Nusantara Bumbu Dapur Premium Quality 60 gr.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/1LcUWjcwfE"
   },
   {
     id: "343",
@@ -1570,7 +1570,7 @@ export const partnerItems: Partner[] = [
     desc: "JOODUTP Anti Panas Silikon Full Memasak Scraper Sutil Dapur Kue Cake Adukan Mix Dekorasi",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/JOODUTP Anti Panas Silikon Full Memasak Scraper Sutil Dapur Kue Cake Adukan Mix Dekorasi.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/qgDvnxOwz"
   },
   {
     id: "342",
@@ -1578,7 +1578,7 @@ export const partnerItems: Partner[] = [
     desc: "100Persen - Bumbu Giling Instan Masak Dapur Tanpa MSG",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/100Persen - Bumbu Giling Instan Masak Dapur Tanpa MSG.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/70GrH7MeIi"
   },
   {
     id: "341",
@@ -1586,7 +1586,7 @@ export const partnerItems: Partner[] = [
     desc: "PURY - Bumbu Dapur Bubuk All Varian Non Msg",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/PURY - Bumbu Dapur Bubuk All Varian Non Msg.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/1qYl7btvAz"
   },
   {
     id: "340",
@@ -1594,7 +1594,7 @@ export const partnerItems: Partner[] = [
     desc: "Kantan Ramen Bumbu Instan Ramen & Udon 215gr ",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Kantan Ramen Bumbu Instan Ramen & Udon 215gr .jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/4VZWIUxqze"
   },
   {
     id: "339",
@@ -1602,7 +1602,7 @@ export const partnerItems: Partner[] = [
     desc: "ALL VARIANT - Para Rempah Bumbu Dapur Premium",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/ALL VARIANT - Para Rempah Bumbu Dapur Premium.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/1BJ4KM7vGQ"
   },
   {
     id: "338",
