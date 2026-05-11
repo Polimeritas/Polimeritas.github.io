@@ -1913,7 +1913,7 @@ export const partnerItems: Partner[] = [
     name: "338",
     desc: "EDT 35ML BPOM Halal",
     subDesc: "Shopee - Polimeritas",
-    image: "/img/Partner2/EDT 35ML BPOM Halal.jpg",
+    image: "/img/Partner2/EDT 35ML BPOM Halal .jpg",
     link: "https://s.shopee.co.id/2qRIH84prY"
   },
   {
