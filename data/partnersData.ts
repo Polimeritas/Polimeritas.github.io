@@ -4990,11 +4990,35 @@ export const partnerIndustriItems: Partner[] = [
   // --- AFFILIATE SECTION ---
   {
     id: "Affiliate",
+    name: "SmartHeart Makanan Kucing Kering Dry Cat Food Adult Sterilised Cat 1.1 Kg",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/SmartHeart Makanan Kucing Kering Dry Cat Food Adult Sterilised Cat 1.1 Kg.jpg",
+    link: "https://shopee.co.id/product/438420233/12680295504?credential_token=8wEwiDL7XpCEWTrUYhQjMkVoVLGTkKCe6uLnKXutZ8&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAw-lu6U7CwFHW8HxucixfaANPYNJ3tVOAEbv6GDIit6sXUE4fJjvsCZem03quCfpRzMpd1zrNOseDtTcaWqjsBTT1YE-CN1K3E8tZlU5SYwuoza1YxYjji6qmWiodJ3gxS7rn-ST0kh_6gR1HtgNKo5nKBAtWmbcfqP5SOSlw0TA-4FKGgqFvB1XPE3sUhx7hCLQw&mmp_pid=an_11393951005&uls_trackid=55kc7bor019l&utm_campaign=id_lFFl35lg6F&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evt5eq4v8ies"
+  },
+  {
+    id: "Affiliate",
+    name: "Grain free therafeed hairball control 2kg freshpack",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Grain free therafeed hairball control 2kg freshpack.jpg",
+    link: "https://shopee.co.id/product/37248082/3242494589?credential_token=2oGr6iJvC1kx41hygGf1KCKK6brC5UBYQZ3kQ2N6c&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkgAAAAykgErWE0CQwK4K4Kz2jHPenstvOSDUueL3mOOPcb-4mlrLdY4yC5kExUHsOF1BQeSp9K1IG0BVRbV539MiyAmQ1h139q8Ie_l5VySHUSbXW6yzVl6Wa0FNVcn8BswnXrlt_n5na57Kc36s_iW32CjQiN-g3keh_2s__eRc99yXsE6IzZZxUoY2cjcyZzKo&mmp_pid=an_11393951005&uls_trackid=55kc7fkn009j&utm_campaign=id_Del1QpZ8GB&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evt5hvsjs6w1"
+  },
+  {
+    id: "Affiliate",
+    name: "Catsrang All Stages 3kg FRESHPACK Dry Food Kucing",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Catsrang All Stages 3kg FRESHPACK Dry Food Kucing.jpg",
+    link: "https://shopee.co.id/product/13062645/9415012440?credential_token=2oGr6iJvCZXPMYp1PZZFHPwWzbUbe1y6UqqN1n7VB&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkgAAAAxtEZzOXiRgmYVXCz6RSAR4gVV-q9cGMis2obSpR0jQ_y_exEuwui9BU7GIacrjguy5PaD5KIQlj-hXHcxYWg-iN4Tnx7RD7aHf1SC3aoFQO36fjxgA486HQ0LzwOMna-c3xUZ-ap7JaXclaiGp1YUnk-uY1-fpN0gUUISGoy-NGii7g0EOfGovxg8ZZSyW&mmp_pid=an_11393951005&uls_trackid=55kc7kj7039m&utm_campaign=id_jHDIBBLAEl&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evt5mxhmfkeb"
+  },
+  {
+    id: "Affiliate",
     name: "SAVIONYX Meal Topper Savory Sprinkle for Cats",
     desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/SAVIONYX Meal Topper Savory Sprinkle for Cats.jpg",
-    link: "https://s.shopee.co.id/7ppyTRgFtx"
+    link: "8/49106982075?credential_token=8wEwiDL7Z2qxAZWkvGsqsqbt1QQCTjKF5Z67QmAex6&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAz0F5bTjgTGemc_gcPuG_ZQuehg6gyfiGvJcv0-ueEvz_yrrKaPsY_4Qf69Wa8BSjpwzUZRSsfiJrdFS24PdOrRZj4XgwgayTxL3735jdFSWNjS4roQBj2zH0RssFaVRgGvkR_nSJ6xA5wTcXmfY9ZHEPKID1MDfB-BXNzd8jTxLW3ibT_wEoBlViDNTOa2A21vf4qW&mmp_pid=an_11393951005&uls_trackid=55kc7mju058q&utm_campaign=id_H9AV2k3llz&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evt5okq2izx7"
   },
   {
     id: "Affiliate",
@@ -5002,7 +5026,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Makanan Kucing Enak & Bergizi – Cocok untuk Kitten & Kucing Dewasa.jpg",
-    link: "https://s.shopee.co.id/4qCMtzUbzm"
+    link: "https://shopee.co.id/opaanlp/1585380574/50457943336?__mobile__=1&credential_token=8wEwiDL7ZRN2gkBLiWHwuvNAYuv5MMvVsq2yc9oQPe&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAzY0jVa6luTVzVqLNSnvEyCu2Yk6ZOLqKpg8njzBGAgIT9hzVr7SZeqtTf7HEmL-CcDUpuDQgXTaToFiwkdaMv1NXWF9N9qTTXo8SfwXT7APMUZVeLWjIN36h5OgAMA6a-MSySDBXm6BM1oZVVPCJogsCb3Xa4LV7GaKTgjsitbgdvhwxlyXMe8i0Gfew5EuSYFsCGR&mmp_pid=an_11393951005&uls_trackid=55kc7oj7018q&utm_campaign=id_Y8r22ywJsJ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evt5q7p4zehm"
   },
   {
     id: "Affiliate",
