@@ -217,7 +217,7 @@ export const partnerItems: Partner[] = [
     name: "549",
     desc: "Cemilan Cimol Mozzarella/Cimol Bojot AA Mozzarella Frozen Food",
     subDesc: "Industri",
-    image: "/img/Partner2/Cemilan Cimol Mozzarella/Cimol Bojot AA Mozzarella Frozen Food.jpg",
+    image: "/img/Partner2/Cemilan Cimol Mozzarella.jpg",
     link: "https://s.shopee.co.id/6fe2D9x0pV"
   },
   {
