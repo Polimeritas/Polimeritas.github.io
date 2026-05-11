@@ -205,6 +205,86 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "550",
+    name: "550",
+    desc: "HSD Black Garlic, Bawang Hitam Premium",
+    subDesc: "Industri",
+    image: "/img/Partner2/HSD Black Garlic, Bawang Hitam Premium.jpg",
+    link: "https://s.shopee.co.id/40dH2ElV6t"
+  },
+  {
+    id: "549",
+    name: "549",
+    desc: "Cemilan Cimol Mozzarella/Cimol Bojot AA Mozzarella Frozen Food",
+    subDesc: "Industri",
+    image: "/img/Partner2/Cemilan Cimol Mozzarella/Cimol Bojot AA Mozzarella Frozen Food.jpg",
+    link: "https://s.shopee.co.id/6fe2D9x0pV"
+  },
+  {
+    id: "548",
+    name: "548",
+    desc: "PEMPEK EMAK INDAH - PEMPEK MPENAK PALEMBANG ASLI IKAN TENGGIRI",
+    subDesc: "Industri",
+    image: "/img/Partner2/PEMPEK EMAK INDAH - PEMPEK MPENAK PALEMBANG ASLI IKAN TENGGIRI.jpg",
+    link: "https://s.shopee.co.id/6VKc0sUn5S"
+  },
+  {
+    id: "547",
+    name: "547",
+    desc: "Black Garlic Bawang Tunggal Premium 440gr",
+    subDesc: "Industri",
+    image: "/img/Partner2/Black Garlic Bawang Tunggal Premium 440gr.jpg",
+    link: "https://s.shopee.co.id/5VS4p44i6d"
+  },
+  {
+    id: "546",
+    name: "546",
+    desc: "mangga kionjay + bumbu gorojog sitetehtetehcianjur",
+    subDesc: "Industri",
+    image: "/img/Partner2/mangga kionjay + bumbu gorojog sitetehtetehcianjur.jpg",
+    link: "https://s.shopee.co.id/6AhlcJQith"
+  },
+  {
+    id: "545",
+    name: "545",
+    desc: "Rayya Black Garlic Solo Bawang Hitam Tunggal Premium 250gr Rasa Manis",
+    subDesc: "Industri",
+    image: "/img/Partner2/Rayya Black Garlic Solo Bawang Hitam Tunggal Premium 250gr Rasa Manis.jpg",
+    link: "https://s.shopee.co.id/8V5gOcrwND"
+  },
+  {
+    id: "544",
+    name: "544",
+    desc: "Daechang / Gopchang Usus Besar Sapi Panggang ",
+    subDesc: "Industri",
+    image: "/img/Partner2/Daechang / Gopchang Usus Besar Sapi Panggang .jpg",
+    link: "https://s.shopee.co.id/901wzZIiDo"
+  },
+  {
+    id: "543",
+    name: "543",
+    desc: "mBAKSOimah Tahu Bakso (1 pack isi 10 pcs)",
+    subDesc: "Industri",
+    image: "/img/Partner2/mBAKSOimah Tahu Bakso (1 pack isi 10 pcs).jpg",
+    link: "https://s.shopee.co.id/8ASq04464K"
+  },
+  {
+    id: "542",
+    name: "542",
+    desc: "Kulit dimsum 7.5 cm 100 pcs",
+    subDesc: "Industri",
+    image: "/img/Partner2/Kulit dimsum 7.5 cm 100 pcs.jpg",
+    link: "https://s.shopee.co.id/30kjqancfH"
+  },
+  {
+    id: "541",
+    name: "541",
+    desc: "20 Pcs Pempek Palembang Empek Pempek ikan mix",
+    subDesc: "Industri",
+    image: "/img/Partner2/20 Pcs Pempek Palembang Empek Pempek ikan mix.jpg",
+    link: "https://s.shopee.co.id/5flV1WDdi8"
+  },
+  {
     id: "540",
     name: "540",
     desc: "Azzura Micellar Cleansing Water",
