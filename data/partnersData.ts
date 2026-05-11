@@ -257,7 +257,7 @@ export const partnerItems: Partner[] = [
     name: "544",
     desc: "Daechang Gopchang Usus Besar Sapi Panggang ",
     subDesc: "Industri",
-    image: "/img/Partner2/Daechang / Gopchang Usus Besar Sapi Panggang .jpg",
+    image: "/img/Partner2/Daechang Gopchang Usus Besar Sapi Panggang .jpg",
     link: "https://s.shopee.co.id/901wzZIiDo"
   },
   {
