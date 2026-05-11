@@ -205,6 +205,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "554",
+    name: "554",
+    desc: "WARDAH UV Shield",
+    subDesc: "Industri",
+    image: "/img/Partner2/WARDAH UV Shield.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7638584970507799829"
+  },
+  {
+    id: "553",
+    name: "553",
+    desc: "Minosep MILD Obat Kumur Antiseptik",
+    subDesc: "Industri",
+    image: "/img/Partner2/Minosep MILD Obat Kumur Antiseptik.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7636699168173509909"
+  },
+  {
+    id: "552",
+    name: "552",
+    desc: "Vitalis Eau De Toilette Fresh Breeze 60 ml",
+    subDesc: "Industri",
+    image: "/img/Partner2/Vitalis Eau De Toilette Fresh Breeze 60 ml.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7636611209860631829"
+  },
+  {
+    id: "551",
+    name: "551",
+    desc: "Curcuma Force 1 Blister",
+    subDesc: "Industri",
+    image: "/img/Partner2/Curcuma Force 1 Blister.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7638581501134703892"
+  },
+  {
     id: "550",
     name: "550",
     desc: "HSD Black Garlic, Bawang Hitam Premium",
