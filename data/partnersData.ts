@@ -4843,7 +4843,7 @@ export const partnerIndustriItems: Partner[] = [
   },
    {
     id: "industri-jasa",
-    name: "JASA",
+    name: "Jasa",
     desc: "JASA EDITING VIDEO SHORT FILM, DOKUMENTER, CONTENT YT DAN SEBAGAINYA",
     subDesc: "Industri",
     image: "/img/Partner2/JASA EDITING VIDEO SHORT FILM DLL.jpg",
