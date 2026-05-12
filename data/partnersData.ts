@@ -205,6 +205,14 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "563",
+    name: "563",
+    desc: "Pijakan Kaki Honda Beat",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pijakan Kaki Honda Beat.jpg",
+    link: "https://www.instagram.com/p/DXYJCq9kyf2/"
+  }, 
+  {
     id: "562",
     name: "562",
     desc: "Carways Bensin Injektor Cleaner 60ml Cairan Pembersih Kerak,Aksesoris Perawatan Motor Mobil",
