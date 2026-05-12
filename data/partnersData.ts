@@ -205,10 +205,74 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "562",
+    name: "562",
+    desc: "Carways Bensin Injektor Cleaner 60ml Cairan Pembersih Kerak,Aksesoris Perawatan Motor Mobil",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Carways Bensin Injektor Cleaner 60ml Cairan Pembersih Kerak,Aksesoris Perawatan Motor Mobil.jpg",
+    link: "https://s.shopee.co.id/1qYnxqAuHt"
+  }, 
+  {
+    id: "561",
+    name: "561",
+    desc: "Kain Mat 1Kg Waterproofing Serat Fiber Fiberglass",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kain Mat 1Kg Waterproofing Serat Fiber Fiberglass.jpg",
+    link: "https://s.shopee.co.id/8KmHhtPBxD"
+  }, 
+  {
+    id: "560",
+    name: "560",
+    desc: "Karburator Cleaner 500 ml - Pembersih Karburator & Injeksi Karbu",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Karburator Cleaner 500 ml - Pembersih Karburator & Injeksi Karbu.jpg",
+    link: "https://s.shopee.co.id/50VpjmicwT"
+  }, 
+  {
+    id: "559",
+    name: "559",
+    desc: "PETROASIA Carb Clean And Injection Cleaner Pembersih Karburator Mobil Dan Motor 300Ml 500Ml",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/PETROASIA Carb Clean And Injection Cleaner Pembersih Karburator Mobil Dan Motor 300Ml 500Ml.jpg",
+    link: "https://s.shopee.co.id/50Vpjndp7U"
+  }, 
+  {
+    id: "558",
+    name: "558",
+    desc: "Pembersih injector Lowkos Injector Cleaner Langsung Tuang Tangki 60 ML",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pembersih injector Lowkos Injector Cleaner Langsung Tuang Tangki 60 ML.jpg",
+    link: "https://s.shopee.co.id/6L1DKGinE6"
+  }, 
+  {
+    id: "557",
+    name: "557",
+    desc: "Stiker pillar Mobil Pilar Jendela Mobil",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Stiker pillar Mobil Pilar Jendela Mobil.jpg",
+    link: "https://s.shopee.co.id/9pb5UiTgqY"
+  }, 
+  {
+    id: "556",
+    name: "556",
+    desc: "Kabel Bintik 7 Warna Full Tembaga AVSs Jepang Kabel auto Otomotif Body variasi modif audio aksesoris Motor Mobil",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kabel Bintik 7 Warna Full Tembaga AVSs Jepang Kabel auto Otomotif Body variasi modif audio aksesoris Motor Mobil.jpg",
+    link: "https://s.shopee.co.id/3Vh1x5rbQP"
+  }, 
+  {
+    id: "555",
+    name: "555",
+    desc: "Serat Carbon Forged Isi 10gr Warna Hitam",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Serat Carbon Forged Isi 10gr Warna Hitam.jpg",
+    link: "https://s.shopee.co.id/6pxTvEk0b0"
+  },
+  {
     id: "554",
     name: "554",
     desc: "WARDAH UV Shield",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/WARDAH UV Shield.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7638584970507799829"
   },
@@ -216,7 +280,7 @@ export const partnerItems: Partner[] = [
     id: "553",
     name: "553",
     desc: "Minosep MILD Obat Kumur Antiseptik",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Minosep MILD Obat Kumur Antiseptik.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7636699168173509909"
   },
@@ -224,7 +288,7 @@ export const partnerItems: Partner[] = [
     id: "552",
     name: "552",
     desc: "Vitalis Eau De Toilette Fresh Breeze 60 ml",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Vitalis Eau De Toilette Fresh Breeze 60 ml.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7636611209860631829"
   },
@@ -240,7 +304,7 @@ export const partnerItems: Partner[] = [
     id: "550",
     name: "550",
     desc: "HSD Black Garlic, Bawang Hitam Premium",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/HSD Black Garlic, Bawang Hitam Premium.jpg",
     link: "https://s.shopee.co.id/40dH2ElV6t"
   },
@@ -248,7 +312,7 @@ export const partnerItems: Partner[] = [
     id: "549",
     name: "549",
     desc: "Cemilan Cimol Mozzarella/Cimol Bojot AA Mozzarella Frozen Food",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Cemilan Cimol Mozzarella.jpg",
     link: "https://s.shopee.co.id/6fe2D9x0pV"
   },
@@ -256,7 +320,7 @@ export const partnerItems: Partner[] = [
     id: "548",
     name: "548",
     desc: "PEMPEK EMAK INDAH - PEMPEK MPENAK PALEMBANG ASLI IKAN TENGGIRI",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/PEMPEK EMAK INDAH - PEMPEK MPENAK PALEMBANG ASLI IKAN TENGGIRI.jpg",
     link: "https://s.shopee.co.id/6VKc0sUn5S"
   },
@@ -264,7 +328,7 @@ export const partnerItems: Partner[] = [
     id: "547",
     name: "547",
     desc: "Black Garlic Bawang Tunggal Premium 440gr",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Black Garlic Bawang Tunggal Premium 440gr.jpg",
     link: "https://s.shopee.co.id/5VS4p44i6d"
   },
@@ -272,7 +336,7 @@ export const partnerItems: Partner[] = [
     id: "546",
     name: "546",
     desc: "mangga kionjay + bumbu gorojog sitetehtetehcianjur",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/mangga kionjay + bumbu gorojog sitetehtetehcianjur.jpg",
     link: "https://s.shopee.co.id/6AhlcJQith"
   },
@@ -280,7 +344,7 @@ export const partnerItems: Partner[] = [
     id: "545",
     name: "545",
     desc: "Rayya Black Garlic Solo Bawang Hitam Tunggal Premium 250gr Rasa Manis",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Rayya Black Garlic Solo Bawang Hitam Tunggal Premium 250gr Rasa Manis.jpg",
     link: "https://s.shopee.co.id/8V5gOcrwND"
   },
@@ -288,7 +352,7 @@ export const partnerItems: Partner[] = [
     id: "544",
     name: "544",
     desc: "Daechang Gopchang Usus Besar Sapi Panggang ",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Daechang Gopchang Usus Besar Sapi Panggang .jpg",
     link: "https://s.shopee.co.id/901wzZIiDo"
   },
@@ -296,7 +360,7 @@ export const partnerItems: Partner[] = [
     id: "543",
     name: "543",
     desc: "mBAKSOimah Tahu Bakso (1 pack isi 10 pcs)",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/mBAKSOimah Tahu Bakso (1 pack isi 10 pcs).jpg",
     link: "https://s.shopee.co.id/8ASq04464K"
   },
@@ -304,7 +368,7 @@ export const partnerItems: Partner[] = [
     id: "542",
     name: "542",
     desc: "Kulit dimsum 7.5 cm 100 pcs",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Kulit dimsum 7.5 cm 100 pcs.jpg",
     link: "https://s.shopee.co.id/30kjqancfH"
   },
@@ -312,7 +376,7 @@ export const partnerItems: Partner[] = [
     id: "541",
     name: "541",
     desc: "20 Pcs Pempek Palembang Empek Pempek ikan mix",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/20 Pcs Pempek Palembang Empek Pempek ikan mix.jpg",
     link: "https://s.shopee.co.id/5flV1WDdi8"
   },
@@ -320,7 +384,7 @@ export const partnerItems: Partner[] = [
     id: "540",
     name: "540",
     desc: "Azzura Micellar Cleansing Water",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Azzura Micellar Cleansing Water.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7636768485044964629"
   },
@@ -328,7 +392,7 @@ export const partnerItems: Partner[] = [
     id: "539",
     name: "539",
     desc: "WPC Toilet",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/WPC Toilet.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7636645396474907924"
   },
@@ -336,7 +400,7 @@ export const partnerItems: Partner[] = [
     id: "538",
     name: "538",
     desc: "Steker 3 Kaki",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Steker 3 Kaki.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7637532036923854101"
   },
@@ -344,7 +408,7 @@ export const partnerItems: Partner[] = [
     id: "537",
     name: "537",
     desc: "Pulpen Snowman",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Pulpen Snowman.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7637533529538153748"
   },
@@ -352,7 +416,7 @@ export const partnerItems: Partner[] = [
     id: "536",
     name: "536",
     desc: "Listerine Watermelon",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Listerine Watermelon.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7637826633465990421"
   },
@@ -360,7 +424,7 @@ export const partnerItems: Partner[] = [
     id: "535",
     name: "535",
     desc: "Listerine Sakura Peach",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Listerine Sakura Peach.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7637829685434715413"
   },
@@ -368,7 +432,7 @@ export const partnerItems: Partner[] = [
     id: "534",
     name: "534",
     desc: "Posh Parfume",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Posh Parfume.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7637896263085722901"
   },
@@ -376,7 +440,7 @@ export const partnerItems: Partner[] = [
     id: "533",
     name: "533",
     desc: "Stella Pocket",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Stella Pocket.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7635288992627313941"
   },
@@ -384,7 +448,7 @@ export const partnerItems: Partner[] = [
     id: "532",
     name: "532",
     desc: "Soffell Korean Summer",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Soffell Korean Summer.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7635508252645543189"
   },
@@ -392,7 +456,7 @@ export const partnerItems: Partner[] = [
     id: "531",
     name: "531",
     desc: "Betadine",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Betadine.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7635506361727601941"
   },
@@ -400,7 +464,7 @@ export const partnerItems: Partner[] = [
     id: "530",
     name: "530",
     desc: "Zuper Spray",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Zuper Spray.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7635981939098357012"
   },
@@ -408,7 +472,7 @@ export const partnerItems: Partner[] = [
     id: "529",
     name: "529",
     desc: "Ovaltine Malty Bites Wafer",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Ovaltine Malty Bites Wafer.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7635979579110346004"
   },
@@ -416,7 +480,7 @@ export const partnerItems: Partner[] = [
     id: "528",
     name: "528",
     desc: "Sendok Super Doll",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/Sendok Super Doll.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7635880143549893909"
   },
@@ -424,7 +488,7 @@ export const partnerItems: Partner[] = [
     id: "527",
     name: "527",
     desc: "DS Exclusive Parfume",
-    subDesc: "Industri",
+    subDesc: "Indonesia",
     image: "/img/Partner2/DS Exclusive Parfume.jpg",
     link: "https://wa.me/6285214991705"
   },
