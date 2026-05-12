@@ -210,7 +210,7 @@ export const partnerItems: Partner[] = [
     desc: "Pijakan Kaki Honda Beat",
     subDesc: "Indonesia",
     image: "/img/Partner2/Pijakan Kaki Honda Beat.jpg",
-    link: "https://www.instagram.com/p/DXYJCq9kyf2/"
+    link: "https://www.instagram.com/reel/DXLmVIcE2Mz/"
   }, 
   {
     id: "562",
