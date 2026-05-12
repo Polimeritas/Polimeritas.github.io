@@ -205,6 +205,14 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "564",
+    name: "564",
+    desc: "Keset PVC Mie Bihun Welcome 38x58cm Warna Pilihan",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Keset PVC Mie Bihun Welcome 38x58cm Warna Pilihan.jpg",
+    link: "https://www.instagram.com/reel/DWvwvn-EzsD/"
+  }, 
+  {
     id: "563",
     name: "563",
     desc: "Pijakan Kaki Honda Beat",
