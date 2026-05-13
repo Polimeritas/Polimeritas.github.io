@@ -5595,28 +5595,28 @@ export const partnerBookItems: Partner[] = [
     link: "https://www.instagram.com/p/DXWCn2XgcpA/?img_index=1"
   },
   {
-    id: "Buku Novel",
-    name: "Coming Soon",
+    id: "Buku Sekolah",
+    name: "Buku Tulis Campus 50 Lembar 1 Pack isi 10 Pcs",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
+    image: "/img/Partner2/Buku Tulis Campus 50 Lembar 1 Pack isi 10 Pcs.jpg",
+    link: "https://s.shopee.co.id/7pq3FIKWsG"
   },
   {
-    id: "Buku Novel",
-    name: "Coming Soon",
+    id: "Buku Sekolah",
+    name: "BUKU TULIS 38 LEMBAR SIDU",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
+    image: "/img/Partner2/BUKU TULIS 38 LEMBAR SIDU.jpg",
+    link: "https://s.shopee.co.id/W3SVoELgv"
   },
   {
-    id: "Buku Novel",
-    name: "Coming Soon",
+    id: "Buku Sekolah",
+    name: "BUKU TULIS SIDU COVER SAMPUL NAMA ISI 40 LEMBAR",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://www.instagram.com/p/DXPgXlFGe-X/"
+    image: "/img/Partner2/BUKU TULIS SIDU COVER SAMPUL NAMA ISI 40 LEMBAR.jpg",
+    link: "https://s.shopee.co.id/8piaR795DA"
   },
   {
     id: "Buku Puisi Antologi",
