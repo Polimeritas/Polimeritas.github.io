@@ -210,7 +210,7 @@ export const partnerItems: Partner[] = [
     desc: "Skintific Mugwort Anti Pores & Acne Clay Stick 40g",
     subDesc: "Indonesia",
     image: "/img/Partner2/Skintific Mugwort Anti Pores & Acne Clay Stick 40g.jpg",
-    link: "https://s.shopee.co.id/2LV6kGLN8W"
+    link: "https://www.tiktok.com/@booyenku/video/7638589765775871252"
   },
   {
     id: "570",
@@ -218,7 +218,7 @@ export const partnerItems: Partner[] = [
     desc: "Acnemed Facial Wash for Oil Skin 100gr BPOM",
     subDesc: "Indonesia",
     image: "/img/Partner2/Acnemed Facial Wash for Oil Skin 100gr BPOM.jpg",
-    link: "https://s.shopee.co.id/BQcAJxkRh"
+    link: "https://www.tiktok.com/@booyenku/video/7638587964884307220"
   },
   {
     id: "569",
@@ -226,7 +226,7 @@ export const partnerItems: Partner[] = [
     desc: "[NEW LAUNCH] Eskulin Eau De Parfum 30ml",
     subDesc: "Indonesia",
     image: "/img/Partner2/[NEW LAUNCH] Eskulin Eau De Parfum 30ml.jpg",
-    link: "https://s.shopee.co.id/4ft1Wc20Oc"
+    link: "https://www.tiktok.com/@booyenku/video/7638944807347408148"
   },
   {
     id: "568",
@@ -234,7 +234,7 @@ export const partnerItems: Partner[] = [
     desc: "Stella Fabric Spray Fresh",
     subDesc: "Indonesia",
     image: "/img/Partner2/Stella Fabric Spray Fresh.jpg",
-    link: "https://s.shopee.co.id/W3SYyaVRV"
+    link: "https://www.tiktok.com/@booyenku/video/7638943701036928277"
   },
   {
     id: "567",
@@ -242,15 +242,15 @@ export const partnerItems: Partner[] = [
     desc: "Viva Anti Aging Serum with Sodium Hyaluronate (HA) & Collagen (20ml)",
     subDesc: "Indonesia",
     image: "/img/Partner2/Viva Anti Aging Serum with Sodium Hyaluronate (HA) & Collagen (20ml).jpg",
-    link: "https://s.shopee.co.id/7fWd6AFlLC"
+    link: "https://www.tiktok.com/@booyenku/video/7638586025471692052"
   },
   {
     id: "566",
     name: "566",
     desc: "FACETOLOGY triple care 13.5 %",
     subDesc: "Indonesia",
-    image: "/img/Partner2/FACETOLOGY triple care 13.5 %.jpg",
-    link: "https://s.shopee.co.id/8fPAI1Swc5"
+    image: "/img/Partner2/FACETOLOGY triple care 13.5%.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7638590789991271701"
   }, 
   {
     id: "565",
@@ -258,7 +258,7 @@ export const partnerItems: Partner[] = [
     desc: "Facetology Panthenol Barrier Boost Moisturizer Series 5%",
     subDesc: "Indonesia",
     image: "/img/Partner2/Facetology Panthenol Barrier Boost Moisturizer Series 5%.jpg",
-    link: "https://s.shopee.co.id/7AaMVHpqjp"
+    link: "https://www.tiktok.com/@booyenku/video/7638586900659408149"
   }, 
   {
     id: "564",
