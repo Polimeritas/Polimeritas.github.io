@@ -5022,7 +5022,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Jasa",
     desc: "Jasa Laser Cutting Custom",
     subDesc: "Industri",
-    image: "/img/Partner2/Jasa Laser Cutting Customjpg",
+    image: "/img/Partner2/Jasa Laser Cutting Custom.jpg",
     link: "https://s.shopee.co.id/5L8hnKUOuc"
   },
   {
