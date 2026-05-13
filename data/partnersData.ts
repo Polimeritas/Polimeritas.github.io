@@ -205,6 +205,62 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "571",
+    name: "571",
+    desc: "Skintific Mugwort Anti Pores & Acne Clay Stick 40g",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Skintific Mugwort Anti Pores & Acne Clay Stick 40g.jpg",
+    link: "https://s.shopee.co.id/2LV6kGLN8W"
+  },
+  {
+    id: "570",
+    name: "570",
+    desc: "Acnemed Facial Wash for Oil Skin 100gr BPOM",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Acnemed Facial Wash for Oil Skin 100gr BPOM.jpg",
+    link: "https://s.shopee.co.id/BQcAJxkRh"
+  },
+  {
+    id: "569",
+    name: "569",
+    desc: "[NEW LAUNCH] Eskulin Eau De Parfum 30ml",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/[NEW LAUNCH] Eskulin Eau De Parfum 30ml.jpg",
+    link: "https://s.shopee.co.id/4ft1Wc20Oc"
+  },
+  {
+    id: "568",
+    name: "568",
+    desc: "Stella Fabric Spray Fresh",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Stella Fabric Spray Fresh.jpg",
+    link: "https://s.shopee.co.id/W3SYyaVRV"
+  },
+  {
+    id: "567",
+    name: "567",
+    desc: "Viva Anti Aging Serum with Sodium Hyaluronate (HA) & Collagen (20ml)",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Viva Anti Aging Serum with Sodium Hyaluronate (HA) & Collagen (20ml).jpg",
+    link: "https://s.shopee.co.id/7fWd6AFlLC"
+  },
+  {
+    id: "566",
+    name: "566",
+    desc: "FACETOLOGY triple care 13.5 %",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/FACETOLOGY triple care 13.5 %.jpg",
+    link: "https://s.shopee.co.id/8fPAI1Swc5"
+  }, 
+  {
+    id: "565",
+    name: "565",
+    desc: "Facetology Panthenol Barrier Boost Moisturizer Series 5%",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Facetology Panthenol Barrier Boost Moisturizer Series 5%.jpg",
+    link: "https://s.shopee.co.id/7AaMVHpqjp"
+  }, 
+  {
     id: "564",
     name: "564",
     desc: "Keset PVC Mie Bihun Welcome 38x58cm Warna Pilihan",
