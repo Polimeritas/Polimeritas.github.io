@@ -5102,6 +5102,62 @@ export const partnerIndustriItems: Partner[] = [
   // --- AFFILIATE SECTION ---
   {
     id: "Affiliate",
+    name: "Olive Care LITTER BLOOM Penghilang Bau Pipis Pup Litter Box Kucing 160g",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Olive Care LITTER BLOOM Penghilang Bau Pipis Pup Litter Box Kucing 160g.jpg",
+    link: "https://s.shopee.co.id/Lk1sjb3jU"
+  },
+  {
+    id: "Affiliate",
+    name: "FOCAT Papan Garuk Kucing Anjing Anabul Multifungsi M11 Cat Scratcher",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/FOCAT Papan Garuk Kucing Anjing Anabul Multifungsi M11 Cat Scratcher.jpg",
+    link: "https://s.shopee.co.id/7KtmDZ6ooy"
+  },
+  {
+    id: "Affiliate",
+    name: "PAWHUB Tempat Makan Kucing Anti Semut Pet Feeder",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/PAWHUB Tempat Makan Kucing Anti Semut Pet Feeder.jpg",
+    link: "https://s.shopee.co.id/4LGAe2emOI"
+  },
+  {
+    id: "Affiliate",
+    name: "Mangkuk Stainless Steel Anjing Kucing Anti Slip Anti Semut Selip Pet Bowl Aksesoris Hewan",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Mangkuk Stainless Steel Anjing Kucing Anti Slip Anti Semut Selip Pet Bowl Aksesoris Hewan.jpg",
+    link: "https://s.shopee.co.id/3B4DFsyXht"
+  },
+  {
+    id: "Affiliate",
+    name: "BIOTA Smart Water Fountain - Tempat Minum Kucing dan Anjing",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/BIOTA Smart Water Fountain - Tempat Minum Kucing dan Anjing.jpg",
+    link: "https://s.shopee.co.id/5ApHdYHFZ7"
+  },
+  {
+    id: "Affiliate",
+    name: "BIOTA Smart Pet Feeder - Dispenser Makanan Otomatis Anabul",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/BIOTA Smart Pet Feeder - Dispenser Makanan Otomatis Anabul.jpg",
+    link: "https://s.shopee.co.id/AKXNn2AQdD"
+  },  
+  {
+    id: "Affiliate",
+    name: "AimayaPet Mainan Kucing Mouse Tail Silicone Cat Teaser Tongkat Kucing",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/AimayaPet Mainan Kucing Mouse Tail Silicone Cat Teaser Tongkat Kucing.jpg",
+    link: "https://s.shopee.co.id/10zifsBzyY"
+  },
+  {
+    id: "Affiliate",
     name: "SmartHeart Makanan Kucing Kering Dry Cat Food Adult Sterilised Cat 1.1 Kg",
     desc: "Pet Shop",
     subDesc: "Industri",
