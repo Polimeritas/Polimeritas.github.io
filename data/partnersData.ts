@@ -5619,6 +5619,22 @@ export const partnerBookItems: Partner[] = [
     link: "https://s.shopee.co.id/8piaR795DA"
   },
   {
+    id: "Buku Sekolah",
+    name: "Buku Olimpiade OSN SMA",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Buku Olimpiade OSN SMA.jpg",
+    link: "https://s.shopee.co.id/2BBgVQ1HX9"
+  },
+  {
+    id: "Buku Sekolah",
+    name: "Buku OSN SMP",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Buku OSN SMP.jpg",
+    link: "https://s.shopee.co.id/30knUxUpf7"
+  },
+  {
     id: "Buku Puisi Antologi",
     name: "Akar Serumpun Anyaman Rasa Jilid 13",
     desc: "Pesan Disini",
