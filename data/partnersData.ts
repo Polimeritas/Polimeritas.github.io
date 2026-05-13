@@ -4994,6 +4994,38 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7607786649476500756"
   },
   {
+    id: "industri-jasa",
+    name: "Jasa",
+    desc: "Informa Jasa Pembersihan Ac Split 1 Unit Non Member Clean",
+    subDesc: "Industri",
+    image: "/img/Partner2/Informa Jasa Pembersihan Ac Split 1 Unit Non Member Clean.jpg",
+    link: "https://s.shopee.co.id/8fP9lKyGV2"
+  },
+  {
+    id: "industri-jasa",
+    name: "Jasa",
+    desc: "Jasa Servis TWS Semua Tipe Perbaikan Earbuds Mati Total Ganti Baterai",
+    subDesc: "Industri",
+    image: "/img/Partner2/Jasa Servis TWS Semua Tipe Perbaikan Earbuds Mati Total Ganti Baterai.jpg",
+    link: "https://s.shopee.co.id/2BBg1RZ4AM"
+  },
+  {
+    id: "industri-jasa",
+    name: "Jasa",
+    desc: "JASA PEMBUATAN PORTOFOLIO KERJA",
+    subDesc: "Industri",
+    image: "/img/Partner2/JASA PEMBUATAN PORTOFOLIO KERJA.jpg",
+    link: "https://s.shopee.co.id/W3S2PVsAN"
+  },
+  {
+    id: "industri-jasa",
+    name: "Jasa",
+    desc: "Jasa Laser Cutting Custom",
+    subDesc: "Industri",
+    image: "/img/Partner2/Jasa Laser Cutting Customjpg",
+    link: "https://s.shopee.co.id/5L8hnKUOuc"
+  },
+  {
     id: "industri-petshop",
     name: "Ramical",
     desc: "Gastrointestinal Care",
