@@ -231,9 +231,9 @@ export const partnerItems: Partner[] = [
   {
     id: "568",
     name: "568",
-    desc: "Stella Fabric Spray Fresh",
+    desc: "Stella Fabric Spray Fresh Fabric Spray Protect",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Stella Fabric Spray Fresh.jpg",
+    image: "/img/Partner2/Stella Fabric Spray Fresh Fabric Spray Protect.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7638943701036928277"
   },
   {
