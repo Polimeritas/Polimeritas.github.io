@@ -4867,7 +4867,7 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
-    name: "Vitakraft",
+    name: "[BEST SELLER] Vitakraft",
     desc: "Vitakraft-Liquid Snack Cat",
     subDesc: "Industri",
     image: "/img/Partner2/Vitakraft-Liquid Snack Cat.jpg",
@@ -4876,10 +4876,10 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-petshop",
     name: "Animal&Co",
-    desc: "Cat Litter",
+    desc: "[BEST SELLER] Gourmet Wet Cat Food",
     subDesc: "Industri",
-    image: "/img/Partner2/animalncowithboyen.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7607417575374359828"
+    image: "/img/Partner2/Animal&Co Gourmet Wet Cat Food.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7637390352839855380"
   },
   {
     id: "industri-petshop",
@@ -4924,10 +4924,10 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-petshop",
     name: "Animal&Co",
-    desc: "Gourmet Wet Cat Food",
+    desc: "Cat Litter",
     subDesc: "Industri",
-    image: "/img/Partner2/Animal&Co Gourmet Wet Cat Food.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7637390352839855380"
+    image: "/img/Partner2/animalncowithboyen.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7607417575374359828"
   },
   {
     id: "industri-petshop",
