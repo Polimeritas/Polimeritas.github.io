@@ -4826,6 +4826,14 @@ export const partnerIndustriItems: Partner[] = [
     link: "https://www.instagram.com/p/DVSPS18km8g/"
   },
   {
+    id: "industri-jasa",
+    name: "Jasa",
+    desc: "Bantal Anabul Custom Anabul",
+    subDesc: "Industri",
+    image: "/img/Partner2/Bantal Anabul Custom Anabul.jpg",
+    link: "https://shopee.co.id/opaanlp/1261849672/26251496815?__mobile__=1&credential_token=8wEwiDL7YDtuPbrH53J16r7rv2AwFpwsUAyF8dV3tK&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAw7W8HBXq0kCGV6U2SCy_YKdPnYAbk-7fFMT2Rchc0o6ycuwrCX6RzQp46JuTT8A4wapGgbFmEU1qNoACGyDJx3kYidvv_wnVm_5A6qit-Z_vqnGfmNqT0L1TLz3q2i0TpPqhhbBHwGM8M_PptIOWArc92LVFV2jM6yjNiysBsHrGuE2-6Iix2Vj4SqBWqKHYsaUjG3&mmp_pid=an_11393951005&uls_trackid=55lbl6jh059m&utm_campaign=id_LoEoQb865D&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgwiprp94bh"
+  },
+  {
     id: "industri-petshop",
     name: "[BEST SELLER] Olive Care",
     desc: "Cat Grass",
