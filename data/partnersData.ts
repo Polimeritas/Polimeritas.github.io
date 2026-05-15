@@ -5540,6 +5540,94 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Affiliate-Catlife.jpg",
     link: "https://s.shopee.co.id/8fOcUXrXxA"
   },
+  {
+    id: "Affiliate",
+    name: "Cats Grass Dadu - Catnip Kucing - Cat Grass Cube",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Cats Grass Dadu - Catnip Kucing - Cat Grass Cube.jpg",
+    link: "https://shopee.co.id/product/1562573470/53550368590?credential_token=8wEwiDL7ZRduuo34Yb1MedpmL9qCJDEGSCnuNVN1Gc&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAwCkqGMfofUHC49S6jSSvWei2IS-KF9O_HExMmF7jnuU8o7Dx-YTpXqiZotjMxtf5Q72Y-2EYeOWnS6OSX8_b8VEIrkTXV_FDxHG3v8tqC-zE3YsFSht9P3uUWkIpiJ3nMlIte4D5s7t-wAAbz_0j3f4HHTC66yWRy371bY81BfnPKokxhYvZAB8U2XSC8LZfwNQ7RQ&mmp_pid=an_11393951005&uls_trackid=55lbmbqg01bm&utm_campaign=id_XAeYZXxv91&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgxf5hxaz31"
+  },
+  {
+    id: "Affiliate",
+    name: "BITYAS Snack kucing",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/BITYAS Snack kucing.jpg",
+    link: "https://shopee.co.id/opaanlp/1427655475/29274422489?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAmW3scyce3ctBSJpDooCXeXfzvnKifYzA5o&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAzHdw2cjnPy7ZFL9nMkba8tYJq2pvCTGgCtVrQQDPe6A3JnU62Muy_AtHqQhjwFxMrBh0U5Px2pBVWBBtAvs56nQoXP4iTT-VkNuiZRT1l0e__NhOSONITIpPDMcSx06E_Y5zO2DKCibVfBcngoGI6L7HbglEnsH89aTb_YTg-BxBx9wPwsObqMjSpdN9JLGewXajwt&mmp_pid=an_11393951005&uls_trackid=55lbnnfm019l&utm_campaign=id_AXD7qF1p0N&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgyguc6cu52"
+  },
+  {
+    id: "Affiliate",
+    name: "Pet Fur Cleaner Roller Karakter",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Pet Fur Cleaner Roller Karakter.jpg",
+    link: "https://shopee.co.id/opaanlp/1136754853/53750898878?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAnhX4W1aRXXfuwuenN9MdDN7GZGa9onPYxP&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAzJ9CjEEFw_lcNzToSGuFflEQss-IHiNuQJB8eZo0PKR-NLVkRj5yczlybbnq4IXUzqD__yRPuH1PVVbhw0_fnC3BjrI7jfGnKePnOs151Xnm45D1-_LEVF_TuBTJqagQZiVwsE3GJsWVy8w_wtuDzCr4etbDvc9YjD0JBsPyHNZWyGXkEx_Brvomj26fEIw3qefDbz&mmp_pid=an_11393951005&uls_trackid=55lbnl9p03e5&utm_campaign=id_IkmJKfO6G3&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgyf2o8qyih"
+  },
+  {
+    id: "Affiliate",
+    name: "SEMPATI Kasur Bantal Tempat Tidur Kucing Model Tenda",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/SEMPATI Kasur Bantal Tempat Tidur Kucing Model Tenda.jpg",
+    link: "https://shopee.co.id/opaanlp/20532310/21291093557?__mobile__=1&credential_token=8wEwiDL7YDSU2jBjw3V162RdqBWG57bNcjk3wNMAmA&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAxmcYJdb-vw3UwvVL6C1LgssEzaaXMdOtNGF3dZsxXEwYDwCGhk18oUOhroVYeWFizUOrBlXFYPFzC8qgbbWOpmuu5HOlTVf6YOW2_IragXzGUG5fIEfu5YNK_KKVLSdnT8DhUUMucWjlUsHzKOgOMdLhWb_PKWZwezvuA14rwWY-mh13cXEdSNvfOelNEZmDg&mmp_pid=an_11393951005&uls_trackid=55lbnjhr019l&utm_campaign=id_13TnBAytCdX&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgydn4urxyu"
+  },
+  {
+    id: "Affiliate",
+    name: "YOMURA Pet Colling Mat Mat",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/YOMURA Pet Colling Mat Mat.jpg",
+    link: "https://shopee.co.id/opaanlp/1129623249/26908544929?__mobile__=1&credential_token=8wEwiDL7YDu3kcwr7B8QztWfj1CHNd5TbAa5UYGCw5&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAyTnAkTBx4V2E22bwDV4atiukyugGhsgIyqACU2noDcjF6hCNs1kHqhP3ACzuSksQli1iOD8b5GbEybNaWDt3T5kIMdG6_Qk_IE7E3OlnY6IUssELxPdOwt40BLUtf77ZfYhkuOS5x6pZGuuGtQb5yLx-0hdErfyQPfyQxxxIVFEedOARaocO3ncdY46Xyr3gq6cOkF&mmp_pid=an_11393951005&uls_trackid=55lbnht600e3&utm_campaign=id_8yn0Gs260Z&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgycaccunzt"
+  },
+  {
+    id: "Affiliate",
+    name: "Alas Tempat Tidur Kucing Anjing Adem",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Alas Tempat Tidur Kucing Anjing Adem.jpg",
+    link: "https://shopee.co.id/opaanlp/226275576/51909094593?__mobile__=1&credential_token=8wEwiDL7ZRTRKzGczAC2LSGTQZdKHhcBX8KfeVipP2&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAxs_q4bQ1xRx9AGJ-E-fPDy8J95YqObazn5ZhxKuoJZlpYJwp71LP3-XM4ktRnH0JeE7bHf3dKgxKXS3XspKOrCMl087-nj_Fq8jAZ4junKLzhOeJqW-AMi5nuLAPP7-8_Gu1Dh4mDNPtxugZ4o1ulygPj_i2PA8DVUz02dNpMNenXSsQrSssDzZBagUSm4K2xJSQ&mmp_pid=an_11393951005&uls_trackid=55lbnftu00bm&utm_campaign=id_klCL43SM3f&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgyaoeurtja"
+  },
+  {
+    id: "Affiliate",
+    name: "MAMS Freeze Dried Snack Kucing Anjing Premium",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/MAMS Freeze Dried Snack Kucing Anjing Premium.jpg",
+    link: "https://shopee.co.id/opaanlp/110782560/45204487480?__mobile__=1&credential_token=8wEwiDL7Z2UpfGo6vKi2CW1YVy3C3TozabuYyZYMqn&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAxFROqQvIwSBxhUf9RFz5vklDCIlCGGb9m6LygVq18uiHPKJco_k08vi6tcEMx67E5o8myHUg09ieKqpraZTL90NIBPlssp47xcjEa7ZHJ7C9YEogOvx8_spNwrBptUXN--x_PZzT_i8oPFr9IzZywUE4wxUsamT8dtIXnunqR39R22bI8tidhvDxL-2HwIuopT6g&mmp_pid=an_11393951005&uls_trackid=55lbndab07bk&utm_campaign=id_13TCd1LMv3j&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgy8isu6nmu"
+  },
+  {
+    id: "Affiliate",
+    name: "ALICIAN Pembersih Bulu Anabul Kucing dan Anjing",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/ALICIAN Pembersih Bulu Anabul Kucing dan Anjing.jpg",
+    link: "https://shopee.co.id/opaanlp/101044379/40258007295?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAnHuVVvqWpMHx76NmqW6as9MVKNvp16n9Ve&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAxHTNIz4n9pRcp1iAG7yU7zldNTn3dGSrdzwm7mj_hBgYP8kwn4pHDRJeTRRJ3XwFJB3QYP5PKq5taUMAhup2xkX3QGbN4F94_K61VfvU0SgY-1vzUsjiInXVIlUhpTCuM2QeWFlQhH-4zl9rM05SAMOCV9WXa5TcR1Yg01BtOzg1xPK45wqCJOOYl0J0hwyS-6wA&mmp_pid=an_11393951005&uls_trackid=55lbnal6018q&utm_campaign=id_XCay8sFv47&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgy6csa64u5"
+  },
+  {
+    id: "Affiliate",
+    name: "Purrito Snack Kucing Freeze Dried Chicken Meat",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Purrito Snack Kucing Freeze Dried Chicken Meat.jpg",
+    link: "https://shopee.co.id/opaanlp/1388552367/42466060776?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAnJ67FYXgM2igPhHcc5NzGrqfiSHKGmPoXS&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAwP9JNavQuyluLtY38rIRb3D9E1kJY_jnH-p-V31X0TyfW_nrGYFhstokHb2CR-3DbUz4KBawK8Pzi5__16d1EnIUfSliN9XhzLaudeMysc-FuOcnqc6pWB5oOaDbe6YD_7BwW8hWPo4z_l33dOJmuB1T-jGBhzmkBnE1uSTPops-hzhN9L7V4_P_s3mddo6pgqH64p&mmp_pid=an_11393951005&uls_trackid=55lbn93n019l&utm_campaign=id_o1SXAzQG2F&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgy53ruhkim"
+  },
+  {
+    id: "Affiliate",
+    name: "Termurah Cat Condo Kandang Kucing Set Lengkap",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Termurah Cat Condo Kandang Kucing Set Lengkap.jpg",
+    link: "https://shopee.co.id/opaanlp/83257395/23974299240?__mobile__=1&credential_token=8wEwiDL7YDdBkwWmq7yLgRevrAEwLTjjzbDeNwHDUk&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAxc134Cv_yTD8V3tWnMlcQ1rsRVPCuRqH1iRuiPhKOv38fVgBDkgVmwODIX2qNh8mfLxzr-4OovzsZ8sEaGRBT6Jtg2i87t-K7dPnM9n2wEbayR0Y_ipPR38lHVPiuU1ZPWkwGbXaMCbSkK9IZV8vB31y7kD_7zk8MeyzA_1Nwow-M4GR0K3Sty__PCOzb9nYk&mmp_pid=an_11393951005&uls_trackid=55lbn729009m&utm_campaign=id_1230KznsRp5&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgy3exfxe79"
+  },
+  {
+    id: "Affiliate",
+    name: "Kasur Anabul desain Bundar (50x50)",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Kasur Anabul desain Bundar (50x50).jpg",
+    link: "https://shopee.co.id/opaanlp/242485506/23885552238?__mobile__=1&credential_token=8wEwiDL7YDdAZjQbDkKkwXrH4vdMxevojcYdVQkBDp&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAxvrQMBi3Tr221ebjs4pAlqZleDWKtUMkD8Ew-RkI0_BZ_JfuELVumlRlrXJkyQ6WMzbJkNQPiZ17E54gF8r_3mMcJok0NynfMLWcxR_2tkjgVddUPGa7EY-Hed2wtSSqJr_0V5X7PtmK9JOX2QxvcJQyXjLhqWvKJOtPOvKK5rwEklestg0O3gSqklGCwKhZhorA&mmp_pid=an_11393951005&uls_trackid=55lbn59504e5&utm_campaign=id_jPv1RTx5I3&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewgy1ybvnorw"
+  },
   // --- LAST ITEMS & DYNAMIC DUMMY ---
   { id: "industri-1", name: "Coming Soon", desc: "Partner Industri Polimeritas", subDesc: "Industri", image: "/img/Partner2/Coming Soon.jpg", link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1" },
   ...Array.from({ length: 20 }).map((_, i) => ({
