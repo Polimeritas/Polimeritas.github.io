@@ -3893,6 +3893,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/2VdHLCKMpL"
   },
   {
+    id: "110",
+    name: "110",
+    desc: "Boneka Domba Custom Kupluk Boneka Kambing Boneka Lucu Size 28Cm",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Boneka Domba Custom Kupluk Boneka Kambing Boneka Lucu Size 28Cm.jpg",
+    link: "https://s.shopee.co.id/7AaR59DPMF"
+  },
+  {
     id: "109",
     name: "109",
     desc: "Zinus Kasur Spring Bed Deluxe",
