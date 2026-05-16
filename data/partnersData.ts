@@ -2407,7 +2407,7 @@ export const partnerItems: Partner[] = [
   {
     id: "297",
     name: "297",
-    desc: "Coming Soon",
+    desc: "Headset Wireless",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/297.png",
     link: "https://vt.tiktok.com/ZSYkqgGVL/?page=Mall"
