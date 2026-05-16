@@ -3549,6 +3549,14 @@ export const partnerItems: Partner[] = [
     link: "https://s.shopee.co.id/9f6RvQHvpA"
   },
   {
+    id: "154",
+    name: "154",
+    desc: "Sepatu Lari Pria Wanita GLVIU Zeus Pro Size 38-44 Terbaru Sepatu Running Olahraga Joging Casual",
+    subDesc: "Shopee - Polimeritas",
+    image: "/img/Partner2/Sepatu Lari Pria Wanita GLVIU Zeus Pro Size 38-44 Terbaru Sepatu Running Olahraga Joging Casual.jpg",
+    link: "https://s.shopee.co.id/6pxagqAqrh"
+  },
+  {
     id: "153",
     name: "153",
     desc: "Lantai Kayu Jati Decking Tile",
