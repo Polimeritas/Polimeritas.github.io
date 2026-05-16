@@ -4160,7 +4160,7 @@ export const partnerItems: Partner[] = [
     id: "76",
     name: "76",
     desc: "Coming SoonShopee - Polimeritas",
-    subDesc: "Shopee - Polimeritas",
+    subDesc: "Label Maker Printer",
     image: "/img/Partner/76.webp",
     link: "https://s.shopee.co.id/9UmsQdYBLb"
   },
