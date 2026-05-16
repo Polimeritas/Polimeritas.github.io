@@ -4119,7 +4119,7 @@ export const partnerItems: Partner[] = [
   {
     id: "81",
     name: "81",
-    desc: "Shopee - Polimeritas",
+    desc: "Monitor PC",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner/81.webp",
     link: "https://s.shopee.co.id/3fp5U0adpn"
