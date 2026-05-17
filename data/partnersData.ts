@@ -210,7 +210,7 @@ export const partnerItems: Partner[] = [
     desc: "Pupuk KCL Dewa Dewi - Pembesar Umbi dan Buah",
     subDesc: "Indonesia",
     image: "/img/Partner2/Pupuk KCL Dewa Dewi - Pembesar Umbi dan Buah.jpg",
-    link: "https://www.tiktok.com/"
+    link: "https://shopee.co.id/opaanlp/1692871420/55703263035?__mobile__=1&credential_token=8wEwiDL7ZRpXdnatGUfTM23KqKMQdhaLq7zdPHebfA&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAx-B94OW2b4qBdn0-SF2nMXg5fGhrxyjFCS3PECMO7o0lumxwmTgu48js-V_k8r6YiweyZ_zz08Q8LHZnJlI69c_L1RxgNbkvwa_viAlkQf7qqC2nztobM9FcqDykcOmqgeCSj4DLYlWg-JPaHLvgczGhqjx7XO_6kwExUhowc-SqoPUX_nNfmPOaaZqG_gryuaxwQW&mmp_pid=an_11393951005&uls_trackid=55lsetdl01pk&utm_campaign=id_CPCY2izFJ9&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu3d6288emu"
   },
   {
     id: "578",
@@ -218,7 +218,7 @@ export const partnerItems: Partner[] = [
     desc: "Pupuk Booster Mangga Pelebat Organik Cepat Berbuah Lebat 100ml",
     subDesc: "Indonesia",
     image: "/img/Partner2/Pupuk Booster Mangga Pelebat Organik Cepat Berbuah Lebat 100ml.jpg",
-    link: "https://www.tiktok.com/"
+    link: "https://shopee.co.id/opaanlp/302060930/24622817757?__mobile__=1&credential_token=8wEwiDL7YDiQpL5TMv9XvmXYPnt1P6TKN1X5xpZNc8&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAwDVfm5qUWAP7rNfXaZtvofFmg7l5mPq_SzQ6VENdohJgxyHljecETeXnTbfsfPBworJAhHPN7h4hhWkJ1R4BfvuOndPqewqF1dP1jWPH-Y3soPLpIFTgaS_WX1Vv_oAzZU7yWpK1oQsbruxEEyy8eChXRsJE9OmJT5uVPEf1zq6LNkAgYvWUSJ6aFZ2NrHwmLWwA&mmp_pid=an_11393951005&uls_trackid=55lsf04v00l3&utm_campaign=id_LfdHoDtMRz&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu3fdx7hnj9"
   },
   {
     id: "577",
@@ -226,7 +226,7 @@ export const partnerItems: Partner[] = [
     desc: "pupuk pelebat BUAH BUAHAN kemasan 250 gram",
     subDesc: "Indonesia",
     image: "/img/Partner2/pupuk pelebat BUAH BUAHAN kemasan 250 gram.jpg",
-    link: "https://www.tiktok.com/"
+    link: "https://shopee.co.id/opaanlp/164394326/21592974916?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAmVKdpRhYQqfqP8bqbhifuFToBGSfmDWnYL&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAwAKKjt4J77iMXYeKtya8KmCUVLcjN_9OU9CeidG8eNAlt6TIVb6KoqsBGdIXf7vqdl-MwjHTi-H7PlcPmTS-cbSmABzGXlQzbdk_CyMkbzPzc6DU7PmSP_HN3UVjAFICX3JlT8B602drEPyW2b6pgqUvTEL2OTr8r0VRru4_UbAPb2iaz6tZO-UGUjr_Z8afbsbA&mmp_pid=an_11393951005&uls_trackid=55lsf23a00l3&utm_campaign=id_JCRjLkVrhn&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu3gz1wuup5"
   },
   {
     id: "576",
@@ -234,7 +234,7 @@ export const partnerItems: Partner[] = [
     desc: "VITAMIN PERANGSANG GETAH KARET 1000 ML",
     subDesc: "Indonesia",
     image: "/img/Partner2/VITAMIN PERANGSANG GETAH KARET 1000 ML.jpg",
-    link: "https://www.tiktok.com/"
+    link: "https://shopee.co.id/opaanlp/1010966667/28442471070?__mobile__=1&credential_token=8wEwiDL7YE5X8gF64JVYbZBhHeT2u4tCnGon5sbou4&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAxu7sEu5jMwq7S8Pc1kYN9P5N_0V01bbxTSBoUrcbc0XMUTw6uTDcf9XFtqYL8g1kL4uUGtuQ0gHey2SC7Aznv5BUJKoJqNL1u6GmwxPL_9ckjpTDdYE28jvY3D_C8qH33TfRQVwIVq2-CyLGnuarU7GkWPeHguI3_g7_5eVjLKzr0PcJPk5M-7PcTcvnUUMlTFcj7n&mmp_pid=an_11393951005&uls_trackid=55lsf3p200pk&utm_campaign=id_yg3OtyyDxv&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu3icrwkevs"
   },
   {
     id: "575",
@@ -242,7 +242,7 @@ export const partnerItems: Partner[] = [
     desc: "Neo Trikoderma Pupuk Cabai Organik Cair Penumbuh Buah & Obat Bunga",
     subDesc: "Indonesia",
     image: "/img/Partner2/Neo Trikoderma Pupuk Cabai Organik Cair Penumbuh Buah & Obat Bunga.jpg",
-    link: "https://www.tiktok.com/"
+    link: "https://shopee.co.id/opaanlp/517184183/26115807457?__mobile__=1&credential_token=8wEwiDL7YDttB3Dg6uRddCgZXPwFqsWatPhN7pYHvp&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAz18YtHqYjU6VAhQtr803BfOYZohvsh0ZV9Bag9IOyLy8uvrAV6sfu1tOck1QlAM19R3KvGx5p9K3vjBR0MPCBSrrSa3JDtgn4ex9IsbOqPylUy_ERQk6W0KVs4j4gzZ4xDVk8h6VWvxyUl8XfIgkAbxgskAPHIDlDkFblheNjYq4xRzmBT_oRGF2AhaqE__Yy0gg&mmp_pid=an_11393951005&uls_trackid=55lsf6qv00bk&utm_campaign=id_13VcX7wPQcZ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu3kuud8qh9"
   },
   {
     id: "574",
@@ -250,7 +250,7 @@ export const partnerItems: Partner[] = [
     desc: "Pupuk NPK 16 16 16 kiloan 1kg cocok untuk penyubur tanaman dan melebatkan bunga dan buah",
     subDesc: "Indonesia",
     image: "/img/Partner2/Pupuk NPK 16 16 16 kiloan 1kg cocok untuk penyubur tanaman dan melebatkan bunga dan buah.jpg",
-    link: "https://www.tiktok.com/"
+    link: "https://shopee.co.id/opaanlp/1557480274/40653233251?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAnHuaHrAyrBMF5eYLDSpbNXeo8qSQBNgzKy&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAxzgTgBuPsC6_J-v0wEby_xjU8t9Z3Ic4enyIT8g7yGDVZGR2RV8RzRI8mK4Z_wT2z1osH1s0t6nj5jNGO0U4WEmkee264STZB1qSpBPb5aA23QKaTsw5MKM9AfUS3JOrE81lio-EY7nLFNkir_0UttMFvhAoJxkcxAccna78pOf2YDf011SLVLOn0HHQTzUbf4FgO2&mmp_pid=an_11393951005&uls_trackid=55lsf8li00l3&utm_campaign=id_M6UcTWkMZL&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu3ncq29z48"
   },
   {
     id: "573",
@@ -258,7 +258,7 @@ export const partnerItems: Partner[] = [
     desc: "Pupuk Urea 1kg Untuk Pertumbuhan Tanaman",
     subDesc: "Indonesia",
     image: "/img/Partner2/Pupuk Urea 1kg Untuk Pertumbuhan Tanaman.jpg",
-    link: "https://www.tiktok.com/"
+    link: "https://shopee.co.id/product/813245174/45406038667?credential_token=8wEwiDL7Z2Us4EjpEYwhntE4PNLQKLeBmAVAHivxiL&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAyc58kwDFSUjgsok2eexbEQ4USCeIc0p3JiUW-qTaRDGPE0T7q-lobgucBn3qYytS6l8hDXvG7fEZ_nVOjkPq_hd9Zu8htSV21pvezoatwUsnQO2o96wNakng_XGT5LZbOneWdVKQ4Dz_HG-g2LWO83CciH8bGUv0Mpl8JWK8F7F7bx_lDmIp9WAhc6d8jmyIga3Q&mmp_pid=an_11393951005&uls_trackid=55lsfesc02hh&utm_campaign=id_YR1zvGyhoF&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu3sfh2ck71"
   },
   {
     id: "572",
@@ -266,7 +266,7 @@ export const partnerItems: Partner[] = [
     desc: "Asam Humat 1KG Penyubur Tanah Pembenah Tanah Mudah Larut Organik",
     subDesc: "Indonesia",
     image: "/img/Partner2/Asam Humat 1KG Penyubur Tanah Pembenah Tanah Mudah Larut Organik.jpg",
-    link: "https://www.tiktok.com/"
+    link: "https://shopee.co.id/product/6432113/52752892337?credential_token=8wEwiDL7ZRYfdZrajtoZKP2ub7Y6ej5ycBdiGxYBJC&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkgAAAAwyuoeqh5lNcwYlh_wYwgXcT4yxIgGqNBThqAMYKKUoatIwrcMHWRwJYaPYWCmnmRTuLXvuqfbjmDpwyfzR3cOjM0y1JFDFi5wFOLxrTwIj_JLCb3iyBhZfEzHebPV5LzG37CUewfe-AaO2p6lOOcwTLaMHR04_kPyHCwPFOI6pLxPH_yhfgGCKpOYx9pYu&mmp_pid=an_11393951005&uls_trackid=55lsfib601e5&utm_campaign=id_TvSo7k3Ppn&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu3v9rkd175"
   },
   {
     id: "571",
