@@ -4959,7 +4959,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Holistic Gourment",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&co - Holistic Gourment.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7637379897979489556"
+    link: "https://www.tiktok.com/@booyenku/video/7637400614053465365"
   },
   {
     id: "industri-petshop",
