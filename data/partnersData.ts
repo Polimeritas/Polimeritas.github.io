@@ -4964,6 +4964,14 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-petshop",
     name: "Animal&Co",
+    desc: "Animal&co Holistic Gourmet 1 Kg Scoop and Creamy Treats",
+    subDesc: "Industri",
+    image: "/img/Partner2/Animal&co Holistic Gourmet 1 Kg Scoop and Creamy Treats.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7637379897979489556"
+  },
+  {
+    id: "industri-petshop",
+    name: "Animal&Co",
     desc: "All Life Stages With Digestive Probiotics",
     subDesc: "Industri",
     image: "/img/Partner2/Animal&Co - All Life Stages With Digestive Probiotics.jpg",
