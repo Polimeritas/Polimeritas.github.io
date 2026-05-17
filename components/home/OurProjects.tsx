@@ -37,7 +37,7 @@ const OurProjects = () => {
         {
             id: 4,
             role: "Kelola Website",
-            status: "Masih Terbuka",
+            status: "Tutup",
             image: "/img/team/programpolimeritas3.jpg",
             link: "https://bit.ly/opvolunteerpolimeritas2",
         },
@@ -51,7 +51,7 @@ const OurProjects = () => {
         {
             id: 6,
             role: "Konten Feed",
-            status: "Masih Terbuka",
+            status: "Tutup",
             image: "/img/team/programpolimeritas2.jpg",
             link: "https://bit.ly/opvolunteerpolimeritas2",
         },
