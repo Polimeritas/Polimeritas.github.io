@@ -205,6 +205,70 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "579",
+    name: "579",
+    desc: "Pupuk KCL Dewa Dewi - Pembesar Umbi dan Buah",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pupuk KCL Dewa Dewi - Pembesar Umbi dan Buah.jpg",
+    link: "https://www.tiktok.com/"
+  },
+  {
+    id: "578",
+    name: "578",
+    desc: "Pupuk Booster Mangga Pelebat Organik Cepat Berbuah Lebat 100ml",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pupuk Booster Mangga Pelebat Organik Cepat Berbuah Lebat 100ml.jpg",
+    link: "https://www.tiktok.com/"
+  },
+  {
+    id: "577",
+    name: "577",
+    desc: "pupuk pelebat BUAH BUAHAN kemasan 250 gram",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/pupuk pelebat BUAH BUAHAN kemasan 250 gram.jpg",
+    link: "https://www.tiktok.com/"
+  },
+  {
+    id: "576",
+    name: "576",
+    desc: "VITAMIN PERANGSANG GETAH KARET 1000 ML",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/VITAMIN PERANGSANG GETAH KARET 1000 ML.jpg",
+    link: "https://www.tiktok.com/"
+  },
+  {
+    id: "575",
+    name: "575",
+    desc: "Neo Trikoderma Pupuk Cabai Organik Cair Penumbuh Buah & Obat Bunga",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Neo Trikoderma Pupuk Cabai Organik Cair Penumbuh Buah & Obat Bunga.jpg",
+    link: "https://www.tiktok.com/"
+  },
+  {
+    id: "574",
+    name: "574",
+    desc: "Pupuk NPK 16 16 16 kiloan 1kg cocok untuk penyubur tanaman dan melebatkan bunga dan buah",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pupuk NPK 16 16 16 kiloan 1kg cocok untuk penyubur tanaman dan melebatkan bunga dan buah.jpg",
+    link: "https://www.tiktok.com/"
+  },
+  {
+    id: "573",
+    name: "573",
+    desc: "Pupuk Urea 1kg Untuk Pertumbuhan Tanaman",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pupuk Urea 1kg Untuk Pertumbuhan Tanaman.jpg",
+    link: "https://www.tiktok.com/"
+  },
+  {
+    id: "572",
+    name: "572",
+    desc: "Asam Humat 1KG Penyubur Tanah Pembenah Tanah Mudah Larut Organik",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Asam Humat 1KG Penyubur Tanah Pembenah Tanah Mudah Larut Organik.jpg",
+    link: "https://www.tiktok.com/"
+  },
+  {
     id: "571",
     name: "571",
     desc: "Skintific Mugwort Anti Pores & Acne Clay Stick 40g",
