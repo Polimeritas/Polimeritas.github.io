@@ -205,6 +205,70 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "587",
+    name: "587",
+    desc: "ULTRADAP Pak Tani 1KG - Pupuk Pemicu Akar & Bunga",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/ULTRADAP Pak Tani 1KG - Pupuk Pemicu Akar & Bunga.jpg",
+    link: "https://shopee.co.id/product/1703235536/56407413214?credential_token=8wEwiDL7ZRukiYE3Sk74GBHbWv5o3vzFSpNroHErXw&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAx9lLn9s89EBmvpjI8V7TGyxODPBgOq4H5pe-6FUq0VR7zUWfNWDHowR4n1LUvNLAyUDzUO5OrCxMQCV5tIfdxMg8OLIOXbemCJyzgh5h9BNzL1SIBSqkETj6kgJPk8y0lJ0QWnGms-FNTqgT2eBQNhjA3q9EzQeiE127Rz6lLWiQ8na-HElIokkJYUPKAbvmsUuYdC&mmp_pid=an_11393951005&uls_trackid=55lskh3h01l3&utm_campaign=id_CY4Rco4zyx&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu7p3qp17jn"
+  },  
+  {
+    id: "586",
+    name: "586",
+    desc: "INFARM - Pupuk Organik Cair 500mL",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/INFARM - Pupuk Organik Cair 500mL.jpg",
+    link: "https://shopee.co.id/product/93053250/14949569200?credential_token=8wEwiDL7XpNsSDRbc7368iwFqGipfoAbP3g4KrKFA9&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAzlP6q3HvuvUZfNQEDnb0kvyqbNFhTmCeaedOBAxPBVPIEGlDF7Cve-XxouBsWPpzYK7yua_Hy8VZ_gGKbNTnojVnF6UCg_6QRfYzyY7IcrcRbQTwFIr-6exCoRzXI1bQXOaD7bxh9Wvf_i83CzH3_NeqUhgjzloiA9FBdDEdNekuv1YK3ej-Pi5d6fIfqQxZA&mmp_pid=an_11393951005&uls_trackid=55lskjn601l3&utm_campaign=id_jZkQIAloCV&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu7r8eqnopj"
+  },  
+  {
+    id: "585",
+    name: "585",
+    desc: "pupuk meroke KARATE PLUS BORONI kemasan pabrik 1kg",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/pupuk meroke KARATE PLUS BORONI kemasan pabrik 1kg.jpg",
+    link: "https://shopee.co.id/product/29270458/23881572183?affiliate_seller_voucher_token=8bCnE5QAmVWGkysyt631jMmyaRfisEXzVBDjZgGmyA&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAwFg56QVNtvuiQ-FzFArGHBbpzPmrRlMmRRYhPQrTZe1YAbL-odi7Jq9rGbJfixrEaSEWASNvF2MH1Fmc9YBOJOTUwXavpKBzlVvULC0P0sT656E5YacefMLvuaCwSiL_KUJwZRC-RWLTc8eIU6yObRTG3f7gqecNOp35LOCUClJunLNaAdVSL9hy2pIekiMe8&mmp_pid=an_11393951005&uls_trackid=55lsklpn02bm&utm_campaign=id_U7ucFR09Tz&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu7sx83r2s1"
+  },  
+  {
+    id: "584",
+    name: "584",
+    desc: "[ORIGINAL] Booster 76 Hormon Pembungaan dan Pembuahan",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/[ORIGINAL] Booster 76 Hormon Pembungaan dan Pembuahan.jpg",
+    link: "https://shopee.co.id/product/428608077/21878661749?affiliate_seller_voucher_token=8bCnE5QAmVKhQLKJK1hsqq43HchUi3jpD6E7hVT3V9&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAyQ8raTr5iucMsWzK-Spd71D5caeSl3otxJxhLX0xYPeAvUphb5vVSVJbYuDf_qDM4l1wjoQJHF50oEEMqrzPyF7nnxQyMs61Pthm0KzjC_Et_U2Vu3fUvhu0Pc4hZm7dzf-tZ27q_HnhjbuNEb9vty0lnbGrczA9oi6jr18Zuo1xeBpw8cmpfyWo-Ef1AlKaZHTg&mmp_pid=an_11393951005&uls_trackid=55lskoiv01l3&utm_campaign=id_96Zx4IlmKt&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu7v7rdk9nx"
+  },  
+  {
+    id: "583",
+    name: "583",
+    desc: "Pupuk NPK YaraMila UNIK 16-16-16 (Kemasan 5 KG)",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pupuk NPK YaraMila UNIK 16-16-16 (Kemasan 5 KG).jpg",
+    link: "https://shopee.co.id/product/213125091/48555756463?credential_token=8wEwiDL7Z2kkJegFSGk5JLiKRKdADM5WSSjJUVzwcT&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAzSYQ53iJnHekWg-dUcrNtSuBDVU4Wtv2jO0UstzbgalPPr1rtG1ttrdJ0uIhRir2Q5g0g9w9fqJ2Y_1de1TI4R1MXkCDJS08sqghcz2UfF6_VtD6UOw21Hk8oIE4zfRFxSFciLftZ3NKot7nftOYj4qkMlVoYlEKpTNBOWA_eiqu0uDNIUqdPGzd1-fr4gVJavNA&mmp_pid=an_11393951005&uls_trackid=55lskqll02e3&utm_campaign=id_JBr7OD5ppf&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu7wwpmzgph"
+  },  
+  {
+    id: "582",
+    name: "582",
+    desc: "Pupuk Kandang Kambing 1 Karung Fermentasi Halus Siap Pakai",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pupuk Kandang Kambing 1 Karung Fermentasi Halus Siap Pakai.jpg",
+    link: "https://shopee.co.id/product/1549215752/43618721838?credential_token=8wEwiDL7Z2JL76B5AGaYp5jztjYAVbvbTRksSeYxz6&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAxC7fXGfoLw2czebrgcQaecOIYcXq0JZCQ6HMajkzlC5Oy_E_wIOwmeTi01w2Ppnnqr_3a6ML-91cnFxnHSGWFqBdxCwktA0PMFasyFTLb8vBk3Gwug1FOFQiPjRO2d_-bj4iRfRNEpL5IM00MxQrRE6B84eHOjLJcOQFPMiGRNSvJ7vvxhZ6_zFvsZbHDqpON8BcaS&mmp_pid=an_11393951005&uls_trackid=55lsksff01e3&utm_campaign=id_Y9TGzoIRq3&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu7ydxc1zrs"
+  },  
+  {
+    id: "581",
+    name: "581",
+    desc: "POC BOOSTER SAWIT 1 LITER - Pupuk Organik Cair dan ZPT",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/POC BOOSTER SAWIT 1 LITER - Pupuk Organik Cair dan ZPT.jpg",
+    link: "https://shopee.co.id/product/405312156/25044014388?credential_token=8wEwiDL7YDoaKBLwaSVgp2SLYMsE4WdSuJZVr3BVKF&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAx4-_ay6cRzXEQlhea0cP-poM6RtTlbnVTfY_DtnTepRsXWGMNr_coa6PkT7NdsQZylvNP72AwmFVRir4Tl-Fn_8EdQGTmqgf2uTwowBXtCfH0v3dy5WiyNKlfJWlJngrNDKgV73U7XErD5K0XKbELSU5-hL1y27bH2sHL7mxb3e192bd_-1-Mk06XqO9m6zODJfQ&mmp_pid=an_11393951005&uls_trackid=55lskuam00bm&utm_campaign=id_x7OLin3d9r&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu7zwcakwcb"
+  },  
+  {
+    id: "580",
+    name: "580",
+    desc: "Asam Humat Cair Humic Acid 90% Pembenah Tanah Alami",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Asam Humat Cair Humic Acid 90% Pembenah Tanah Alami.jpg",
+    link: "https://shopee.co.id/product/1090748143/18293978860?affiliate_seller_voucher_token=8bCnE5QAm6cyyDcbCwz4avMBKEok2sZ5d5yAX2BSzc&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAz_pnLNcwr_J8y6woJQhF0Ul0QCzGdfgDu_P-QpCH4e3utVzXsAk2fIZ7X3KbNjVlMRTxQF2joPgBJwaC1fTWbzZzdMUtT0l41gCS_D__4rG8Nyr4OoGAVrYEDN4p1Zr9_uvaVT6PGccMsAdoMz8EZNUQ2kvaDGD4N29mdOodpmNvrQTxUDbkItUP-5ehaypyw6_bkQ&mmp_pid=an_11393951005&uls_trackid=55lsl13a049m&utm_campaign=id_xPA8PAn2Wt&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewu836cke7q1"
+  },
+  {
     id: "579",
     name: "579",
     desc: "Pupuk KCL Dewa Dewi - Pembesar Umbi dan Buah",
