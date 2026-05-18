@@ -5318,6 +5318,38 @@ export const partnerIndustriItems: Partner[] = [
   // --- AFFILIATE SECTION ---
   {
     id: "Affiliate",
+    name: "Happymunday Tutup Botol Plastik Warna Warni Satuan",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Happymunday Tutup Botol Plastik Warna Warni Satuan.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
+    name: "Tutup Botol Plastik SN Short Neck Almond Segel Isi 100 Pcs",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Tutup Botol Plastik SN Short Neck Almond Segel Isi 100 Pcs.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
+    name: "Tutup Botol Plastik Long Neck Paket isi 100 pcs Air Mineral Segel BARU",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Tutup Botol Plastik Long Neck Paket isi 100 pcs Air Mineral Segel BARU.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
+    name: "Tutup Botol Plastik Warna Warni Montessori Belajar Warna Anak",
+    desc: "Pet Shop",
+    subDesc: "Industri",
+    image: "/img/Partner2/Tutup Botol Plastik Warna Warni Montessori Belajar Warna Anak.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Affiliate",
     name: "Olive Care LITTER BLOOM Penghilang Bau Pipis Pup Litter Box Kucing 160g",
     desc: "Pet Shop",
     subDesc: "Industri",
