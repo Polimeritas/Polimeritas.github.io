@@ -5322,7 +5322,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Happymunday Tutup Botol Plastik Warna Warni Satuan.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://shopee.co.id/product/39116955/20477958193?affiliate_seller_voucher_token=8bCnE5QAmVEKwDVBmGExVPCPpJn8QZSqDTy3tFAr4u&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAxyBVhBWJoN1XW_hnoDj4A37KE4QXli2OjNGvxTzm7UcaAZelrryewUy0GxNClUS3tW1fzxON4FLYX9r8anFoqUqIgU5-fL_f9GK0Mu_485qR40za2n6h0FHFDEGP6pPSIfsrYzQ-pgGiO7vSHNgvA_nyylLJK_0yhUuz04zRd78TM1Mev8Q-1QBFdZHS0m5lQ&mmp_pid=an_11393951005&uls_trackid=55m35lnu02bk&utm_campaign=id_mew5IMeoxD&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewyxntr1e2hn"
   },
   {
     id: "Affiliate",
@@ -5330,7 +5330,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Tutup Botol Plastik SN Short Neck Almond Segel Isi 100 Pcs.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://shopee.co.id/product/673719294/17596603072?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAySDUUUxvPGFH7fKZPve5h0Mz7N6Bwfk84P_jQNtRhmMQtyMnutfPXN2cEN0khG0jxtbMvXjqls7ENmbFhCQA8ogJPVOjuKXiuwZXQVocr319QnzG1o2nGY98_J68mX8CFua_QpYMKEb3x50mM4RJUWPV7MUkB9FjU9Ttxa_Nup6eKmNrFBMHaRXNU6MNq5PJaKbA&mmp_pid=an_11393951005&uls_trackid=55m35ja901jt&utm_campaign=id_yhANPj3hrb&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewyxkuf171cs"
   },
   {
     id: "Affiliate",
@@ -5338,7 +5338,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Tutup Botol Plastik Long Neck Paket isi 100 pcs Air Mineral Segel BARU.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://shopee.co.id/product/673719294/22985189984?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAw7aAvBhhhOEC3KCOrzU6-f8AwMi3IG6eeqI8Visitrc4PuaFMMwOGAVWNVn-z3u74NGmR9GJ3MgzrOKN5bsMFw0lNCpAQCha9v5x9R3RvUOZd1C46BxGH9VYQlETf1YK60S36Au7nV9WFXrmDfUCfyUugujFBfIBnGw1xK2PskE4a_K_tw5P3W0djqQMDA-3fkYw&mmp_pid=an_11393951005&uls_trackid=55m35gvq02e3&utm_campaign=id_jYWPYTuivn&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewyxixp6eshz"
   },
   {
     id: "Affiliate",
@@ -5346,7 +5346,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Pet Shop",
     subDesc: "Industri",
     image: "/img/Partner2/Tutup Botol Plastik Warna Warni Montessori Belajar Warna Anak.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://shopee.co.id/product/117054416/49802836257?affiliate_seller_voucher_token=8bCnE5QAnJjCkBMriQqy54zfvbTx2ykm465PVjKRwf&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAzV6uL_lQnMN5ZfAZ9_lYBdHyDgc9W237QkphgTzxFf-XQHpUE-c2Jbzf8nKK6ujEi0QEKI-1HJhMtQNrsfFZuhpNxydaTUX8n36qmhNkXxPU40MxSU61pDuJjkcQ__hUE1X6YzFCu--ePG8LbEeV6bbHg-N9CFdmDsvhk1s3doi5VZeDO37IZQ8FHmYmxsClGmcA&mmp_pid=an_11393951005&uls_trackid=55m35ekh00pk&utm_campaign=id_xbSEZmpDmZ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ewyxh1ac4co2"
   },
   {
     id: "Affiliate",
