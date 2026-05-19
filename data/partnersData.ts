@@ -231,9 +231,9 @@ export const partnerItems: Partner[] = [
   {
     id: "588",
     name: "588",
-    desc: "Pupuk Organik Cair Durian Cepat Berbuah Lebat Tidak Rontok Bunga Booster Durian Montong Musaking 1L",
+    desc: "Pupuk Buah Agar Cepat Berbuah Queen Tonic 1000ML Memicu 7X Lebih Cepat Pembuahan",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Pupuk Organik Cair Durian Cepat Berbuah Lebat Tidak Rontok Bunga Booster Durian Montong Musaking 1L.jpg",
+    image: "/img/Partner2/Pupuk Buah Agar Cepat Berbuah Queen Tonic 1000ML Memicu 7X Lebih Cepat Pembuahan.jpg",
     link: "https://shopee.co.id/product/1583605832/42658774147?affiliate_seller_voucher_token=8bCnE5QAnJ69eEjX2JJ2GKN5i1eMoqhaC1dDAScwqQ&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAwjNp21s4X4JhjipovVEZ7lzAiZrjmpx-SGn8bQ1bwixgFIiFznEJSeKaSLrcUgojPRDBrO3QgRbY2KCIXsSe7LCMszEQJoGJ9_JPTLvsgZy5qYzlN43nE8hZXj0MV2vZbHDX8A98UWbTNmhGniHgoJCW9nU1qc7BKSmSbyiaeimuPgCJtoxDIRE0pJ99iHHrXXqOuT&mmp_pid=an_11393951005&uls_trackid=55mbqu9100ib&utm_campaign=id_KQIjJblwxr&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ex6824w3zgt7"
   }, 
   {
