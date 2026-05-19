@@ -205,6 +205,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "591",
+    name: "591",
+    desc: "Pupuk Organik Cair Durian Cepat Berbuah Lebat Tidak Rontok Bunga Booster Durian Montong Musaking 1L",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pupuk Organik Cair Durian Cepat Berbuah Lebat Tidak Rontok Bunga Booster Durian Montong Musaking 1L.jpg",
+    link: "https://shopee.co.id/product/81482458/41051854999?affiliate_seller_voucher_token=8bCnE5QAnHzjn9iLs4PwqRCArfBhzVFc5dyzTzgwH4&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAxcFj-QZtSo8AUxRBNKWFHLo0nfOxY6UxgfKskjBEehbZv-ZYjPu0iCci7RSGfYus9JoLTJmYyfO2Sv3mxe32rV-JFOo1UOiBIUt4mArfmRTmH-bGTPdRSLv6IWjQbQeVi-vIpB3uTfsqlC8_R26_zp-7gqj2qjnAKbTj96abxvA_H2GyNMzNi4eXIMrw0nETg&mmp_pid=an_11393951005&uls_trackid=55mbrb9301j1&utm_campaign=id_G56OSonVSZ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ex68crdq5b8c"
+  }, 
+  {
+    id: "590",
+    name: "590",
+    desc: "Pupuk Booster Cabai Rawit Plus Biofungisida",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pupuk Booster Cabai Rawit Plus Biofungisida.jpg",
+    link: "https://shopee.co.id/product/81482458/25543107379?affiliate_seller_voucher_token=8bCnE5QAmVgnVqZ8j8uC3eV5G8SZLi6fgtCXkbxzDK&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAzycsrulJzt79abs3n0AMUZDxie6DxPHBeSILWZktZic_dYSfjmMAYLhpiDeIG9Zgmy3xAXpuEn9cAbZQ10RAe1FmeB2eyW03gtAT5F1sIDVcRF-tzpUwrDOrrsVCZ5YXLpmUNYCbeCiw2MVazMfO3vG6csWBvyImsB1gRGq5pFbBUuum3SEaCPzb-OwkVu5KI&mmp_pid=an_11393951005&uls_trackid=55mbr5j900bm&utm_campaign=id_98S55OM6b1&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ex6884fagz4f"
+  }, 
+  {
+    id: "589",
+    name: "589",
+    desc: "Pupuk KCL Pak Tani 5 Kg Kristal Putih - Bubuk Powder Asli Kemasan Pabrik",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pupuk KCL Pak Tani 5 Kg Kristal Putih - Bubuk Powder Asli Kemasan Pabrik.jpg",
+    link: "https://shopee.co.id/product/72098572/28526236829?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAxoFjaMW_n37QQ58cb1e9pz6AqBJGJ1xAVmtlffkeGro_XWOGPVjnxvNx1fCsNuWIh2I0TRGDFIWxIEmZXjXQrlXCuU627v4KspHWvONdsk4i6gO533rsD98yQw8shoqTVo2nne-Tq8kCn7_Vwgl9gs6sqIf8torEnvMxuwqiAYN31c_2z5-DRQSlPhr_B1hps&mmp_pid=an_11393951005&uls_trackid=55mbr20u00iu&utm_campaign=id_11vX9m5IDZn&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ex68574qq575"
+  }, 
+  {
+    id: "588",
+    name: "588",
+    desc: "Pupuk Organik Cair Durian Cepat Berbuah Lebat Tidak Rontok Bunga Booster Durian Montong Musaking 1L",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pupuk Organik Cair Durian Cepat Berbuah Lebat Tidak Rontok Bunga Booster Durian Montong Musaking 1L.jpg",
+    link: "https://shopee.co.id/product/1583605832/42658774147?affiliate_seller_voucher_token=8bCnE5QAnJ69eEjX2JJ2GKN5i1eMoqhaC1dDAScwqQ&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAwjNp21s4X4JhjipovVEZ7lzAiZrjmpx-SGn8bQ1bwixgFIiFznEJSeKaSLrcUgojPRDBrO3QgRbY2KCIXsSe7LCMszEQJoGJ9_JPTLvsgZy5qYzlN43nE8hZXj0MV2vZbHDX8A98UWbTNmhGniHgoJCW9nU1qc7BKSmSbyiaeimuPgCJtoxDIRE0pJ99iHHrXXqOuT&mmp_pid=an_11393951005&uls_trackid=55mbqu9100ib&utm_campaign=id_KQIjJblwxr&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ex6824w3zgt7"
+  }, 
+  {
     id: "587",
     name: "587",
     desc: "ULTRADAP Pak Tani 1KG - Pupuk Pemicu Akar & Bunga",
