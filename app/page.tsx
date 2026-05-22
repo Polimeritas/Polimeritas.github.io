@@ -3,6 +3,8 @@ import Hero from "@/components/home/Hero";
 import History from "@/components/home/History";
 import OurProjects from "@/components/home/OurProjects";
 import Achievments from "@/components/home/Achievments";
+import HomeEdu from "@/components/home/HomeEdu";
+import HomePart from "@/components/home/HomePart";
 import Testimonials from "@/components/home/Testimonials";
 import Footer from "@/components/layout/Footer";
 import FloatingWidgets from "@/components/common/FloatingWidgets";
@@ -41,6 +43,8 @@ export default function Home() {
       <Hero />
       <History />
       <Achievments />
+      <HomeEdu />
+      <HomePart />
       <OurProjects />
       <Testimonials />
       <Footer />
