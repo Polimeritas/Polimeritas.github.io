@@ -147,7 +147,7 @@ const Testimonials = () => {
         },
             {
             id: 23,
-            name: "Suksma S",
+            name: "Suksma Sotya Paramita",
             role: "Pekerja",
             image: "/img/Partner2/Suksma S.jpg",
             quote: "Senang bisa menjadi volunteer polimeritas.",
