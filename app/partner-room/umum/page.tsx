@@ -19,7 +19,7 @@ export default function PartnerUmumPage() {
             <Header />
             <PageHeader title="Partner Room - Umum" activePage="Partner Room" />
             
-            <PartnerCarousel data={carouselItems} />
+            <PartnerCarousel />
             <PartnerList data={partnerItems} />
 
             <Footer />
