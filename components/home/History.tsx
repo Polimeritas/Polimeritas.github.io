@@ -35,7 +35,20 @@ const History = () => {
                         Polimer sebenarnya sudah ada dan digunakan manusia sejak berabad-abad yang lalu.
                         Polimer-polimer yang sudah digunakan itu adalah jenis polimer alam seperti selulosa,
                         pati, protein, wol, dan karet. Istilah polimer pertama kali digunakan oleh kimiawan
-                        dari Swedia, Berzelius (1833).
+                        dari Swedia, Berzelius (1833). Dilanjutkan oleh Charles Goodyear (1839) dalam perkembangan
+                        Vulkanisasi Karet. Lalu, Christian Friedrich Schönbein (1846) mereaksikan selulosa dengan asam nitrat 
+                        untuk menciptakan plastik buatan manusia pertama dan Leo Hendrik (1907) Baekeland menciptakan Bakelit, 
+                        resin fenol-formaldehida yang menjadi polimer sintetik pertama di dunia. Penemuan ini membuka jalan 
+                        bagi era plastik modern.
+                        
+                        Dengan perkembangan zaman dan semakin majunya polimer hadirlah komunitas polimeritas di indonesia
+                        yang bernama Polimeritas. Polimeritas adalah suatu komunitas yang bergerak di bidang polymer sains dan 
+                        teknologi dari hulu hingga produk jadi. Polimeritas berdiri pada tahun 2018 yang awal mulanya merupakan 
+                        bentuk dari pengabdian masyarakat. Lalu, pada tanggal 10 Januari 2019, Polimeritas mulai aktif sebagai 
+                        suatu komunitas. Polimeritas bekerjasama memajukan masyarakat yang ahli, produktif, dan inovatif 
+                        menyongsong Indonesia yang lebih baik di bidang polimer. Polimeritas juga pernah masuk nominasi relawan 
+                        terpilih Indorelawan 2019. Polimeritas dibentuk dan dipimpin oleh Jevi Zalesti dan sekarang memiliki 
+                        anggota terstruktur.
                     </p>
 
                     {/* Video Play Area */}
