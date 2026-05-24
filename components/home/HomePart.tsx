@@ -36,7 +36,7 @@ const HomePartners = () => {
                 {/* HEADER SECTION */}
                 <div className="flex flex-col items-center justify-center mb-14">
                     <h2 className="text-3xl lg:text-4xl font-bold text-secondary mb-4 text-center">
-                        Our Official Partners
+                        Our Collaboration Partners
                     </h2>
                     <div className="w-full max-w-[400px] h-1 bg-secondary rounded-full"></div>
                 </div>
