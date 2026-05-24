@@ -19,7 +19,7 @@ export default function PartnerIndustriPage() {
             <Header />
             <PageHeader title="Partner Room - Industri" activePage="Partner Room" />
             
-            <PartnerCarousel data={carouselItems} />
+            <PartnerCarousel />
             <PartnerList data={partnerIndustriItems} />
 
             <Footer />

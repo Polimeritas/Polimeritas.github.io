@@ -18,9 +18,9 @@ export default function PartnerBookStorePage() {
         <main className="min-h-screen bg-white">
             <Header />
             <PageHeader title="Partner Room - Book Store" activePage="Partner Room" />
-            
-            <PartnerCarousel data={carouselItems} />
-            
+
+            <PartnerCarousel />
+
             <PartnerList data={partnerBookItems} />
 
             <Footer />
