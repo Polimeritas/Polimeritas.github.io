@@ -62,13 +62,6 @@ const Testimonials = () => {
             quote: "Orangnya ternyata seru-seru, semakin sukses dan besar kedepannya.",
         },
         {
-            id: 8,
-            name: "Amelia Naomi Agustina",
-            role: "Pekerja",
-            image: "/img/Partner2/anonim.jpg",
-            quote: "Semoga polimeritas semakin maju dan makin kreatif kegiatan-kegiatannya.",
-        },
-        {
             id: 9,
             name: "Nimas Putri Ayuningtyas",
             role: "Pekerja",
@@ -89,26 +82,12 @@ const Testimonials = () => {
             image: "/img/Partner2/Mujtahidatul Ilmi.jpg",
             quote: "Semoga menjadi komunitas yang berkontribusi besar bagi Indonesia dalam hal menjaga polimer masa depan.",
         },
-        {
-            id: 12,
-            name: "Lily",
-            role: "Pekerja",
-            image: "/img/Partner2/anonim.jpg",
-            quote: "Semoga polimeritas semakin maju dan sukses kedepannya. Semoga juga polimeritas selalu aktif menyebarkan info-info mengenai polimer.",
-        },
             {
             id: 13,
             name: "I Wayan Suarka Rijasa",
             role: "Pekerja",
             image: "/img/Partner2/wayanroy.jpg",
             quote: "Terimakasih saya ucapkan kepada founder dan rekan rekan semua atas kerjasama dan bimbingan serta pengalaman berharganya di polimeritas.",
-        },
-            {
-            id: 14,
-            name: "Eka Ghita Nur Amanah",
-            role: "Pekerja",
-            image: "/img/Partner2/anonim.jpg",
-            quote: "Semoga kedepannya polimeritas lebih baik dan bisa dikenal oleh banyak orang.",
         },
             {
             id: 15,
@@ -158,6 +137,27 @@ const Testimonials = () => {
             role: "Pekerja",
             image: "/img/Partner2/Sharon Susanto.jpg",
             quote: "Semoga polimeritas semakin bermanfaat dan sukses selalu.",
+        },
+            {
+            id: 8,
+            name: "Amelia Naomi Agustina",
+            role: "Pekerja",
+            image: "/img/Partner2/anonim.jpg",
+            quote: "Semoga polimeritas semakin maju dan makin kreatif kegiatan-kegiatannya.",
+        },
+            {
+            id: 12,
+            name: "Lily",
+            role: "Pekerja",
+            image: "/img/Partner2/anonim.jpg",
+            quote: "Semoga polimeritas semakin maju dan sukses kedepannya. Semoga juga polimeritas selalu aktif menyebarkan info-info mengenai polimer.",
+        },
+            {
+            id: 14,
+            name: "Eka Ghita Nur Amanah",
+            role: "Pekerja",
+            image: "/img/Partner2/anonim.jpg",
+            quote: "Semoga kedepannya polimeritas lebih baik dan bisa dikenal oleh banyak orang.",
         },
     ];
 
