@@ -77,9 +77,9 @@ const Testimonials = () => {
         },
         {
             id: 10,
-            name: "Fanlent",
-            role: "Pelajar",
-            image: "/img/Partner2/anonim.jpg",
+            name: "Fanlent Wellischiv Vehlinzsky Nainggolan",
+            role: "Pekerja",
+            image: "/img/Partner2/Fanlent Wellischiv Vehlinzsky Nainggolan.jpg",
             quote: "Saya tertarik mempelajari dunia polimer dan ingin masuk ke jurusan kuliah Teknik Material yang nantinya akan mempelajari tentang ini. Saya juga ingin menyebarkan ilmu yang nantinya saya dapatkan di Polimeritas ke masyarakat diluar sana.",
         },
         {
