@@ -96,6 +96,13 @@ const Testimonials = () => {
             image: "/img/Partner2/anonim.jpg",
             quote: "Semoga polimeritas semakin maju dan sukses kedepannya. Semoga juga polimeritas selalu aktif menyebarkan info-info mengenai polimer.",
         },
+            {
+            id: 12,
+            name: "Wayan Roy",
+            role: "Pekerja",
+            image: "/img/Partner2/wayanroy.jpg",
+            quote: "xxxxxxxx.",
+        },
     ];
 
     return (
