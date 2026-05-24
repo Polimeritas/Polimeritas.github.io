@@ -51,7 +51,7 @@ export interface Article {
     },
     {
       id: 7,
-      title: "PENGARUH PEMBERIAN DAUN KETAPANG (Terminalia catappa) TERHADAP PERTUMBUHAN DAN TINGKAT KELANGSUNGAN HIDUP BENIH IKAN NILA (Oreochromis niloticus)",
+      title: "Pengaruh Pemberian Daun Ketapang (Terminalia catappa) terhadap Pertumbuhan dan Tingkat Kelangsungan Hidup Benih Ikan Nila (Oreochromis niloticus)",
       desc: "Bangka belitung merupakan daerah pesisir, Habitat tumbuh paling optimal pohon ketapang adalah lingkungan pesisir pantai. Oleh sebab itu tanaman ini juga biasa disebut sebagai tumbuhan pinggir pantai atau ketapang laut. Adapun manfaat Ketapang dapat kita simak info berikut ini!",
       image: "/img/education-photo/daun ketapang bangka belitung.png",
       link: "https://www.instagram.com/p/C7k1H6Dhbc6/?igsh=MTAyaXRhOXF5ZW44dw==",
