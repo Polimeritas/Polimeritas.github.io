@@ -72,7 +72,7 @@ const Testimonials = () => {
             id: 9,
             name: "Nimas Putri Ayuningtyas",
             role: "Pekerja",
-            image: "/img/Partner2/anonim.jpg",
+            image: "/img/Partner2/Nimas Putri Ayuningtyas.jpg",
             quote: "Terimakasih ya teman-teman. Sudah nemenin Nimas sebagai relawan polimed. Disini aku udah banyak dapat ilmu dan teman. Semoga next time kita bisa ketemu lagi ya. Thank u, see u later.",
         },
         {
