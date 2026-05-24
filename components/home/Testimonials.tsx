@@ -84,9 +84,9 @@ const Testimonials = () => {
         },
         {
             id: 11,
-            name: "Mujtahidatul",
+            name: "Mujtahidatul Ilmi Fajriyah",
             role: "Guru",
-            image: "/img/Partner2/anonim.jpg",
+            image: "/img/Partner2/Mujtahidatul Ilmi.jpg",
             quote: "Semoga menjadi komunitas yang berkontribusi besar bagi Indonesia dalam hal menjaga polimer masa depan.",
         },
         {
