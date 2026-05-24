@@ -27,7 +27,7 @@ const History = () => {
                 <div className="w-full lg:w-7/12 lg:pl-10">
                     <SectionTitle
                         subtitle="History"
-                        title="Polimer"
+                        title="Polimer & Komunitas Polimeritas"
                         className="mb-8"
                     />
 
