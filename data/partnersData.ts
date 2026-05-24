@@ -205,6 +205,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
   {
+    id: "595",
+    name: "595",
+    desc: "Kapur Dolomit Pertanian Asli 1kg Untuk Tanah",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kapur Dolomit Pertanian Asli 1kg Untuk Tanah.jpg",
+    link: "https://shopee.co.id/product/90604991/40107549890?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAyOgV2clkpfWp_OiX403McG5soYwf68n6NQpCwobg7VTFs4gcLLpITm5Sn12FdGRT548k5WZGPytqKJ-6Goa8Cra0HiFz4bCZ7KM7iA2hU4dvRz-s-w9aFScHvkCevzPN-C81tzLRrFp3kD-_5NEmlC_j6XWjIxFbIO0KTsXQeCejwurrwlf00pe8e4V5gWSes&mmp_pid=an_11393951005&uls_trackid=55nm41s701or&utm_campaign=id_1069kiHhoUx&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey2ufayqaq99"
+  }, 
+  {
+    id: "594",
+    name: "594",
+    desc: "Sprayer Listrik Pertanian Ransel",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sprayer Listrik Pertanian Ransel.jpg",
+    link: "https://shopee.co.id/product/1567454045/43124292613?affiliate_seller_voucher_token=8bCnE5QAnJBLKCqLDy246XLKc9JEg1tBAmW4TVdt7C&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAx2EjcYk-8_oQUeIGj2OyrAmeMPARG5DcmCH38qVozUCpnpzRnb_feBvWighFyQ0yc6SrM0iLV5i0z22PESpMTGJhtufkyfgFLMk7GTAXnvVVK40R1cRHNYXLveMX3LX8Z3dlarrEj8ebQZGl2hn_DZUwVgE0Beu5BU5K6uVITtxTQJAf85A2PvTizlyg0xD9Oi4dP8&mmp_pid=an_11393951005&uls_trackid=55nm465p01u2&utm_campaign=id_AY6kQ1lps7&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey2uitiah8fs"
+  }, 
+  {
+    id: "593",
+    name: "593",
+    desc: "Akodan 350EC 500ml - Obat Pertanian Insektisida",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Akodan 350EC 500ml - Obat Pertanian Insektisida.jpg",
+    link: "https://shopee.co.id/product/1435882343/24340015983?affiliate_seller_voucher_token=8bCnE5QAmVbTRgRU5vmik3PdafVFCvLe9U965URDL6&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAxo1BKKPAbYYaOFRM_EtwT8dj5zgKv-8ueEyMb1CES89As1dQ33nxeQ-Ie86ExBj5qbJwL2q5vH29yM7Q0w-guMWneKkQn7aKogwO0IbkSJO0fkR3rzIES2rYVAbq6KcQr3fEYHabsDTHWCJi4vKrvJWCW_QD94XR2mnj9oPlkUlivbksod0azXt176jEIOA1f-kV97&mmp_pid=an_11393951005&uls_trackid=55nm495701oa&utm_campaign=id_nuPparWyyt&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey2um9fcvbg3"
+  }, 
+  {
+    id: "592",
+    name: "592",
+    desc: "Paket Komplit Benih Sayuran 50 Jenis",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Paket Komplit Benih Sayuran 50 Jenis.jpg",
+    link: "https://shopee.co.id/product/963624050/28177803075?affiliate_seller_voucher_token=8bCnE5QAmVxZkJmG1CbjmvHwU2ZVBBUD1VKu9FNCfe&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAxIKUqNw8LXJhxcTZaFvkM7EV4TUGX9oFVTSygZ4bIflFoEfO0rfSgi8FDPKrOPRrKay8d-IeDU9ghQfZGoJDXarHidSGhnyxWnadnDTGtW8gM_9v2pXbDxCBdxsjD2gtlf6a_tYo_4zcn7P2FRS08UXoyOtPiBp1W6qvUYF_zG1RXrrJ8FgEyZyCBb5TrpZq50Rw&mmp_pid=an_11393951005&uls_trackid=55nm4c2600o9&utm_campaign=id_9ayGGDnfu3&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey2uon7kuehu"
+  }, 
+  {
     id: "591",
     name: "591",
     desc: "Pupuk Organik Cair Durian Cepat Berbuah Lebat Tidak Rontok Bunga Booster Durian Montong Musaking 1L",
