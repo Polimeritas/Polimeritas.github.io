@@ -8,22 +8,22 @@ const HomePartners = () => {
     const partnerCategories = [
         {
             id: "umum",
-            name: "Mitra Umum",
-            subDesc: "Kategori Umum",
+            name: "Umum",
+            subDesc: "Pengenalan produk polimer dan non polimer",
             image: "/Umum.jpeg",
             link: "/partner-room/umum",
         },
         {
             id: "industri",
-            name: "Mitra Industri",
-            subDesc: "Kategori Industri",
+            name: "Industri",
+            subDesc: "Pengenalan produk polimer dan sains",
             image: "/Industri.jpeg",
             link: "/partner-room/industri",
         },
         {
             id: "book-store",
-            name: "Mitra Book Store",
-            subDesc: "Kategori Book Store",
+            name: "Book Store",
+            subDesc: "Pengenalan ilmu pengetahuan polimer dan non polimer",
             image: "/BookStore.jpeg",
             link: "/partner-room/book-store",
         },
