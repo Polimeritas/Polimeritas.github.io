@@ -107,7 +107,7 @@ const Testimonials = () => {
             id: 14,
             name: "Eka Ghita Nur Amanah",
             role: "Pekerja",
-            image: "/img/Partner2/Eka Ghita Nur Amanah.jpg",
+            image: "/img/Partner2/anonim.jpg",
             quote: "Semoga kedepannya polimeritas lebih baik dan bisa dikenal oleh banyak orang.",
         },
             {
@@ -123,6 +123,41 @@ const Testimonials = () => {
             role: "Pekerja",
             image: "/img/Partner2/Nada Afifah Ramadhanti.jpg",
             quote: "Semoga bisa semakin keren, maju, dan dikenal banyak orang terkait pelestarian lingkungan.",
+        },
+            {
+            id: 17,
+            name: "Eka Samsiati Putri",
+            role: "Pekerja",
+            image: "/img/Partner2/Eka Samsiati Putri.jpg",
+            quote: "Semoga polimeritas makin sukses terus.",
+        },
+            {
+            id: 18,
+            name: "Arif Paramananda Faros",
+            role: "Pekerja",
+            image: "/img/Partner2/Arif Paramananda Faros.jpg",
+            quote: "Semoga polimeritas semakin jaya selalu.",
+        },
+            {
+            id: 19,
+            name: "Ramadhani Ichlasul Amal",
+            role: "Pekerja",
+            image: "/img/Partner2/Ramadhani Ichlasul Amal.jpg",
+            quote: "Semoga polimeritas semakin terdepan dan maju.",
+        },
+            {
+            id: 20,
+            name: "Basmanto Syaharuddin",
+            role: "Pekerja",
+            image: "/img/Partner2/Basmanto Syaharuddin.jpg",
+            quote: "Semoga polimeritas semakin mengedukasi masyarakat.",
+        },
+            {
+            id: 21,
+            name: "Sharon Susanto",
+            role: "Pekerja",
+            image: "/img/Partner2/Sharon Susanto.jpg",
+            quote: "Semoga polimeritas semakin bermanfaat dan sukses selalu.",
         },
     ];
 
