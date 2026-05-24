@@ -98,10 +98,10 @@ const Testimonials = () => {
         },
             {
             id: 12,
-            name: "Wayan Roy",
+            name: "I Wayan Suarka Rijasa",
             role: "Pekerja",
             image: "/img/Partner2/wayanroy.jpg",
-            quote: "xxxxxxxx.",
+            quote: "Terimakasih saya ucapkan kepada founder dan rekan rekan semua atas kerjasama dan bimbingan serta pengalaman berharganya di polimeritas.",
         },
     ];
 
