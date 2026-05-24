@@ -42,7 +42,7 @@ const Testimonials = () => {
         },
         {
             id: 5,
-            name: "Arfiana",
+            name: "Arfiana Maulina Fatimah",
             role: "Mahasiswa",
             image: "/img/arfiana.png",
             quote: "Semoga polimeritas lebih baik lagi dan lebih meluas jaringannya.",
@@ -70,8 +70,8 @@ const Testimonials = () => {
         },
         {
             id: 9,
-            name: "Nimas",
-            role: "Pelajar",
+            name: "Nimas Putri Ayuningtyas",
+            role: "Pekerja",
             image: "/img/Partner2/anonim.jpg",
             quote: "Terimakasih ya teman-teman. Sudah nemenin Nimas sebagai relawan polimed. Disini aku udah banyak dapat ilmu dan teman. Semoga next time kita bisa ketemu lagi ya. Thank u, see u later.",
         },
@@ -97,11 +97,32 @@ const Testimonials = () => {
             quote: "Semoga polimeritas semakin maju dan sukses kedepannya. Semoga juga polimeritas selalu aktif menyebarkan info-info mengenai polimer.",
         },
             {
-            id: 12,
+            id: 13,
             name: "I Wayan Suarka Rijasa",
             role: "Pekerja",
             image: "/img/Partner2/wayanroy.jpg",
             quote: "Terimakasih saya ucapkan kepada founder dan rekan rekan semua atas kerjasama dan bimbingan serta pengalaman berharganya di polimeritas.",
+        },
+            {
+            id: 14,
+            name: "Eka Ghita Nur Amanah",
+            role: "Pekerja",
+            image: "/img/Partner2/Eka Ghita Nur Amanah.jpg",
+            quote: "Semoga kedepannya polimeritas lebih baik dan bisa dikenal oleh banyak orang.",
+        },
+            {
+            id: 15,
+            name: "Irma Latifah",
+            role: "Pekerja",
+            image: "/img/Partner2/Irma Latifah.jpg",
+            quote: "Senang sekali bisa bergabung di Polimeritas. Komunitas yang sudah seperti keluarga sendiri. Pesan saya untuk anggota Polimeritas nanti adalah jangan putus hubungan, terus jalin rantai kekeluargaan setiap hari. Terima kasih.",
+        },
+            {
+            id: 16,
+            name: "Nada Afifah Ramadhanti",
+            role: "Pekerja",
+            image: "/img/Partner2/Nada Afifah Ramadhanti.jpg",
+            quote: "Semoga bisa semakin keren, maju, dan dikenal banyak orang terkait pelestarian lingkungan.",
         },
     ];
 
