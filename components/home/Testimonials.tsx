@@ -58,7 +58,7 @@ const Testimonials = () => {
             id: 7,
             name: "Merlinda Angela Sulistio",
             role: "Pekerja",
-            image: "/img/Partner2/anonim.jpg",
+            image: "/img/Partner2/Merlinda Angela.jpg",
             quote: "Orangnya ternyata seru-seru, semakin sukses dan besar kedepannya.",
         },
         {
