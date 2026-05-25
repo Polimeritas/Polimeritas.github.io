@@ -205,6 +205,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
  {
+    id: "607",
+    name: "607",
+    desc: "Gula Merah Koin–1Kg",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Gula Merah Koin–1Kg.jpg",
+    link: "https://shopee.co.id/product/52869792/48804607537?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAwIW1dd7hR3_1xIodjqKHXPZBUHnz6Jm3c-itMqe__VJLvwT3l3G7b8QO8RYWs2dO8Gbjcfu9fsOytB8qrlnUPqKWFeS9NfvDq-Jgh4tHb1Wo7kZRcGCBIL6AYxiGc6VwwSXtxPJEshhSP2hQEduUKK2g6GJZPNIlpPqhz3u8WmDMXS-VFs_WQX6AarHKVGqAo&mmp_pid=an_11393951005&uls_trackid=55ntserg00u2&utm_campaign=id_XAeXCMNC11&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8gmdpr1xsy"
+ },
+ {
+    id: "606",
+    name: "606",
+    desc: "(JATIM)Kripik Usus Ayam Rempah Gurih renyah Asli UMKM LOKAL",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/(JATIM)Kripik Usus Ayam Rempah Gurih renyah Asli UMKM LOKAL.jpg",
+    link: "https://shopee.co.id/product/8363315/16250213819?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkgAAAAzk2FWJtGWccS1pQawqIXZI2yqtDnPuzBUJxCdyVubtpeweS3jzd2DigCSExl9zwaNDgeaoGr2eaXDXDMvFeGD6t8qWhT4WDLz09a2nI5TQsmJQEQK7xbBDwRjIhA2aH5IrY05R78civqwCLvkM99p9RxZ-SbxtkGLwXm6ZMhk993aKtJBGX2WTQ2l45ir3&mmp_pid=an_11393951005&uls_trackid=55ntsjhc01u2&utm_campaign=id_10eBhMeu3SZ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8gq7xgqj5y"
+ },
+ {
+    id: "605",
+    name: "605",
+    desc: "Gula Semut 1kg Halus Kelapa Murni",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Gula Semut 1kg Halus Kelapa Murni.jpg",
+    link: "https://shopee.co.id/product/500299486/56359288703?affiliate_seller_voucher_token=8bCnE5QAnhnqjfs7x6FmpybT1c376mZ4z8SY4Q6kYC&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAzudNg8IHYwFnQBHn_sTUIxqHkE8iw1oz8LQVsdP4wlTYXQi65mWUPK8e6EUYqc9bB64mRGG7PlqqwzqaNSfNgOOs9I5tcpiikS1qaL6_tiCa0uSf8iP-HaWh_We1ZuRxHFkVt12NFLNdydx4Vy8IrzX9WSpSxoAWcNfJPVuetQ2hID49Forseu9slWv662mtse2Q&mmp_pid=an_11393951005&uls_trackid=55ntspp601pe&utm_campaign=id_IYETAQIUbv&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8gvbin2gqu"
+ },
+ {
+    id: "604",
+    name: "604",
+    desc: "STIK TONGKOL SUPER BESAR 1BALL",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/STIK TONGKOL SUPER BESAR 1BALL.jpg",
+    link: "https://shopee.co.id/product/243189833/17799066633?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAyYXTw2IRZALsk6d-W2ERLKhEy6cVvJE_39Tl_OZso8KD7vVakPhAvk-Gz0EFAvrNTil5rXBWzdxQpxL_i0SyXwbMgvdfYd4X3zTzUuzSXFnsLAmGl9k0QEKxReU8iOKdP6v0aAhpXqV1aTlLGT-CSUGO9zMjpkUs0cH3fLTdaSAbxl9aaZP5zhhs-zMf11fo6dbw&mmp_pid=an_11393951005&uls_trackid=55ntssrc01u2&utm_campaign=id_7XnXKwz5wV&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8gxttdnhhs"
+ },
+ {
     id: "603",
     name: "603",
     desc: "500 Butir Temptooth Penutup Gigi Berlubang Penambal Gigi Palsu Penambal",
