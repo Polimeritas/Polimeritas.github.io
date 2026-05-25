@@ -5255,7 +5255,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Paket Bundling Royal Care Snack Creamy Stick",
     subDesc: "Industri",
     image: "/img/Partner2/Holycatlabs Paket Bundling Royal Care Snack Creamy Stick.jpg",
-    link: "https://shopee.co.id/product/647685051/29340253714?affiliate_seller_voucher_token=8bCnE5QAmW3toe45oGpQYFbFBT12Ro94qveytxE3Fm&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAyczq2Ht0xWj5eOLMeB5Y5LW9z0j75MPw6tZNrXV0d6LovXkXls3HybWy1Fw6LJfTrgPYyVWzhStv80lZbVDvDxCUHFyCYOAabDb6y-6V77JNb_Z2HmLeJXicZhFF2c7TOfGB0Un3QT4aLHu464Co4DSIpbiZbdw7EbfwYcMOUfMNbriP_gIcQZgQm0mGl-OQVrJg&mmp_pid=an_11393951005&uls_trackid=55ndceea00op&utm_campaign=id_jX37QBaAZD&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=exvi8rh32o2x"
+    link: "https://www.tiktok.com/@booyenku/video/7643390367047355668"
   },
   {
     id: "industri-petshop",
@@ -5263,8 +5263,8 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Creamy Stick",
     subDesc: "Industri",
     image: "/img/Partner2/Holycats - Creamy Stick.jpg",
-    link: "https://shopee.co.id/product/97225076/43570900124?affiliate_seller_voucher_token=8bCnE5QAnJBR8UwZqcSjFERXVydnYcwWFEaSU8sG2s&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAy4lPIqeayRVMQTYGdpWXSg5ujKeBP_h83xuQ4exLVpPe818rpZuP613DmK5IRSvWcmEIChn48Y1qAx0yfjfe1ngWOK5jiCj311umTlaXZGBnQofDCa2-JLDsUBXZTjvsx0TPnSwumxP3OaAc6ryk9zg0p9SXNWWQZiDJXVf4bFmpDrM_0Q1xFqL_bhTCWhVcs&mmp_pid=an_11393951005&uls_trackid=55ndjsoc0imj&utm_campaign=id_104RaWGXmnv&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=exvoyn8w4fhh"
-    },
+    link: "https://www.tiktok.com/@booyenku/video/7643293947711851796"
+  },
   {
     id: "industri-petshop",
     name: "Anima Companion",
