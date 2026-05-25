@@ -205,6 +205,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
  {
+    id: "603",
+    name: "603",
+    desc: "500 Butir Temptooth Penutup Gigi Berlubang Penambal Gigi Palsu Penambal",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/500 Butir Temptooth Penutup Gigi Berlubang Penambal Gigi Palsu Penambal.jpg",
+    link: "https://shopee.co.id/product/322414702/26969813310?affiliate_seller_voucher_token=8bCnE5QAmVn9yWBGjRrtfPk1Zjo2rHi4EHG9KuqL17&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAzypZUy8yQ_g5ZtYzOmVP4wp5veqtbVX5CygC7m9uno6In7NXCccYHphFUh_WAqPne5Dx28S5eR8EyONOjBRe76i4VegpXckUXDFTrP6lY3GfGfPJ_25AjwIz0uc7klWIFRI5RB1sfAhwO7EMO0mdVU-J0GLKKpaUNsDEHMTV2fhCizUZyTj3GlVoK0U0zgPP8cWg&mmp_pid=an_11393951005&uls_trackid=55ntr7bj03u2&utm_campaign=id_CP4i7vGQ2Z&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8fo3fu14s2"
+ },
+ {
+    id: "602",
+    name: "602",
+    desc: "VENNER WHITE Gigi palsu instan premium sepasang atas dan bawah 100% ORIGINAL",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/VENNER WHITE Gigi palsu instan premium sepasang atas dan bawah 100% ORIGINAL.jpg",
+    link: "https://shopee.co.id/product/1129063629/24155692180?affiliate_seller_voucher_token=8bCnE5QAmVbR2zemwkZyxck88RUsTUbogXVgpLWG7R&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAwcbJdtwK1QVQmNwiiDQHbIuykqXzvriHU6CkzXjLhEfku61DaJRcPE9-FRWQaUIPFQu4jQ-zG6TzgAPSRKOUWoXFJwQdWf2WJI0AwWaQUBFJwoz8jkFMrIUdpnUeDJ1DgYnK7nWloyqCYZKhOK1JDcF1KkqYhdfGI_MHifv1hO51j90DtBTJU8qvZ4qU8qwBj72SHb&mmp_pid=an_11393951005&uls_trackid=55ntrat303u2&utm_campaign=id_WaEy8U53Xr&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8fqz69j4sh"
+ },
+ {
+    id: "601",
+    name: "601",
+    desc: "Gigi Palsu Lepas Pasang Perfec Smile Veneer Perawatan Gigi Tiruan",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Gigi Palsu Lepas Pasang Perfec Smile Veneer Perawatan Gigi Tiruan.jpg",
+    link: "https://shopee.co.id/product/322414702/29585163578?affiliate_seller_voucher_token=8bCnE5QAmW3wDh9eJmk5V41Sq7QHpXCWNKPCJFsy6g&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAy6UyjtcLfHaTDU2zXa55Rq253-4UylKuUqBZrSCdsUp38s2-SqINcMLpJHHIy_CxjcDO09uRxPOIYGTUV05za5Wy2EvHDsPQv41g7qKckZ30IrfzB1w9U2md8q279hsUU0YMjwhTNlPUtUgeFb-eOfRfvQ72D5px-_5iwgwzUZkHk9AbIhZVZC82uwK9GENBF9uA&mmp_pid=an_11393951005&uls_trackid=55ntrfga02mj&utm_campaign=id_Tm0rry7k8d&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8fur4q7go9"
+ },
+ {
+    id: "600",
+    name: "600",
+    desc: "Tesco benang gigi kotak dengan pembersih perawatan polimer flosser",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tesco benang gigi kotak dengan pembersih perawatan polimer flosser.jpg",
+    link: "https://shopee.co.id/product/1418801906/29720389615?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAwX8qAKNyAKzS6CS9NALPTy_Dtbd204XyUytLdf2_xt9nD3rKdLOEIzvxsvs2mN-PmjU9Jh5kPmeVVK0d16q3SLWEp9WO4M8A13M7pLhGJaFCOw6rEGT99OW1l4bn7hRpQ9iaHMPClRMVNPcqetfVeNvHAwsuo43-1tqY8qxl-i7h8kFlnQIe6I5vIIASBkqDE8MHjb&mmp_pid=an_11393951005&uls_trackid=55ntrkqs02pe&utm_campaign=id_J9vwRlD26J&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8fz4azyh3d"
+ },
+ {
     id: "599",
     name: "599",
     desc: "INSTAN MOJOKERTO TELUR PUYUH 1 KG",
