@@ -204,6 +204,38 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/Handmade Rajutan.jpg",
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
+ {
+    id: "599",
+    name: "599",
+    desc: "INSTAN MOJOKERTO TELUR PUYUH 1 KG",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/INSTAN MOJOKERTO TELUR PUYUH 1 KG.jpg",
+    link: "https://shopee.co.id/product/233141538/54659328167?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAyq6J0VvKuOZKAjOY_AxRM5QWasHqEYck68EA7YILFWCnguhIyXpBmOYNOfaglDoUnVS3USGlU_PdBfV1PK5rakvVhFcFZ2vI5p9XCd-q7qBxvGOr8pEREcMbs8OlbMGUY4BurYXSANY_8aXfJTFbfQ75S_3_BNvbWSzx83X-UPmnlnKrbGWLITe9xWQA25LQj0pQ&mmp_pid=an_11393951005&uls_trackid=55nrjf1002mj&utm_campaign=id_9YFuMelCLX&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey6tfbgytb9h"
+ },
+ {
+    id: "598",
+    name: "598",
+    desc: "HarvestMoon Telur Ayam Kampung Per Tray",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HarvestMoon Telur Ayam Kampung Per Tray.jpg",
+    link: "https://shopee.co.id/product/315394148/5055636388?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAz_jtZs844JI0RaaW-aDZf1BB2tNiHaBrdqxuOu9MBUlhLLzpN9C71PKElGgN2C3mLQdcQRlJMZpg9-PJKF-fR5-VsbnhSpbvaosQePx3X4Xxp7AqDIAzva5ZRPtkgsIo9YZNiTOXt-ZC2ZcRSibr7MS54AW8nuOH_zIGI15Snwj2rymnq8wuz86uWlzAJE7PA&mmp_pid=an_11393951005&uls_trackid=55nrji9h01u2&utm_campaign=id_N2UH6SfAVD&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey6thzb8jb3n"
+ },
+ {
+    id: "597",
+    name: "597",
+    desc: "cabe cengek kering teja merah 250gram",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/cabe cengek kering teja merah 250gram.jpg",
+    link: "https://shopee.co.id/product/1135323627/25491027125?affiliate_seller_voucher_token=8bCnE5QAmVgmKiEJWXtMUToWAuGsu6GDiSh8nqjF92&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAxmZrv8bNORTMLmWGqyy4YO9tPIxMhc1Er-3LESKlihJ-iJ8RfKt39Exs4AyFD3NbG0KxoX2ZYN7uOt2d5QlHyPt2XeLd6qWxBb3e3OQuo_k5T6hFEvNVTUjP3lcB0_4ySM68eVPqQYoVOPJRdqjnPyZYG7bn4r3YC-OdyVHD8T4clvG8oM-pb_G9fXbMp4RmUcsolE&mmp_pid=an_11393951005&uls_trackid=55nrjm5500oa&utm_campaign=id_xXhoJUQFup&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey6tm5pm3po9"
+ },
+ {
+    id: "596",
+    name: "596",
+    desc: "Cabe Rawit Merah 1kg",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Cabe Rawit Merah 1kg.jpg",
+    link: "https://shopee.co.id/product/121857586/27213588359?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAyONjiwgAdahKWnXJr-LcsGhHnhRSiCJDQGSxnFC3GCnkBpPTymJZ1nsaIoDY-Bk9F3M-LhfjSgFQfJRu3PUqWM2pA_TZsZh5uv-g0VZ56rmk-7dnRqo3kcRjQsCFsOfNRTj5xBtQ7utL_G2e1MyhxybpJIPINbWexWZ3Ydm4qJx_vwSd2ahXOLP_xGUkuUN6WgTA&mmp_pid=an_11393951005&uls_trackid=55nrjot600p4&utm_campaign=id_VEcKoaggRj&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey6toe7we39y"
+ },
   {
     id: "595",
     name: "595",
