@@ -273,7 +273,7 @@ export const partnerItems: Partner[] = [
     name: "603",
     desc: "500 Butir Temptooth Penutup Gigi Berlubang Penambal Gigi Palsu Penambal",
     subDesc: "Indonesia",
-    image: "/img/Partner2/500 Butir Temptooth Penutup Gigi Berlubang Penambal Gigi Palsu Penambal.jpg",
+    image: "/img/Partner2/500 Butir Temptooth Penutup Gigi Berlubang Penambal Gigi Palsu Penambal .jpg",
     link: "https://shopee.co.id/product/322414702/26969813310?affiliate_seller_voucher_token=8bCnE5QAmVn9yWBGjRrtfPk1Zjo2rHi4EHG9KuqL17&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAzypZUy8yQ_g5ZtYzOmVP4wp5veqtbVX5CygC7m9uno6In7NXCccYHphFUh_WAqPne5Dx28S5eR8EyONOjBRe76i4VegpXckUXDFTrP6lY3GfGfPJ_25AjwIz0uc7klWIFRI5RB1sfAhwO7EMO0mdVU-J0GLKKpaUNsDEHMTV2fhCizUZyTj3GlVoK0U0zgPP8cWg&mmp_pid=an_11393951005&uls_trackid=55ntr7bj03u2&utm_campaign=id_CP4i7vGQ2Z&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8fo3fu14s2"
  },
  {
