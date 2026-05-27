@@ -205,6 +205,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
  {
+    id: "611",
+    name: "611",
+    desc: "Kericu Cumi Snack Kemasan 250gram",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kericu Cumi Snack Kemasan 250gram.jpg",
+    link: "https://shopee.co.id/product/230495685/5441855832?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAyqkFO68Prs8z_9DGjb8J9HaYOWLIgo_Bax0oz2PAUOEoNyJijApLqjxeyzJNRE21iWQ7RFvlheZlCiWl80vFUEFfqjUX-DiDz4SV-WxFGIS6CsDOMvWFRLMDBvOJePS9YDIodQFCRxvHbgrnn-YvBLksGwRxBvxswE6UeMHwbo8vdftEHCUBU9EPeF7CI6Vmo&mmp_pid=an_11393951005&uls_trackid=55ofl3p000vn&utm_campaign=id_Aqe3CGT48p&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eymc9gk9t8rt"
+ },
+ {
+    id: "610",
+    name: "610",
+    desc: "Kue Bangkit Sagu Bangka",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kue Bangkit Sagu Bangka.jpg",
+    link: "https://shopee.co.id/product/26876886/7784537584?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkgAAAAytYkEp0qwUfIi7cmswRhXBBzIQuXhUXkgoBmgR830_no2scAW7_aacAFgBNwzXgzZwA6gRzgjIMl6s8OpQUokPcqlHd-mgvcguUOiGBbORUBVeB8UuqECaU0UN8fEJImO6CrYTsMVOTPFPzSMGS9J412GhbnsqT3drldhLpMpuPV0Lnw7rW66g7EFR84BT&mmp_pid=an_11393951005&uls_trackid=55ofl20n0004&utm_campaign=id_HIvd1UOEJv&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eymc81nygyrp"
+ },
+ {
+    id: "609",
+    name: "609",
+    desc: "Lapis legit roll nanas ori khas bangka",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Lapis legit roll nanas ori khas bangka.jpg",
+    link: "https://shopee.co.id/product/164050343/2481735866?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAwFM4qGb0BSi9VwNJnOUif5rzL6W3LKucfhbsMXW5uawRB5OxkNf6gj7Tivhgnj1HkU_udHlNvglPBOhWXDVb7TjU8R-Xh7XC5QTax6ynspUUIwtCpi5pzVXlOf7IjEwTes6FWoSBCru5dn2T8kIp_BtqIKf1le4jlOpUG-hVOyXwoGLseCeZwQqiV7FESDNdo&mmp_pid=an_11393951005&uls_trackid=55ofl81n00vc&utm_campaign=id_U4HdWjXf5f&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eymccyd6g1mi"
+ },
+ {
+    id: "608",
+    name: "608",
+    desc: "Keripik Mafa Alip 200gr",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Keripik Mafa Alip 200gr.jpg",
+    link: "https://shopee.co.id/product/1700714/2293977454?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkAAAAAyDjJJm03AccxuB5-ehz6obK8zr1NYJjeckg8yzXgCntnwC7xhR94RUAlpVTx0ylbSATQwQ4nUH4_FpQdkfocKKlZnY-3iZ2YJZ2ib9XkKhfAPClRlDXyQ0MDr6kA0if5gX7_OXaf3ZHX5BiF_yiX7apZZmVcHmy9sm-W1tyLhfl8eXh8SJSNQKCMwZbA&mmp_pid=an_11393951005&uls_trackid=55ofl8hr021s&utm_campaign=id_KPPUQmkdH1&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eymcdddeu56o"
+ },
+ {
     id: "607",
     name: "607",
     desc: "Gula Merah Koin–1Kg",
