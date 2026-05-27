@@ -28,15 +28,15 @@ const HomePartners = () => {
             link: "/partner-room/book-store",
         },
         {
-            id: "mentorship",
-            name: "mentorship",
+            id: "Mentorship",
+            name: "Mentorship",
             subDesc: "Sertifikasi polimer",
             image: "/mentorship.png",
             link: "/mentorship",
         },
         {
-            id: "game",
-            name: "game",
+            id: "Game",
+            name: "Game",
             subDesc: "Pengenalan edukasi polimer",
             image: "/game.png",
             link: "/game/polymer-lab",
@@ -46,7 +46,7 @@ const HomePartners = () => {
             name: "Join Us",
             subDesc: "Bergabung bersama kami",
             image: "/Join Us.png",
-            link: "/https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1&fbzx=2657530912750765225",
+            link: "https://docs.google.com/forms/d/e/1FAIpQLSdh2xrushDA4S9wnhQjHJxWYNqOVtpqFBYAGauejHlCkROB3A/viewform?pli=1&pli=1&fbzx=2657530912750765225",
         },
     ];
 
