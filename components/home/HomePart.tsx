@@ -27,6 +27,20 @@ const HomePartners = () => {
             image: "/BookStore.jpeg",
             link: "/partner-room/book-store",
         },
+        {
+            id: "mentorship",
+            name: "mentorship",
+            subDesc: "Sertifikasi polimer",
+            image: "/mentorship.png",
+            link: "/mentorship",
+        },
+        {
+            id: "game",
+            name: "game",
+            subDesc: "Pengenalan edukasi polimer",
+            image: "/game.png",
+            link: "/game/polymer-lab",
+        },
     ];
 
     return (
