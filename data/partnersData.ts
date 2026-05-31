@@ -5505,6 +5505,14 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/petvigorwithboyen.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7628471599531969813"
   },
+  {
+    id: "industri-petshop",
+    name: "PET VIGOR ID",
+    desc: "PET VIGOR Obat Kutu Kucing Anjing Fipronil",
+    subDesc: "Industri",
+    image: "/img/Partner2/PET VIGOR Obat Kutu Kucing Anjing Fipronil.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7628471599531969813"
+  },
   // --- COMING SOON SECTION ---
   {
     id: "industri-1",
