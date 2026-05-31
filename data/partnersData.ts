@@ -213,6 +213,14 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
  {
+    id: "614",
+    name: "614",
+    desc: "Tripod Handphone Tripod Kamera 3110",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tripod Handphone Tripod Kamera 3110.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7645981242936184084" 
+ },
+ {
     id: "613",
     name: "613",
     desc: "Ballhead Holder Tripod HP",
