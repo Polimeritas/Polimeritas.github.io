@@ -213,6 +213,22 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
  {
+    id: "613",
+    name: "613",
+    desc: "Ballhead Holder Tripod HP",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ballhead Holder Tripod HP.jpg",
+    link: "https://shopee.co.id/product/388046878/25305429855?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAxBciYdWXqf5YI4gAAG1FNCY2z2sETBA8kBUNc_JqvVAZizeLJr-D2-B2veAT1SjlcC9SZj0TTYyiqTIxzmlzRF3DxvM6IhaWBiqRXieYyCM2gkVEwGZ1G6_nzdWlU-YlreNgQFPcabff3xkkyJ_BvQnSbNaHLzlycuJ-NTONiC_SPQtO-IkgwKcSQD3MRpIAZ9Og&mmp_pid=an_11393951005&uls_trackid=55pellvq000u&utm_campaign=id_13cT94TYRVd&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ez9t68kzg7y2"
+ },
+ {
+    id: "612",
+    name: "612",
+    desc: "Clamp Holder U Tripod HP",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Clamp Holder U Tripod HP.jpg",
+    link: "https://shopee.co.id/product/121551998/9250722120?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAxeSDJ2RG14A2779DvsX0kveJD12642NihZFqf1rE_k4yg5NaU6k_FAVrt1sxfrQOFTLUOmM8yps2RPr8NbXwK-JtRMoM5c3h-OeMo48PiBMR-tfC64aTCRBDK6a7p6UwMRduW5bQ4WkmC8QD4HhBPoWeHCO437488gHwbJSEHgfnvCN7HmxqetmQVqnuIILnI&mmp_pid=an_11393951005&uls_trackid=55pelr03001c&utm_campaign=id_13VurhB5ihJ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ez9tabveapfh"
+ },
+ {
     id: "611",
     name: "611",
     desc: "Kericu Cumi Snack Kemasan 250gram",
