@@ -5503,7 +5503,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Spray Pet Skin",
     subDesc: "Industri",
     image: "/img/Partner2/petvigorwithboyen.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7628471599531969813"
+    link: "https://www.tiktok.com/@booyenku/video/7643296058587598100"
   },
   {
     id: "industri-petshop",
