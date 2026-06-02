@@ -95,6 +95,14 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "BEST SELLER",
+    desc: "MITOCHIBA Chopper TWINCHOP CH60 500ml",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/MITOCHIBA Chopper TWINCHOP CH60 500ml.jpg",
+    link: "https://shopee.co.id/product/24544583/29579289396?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAwvZZaJN-01M1gdBG5Q_naJXhDWXxMkvhx0TCxlj4rNxqfdKFZu7N8OiJHZXHhMXfxf9bJcaZZN4e_gQBbUCDQ8rqxc4K-fxQ2ygYBhvCAOPzbTLIVbwF7pHK16OGHV1AMoEI1s-G4LGkNr2Fj1Mmasj3yWDgd5h5y3HlcupIrwwA3tIedvZfhUjBuW9-VMql4&mmp_pid=an_11393951005&uls_trackid=55pv8ejo00vc&utm_campaign=id_DW4TQ395SP&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmtnzbmzq7d"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
     desc: "Dahlia - Automatic Refill",
     subDesc: "Indonesia",
     image: "/img/Partner2/Dahlia - Automatic Refill.jpg",
