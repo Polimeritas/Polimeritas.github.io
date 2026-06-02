@@ -249,7 +249,7 @@ export const partnerItems: Partner[] = [
     name: "645",
     desc: "Sandaran Pinggang Sofa Boneka Husky",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Sandaran Pinggang Sofa Boneka Husky.jpg",
+    image: "/img/Partner2/Sandaran Pinggang Sofa Boneka Husky Edition.jpg",
     link: "https://shopee.co.id/product/1585148524/40908265398?affiliate_seller_voucher_token=8bCnE5QAnHudrwW8hBVPJccBj1Y7wucwoCH6ZUp67J&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAxLDkC9GfOHHbkQ9RvVF9Toge0q7l6qSqsb3Ifd-qDgX-IdK8ehiFzKqyEJkG2W2hzupueCBaBC12HALAxkI3E_EI-uObNyZ8h95cLzC6BCz69t8QwYSbrvw0pDgf_yEIPNEbUCmuskke4LBizlgysT-WkbW3ihVCS39msdCYVDuAXj3m251kP4rx6YTtJNyDcOr6hW&mmp_pid=an_11393951005&uls_trackid=55q0l6l1025c&utm_campaign=id_X3uWByEOCj&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznu3zt84nsi"
 },
 {
