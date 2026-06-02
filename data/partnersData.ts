@@ -221,6 +221,22 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "632",
+    name: "632",
+    desc: "MEJA TAMU MINIMALIS MEJA KOPI MEJA SANTAI",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/MEJA TAMU MINIMALIS MEJA KOPI MEJA SANTAI.jpg",
+    link: "https://shopee.co.id/product/226815403/27916742731?affiliate_seller_voucher_token=8bCnE5QAmVsSdLQk48FaBv3wFHDwpWT8fTSzwCVkfs&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAwQ0yV9Rdc7sIFPRgbJTNP81kymhzSfx5ossTfLXBFv2xCk2zzg9_2oL3QHkn7P8ZNKgNWXdahDqXlNLkM98OVZ2X20GP5fRNdEkPQlMDTWH5Fg8XAHEqJA7WZlbleF88cAfKLnugVui3rCZffC4vpqepc1nH_FZ2yAc4iDzBrcThoupyvqdW3FP6Y825CPzK3SGg&mmp_pid=an_11393951005&uls_trackid=55q0gkp40101&utm_campaign=id_131AVTZrg8D&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznqkq6dc46j"
+},
+{
+    id: "631",
+    name: "631",
+    desc: "Rak Sepatu Duduk Sofa",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Rak Sepatu Duduk Sofa.jpg",
+    link: "https://shopee.co.id/product/514778925/21786530590?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxxCgTA5C0hyvIahMBHoM11vaWWL63CUDaubBrE5Nr7-x1w6wlHuTEOL3Mw_uMZbSGZH6kpIqK18LAt0aldhE233XwYZuBGjF_VxoQQ_i5nxZaQaFfgu80oaILA6X1cWZp1rw9r1NI1ibtHtrwF7tbUVpTgPi10ADOq4Ti-sqjCYvDaLKuy8AUUvVyweBGkAcbpNg&mmp_pid=an_11393951005&uls_trackid=55q0gafo045c&utm_campaign=id_xI6QP0B44T&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznqcb2x82md"
+},
+{
     id: "630",
     name: "630",
     desc: "Steker Arde Broco",
