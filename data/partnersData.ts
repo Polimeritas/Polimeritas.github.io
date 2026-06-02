@@ -221,6 +221,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "644",
+    name: "644",
+    desc: "Lantai Decking Outdoor Ukuran 30cmx30cmx2cm",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Lantai Decking Outdoor Ukuran 30cmx30cmx2cm.jpg",
+    link: "https://shopee.co.id/product/1251852150/27019869235?affiliate_seller_voucher_token=8bCnE5QAmVsFr1Q6dWtg6CyZSsFAnVvrXfyLcSbbz2&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAw-cX-Q18hL1MPfrdVoEw4rSQdefPvBPOacTYqU7QdSUyCLCug9DsQRtcvNNBW7DgZ-12lQXaZaDk8yMQJeBAbr6UVlSLxWboHtIf9M1xcXW68WfYYHlRy92WbFtjDywK6_L8loY3kY8-1_BZH4tfYyWVIS7NCd5AN1T2rLZig2f4kkGvmzVdt4_tKkeAD6FgjvjL2W&mmp_pid=an_11393951005&uls_trackid=55q0k3k904vc&utm_campaign=id_ZgLhJfUePN&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznt9d36m8a3"
+},
+{
+    id: "643",
+    name: "643",
+    desc: "Dispenser Beras Otomatis",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dispenser Beras Otomatis.jpg",
+    link: "https://shopee.co.id/product/1316286670/25488265326?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAzf9xCKUpjal-uIdhuCb7x2KwaVzrY4UywA1s9xJ0KIvDczTf-MTa6OPcMlX0OMhGQZE905YmQ4wh0ROcVljDdT2kxQ04wYWGUsHRbEd3uzi76dzyV7U5KuZYH-hdHPokPp49wXp5CSUZeO_ZgyUvtaJpvOkPIFhLeNjqE28VOjtQKK4dho0Jk3KeWUUGGUd4_Zb99b&mmp_pid=an_11393951005&uls_trackid=55q0jtr1021s&utm_campaign=id_pGtBjeR2t3&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznt4n6b2o22"
+},
+{
+    id: "642",
+    name: "642",
+    desc: "JOODUTP Piring Makan Stainless",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/JOODUTP Piring Makan Stainless.jpg",
+    link: "https://shopee.co.id/product/1414571451/50150980600?affiliate_seller_voucher_token=8bCnE5QAnhF5HYjaYJG6bQrevhgKtGHb22CY6v1TvN&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAxbvXhe9tfXrR-CEWmMY2lP_XCUsWOL3gUgU1YqDUrWE6yWZ2B3bWApp_4UZlms9f0kHSCHh0RE0PXx7Xk00h5dy5DX_0wYURh8JnFYSueK0mOyYESipVSL2fqOwnyvwScpiEYc4y2kqQ6PgpVvdopgnmoGtLQsvOFCJ9aba3VHGbF-ejV0gomP2B5iZP01-OPHGMvv&mmp_pid=an_11393951005&uls_trackid=55q0k89d0001&utm_campaign=id_pBqac8DJBt&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezntd6nu4mjo"
+},
+{
+    id: "641",
+    name: "641",
+    desc: "Jemuran Baju Dinding Stainless Steel Jemuran Dinding Lipat",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Jemuran Baju Dinding Stainless Steel Jemuran Dinding Lipat.jpg",
+    link: "https://shopee.co.id/product/917905569/20275085902?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAyA5KHeHLHLnJ0VlpjT1P_bwkW-TdZUe52xE5xCgHoGagSIHW86NQ7zj4kv6NULejB7q_ArC0Fcd-jbQ2WyTa0wrftDdVblzZvyNREpt9tP03A1zOETjniKGlwq_DYKY29hTYr93GxqvEYm-vZwyX8tER_g6p4jdebDYhLb6VuNgqm9XGjIS6ROlntzoYNZz1vNLQ&mmp_pid=an_11393951005&uls_trackid=55q0kbit0004&utm_campaign=id_Yd7Jy0b7ll&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezntfvbptobd"
+},
+{
     id: "640",
     name: "640",
     desc: "Meja bahan plywood multiplek",
