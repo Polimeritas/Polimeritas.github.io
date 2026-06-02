@@ -778,7 +778,7 @@ export const partnerItems: Partner[] = [
     desc: "Kain Mat 1Kg Waterproofing Serat Fiber Fiberglass",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kain Mat 1Kg Waterproofing Serat Fiber Fiberglass.jpg",
-    link: "https://s.shopee.co.id/8KmHhtPBxD"
+    link: "https://shopee.co.id/product/92698993/7956326312?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEkgAAAAyHeKdR1Q0FqsTgEkJd5CN_QdhZ35rVHGm78nEWyYRL284hfP7Y1VGpZa0iYTWhurLxBcZoUZhGLvZr844Nn1PLQh_-v5VGAsoZy__VLiWK81WfW6nAg-jiqiPoPHaWhPc3H5o6D8xOxJGl3Kt4V7LRmBz9_8XHD-c5ZUCJVb-hHBLkcJlUnjW_ZDtZffjT&mmp_pid=an_11393951005&uls_trackid=55pvk7o200vo&utm_campaign=id_IgqwbgSnix&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3qdo94mnf"
   }, 
   {
     id: "560",
@@ -786,7 +786,7 @@ export const partnerItems: Partner[] = [
     desc: "Karburator Cleaner 500 ml - Pembersih Karburator & Injeksi Karbu",
     subDesc: "Indonesia",
     image: "/img/Partner2/Karburator Cleaner 500 ml - Pembersih Karburator & Injeksi Karbu.jpg",
-    link: "https://s.shopee.co.id/50VpjmicwT"
+    link: "https://shopee.co.id/product/1647797409/44123002953?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAwSQ_yA1o0-MFz8fY6f1fFd58D4b_pK7L8T1-m75lkuuYg2OfXL3Ctxc8e1JmL3RataB8bd9RYBbNmlaqUrWEpqnjJcmNWnvcVsDpTaFYbXUAfWjBBt_iljyx26WBxivTqglxR9OMql4MfkG6SBykPgseVSHJdTl7ogfCoL988IufxSpAh_dfOFgCBiswfruMPWeCn9&mmp_pid=an_11393951005&uls_trackid=55pvk8k401vo&utm_campaign=id_JzDNguOVst&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3r438sfou"
   }, 
   {
     id: "559",
@@ -794,7 +794,7 @@ export const partnerItems: Partner[] = [
     desc: "PETROASIA Carb Clean And Injection Cleaner Pembersih Karburator Mobil Dan Motor 300Ml 500Ml",
     subDesc: "Indonesia",
     image: "/img/Partner2/PETROASIA Carb Clean And Injection Cleaner Pembersih Karburator Mobil Dan Motor 300Ml 500Ml.jpg",
-    link: "https://s.shopee.co.id/50Vpjndp7U"
+    link: "https://shopee.co.id/product/34680048/14897896963?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAwYcvoHNnhnBKt2qnjdLvaObRjfZQkCQUTK9gC9-H1ttGAV09ZoBGTBgOqK8zhgWi2_d-V33MKykppRkmwUV3xCgeZDoOKP348JI1CoqsO88r9b_AdSi0566vPhIVxbcDVYWmvKBB07Jk416GNwHeL2yJ0tEOn4oCD-22sSlSPyABA2CO8AkorEQDDZ1DLR3JU&mmp_pid=an_11393951005&uls_trackid=55pvkauv01vq&utm_campaign=id_7tc0qpUl8R&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3t13kuonh"
   }, 
   {
     id: "558",
@@ -802,7 +802,7 @@ export const partnerItems: Partner[] = [
     desc: "Pembersih injector Lowkos Injector Cleaner Langsung Tuang Tangki 60 ML",
     subDesc: "Indonesia",
     image: "/img/Partner2/Pembersih injector Lowkos Injector Cleaner Langsung Tuang Tangki 60 ML.jpg",
-    link: "https://s.shopee.co.id/6L1DKGinE6"
+    link: "https://shopee.co.id/product/106213251/29900569612?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAwFBoTSUAn_Gc2o7nz0G6MM-c-LkslLm9jsFgfVKCpfopiOxrMou5olU1fGrrbsEioowEEIhHVOebvKS3Gjhae41iFC7DJP0xmL9XwRd3-iynbhQ73iaf1BJVtqy0posAsZViiWX1p2i2mGVnDkNtzGc9-krDJ4OwgL8ZCtJqx7o0W42qCGx8lKPtpCbVPLjYbMLQ&mmp_pid=an_11393951005&uls_trackid=55pvkbp200vt&utm_campaign=id_OQaSdnNwxT&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3toreozyu"
   }, 
   {
     id: "557",
@@ -810,7 +810,7 @@ export const partnerItems: Partner[] = [
     desc: "Stiker pillar Mobil Pilar Jendela Mobil",
     subDesc: "Indonesia",
     image: "/img/Partner2/Stiker pillar Mobil Pilar Jendela Mobil.jpg",
-    link: "https://s.shopee.co.id/9pb5UiTgqY"
+    link: "https://shopee.co.id/product/40213822/43055164832?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAy-uGeIQ5SHLTyfszzVyOAboUeMswmfeHeFdEue8EQqJQX60pwCKEq5ws8Q-6UZium_ggMYDViPwU17Fnas8AjoH7fMGI4siCGFIT1rmqtoqZU7jIOw3rqNhXqFz_JaQRkgAiPG7JInMLeHuG7F4C3T77Z85ing7kqzkjHa7uIbFP5zV24UQWmQ4PMCrhebp2w&mmp_pid=an_11393951005&uls_trackid=55pvke2n00v9&utm_campaign=id_13DHD6WTxCR&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3vjr2kgoh"
   }, 
   {
     id: "556",
@@ -818,7 +818,7 @@ export const partnerItems: Partner[] = [
     desc: "Kabel Bintik 7 Warna Full Tembaga AVSs Jepang Kabel auto Otomotif Body variasi modif audio aksesoris Motor Mobil",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kabel Bintik 7 Warna Full Tembaga AVSs Jepang Kabel auto Otomotif Body variasi modif audio aksesoris Motor Mobil.jpg",
-    link: "https://s.shopee.co.id/3Vh1x5rbQP"
+    link: "https://shopee.co.id/product/28021497/53202616698?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAxJS8YR1M-PTrSqudXt60AiVgJPBB1cBvjmfIql7DMlJQX4RbS8MsbqgleD7RuPsD64YESTMDhruE82nsYlJ5HNCxCRIJ6jloKV5MYBqEyxqXsslfFUBGDxysgSKdgG3H9-j6itmmGy97iHLznI0g-v_sZfeAOzUa4f1n4kWxxYyi2CpQcwhHkHuNSh5aWqnsI&mmp_pid=an_11393951005&uls_trackid=55pvketa01vq&utm_campaign=id_13bora8ph71&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3w8utupr3"
   }, 
   {
     id: "555",
@@ -826,7 +826,7 @@ export const partnerItems: Partner[] = [
     desc: "Serat Carbon Forged Isi 10gr Warna Hitam",
     subDesc: "Indonesia",
     image: "/img/Partner2/Serat Carbon Forged Isi 10gr Warna Hitam.jpg",
-    link: "https://s.shopee.co.id/6pxTvEk0b0"
+    link: "https://shopee.co.id/product/28058659/18079531821?affiliate_seller_voucher_token=8bCnE5QAm6cwZigFAtSHwr4z7j2oxE7vToitc8D6dT&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAzLtQvuOH-kLoE54OZARNgKobm1-3kRMDKdGzsxVikcNvut2F69wM6mmbpEUk68xuAR50dON-w5NrbD2KCnOItrWjeNBisECVDIGd5kz82kigxcjFYDxKp46sthOxtleqb48zSMh8kNrOKr-lCjx8QAc2aYMwvMxXUY9nVTvDI-Xf9dIfsC-YHbHoR7nESsy8o&mmp_pid=an_11393951005&uls_trackid=55pvkh7a00v9&utm_campaign=id_IbtsxFfkmd&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3y548z8gf"
   },
   {
     id: "554",
@@ -866,7 +866,7 @@ export const partnerItems: Partner[] = [
     desc: "HSD Black Garlic, Bawang Hitam Premium",
     subDesc: "Indonesia",
     image: "/img/Partner2/HSD Black Garlic, Bawang Hitam Premium.jpg",
-    link: "https://s.shopee.co.id/40dH2ElV6t"
+    link: "https://shopee.co.id/product/738529143/16351005523?affiliate_seller_voucher_token=8bCnE5QAm6SRoEBQcFE9u1rNhLc7dHkwcBGf9mZ6v4&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAzQGzXjvzQek8fww2uRooOzc6q9LfxLqJn4Hzxmcl5ozQbYs6of97XIzGsM-cpaRxV9C5mJf8Klld2CKMrTVy31l-mbEoDTvQqH-ia8FawaUpYm1VETvhitzfHXPBk-llSVj0_Rec8KnkoCTSF6hEZIVgdI6ZRhrtW571HtcldGPKxGmOI-M19Ath5g9or6LTBrrQ&mmp_pid=an_11393951005&uls_trackid=55pvkjgr0004&utm_campaign=id_LpMMNBLGtX&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3zzzdmuqy"
   },
   {
     id: "549",
@@ -874,7 +874,7 @@ export const partnerItems: Partner[] = [
     desc: "Cemilan Cimol Mozzarella/Cimol Bojot AA Mozzarella Frozen Food",
     subDesc: "Indonesia",
     image: "/img/Partner2/Cemilan Cimol Mozzarella.jpg",
-    link: "https://s.shopee.co.id/6fe2D9x0pV"
+    link: "https://shopee.co.id/product/477280848/13298264145?affiliate_seller_voucher_token=8bCnE5QAm6AYbGHjkX7tpDEdcosKNY5qxhbWTJTbTk&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAz_Kj3EdF3W00cRU6MahrVsw8VXetkKzVRQg3htb7oojIDo_effF8rZv1PddpzRYgqDC_1Gu5kTWwJvt6mAEA7qFLhfucCrBD5sqKk8_YGmuJ80AFs7NkOooAtor6Mzn_RJZtQXnSvSHOvVWczUZIfVH7DcWJ3fmjf61hq9e-EuBtpZu6QqZvJcD8EK78TMAuJz-A&mmp_pid=an_11393951005&uls_trackid=55pvkkuh0201&utm_campaign=id_Kbiqwk1FFb&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn426pjpdew"
   },
   {
     id: "548",
@@ -882,7 +882,7 @@ export const partnerItems: Partner[] = [
     desc: "PEMPEK EMAK INDAH - PEMPEK MPENAK PALEMBANG ASLI IKAN TENGGIRI",
     subDesc: "Indonesia",
     image: "/img/Partner2/PEMPEK EMAK INDAH - PEMPEK MPENAK PALEMBANG ASLI IKAN TENGGIRI.jpg",
-    link: "https://s.shopee.co.id/6VKc0sUn5S"
+    link: "https://shopee.co.id/product/46400531/4129717384?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEkgAAAAwZGits2ypRWQAik9mw3IGbnIUBnC8Hda4yTBdVIyOiGklKzxPkhHAZk3aj9sqQT-gV8ahNMjNxg_ijpH4tWKj7lkUpEb0UXOp37LUw0ghWTLzItEKhkgFr9LIVWq_Pa5ZOt8sdZxdFOBm0TGu266kF0f1UiY0YBJMAYmy7c4iMJTybPqoCBQHrgu-k5k0p&mmp_pid=an_11393951005&uls_trackid=55pvkmiq021s&utm_campaign=id_BvVAGvf3eN&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn43i6mxetw"
   },
   {
     id: "547",
@@ -890,7 +890,7 @@ export const partnerItems: Partner[] = [
     desc: "Black Garlic Bawang Tunggal Premium 440gr",
     subDesc: "Indonesia",
     image: "/img/Partner2/Black Garlic Bawang Tunggal Premium 440gr.jpg",
-    link: "https://s.shopee.co.id/5VS4p44i6d"
+    link: "https://shopee.co.id/product/1378625917/42673060635?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAxhcPlahy2IEeCl7WKSTjKf_brJiaMvGNPBP64Y6qlE34PPhpJwLurbMGtDOwdO72sPR2erqoW_rsj6HFIOp6vjEZFN4veur5YU3RRliUj6NHwgCA5m_gqNuiwkbIxOmoOk9X6MgPAeCiYh_ATl7dHPOVyhHJA1IQbbJXmujCI_aWCnCgUUkGvspJmR99F4NqM0WKrs&mmp_pid=an_11393951005&uls_trackid=55pvknse00vc&utm_campaign=id_KRGkVirAfD&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn44kben7rw"
   },
   {
     id: "546",
@@ -898,7 +898,7 @@ export const partnerItems: Partner[] = [
     desc: "mangga kionjay + bumbu gorojog sitetehtetehcianjur",
     subDesc: "Indonesia",
     image: "/img/Partner2/mangga kionjay + bumbu gorojog sitetehtetehcianjur.jpg",
-    link: "https://s.shopee.co.id/6AhlcJQith"
+    link: "https://shopee.co.id/product/69916042/24136939616?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAyNnWVg6aiHgc9mg98NRs4f5yIlpYlrMuVOZHJG-620wApYIHVlW81gosGy2Dd-DuRDZxFMiRI5rxrFPJH8-JFsn2chrtGm9p_cmo77V5LJjNMcaLPSF8YnvaKNaZ_rPspNjFJeBoW1xOGq0XGz1lKPUu1cvLTRN15P9qq6dqDsm2mAfkfR5TlIrgtvKZRvXjo&mmp_pid=an_11393951005&uls_trackid=55pvkokt025c&utm_campaign=id_C6uLoUCnO7&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn457kemuaf"
   },
   {
     id: "545",
