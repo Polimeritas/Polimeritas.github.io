@@ -220,8 +220,70 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/Handmade Rajutan.jpg",
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
-
-
+{
+    id: "630",
+    name: "630",
+    desc: "Steker Arde Broco",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Steker Arde Broco.jpg",
+    link: "https://shopee.co.id/product/812339520/18388914164?affiliate_seller_voucher_token=8bCnE5QAm6d1AS6DMXRspk1DPHZEHXZLBYkHi5YkKR&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxQmQ8Ki6mFcngkLqMv77wnsG7UAOVZ3Ay-QsTA5PB_KQpeTwGJvSANQOjGTwejkut8QDTZGDHQocvVYVtPMc6OrFv1S6aACf--jX8eNjeiSg5vqTsCpT5Rc_I8oSCRTuva6ezcJwuKZXGY5VODAxIBvQmsCSFjTqQaon4fZAM-pixDFMVcOz5ot8aoxJihSUvcuw&mmp_pid=an_11393951005&uls_trackid=55pvi53b046l&utm_campaign=id_x9aTYDmabt&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn24vo7r3ep"
+},
+{
+    id: "629",
+    name: "629",
+    desc: "KONEKTOR KABEL",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/KONEKTOR KABEL.jpg",
+    link: "https://shopee.co.id/product/329038744/25980704822?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAyhLnU5cP-Zw9dFWEDNaGp2MddUgfYWN4-5fHjlJKdRYNAHd49Gi3xwYAtU-NIBaw-B0fXc84w29IZWflJ56P3Ydn8iEVRFyxgQvpf9wsVxI8bcORkTc-SLeAbf4da1reVBuHf9HfT0d7tYVPg2DOhHg7D5Kn18pKYZ-QalhrXfWqx5BpcD5HaNR-XVzzslXVCcIQ&mmp_pid=an_11393951005&uls_trackid=55pvi3n9006l&utm_campaign=id_K07XIjwvJF&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn23rei2687"
+},
+{
+    id: "628",
+    name: "628",
+    desc: "Konektor Kabel Listrik",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Konektor Kabel Listrik.jpg",
+    link: "https://shopee.co.id/product/7828926/24086665974?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEkgAAAAztPwOqXrZL2aIccdpZX_FsLk0k6ZT_8AZPcK_PRkKMAc93OO_5i9Gcqx9VrbiqbsnAZKaSeDvSCoanHizZgdWJ8a4e1xmFDZFmJ8AOiAgmheSSTge2_BgJLIDAFvQIuAcz7lJelzs3eQM7Mr6T4b5I2zlaAljq6Srx2wzzc4TIvCRtsM1JB3OGayb3cHy0&mmp_pid=an_11393951005&uls_trackid=55pvi2d8015c&utm_campaign=id_7XgRZVCTrJ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn22owcrf92"
+},
+{
+    id: "627",
+    name: "627",
+    desc: "Klem Selang Stainless",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Klem Selang Stainless.jpg",
+    link: "https://shopee.co.id/product/840043283/17084096480?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAwagk-PwvdiLXZi-VKxA-sIzOe6FneMRpIMDvn0LFU2JU00jWIi62jaVUDr6th0rt016CFGwvUn9cPPA_dAyM_iD9ErZzsuGZ3FXII6hnGLmNl2632V3ACYosq27DRZzSiKVKjUOCKwf0tSOEWAGLdx6wsms6wlLTH2a5O3QA-dRY_zkqklUMXD60xpNhHF7sXjgg&mmp_pid=an_11393951005&uls_trackid=55pvi100011s&utm_campaign=id_a1VNd9540r&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn21iku8kgw"
+},
+{
+    id: "626",
+    name: "626",
+    desc: "Paket Usaha Case HP iphone oppo vivo xiaomi samsung Isi 50 Pcs",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Paket Usaha Case HP iphone oppo vivo xiaomi samsung Isi 50 Pcs.jpg",
+    link: "https://shopee.co.id/product/1225756569/44413744859?affiliate_seller_voucher_token=8bCnE5QAnJGgaZtaXvNHT5gLVukLHvm1rS8hZwsRZP&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAwUGVYXokzh6JB6jCsgOkIz9IuguUBe_zVgyoxunz5cBDG8Y2yCH5Lweqh-yk1n30LSwcT8ND7n6m_oMYJyP3BMBrK4kedPoO2CUBauBUb2jxjW3iwtFjALKQm8ihaHuxw0CwhmUSIFqCBeZh0_xMU9EOqbEQo6Jm8U9M4IQPdv8ZB87-WXcTUOf5bjDW-VhD5tBU3y&mmp_pid=an_11393951005&uls_trackid=55pvhvc4036l&utm_campaign=id_M7Sajzk3cD&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn1z7gv4jzf"
+},
+{
+    id: "625",
+    name: "625",
+    desc: "2 in 1 Jelly Silikon Softcase Magnetic Casing Hp",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/2 in 1 Jelly Silikon Softcase Magnetic Casing Hp.jpg",
+    link: "https://shopee.co.id/product/1530788118/49053461204?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAzyE9ngtnZ4mQ_m7xNYd2aCzKAXgDNLUh_OlYYKFqEn9cWPNljdUB-0rnDa0XkahxO8VUpH8P_3B-4OOWV0x3LqoJMd5crMhgEYafnXMN4-LALQKjOgzv9G2EmLuSezqHHIc2UUQrQ2N78EPTr9IpwJF3WUuy-0acqM668IxjEhuMRYhQ5boX9ClJ1orSVV83zzAKZB&mmp_pid=an_11393951005&uls_trackid=55pvim1v0001&utm_campaign=id_13KKZ31dNSH&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn2ir674yh9"
+},
+{
+    id: "624",
+    name: "624",
+    desc: "Kompor Gas 2 Tungku RINNAI",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kompor Gas 2 Tungku RINNAI.jpg",
+    link: "https://shopee.co.id/product/394519412/12716919909?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxJ4A1sUUoUGdaHMm5usnvVPHELHhmRXWoAJqfMFcyWqqtf4wumpZMdNlPsUR6MaFjBDq7aBK4BefqFGkctXIGyixl2YsSjNkppMigT8ca28whyvL2BpSHie_Vku5GacTOo8uBAHQx3AFpT57K4DtkQJyNXigPhkUTSnKTz8EGIA4FUZUtDICPPxWpGoDL0aMQ_cQ&mmp_pid=an_11393951005&uls_trackid=55pvhscg00vc&utm_campaign=id_105SVEAIqyb&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn1wrewdx7r"
+},
+{
+    id: "623",
+    name: "623",
+    desc: "Hongzhuo Teko Listrik 2 Liter Full Stainless Steel",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Hongzhuo Teko Listrik 2 Liter Full Stainless Steel.jpg",
+    link: "https://shopee.co.id/product/263338737/16174020242?affiliate_seller_voucher_token=8bCnE5QAm6SPQp2XRt1a14dKQ7veJR6ovxcbz7Sshs&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAzoW047GOBQ4ZaYtStfjscVAZ5IkT1rJ0jxXTDuH7A3Fs2tHm_zYX9bykgzZCicn3S1duSCIWap7DB9v0aRgy2rVg-gJlqgztjgRcqTT6PdSCuKDgxLoLcXUyDh71bDPRwnj00EI-9SSQbs-aGqzUCPtCNrkWaWcqo-7HWBibOKLxosRxORQNZ032PNzRD6cZhYwA&mmp_pid=an_11393951005&uls_trackid=55pvhr5o001s&utm_campaign=id_XEXZMPkxOn&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn1vrozobd2"
+},
  {
     id: "622",
     name: "622",
