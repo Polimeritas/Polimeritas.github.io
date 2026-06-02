@@ -221,6 +221,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "648",
+    name: "648",
+    desc: "Bantal Tidur Busa Memori Bantal Tidur Multifungsi",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bantal Tidur Busa Memori Bantal Tidur Multifungsi.jpg",
+    link: "https://shopee.co.id/product/530290336/57253578882?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAzRYFsWshtaZrkSpXrT-EoRd6q5E17BoNedMtttYQU9RYpbh-51_cw2g4QdDpRQAgChodEW-agRO-iaQecWGOKdZaUqmU9cT7WmFwZUHC5LFOCjAQE8LlSwIZWJKBU_f2SRbcWhs82Mce3WsMeQtfFNBE-07miwPHkqWv10TiaOgFqLaz9FIlHk82ivn4g1tAtlyw&mmp_pid=an_11393951005&uls_trackid=55q0lqch025c&utm_campaign=id_Y8qV0yuUNx&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznuk5hhanvb"
+},
+{
+    id: "647",
+    name: "647",
+    desc: "COOGER Sikat Kamar Mandi Elektrik 8IN1",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/COOGER Sikat Kamar Mandi Elektrik 8IN1.jpg",
+    link: "https://shopee.co.id/product/190374351/24739001062?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAy3cTTta_-tBgmo1cqDSteN1ddxx06_4ESU7HEiYmSWbi9JFJT_8dUded6PSsehJIYNsfWaDasqqCa2UVn7uWOC6uSJO7JsBPprV6Gr1BwZ5us2lGVIz720UyoLAhXnFo1r2WsM2UvhehU07k0t7pmmxxmyJxe1Xwxz0nYvWLF46pirVEvmbT4jBCU968MjhiNXdg&mmp_pid=an_11393951005&uls_trackid=55q0liud01vc&utm_campaign=id_Fspt1QWdzZ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznue2mguga3"
+},
+{
+    id: "646",
+    name: "646",
+    desc: "Alat Pembersih Kipas Kemoceng Pembersih Kipas Angin",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Alat Pembersih Kipas Kemoceng Pembersih Kipas Angin.jpg",
+    link: "https://shopee.co.id/product/1249445311/25932840316?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAyyLcoWU64QojVcNWU81H2HJNw-hXID3kBwp8FQU0_ql5EcppgS94Q1EkUHlNDWWwMZ9vZYZ6XN9vgAn18A_FnEkt0oGFe70VoHjQkdiXIrUHfD300bcoD68PPkIWhaT6v-9UtJR0lIeb5tKDvF9BdoOjIic1ullKkUd7Vg3N5MU6Sy3Hx4cX8YRnhpwaacYqX1soBA&mmp_pid=an_11393951005&uls_trackid=55q0l9m9021s&utm_campaign=id_VTQ7dHdoNJ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznu6hcy3wt4"
+},
+{
+    id: "645",
+    name: "645",
+    desc: "Sandaran Pinggang Sofa Boneka Husky",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sandaran Pinggang Sofa Boneka Husky.jpg",
+    link: "https://shopee.co.id/product/1585148524/40908265398?affiliate_seller_voucher_token=8bCnE5QAnHudrwW8hBVPJccBj1Y7wucwoCH6ZUp67J&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAxLDkC9GfOHHbkQ9RvVF9Toge0q7l6qSqsb3Ifd-qDgX-IdK8ehiFzKqyEJkG2W2hzupueCBaBC12HALAxkI3E_EI-uObNyZ8h95cLzC6BCz69t8QwYSbrvw0pDgf_yEIPNEbUCmuskke4LBizlgysT-WkbW3ihVCS39msdCYVDuAXj3m251kP4rx6YTtJNyDcOr6hW&mmp_pid=an_11393951005&uls_trackid=55q0l6l1025c&utm_campaign=id_X3uWByEOCj&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznu3zt84nsi"
+},
+{
     id: "644",
     name: "644",
     desc: "Lantai Decking Outdoor Ukuran 30cmx30cmx2cm",
