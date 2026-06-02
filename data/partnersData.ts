@@ -5202,7 +5202,7 @@ export const partnerItems: Partner[] = [
     desc: "Blender Juicer Buah Usb Rechargeable",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/8.png",
-    link: "https://s.shopee.co.id/AKLz6eRyr0"
+    link: "https://shopee.co.id/product/521988780/25361840960?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxs-7t_ocmGFtXtJWDrP_e3oy1c-MnvHXToXa6Wm-sEi8strK-gLieDe1tg9im1LZkUGmdWLXRTi6cSf6TVpVzmgioiH3AvwFFJyRRAhY1lSBmcDi8tlduVLWQJyGrO9h_1WRXihx0jY2inKl3utfAyx6fPPrHwBaMPAaYE-iF78F8ff30NlCnpzxn2EpcPuUnsMQ&mmp_pid=an_11393951005&uls_trackid=55pvjtdt02vo&utm_campaign=id_ZpqhWWJlJK&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3gxtvixsr"
   },
   {
     id: "7",
@@ -5210,7 +5210,7 @@ export const partnerItems: Partner[] = [
     desc: "Jas Hujan, Raincoat, Tebal",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/6.png",
-    link: "https://s.shopee.co.id/40RvYxULE9"
+    link: "https://shopee.co.id/product/924464575/20869392976?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAyaa9YlqqemIe2oOIxyGP3M_NVpfQPP0DX47lv8BBMv9jhV4KNqQeyJ_pTcSej2_nPax5fTPwzAoJ45ItOczDZ8NGd_12BmwSZRADIxOWgNHRbnsEIkZpe_wQHkIAlaGltUtrvSDr4VtGjpHQJ10lNRw9QRogobrX5fQYCNfrWhWlqrER3PceAFgnH22HShPm-kkg&mmp_pid=an_11393951005&uls_trackid=55pvjrms0004&utm_campaign=id_9IgllcIBHO&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3fizv79sd"
   },
   {
     id: "6",
@@ -5218,7 +5218,7 @@ export const partnerItems: Partner[] = [
     desc: "Kemeja Wanita / Basic Longsleeve",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/5.png",
-    link: "https://s.shopee.co.id/5fa9Y0BxQg"
+    link: "https://shopee.co.id/product/604395356/26020348676?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAyxe7jQ49UppQe-sKqu68_UyRKKoZgfFNObI6LrWcESTbukGKwNSfe4vl-b1kw6VyS8XI_wWxYk60GRikLFQMsepJEYCrfCglKHu8KK2QhEsZ0oFrxSQBH4dWBE35J3XjJt78-sseXNojVx0TSZN9NW4mdeTfcYEJglsJ5ejzPpqMjYz0_lUn95FpgJGt3YnXcJkA&mmp_pid=an_11393951005&uls_trackid=55pvjpvr00v9&utm_campaign=id_8xo0lf28dW&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3e57597xb"
   },
   {
     id: "5",
@@ -5226,7 +5226,7 @@ export const partnerItems: Partner[] = [
     desc: "Sprei Waterproof Import",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/4.png",
-    link: "https://s.shopee.co.id/BFCzrxxqh"
+    link: "https://shopee.co.id/product/413480984/23119239974?affiliate_seller_voucher_token=8bCnE5QAmVW8LioZXdL6y5QPDWFuePZK85DaK2rMe8&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAyzwwAUfuEFatc583yeW46djioRNfz2ly7fpKTOTfkj1EMvmJCYDISXVe-OmEN1IfYTARiYYlzo-l-JkxrEQBD2vu9B_l2nTw887QKac7GKkOjl4KxhLKf83PzRz-YWrkvJeWVlP7G_KuiqLryK9SkmtmortBsQwnl6M85R-PcAzayvdBF_t2XS-uxr-c04CbMP7g&mmp_pid=an_11393951005&uls_trackid=55pvjo600001&utm_campaign=id_V3tx3kYYEs&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3cnvua11q"
   },
   {
     id: "4",
@@ -5234,7 +5234,7 @@ export const partnerItems: Partner[] = [
     desc: "Gamis Dress Wanita Kekinian / Dress Murah",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/3.png",
-    link: "https://s.shopee.co.id/2B0HNUZxnK"
+    link: "https://shopee.co.id/product/40528295/18791147701?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAzQixlgIA9AZX1GUMiln_2AFUO0BNm1grvuKVzbtDW8hyymJe6x94v8BEyC8UQor1ri4meyPGGjzjafw4YEjtKAzjbrRYWsbjSGE8h709si5OHGGXpIKi0t00DCCGg8Ka8zZSZO-WAeyiscWUqpnmUvqKvcovG7lxzkMZKGgCpIpPhczy9UTO4eg42g1-nH-D0&mmp_pid=an_11393951005&uls_trackid=55pvjmk900vq&utm_campaign=id_DnJHgPbOy2&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3bdrcjhiw"
   },
   {
     id: "3",
@@ -5242,7 +5242,7 @@ export const partnerItems: Partner[] = [
     desc: "Es Krim Aice 8 Liter Ice Cream",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/2.png",
-    link: "https://s.shopee.co.id/6fSgjn0Uhl"
+    link: "https://shopee.co.id/product/262854215/5741454263?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAwahYMuhEE7SqvabIalbePkOaEdty0HEYj48kFUUqLzFQJA73jXrq9ZvB-tgp0GjkIOLF5LydHluatOfWZgW-_V7cJW-4AispMwwWQBsQCFm6Iwb0mT7AsE-wvFvbsCA_NIBbR3roNmp07gzUhXyOEjfS6s8_WfkoKYRWym1TUzvaT0sswZcR8Ne-Jb-5Gy1AA&mmp_pid=an_11393951005&uls_trackid=55pvjf9r000l&utm_campaign=id_7Yv9JOGZLG&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn35e2pvmzo"
   },
   {
     id: "2",
@@ -5258,7 +5258,7 @@ export const partnerItems: Partner[] = [
     desc: "Gorden Blackout Gordeng Polos Gordyn Jendela",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Gorden Blackout Gordeng Polos Gordyn Jendela .png",
-    link: "https://s.shopee.co.id/30ZOMA5s87"
+    link: "https://shopee.co.id/shop/19442298?mmp_pid=an_11393951005&uls_trackid=55pvjhta00vo&utm_campaign=id_VDkQIjgNQA&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn37ikybou2"
   },
   {
     id: "Hubungi Kami",
