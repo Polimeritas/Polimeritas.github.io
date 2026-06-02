@@ -221,6 +221,30 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "635",
+    name: "635",
+    desc: "freemir Panci Susu Gemoy Bulat",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/freemir Panci Susu Gemoy Bulat.jpg",
+    link: "https://shopee.co.id/product/134305400/13373997338?affiliate_seller_voucher_token=8bCnE5QAm6AZnCQmTpSQ3bateTVc9YYA4VbjyoZ1g3&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAzOnzzBOK7Vv94P_baK4OuVsHUnHSjSUYFD0_Md6c2D3lUN83w7YpUbh7bU4xjtKowQLPpDt_2lEy2bNXIY2lSgSBKz0S4tnsb9YhkyzQKJC0OrfTYEg2hwbsY8Mw3swAWM9__CNsp_wZZkhVL6qCQG-l8mQ98aberzLKT0XHZh7SbvPVb4jAWug6BcHwROzX-CCA&mmp_pid=an_11393951005&uls_trackid=55q0hddd0004&utm_campaign=id_YbgEedTZEr&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznr6v3gsic8"
+},
+{
+    id: "634",
+    name: "634",
+    desc: "STANDING POT LINGKARAN 4 in 1",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/STANDING POT LINGKARAN 4 in 1.jpg",
+    link: "https://shopee.co.id/product/679504660/14849853060?affiliate_seller_voucher_token=8bCnE5QAm6FxRzEUgtWSCK1R3mqCUiDRoDKAvi6m3Q&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxNkia0j57M9dcQQw-JEM6MSmJc9IBiTMcK0PGQw_Rit1EvcRtHddk3rDrUJgm-9oSN_m2OjjvXzG9BEkb-QF2zdtJnYI5TlYI3cBpF-jbZI8ZaK36I4kbK7lWSR5HRVUkmQ847Gf-X-b4eklRptwhPjbZuFpoL3Rq89t2WiumzEWNpYH9Fs98uNOzozmt2H1DQkA&mmp_pid=an_11393951005&uls_trackid=55q0h73g00vo&utm_campaign=id_z6LB2p5ANh&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznr1pnwp34s"
+},
+{
+    id: "633",
+    name: "633",
+    desc: "JOODUTP Lampu Tidur Bebek Lucu Lampu",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/JOODUTP Lampu Tidur Bebek Lucu Lampu.jpg",
+    link: "https://shopee.co.id/product/1414571451/48851894559?affiliate_seller_voucher_token=8bCnE5QAnJdv6Lt7BXqkoVgsDiufEXs9A6CbzRVUPi&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAykF9bRRjteTgzXLaW5N2EGF1L4zt9ZzIwUlTs29FlHabVGiPLhCzX3VxkE727wYQeT36V2N1Rq8bbz5mjshXUzVtpkJVJ8YM0Ci4CJPMjs4NA_ZHf6o2yprbjw2525XDma599PKz1J766Ilzu-m9cN6pdKKeIAG-XMsiOUYujuFEaY62HbtM5F0ev3fPCsTJaAf04E&mmp_pid=an_11393951005&uls_trackid=55q0h2qq00vn&utm_campaign=id_Ly4f6YP9Dh&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznqx7vagf5q"
+},
+{
     id: "632",
     name: "632",
     desc: "MEJA TAMU MINIMALIS MEJA KOPI MEJA SANTAI",
