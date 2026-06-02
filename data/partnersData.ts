@@ -5531,6 +5531,14 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
+    name: "[BEST SELLER] Excel",
+    desc: "Excel Makanan Kucing",
+    subDesc: "Industri",
+    image: "/img/Partner2/Excel Makanan Kucing.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7646711565441436948"
+  },
+  {
+    id: "industri-petshop",
     name: "[BEST SELLER] Animal&Co",
     desc: "Gourmet Wet Cat Food",
     subDesc: "Industri",
