@@ -301,7 +301,6 @@ export const partnerItems: Partner[] = [
     link: "https://shopee.co.id/product/1175050093/27636997036?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAw2UMM85-Qr3O37NPm1UIudvENQ-9IhLDPNSwC-_9Ry1D_XGt-7Apz3knElFcdAmVE6XTIkrW8G5neUhdGMSDZVfsBdCfDZZr0Eeq_ah3e7PjY6CZQ1HGudvQHvMfiVBmqcFS47X-8bXT1BsVFpgltwwisfUps33L8JgSGf-0_yuoFHzI2EznDnWMJqT5kXOytQNSZR&mmp_pid=an_11393951005&uls_trackid=55q0j1n5006l&utm_campaign=id_YBC4dh3vC1&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznsfnbc1hcs"
 },
 {
-{
     id: "638",
     name: "638",
     desc: "Homedoki Tangga Rumah Lipat Tangga Besi Lipat",
