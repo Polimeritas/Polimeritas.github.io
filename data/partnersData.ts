@@ -221,6 +221,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
  {
+    id: "618",
+    name: "618",
+    desc: "Deoxide Antiperspirant Deodorant Roll On POWER+ For Hyperhidrosis 60 Gr",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Deoxide Antiperspirant Deodorant Roll On POWER+ For Hyperhidrosis 60 Gr.jpg",
+    link: "https://shopee.co.id/product/1491258740/26732649509?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAz0B43McaSnWBycQXq5M3_lbLeeFkeXliH2GnsLWKkyaVEBCKV3zK6KIaB406xsLnSe_JhsBJ54IneiJVei0NtjOKfsrmsvuNfYGN6OQ1BDNM4WH4PLYSTeTtj21UYUcYcmY1FyGa4pZRR1PwBNVXqvlxsJSXyOngAAWFKvv3HeOZyMFeWf3YL4yZ2iVOpz4tVLQOtF&mmp_pid=an_11393951005&uls_trackid=55pva7ub026l&utm_campaign=id_K6CyQu1no5&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmv1v9xqars" 
+ },
+ {
+    id: "617",
+    name: "617",
+    desc: "HOLDER OVERHEAD STAND TRIPOD HP RINGLIGHT KAMERA LAMPU FOTOGRAFI",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HOLDER OVERHEAD STAND TRIPOD HP RINGLIGHT KAMERA LAMPU FOTOGRAFI.jpg",
+    link: "https://shopee.co.id/product/204388579/20095663916?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxz3GK6sTm7KaIqenmu9eUeJ6BK6asI_kQc9UA4SqEMFOBXehVk9Gy1dG4plhkQ4MZbrjRz8B8sPWatyAeONeaRe_zJQWAIfVWomxCeV9EVGmNH6QoTGaZnx9OzBzhqYMiYpvxCHRgnnZVTaB_9usgodoYjuuxU1PScHG0zHhxNK9IYl1HBp7tHWBxh74g88nm13w&mmp_pid=an_11393951005&uls_trackid=55pva9m1011s&utm_campaign=id_10Fk4IbIqMv&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmv3aoigbuq" 
+ },
+ {
+    id: "616",
+    name: "616",
+    desc: "Reseller Welcome - H6651 Ember Lipat Serbaguna",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Reseller Welcome - H6651 Ember Lipat Serbaguna.jpg",
+    link: "https://shopee.co.id/product/265629595/43158234800?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxRIcGl-HoL3kH7I51PJRppgM12kySCblOiJC5DU2H6i3itbaLgnKAjJnNhyz-KOgKYdVIOm3_llpIhnh3ovoDQdk20okiOqRQHF20HO4Wh94-Bm1ygP3iIilGA56TrXHlhcw1qH8tZZHnirhhDCXOdRW9dQy7IHE95iWbDu9IN8oW0BCEMwb7tgMNM4I5_hiOkug&mmp_pid=an_11393951005&uls_trackid=55pvab9q005c&utm_campaign=id_LyqhVHfkoX&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmv4mnys1gk" 
+ },
+ {
+    id: "615",
+    name: "615",
+    desc: "Ember Lipat Mancing Ikan Folding Bucket Handle",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ember Lipat Mancing Ikan Folding Bucket Handle.jpg",
+    link: "https://shopee.co.id/product/426763015/29773281465?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAwDk4H4Mwexcyb46ZYkwJe-k7JerTo6AgPc9kEe3ech4MqAe7jdMGYNjq5GO692L3DK1dFoK8Wf7xq3Nspn6LRKwVWndDl5M8i0PRUXzZwVTyqrpiCOl6gjanoGcb-WEoXp9_FZpEm5UaXZDGGueQd0yNybU-734jC2ceztxvCgKDsfONBPHtpf5U3fJpN1EclimQ&mmp_pid=an_11393951005&uls_trackid=55pvac4l005c&utm_campaign=id_U4CON7nra9&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmv5azbequ1" 
+ },
+ {
     id: "614",
     name: "614",
     desc: "Tripod Handphone Tripod Kamera 3110",
