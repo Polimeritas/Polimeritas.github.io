@@ -221,6 +221,23 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "640",
+    name: "640",
+    desc: "Meja bahan plywood multiplek",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Meja bahan plywood multiplek.jpg",
+    link: "https://shopee.co.id/product/171430659/28607638568?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAz_aUwPaoNCW6LpnY2vjp1S8NQERNgUX-m6uV80jSA-TWBagObwFFzV3nBGI395UO5A6m5_Dj-dHmSNMu0K6Z99sbMxQOiE5-R8Z9vOA32Rg453Ngg-MavYcaf8IdmtSBf9SiykKm8L3vItjMYjbuSsl5VJ8PG09J4JKD8LtCDRjZHIXH-CLMM7K4QwhoU3uNb1cA&mmp_pid=an_11393951005&uls_trackid=55q0j521026l&utm_campaign=id_xZK0OYlkdp&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznsid5wdzmm"
+},
+{
+    id: "639",
+    name: "639",
+    desc: "Meja Kopi Seluler Aesthetic Meja Tamu",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Meja Kopi Seluler Aesthetic Meja Tamu.jpg",
+    link: "https://shopee.co.id/product/1175050093/27636997036?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAw2UMM85-Qr3O37NPm1UIudvENQ-9IhLDPNSwC-_9Ry1D_XGt-7Apz3knElFcdAmVE6XTIkrW8G5neUhdGMSDZVfsBdCfDZZr0Eeq_ah3e7PjY6CZQ1HGudvQHvMfiVBmqcFS47X-8bXT1BsVFpgltwwisfUps33L8JgSGf-0_yuoFHzI2EznDnWMJqT5kXOytQNSZR&mmp_pid=an_11393951005&uls_trackid=55q0j1n5006l&utm_campaign=id_YBC4dh3vC1&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznsfnbc1hcs"
+},
+{
+{
     id: "638",
     name: "638",
     desc: "Homedoki Tangga Rumah Lipat Tangga Besi Lipat",
