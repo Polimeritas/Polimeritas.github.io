@@ -220,6 +220,40 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/Handmade Rajutan.jpg",
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
+
+
+ {
+    id: "622",
+    name: "622",
+    desc: "KELVINS Lampu tenaga surya 10000W Lampu Jalan Tenaga Surya",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/KELVINS Lampu tenaga surya 10000W Lampu Jalan Tenaga Surya.jpg",
+    link: "https://shopee.co.id/product/1210234359/40806789657?affiliate_seller_voucher_token=8bCnE5QAnHucfTUFbqWc17maq3PLj5y6LF3NdnHmUS&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAy8D5CuPvLDodBtIxDyYZcwYHHzyA1gi0M4qZXucec5hVLTw8Ttv-UAhTuYY4WExeK9I86fVD4WO13i4i8VIylTf_08T6OoLjm9NW2ZEQCmb2PJjfYQtfsKruED9bw32OVbdQ0ju9KHoNhne8oFljZOvNC__NX1He8yoT_H0NfJjtUJvjKuVxEJxqCPO_PJi6kah5da&mmp_pid=an_11393951005&uls_trackid=55pvf961041s&utm_campaign=id_9Ra1P1GWPF&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmywq5er3iw"
+ },
+ {
+    id: "621",
+    name: "621",
+    desc: "Lampu Darurat UFO 1800W",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Lampu Darurat UFO 1800W.jpg",
+    link: "https://shopee.co.id/product/1440970776/45052077148?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAx_gRGt8S0nRHyF-JgkAo4-gAuxubhd_S4DDpdcNeNPGCU3R2yXthRrsv0QppHDUH4eL2yZj-PI0bb08bRSNx2fh5Ip6rSEMoLaNdt43VCwYkeQ_Nf3wXi5lajuZvNGbop3ojUlXGbA0o4IrFTlDd8LbJSRShpCpuXLkafNaGEPEgbR1iRUyTZsC2WkqeIK1LxXF51V&mmp_pid=an_11393951005&uls_trackid=55pvfdth001s&utm_campaign=id_CV6QMi0VHp&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmz1ktikfse"
+ },
+ {
+    id: "620",
+    name: "620",
+    desc: "KELVINS Lampu tenaga surya 15000W",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/KELVINS Lampu tenaga surya 15000W.jpg",
+    link: "https://shopee.co.id/product/1210234359/28155491796?affiliate_seller_voucher_token=8bCnE5QAmVxZjmA1zizosenDND5QP4T6WPgT22aGdU&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAzDuMLF3uL7QyVGTc9V3eepbmvjn35sKkiwLhThONG52RU4_5b-FwhXfwUMV_lD4MaqC7ZuG8amsH7qDJPEFdNRbdb1nZYSXlIpTr9F8cOJABRoZil8KbcXf8g48boCRw8fDGsleWkxWP6DOyloW1piJdo_I4NfXErJTRwTi1oTdCpg56Sb59DN52zi5nqakxjjVEBH&mmp_pid=an_11393951005&uls_trackid=55pvfkh50001&utm_campaign=id_IrVI1ynncT&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmz6znieag7"
+ },
+ {
+    id: "619",
+    name: "619",
+    desc: "Luuga Lampu tenaga surya outdoor",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Luuga Lampu tenaga surya outdoor.jpg",
+    link: "https://shopee.co.id/product/1210227126/24582990432?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAywUzP2Ico3EvZtuoeXSRQiIQt5dItepSDdl1d9_nfyOtMJa4lUrueRbMp7wp6FQZ9Wbj3ZdfT7edPyEY8tSdg_qGZh7dSLk4Fg3QSALaZ_Kb4lns3ALcKKEM-5xxbRngDYJPk3hAjfyax9FA8tqPEkBk5sapq5hY0zFi2tfvomLnAK24WdDjE8ATU4rHt49zaOjLG2&mmp_pid=an_11393951005&uls_trackid=55pvfqbh0001&utm_campaign=id_p7sswfjRt7&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmzbrmdzj67"
+ },
  {
     id: "618",
     name: "618",
