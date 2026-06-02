@@ -221,6 +221,30 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "638",
+    name: "638",
+    desc: "Homedoki Tangga Rumah Lipat Tangga Besi Lipat",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Homedoki Tangga Rumah Lipat Tangga Besi Lipat.jpg",
+    link: "https://shopee.co.id/product/277711630/18826455055?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAymUix1n0VQ10LapaKJjEfxoVZCEgdzY_dQwxNCbLHdNCLywzPowZpZBzm77oMFXpZ9RJb6w7G9L_uoqrxElgHqziqUiQj7brovGiqoh8LdksDmWHB8sftq__X5Ir0roZ-RYHB13rCIZbR4wLXuppeFKfWJVZeS1vZJw48nWU3s9T9ognbT01rkz226Gp9TXWchHg&mmp_pid=an_11393951005&uls_trackid=55q0hp4f041s&utm_campaign=id_VW38jNNOIP&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznrgfyy93mh"
+},
+{
+    id: "637",
+    name: "637",
+    desc: "Karpet bulu ukuran besar 200x160x5cm",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Karpet bulu ukuran besar 200x160x5cm.jpg",
+    link: "https://shopee.co.id/product/229323084/7718804495?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAz7aIZ3QY_rxzE8go0ipOwG2gm8hA4g1QOZ0T8liDrlzYtupabXfZf0rLSAlijgHtdtAuhX2db-YSTfliCfBrhdL5hZZinaQ3sHRcxEofNnwK1MzdEIr-0OgUEEAziFkzBh0MKu8peqT9cIY1DGsYUmINLULxJD4K4T_6uudE0XQA9FjU3J45VzWOPXHqZnKTw&mmp_pid=an_11393951005&uls_trackid=55q0hncr03vc&utm_campaign=id_11dj9j9YUEn&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznrf1o2i25v"
+},
+{
+    id: "636",
+    name: "636",
+    desc: "Special freemir 3in1 Wajan Panci Frypan Granite",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Special freemir 3in1 Wajan Panci Frypan Granite.jpg",
+    link: "https://shopee.co.id/product/161233109/24832616754?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAwZt2Xu66A01bfwaTye3kW9gANEHoeArBSxebTxTmq24PZU0x3XY9LalGs-LuA11lj5ebqdygvjVkim6dNxJC-AYpWCUqQ_u0HuRN4cfe9dK2OCU-jOmdLdsNEu_hhK8VU9U3QsQQThXhPp-AjuZWdDwaDDgW_tcyilC_dy9cQEYWrEgkrESoB6D5ESEHZ95eYc_A&mmp_pid=an_11393951005&uls_trackid=55q0hvfc02vc&utm_campaign=id_mf59GDPDD3&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznrmn9yjm7m"
+},
+{
     id: "635",
     name: "635",
     desc: "freemir Panci Susu Gemoy Bulat",
