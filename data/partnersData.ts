@@ -274,7 +274,7 @@ export const partnerItems: Partner[] = [
     desc: "UPHOME Panci Presto Alumunium Serbaguna With Steamer",
     subDesc: "Indonesia",
     image: "/img/Partner2/UPHOME Panci Presto Alumunium Serbaguna With Steamer.jpg",
-    link: :"https://s.shopee.co.id/AUrL8iobdD"
+    link: "https://s.shopee.co.id/AUrL8iobdD"
 },
 {
     id: "649",
@@ -282,7 +282,7 @@ export const partnerItems: Partner[] = [
     desc: "HOMINDO Panci MPASI 4 Pcs",
     subDesc: "Indonesia",
     image: "/img/Partner2/HOMINDO Panci MPASI 4 Pcs.jpg",
-    link: "https://s.shopee.co.id/60OvmSzLuD"
+    link:"https://s.shopee.co.id/60OvmSzLuD"
 },
 {
     id: "648",
