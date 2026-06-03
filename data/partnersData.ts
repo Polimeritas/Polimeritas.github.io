@@ -229,6 +229,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "673",
+    name: "673",
+    desc: "Wimpy NARA Polymer Clay Fresh",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Wimpy NARA Polymer Clay Fresh.jpg",
+    link: "https://s.shopee.co.id/40ds1vUGLk"
+},
+{
+    id: "672",
+    name: "672",
+    desc: "PLASTIK POLYMAILER HITAM PACKING",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/PLASTIK POLYMAILER HITAM PACKING.jpg",
+    link: "https://s.shopee.co.id/8KmrBt2QI3"
+},
+{
+    id: "671",
+    name: "671",
+    desc: "KokoCoat PCB Conformal Coating Anti Konslet",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/KokoCoat PCB Conformal Coating Anti Konslet.jpg",
+    link: "https://s.shopee.co.id/8fPhaUwgZF"
+},
+{
+    id: "670",
+    name: "670",
+    desc: "Fumu Plastik Packing Baju 30X40CM",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Fumu Plastik Packing Baju 30X40CM.jpg",
+    link: "https://s.shopee.co.id/6AiMbtrQGH"
+},
+{
     id: "669",
     name: "669",
     desc: "Pasak bumi kalimantan",
