@@ -229,6 +229,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "681",
+    name: "681",
+    desc: "Senar Pancing Nylon Polymer 500M",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Senar Pancing Nylon Polymer 500M.jpg",
+    link: "https://s.shopee.co.id/20snfXBP8S"
+}, 
+{
+    id: "680",
+    name: "680",
+    desc: "Cernit Number One Polymer Clay",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Cernit Number One Polymer Clay.jpg",
+    link: "https://s.shopee.co.id/1qZNTEosd2"
+}, 
+{
+    id: "679",
+    name: "679",
+    desc: "Wati Lakban Anti Bocor",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Wati Lakban Anti Bocor.jpg",
+    link: "https://s.shopee.co.id/70HTclpv7L"
+},  
+{
+    id: "678",
+    name: "678",
+    desc: "Mote Manik Polymer Donut 6mm Untuk Aksesoris",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Mote Manik Polymer Donut 6mm Untuk Aksesoris.jpg",
+    link: "https://s.shopee.co.id/3VhbSMZDgS"
+},  
+{
     id: "677",
     name: "677",
     desc: "setrika uap portable sederhana 3in1",
