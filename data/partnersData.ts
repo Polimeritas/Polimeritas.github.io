@@ -221,6 +221,30 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "655",
+    name: "655",
+    desc: "Cermin Bunga Makeup Rias Standing Mirror Kaca Estetik",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Cermin Bunga Makeup Rias Standing Mirror Kaca Estetik.jpg",
+    link: :"https://s.shopee.co.id/AAEUkQcVDl"
+},
+{
+    id: "654",
+    name: "654",
+    desc: "Alician Sisir Pelurus Rambut Portable",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Alician Sisir Pelurus Rambut Portable.jpg",
+    link: :"https://s.shopee.co.id/4qCyObATBL"
+},
+{
+    id: "653",
+    name: "653",
+    desc: "HAN RIVER HRHD01BK Hair dryer 800W",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HAN RIVER HRHD01BK Hair dryer 800W.jpg",
+    link: :"https://s.shopee.co.id/30lKDCZeK9"
+},
+{
     id: "652",
     name: "652",
     desc: "Prasmanan Set Stainless Tutup Kaca 28x34 Lengkap",
