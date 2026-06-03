@@ -221,12 +221,44 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "665",
+    name: "665",
+    desc: "Teh Daun Kumis Kucing 100% Original",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teh Daun Kumis Kucing 100% Original.jpg",
+    link: "https://s.shopee.co.id/7VDjpiC354"
+},
+{
+    id: "664",
+    name: "664",
+    desc: "TEH DIET AMPUH",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/TEH DIET AMPUH.jpg",
+    link: "https://s.shopee.co.id/gNPhB2C80"
+},
+{
+    id: "663",
+    name: "663",
+    desc: "Teh bunga Telang premium isi 5 celup",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teh bunga Telang premium isi 5 celup.jpg",
+    link: "https://s.shopee.co.id/3qKRT0q9Du"
+},
+{
+    id: "662",
+    name: "662",
+    desc: "Teh Diet Matchana",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teh Diet Matchana.jpg",
+    link: "https://s.shopee.co.id/3g11Giv7c8"
+},
+{
     id: "661",
     name: "661",
-    desc: "",
+    desc: "HIASAN DINDING MODERN AESTHETIC BURUNG MERAK",
     subDesc: "Indonesia",
-    image: "/img/Partner2/.jpg",
-    link: ""
+    image: "/img/Partner2/HIASAN DINDING MODERN AESTHETIC BURUNG MERAK.jpg",
+    link: "https://s.shopee.co.id/7KuJdX5whK"
 },
 {
     id: "660",
