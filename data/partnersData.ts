@@ -226,7 +226,7 @@ export const partnerItems: Partner[] = [
     desc: "Collagen Foot Cream 60g Krim Kaki Pecah Dan Kering",
     subDesc: "Indonesia",
     image: "/img/Partner2/Collagen Foot Cream 60g Krim Kaki Pecah Dan Kering.jpg",
-    link: :"https://s.shopee.co.id/2g8Toi3N01"
+    link: "https://s.shopee.co.id/2g8Toi3N01"
 },
 {
     id: "655",
@@ -234,7 +234,7 @@ export const partnerItems: Partner[] = [
     desc: "Cermin Bunga Makeup Rias Standing Mirror Kaca Estetik",
     subDesc: "Indonesia",
     image: "/img/Partner2/Cermin Bunga Makeup Rias Standing Mirror Kaca Estetik.jpg",
-    link: :"https://s.shopee.co.id/AAEUkQcVDl"
+    link: "https://s.shopee.co.id/AAEUkQcVDl"
 },
 {
     id: "654",
@@ -242,7 +242,7 @@ export const partnerItems: Partner[] = [
     desc: "Alician Sisir Pelurus Rambut Portable",
     subDesc: "Indonesia",
     image: "/img/Partner2/Alician Sisir Pelurus Rambut Portable.jpg",
-    link: :"https://s.shopee.co.id/4qCyObATBL"
+    link: "https://s.shopee.co.id/4qCyObATBL"
 },
 {
     id: "653",
@@ -250,7 +250,7 @@ export const partnerItems: Partner[] = [
     desc: "HAN RIVER HRHD01BK Hair dryer 800W",
     subDesc: "Indonesia",
     image: "/img/Partner2/HAN RIVER HRHD01BK Hair dryer 800W.jpg",
-    link: :"https://s.shopee.co.id/30lKDCZeK9"
+    link: "https://s.shopee.co.id/30lKDCZeK9"
 },
 {
     id: "652",
@@ -258,7 +258,7 @@ export const partnerItems: Partner[] = [
     desc: "Prasmanan Set Stainless Tutup Kaca 28x34 Lengkap",
     subDesc: "Indonesia",
     image: "/img/Partner2/Prasmanan Set Stainless Tutup Kaca 28x34 Lengkap.jpg",
-    link: :"https://s.shopee.co.id/8V6Gl8SA0Q"
+    link: "https://s.shopee.co.id/8V6Gl8SA0Q"
 },
 {
     id: "651",
@@ -266,7 +266,7 @@ export const partnerItems: Partner[] = [
     desc: "Sinda Panci Susu Anti lengket Panci",
     subDesc: "Indonesia",
     image: "/img/Partner2/Sinda Panci Susu Anti lengket Panci.jpg",
-    link: :"https://s.shopee.co.id/30lKCzs6Fc"
+    link: "https://s.shopee.co.id/30lKCzs6Fc"
 },
 {
     id: "650",
