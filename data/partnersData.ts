@@ -221,6 +221,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "652",
+    name: "652",
+    desc: "Prasmanan Set Stainless Tutup Kaca 28x34 Lengkap",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Prasmanan Set Stainless Tutup Kaca 28x34 Lengkap.jpg",
+    link: :"https://s.shopee.co.id/8V6Gl8SA0Q"
+},
+{
+    id: "651",
+    name: "651",
+    desc: "Sinda Panci Susu Anti lengket Panci",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sinda Panci Susu Anti lengket Panci.jpg",
+    link: :"https://s.shopee.co.id/30lKCzs6Fc"
+},
+{
+    id: "650",
+    name: "650",
+    desc: "UPHOME Panci Presto Alumunium Serbaguna With Steamer",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/UPHOME Panci Presto Alumunium Serbaguna With Steamer.jpg",
+    link: :"https://s.shopee.co.id/AUrL8iobdD"
+},
+{
+    id: "649",
+    name: "649",
+    desc: "HOMINDO Panci MPASI 4 Pcs",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HOMINDO Panci MPASI 4 Pcs.jpg",
+    link: :"https://s.shopee.co.id/60OvmSzLuD"
+},
+{
     id: "648",
     name: "648",
     desc: "Bantal Tidur Busa Memori Bantal Tidur Multifungsi",
