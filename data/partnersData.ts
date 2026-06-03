@@ -229,6 +229,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "677",
+    name: "677",
+    desc: "setrika uap portable sederhana 3in1",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/setrika uap portable sederhana 3in1.jpg",
+    link: "https://s.shopee.co.id/2LVe3R8jFV"
+},
+{
+    id: "676",
+    name: "676",
+    desc: "Goto Shane Milk Frother Hand Mixer",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Goto Shane Milk Frother Hand Mixer.jpg",
+    link: "https://s.shopee.co.id/5L9FczMy1p"
+},
+{
+    id: "675",
+    name: "675",
+    desc: "Mesin Cuci Mini Portable",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Mesin Cuci Mini Portable.jpg",
+    link: "https://s.shopee.co.id/30lKqiajuq"
+},
+{
+    id: "674",
+    name: "674",
+    desc: "Alat Pengusir Pembasmi Nyamuk",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Alat Pengusir Pembasmi Nyamuk.jpg",
+    link: "https://s.shopee.co.id/4qCz26hWAF"
+},
+{
     id: "673",
     name: "673",
     desc: "Wimpy NARA Polymer Clay Fresh",
