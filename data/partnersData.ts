@@ -221,6 +221,46 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "661",
+    name: "661",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: ""
+},
+{
+    id: "660",
+    name: "660",
+    desc: "Ready Coklat Dubai Swiss Fru Kunafa Pistachio",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ready Coklat Dubai Swiss Fru Kunafa Pistachio.jpg",
+    link: "https://s.shopee.co.id/6py2owJnbG"
+},
+{
+    id: "659",
+    name: "659",
+    desc: "JATIM SEDAAP Mie Goreng & Kuah (1 dus)",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/JATIM SEDAAP Mie Goreng & Kuah (1 dus).jpg",
+    link: "https://s.shopee.co.id/qgpfvqH0q"
+},
+{
+    id: "658",
+    name: "658",
+    desc: "(Penjualan Laris) Kacang Panggang Sehat Campuran Mix Nut",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/(Penjualan Laris) Kacang Panggang Sehat Campuran Mix Nut.jpg",
+    link: "https://s.shopee.co.id/AAEUn6NlLc"
+},
+{
+    id: "657",
+    name: "657",
+    desc: "BUMBU MASAK INSTAN (BMB) LANGSUNG DARI PABRIKNYA",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/BUMBU MASAK INSTAN (BMB) LANGSUNG DARI PABRIKNYA.jpg",
+    link: "https://s.shopee.co.id/4AxHe5koqB"
+},
+{
     id: "656",
     name: "656",
     desc: "Collagen Foot Cream 60g Krim Kaki Pecah Dan Kering",
