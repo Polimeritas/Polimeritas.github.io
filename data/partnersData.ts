@@ -162,7 +162,7 @@ export const partnerItems: Partner[] = [
     desc: "Telur ayam negeri 1 kg",
     subDesc: "Indonesia",
     image: "/img/Partner2/Telur ayam negeri 1 kg.jpg",
-    link: "https://shopee.co.id/product/13309900/54408998851?credential_token=8wEwiDL7ZRjBNA33XvvuXzKoijidLYBzhNNkS4k2i4&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAwrC7_-sZ471SxvUf--B-RcwDmFduQp2U04zidUZh-sZWe24N-tqL_v7JOaZoaFIDwBnFCu9FxfoZiQfmv3p9oVLa17-qIot5Jm23bxosE6GX0bMSc4mUYx7_024q_CefXadTcfd9fTfEVNUosqNEnmMxAluXVY1mvz6VTLni6XpcYlhd9ZcOTNaC8GMvtA8uI&mmp_pid=an_11393951005&uls_trackid=55k1c6rq00kg&utm_campaign=id_oDwmflgQMl&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evka8otk73q9"
+    link: "https://s.shopee.co.id/1Ld6fehp1Q"
   },
   {
     id: "Partner Polimeritas",
