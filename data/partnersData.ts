@@ -190,6 +190,14 @@ export const partnerItems: Partner[] = [
   },
   {
     id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Montana pensil 2b",
+    subDesc: "Jabodetabek",
+    image: "/img/Partner2/Montana pensil 2b.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7647082321111223572"
+  },
+  {
+    id: "Partner Polimeritas",
     name: "Partner Polimeritas-Umum",
     desc: "Lu Li Hortifulli Hampers by ESC",
     subDesc: "Jabodetabek",
