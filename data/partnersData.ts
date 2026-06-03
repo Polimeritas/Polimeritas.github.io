@@ -221,6 +221,14 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "656",
+    name: "656",
+    desc: "Collagen Foot Cream 60g Krim Kaki Pecah Dan Kering",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Collagen Foot Cream 60g Krim Kaki Pecah Dan Kering.jpg",
+    link: :"https://s.shopee.co.id/2g8Toi3N01"
+},
+{
     id: "655",
     name: "655",
     desc: "Cermin Bunga Makeup Rias Standing Mirror Kaca Estetik",
