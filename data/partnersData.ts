@@ -221,6 +221,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
 {
+    id: "669",
+    name: "669",
+    desc: "Pasak bumi kalimantan",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pasak bumi kalimantan.jpg",
+    link: "https://s.shopee.co.id/1qZN8LcKHw"
+},
+{
+    id: "668",
+    name: "668",
+    desc: "Teh Rimpang JSR Syifacare",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teh Rimpang JSR Syifacare.jpg",
+    link: "https://s.shopee.co.id/6fectFZKkT"
+},
+{
+    id: "667",
+    name: "667",
+    desc: "TEH KUNYIT,JAHE & SERAI",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/TEH KUNYIT,JAHE & SERAI.jpg",
+    link: "https://s.shopee.co.id/902XfZzOHQ"
+},
+{
+    id: "666",
+    name: "666",
+    desc: "TEH DAUN KELOR ORGANIK MURNI 100%",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/TEH DAUN KELOR ORGANIK MURNI 100%.jpg",
+    link: "https://s.shopee.co.id/70HTHubJyu"
+},
+{
     id: "665",
     name: "665",
     desc: "Teh Daun Kumis Kucing 100% Original",
