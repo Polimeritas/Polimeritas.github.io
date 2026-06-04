@@ -228,6 +228,14 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/Handmade Rajutan.jpg",
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Bunga Mawar Plastik",
+    subDesc: "Jabodetabek",
+    image: "/img/Partner2/Bunga Mawar Plastik.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
+  },
 {
     id: "681",
     name: "681",
