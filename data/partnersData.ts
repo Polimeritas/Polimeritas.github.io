@@ -231,7 +231,7 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "BEST SELLER",
-    desc: "Bunga Mawar Plastik",
+    desc: "Bunga Mawar Plastik 1 Tangkai",
     subDesc: "Jabodetabek",
     image: "/img/Partner2/Bunga Mawar Plastik.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
