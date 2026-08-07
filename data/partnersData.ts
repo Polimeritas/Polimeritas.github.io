@@ -6105,6 +6105,38 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/PET VIGOR Obat Kutu Kucing Anjing Fipronil.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7645524717755010325"
   },
+  {
+    id: "industri-petshop",
+    name: "Antiscabies Plus Nano Aerosol",
+    desc: "Antiscabies Plus Nano Aerosol",
+    subDesc: "Industri",
+    image: "/img/Partner2/Antiscabies Plus Nano Aerosol.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7669632983363505428"
+  },
+  {
+    id: "industri-petshop",
+    name: "Clever Solutions - Anti Scabies Plus Ultimate 12in1",
+    desc: "Clever Solutions - Anti Scabies Plus Ultimate 12in1",
+    subDesc: "Industri",
+    image: "/img/Partner2/Clever Solutions - Anti Scabies Plus Ultimate 12in1.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7669701926011030805"
+  },
+  {
+    id: "industri-petshop",
+    name: "Paket Antiscabies Anabul",
+    desc: "Paket Antiscabies Anabul",
+    subDesc: "Industri",
+    image: "/img/Partner2/Paket Antiscabies Anabul.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7669632236223778069"
+  },
+  {
+    id: "industri-petshop",
+    name: "Clever Solutions - Anti Scabies Plus Syrup 30ML",
+    desc: "Clever Solutions - Anti Scabies Plus Syrup 30ML",
+    subDesc: "Industri",
+    image: "/img/Partner2/Clever Solutions - Anti Scabies Plus Syrup 30ML.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7669305482942614804"
+  },
   // --- COMING SOON SECTION ---
   {
     id: "industri-1",
