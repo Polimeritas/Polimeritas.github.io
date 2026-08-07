@@ -237,6 +237,30 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "700",
+    name: "700",
+    desc: "(CSL)Rak Susun Serbaguna 4 Tingkat Dengan Rak Kamar Mandi Bahan Plastik Portable Rak Dapur",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/(CSL)Rak Susun Serbaguna 4 Tingkat Dengan Rak Kamar Mandi Bahan Plastik Portable Rak Dapur.jpg",
+    link: "https://s.shopee.co.id/3qM7jxqpbG"
+},
+{
+    id: "699",
+    name: "699",
+    desc: "Benih Krokot Moserose 100 Butir",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Benih Krokot Moserose 100 Butir.jpg",
+    link: "https://s.shopee.co.id/5fnlvMFtbd"
+},
+{
+    id: "698",
+    name: "698",
+    desc: "MASKER DUCKBILL FACEMASK isi 50",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/MASKER DUCKBILL FACEMASK isi 50.jpg",
+    link: "https://s.shopee.co.id/2Vqk9aCVda"
+},
+{
     id: "697",
     name: "697",
     desc: "Midea Air Purifier Portable KJ300G-A1S",
