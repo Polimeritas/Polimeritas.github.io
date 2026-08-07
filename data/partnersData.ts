@@ -6247,7 +6247,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Worm Guard 5gr By Golden Paw Obat Cacing",
     subDesc: "Industri",
     image: "/img/Partner2/Worm Guard 5gr By Golden Paw Obat Cacing.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://www.tiktok.com/@booyenku"
   },
     {
     id: "industri-petshop",
@@ -6255,7 +6255,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Golden Paw Anti Scabies 8in1",
     subDesc: "Industri",
     image: "/img/Partner2/Golden Paw Anti Scabies 8in1.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://www.tiktok.com/@booyenku"
   },
     {
     id: "industri-petshop",
@@ -6263,7 +6263,15 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Golden Paw-Anti Virus Guard Syrup",
     subDesc: "Industri",
     image: "/img/Partner2/Golden Paw-Anti Virus Guard Syrup.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://www.tiktok.com/@booyenku"
+  },
+    {
+    id: "industri-petshop",
+    name: "Felina Freshpack 55gr Makanan Kucing",
+    desc: "Felina Freshpack 55gr Makanan Kucing",
+    subDesc: "Industri",
+    image: "/img/Partner2/Felina Freshpack 55gr Makanan Kucing.jpg",
+    link: "https://s.shopee.co.id/9pdKRpBABu"
   },
   // --- COMING SOON SECTION ---
   {
