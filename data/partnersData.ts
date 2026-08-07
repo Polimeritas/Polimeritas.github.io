@@ -6246,7 +6246,7 @@ export const partnerIndustriItems: Partner[] = [
     name: "Worm Guard 5gr By Golden Paw Obat Cacing",
     desc: "Worm Guard 5gr By Golden Paw Obat Cacing",
     subDesc: "Industri",
-    image: "/img/Partner2/.jpg",
+    image: "/img/Partner2/Worm Guard 5gr By Golden Paw Obat Cacing.jpg",
     link: "https://s.shopee.co.id/"
   },
     {
