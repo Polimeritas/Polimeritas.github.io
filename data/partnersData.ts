@@ -237,6 +237,30 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "689",
+    name: "689",
+    desc: "Paket isi 5 Kemplang Bangka mini - Kerupuk Kemplang",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Paket isi 5 Kemplang Bangka mini - Kerupuk Kemplang.jpg",
+    link: "https://s.shopee.co.id/3B6QSKPTo4"
+},
+{
+    id: "688",
+    name: "688",
+    desc: "Kemplang Bangka Keriting 125g Kerupuk Ikan Gurih",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kemplang Bangka Keriting 125g Kerupuk Ikan Gurih.jpg",
+    link: "https://s.shopee.co.id/6Ak21ragXD"
+},
+{
+    id: "687",
+    name: "687",
+    desc: "Kecap Asin Bangka Cap Siong Gajah Kecil 300ml",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kecap Asin Bangka Cap Siong Gajah Kecil 300ml.jpg",
+    link: "https://s.shopee.co.id/BSosrH7xU"
+},
+{
     id: "686",
     name: "686",
     desc: "TNW Lampu Foto Lampu LED Video Light",
