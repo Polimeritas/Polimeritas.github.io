@@ -237,6 +237,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "704",
+    name: "704",
+    desc: "Botol Tumbler 900ml Stainless Steel Tahan Panas Dingin",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Botol Tumbler 900ml Stainless Steel Tahan Panas Dingin.jpg",
+    link: "https://s.shopee.co.id/9pdLOcieCS"
+},
+{
+    id: "703",
+    name: "703",
+    desc: "[CID] Kipas Angin Mini Portable USB Genggam",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/[CID] Kipas Angin Mini Portable USB Genggam.jpg",
+    link: "https://s.shopee.co.id/LmG5BgoV6"
+},
+{
+    id: "702",
+    name: "702",
+    desc: "Tumbler Jepang Botol Minum Macaroon Kaca 500mL",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tumbler Jepang Botol Minum Macaroon Kaca 500mL.jpg",
+    link: "https://s.shopee.co.id/gP6TpKJs4"
+},
+{
+    id: "701",
+    name: "701",
+    desc: "Rak Dapur 4 Susun Rak Troli Serbaguna",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Rak Dapur 4 Susun Rak Troli Serbaguna.jpg",
+    link: "https://s.shopee.co.id/4fvFFCczXb"
+},
+{
     id: "700",
     name: "700",
     desc: "(CSL)Rak Susun Serbaguna 4 Tingkat Dengan Rak Kamar Mandi Bahan Plastik Portable Rak Dapur",
