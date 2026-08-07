@@ -6233,6 +6233,38 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Clever Solutions - Anti Scabies Plus Syrup 30ML.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7669305482942614804"
   },
+    {
+    id: "industri-petshop",
+    name: "Golden Paw - FLUGUARD SYRUP 30 ml",
+    desc: "Golden Paw - FLUGUARD SYRUP 30 ml",
+    subDesc: "Industri",
+    image: "/img/Partner2/Golden Paw - FLUGUARD SYRUP 30 ml.jpg",
+    link: "https://s.shopee.co.id/gP5WTNNuz"
+  },
+    {
+    id: "industri-petshop",
+    name: "Worm Guard 5gr By Golden Paw Obat Cacing",
+    desc: "Worm Guard 5gr By Golden Paw Obat Cacing",
+    subDesc: "Industri",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+    {
+    id: "industri-petshop",
+    name: "Golden Paw Anti Scabies 8in1",
+    desc: "Golden Paw Anti Scabies 8in1",
+    subDesc: "Industri",
+    image: "/img/Partner2/Golden Paw Anti Scabies 8in1.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+    {
+    id: "industri-petshop",
+    name: "Golden Paw-Anti Virus Guard Syrup",
+    desc: "Golden Paw-Anti Virus Guard Syrup",
+    subDesc: "Industri",
+    image: "/img/Partner2/Golden Paw-Anti Virus Guard Syrup.jpg",
+    link: "https://s.shopee.co.id/"
+  },
   // --- COMING SOON SECTION ---
   {
     id: "industri-1",
