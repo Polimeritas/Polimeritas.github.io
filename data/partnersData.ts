@@ -237,6 +237,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "697",
+    name: "697",
+    desc: "Midea Air Purifier Portable KJ300G-A1S",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Midea Air Purifier Portable KJ300G-A1S.jpg",
+    link: "https://s.shopee.co.id/7VFQ5sbGk9"
+},
+{
+    id: "696",
+    name: "696",
+    desc: "[BANTAL CONTOUR] TUSEN SmartSleep Moduflex",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/[BANTAL CONTOUR] TUSEN SmartSleep Moduflex.jpg",
+    link: "https://s.shopee.co.id/6fgJ6JxfoL"
+},
+{
+    id: "695",
+    name: "695",
+    desc: "1 Pack 50 pcs Protection Sleeve Besar",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/1 Pack 50 pcs Protection Sleeve Besar.jpg",
+    link: "https://s.shopee.co.id/4Ayy7hkye7"
+},
+{
+    id: "694",
+    name: "694",
+    desc: "Tricycle Sepeda Anak Roda Tiga RY-3082",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tricycle Sepeda Anak Roda Tiga RY-3082.jpg",
+    link: "https://s.shopee.co.id/5VULi7XuSn"
+},
+{
     id: "693",
     name: "693",
     desc: "Keripik Kimpul Talas Belitung rasa Pedas Premium",
