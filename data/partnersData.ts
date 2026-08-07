@@ -237,6 +237,46 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "686",
+    name: "686",
+    desc: "TNW Lampu Foto Lampu LED Video Light",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/TNW Lampu Foto Lampu LED Video Light.jpg",
+    link: "https://s.shopee.co.id/BSor8u9kS"
+},
+{
+    id: "685",
+    name: "685",
+    desc: "Kain Batik Katun 40's Premium",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kain Batik Katun 40's Premium.jpg",
+    link: "https://s.shopee.co.id/20uT2NIaMy"
+},
+{
+    id: "684",
+    name: "684",
+    desc: "HAFIZAH Setelan Baju Adat Anak Bangka Belitung",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HAFIZAH Setelan Baju Adat Anak Bangka Belitung.jpg",
+    link: "https://s.shopee.co.id/W5fFe93GK"
+}, 
+{
+    id: "683",
+    name: "683",
+    desc: "GENIO All Purpose Cleaner - Pembersih Sepatu",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/GENIO All Purpose Cleaner - Pembersih Sepatu.jpg",
+    link: "https://s.shopee.co.id/111vqZlz0K"
+}, 
+{
+    id: "682",
+    name: "682",
+    desc: "Bulumata Tanpa Lem Korean Eyelashes",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bulumata Tanpa Lem Korean Eyelashes.jpg",
+    link: "https://s.shopee.co.id/50Y4byCV7I"
+}, 
+{
     id: "681",
     name: "681",
     desc: "Senar Pancing Nylon Polymer 500M",
