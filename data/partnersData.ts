@@ -257,7 +257,7 @@ export const partnerItems: Partner[] = [
     name: "691",
     desc: "Keripik sukun stik Dua mutiara asli bangka belitung",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Keripik sukun stik Dua mutiara asli bangka belitung  .jpg",
+    image: "/img/Partner2/Keripik sukun stik Dua mutiara asli bangka belitung.jpg",
     link: "https://s.shopee.co.id/2VqjfbNx1i"
 },
 {
