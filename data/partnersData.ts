@@ -237,6 +237,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "693",
+    name: "693",
+    desc: "Keripik Kimpul Talas Belitung rasa Pedas Premium",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Keripik Kimpul Talas Belitung rasa Pedas Premium.jpg",
+    link: "https://s.shopee.co.id/50Y4e82v3q"
+},
+{
+    id: "692",
+    name: "692",
+    desc: "ketam isi belitung 10 pcs",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/ketam isi belitung 10 pcs.jpg",
+    link: "https://s.shopee.co.id/40fXSK63Vb"
+},
+{
+    id: "691",
+    name: "691",
+    desc: "Keripik sukun stik Dua mutiara asli bangka belitung",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Keripik sukun stik Dua mutiara asli bangka belitung  .jpg",
+    link: "https://s.shopee.co.id/2VqjfbNx1i"
+},
+{
+    id: "690",
+    name: "690",
+    desc: "Krispi Kulit Ikan 55gr",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Krispi Kulit Ikan 55gr.jpg",
+    link: "https://s.shopee.co.id/1BLM5B5fdE"
+},
+{
     id: "689",
     name: "689",
     desc: "Paket isi 5 Kemplang Bangka mini - Kerupuk Kemplang",
