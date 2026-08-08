@@ -237,6 +237,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "712",
+    name: "712",
+    desc: "APEN Penjepit Silikon Anti Panas Sarung Tangan Pegangan Panci Karet Perlengkapan Dapur Barang Unik",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/APEN Penjepit Silikon Anti Panas Sarung Tangan Pegangan Panci Karet Perlengkapan Dapur Barang Unik.jpg",
+    link: "https://s.shopee.co.id/111y3lCEPJ"
+}, 
+{
+    id: "711",
+    name: "711",
+    desc: "Bendera Plastik isi 100pics 1pack",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bendera Plastik isi 100pics 1pack.jpg",
+    link: "https://s.shopee.co.id/1LeoSLy1tw"
+}, 
+{
+    id: "710",
+    name: "710",
+    desc: "Sikat Lantai dengan Pegangan Panjang dan rotasi 180 derajat",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sikat Lantai dengan Pegangan Panjang dan rotasi 180 derajat.jpg",
+    link: "https://s.shopee.co.id/7AcbP5JxPk"
+}, 
+{
+    id: "709",
+    name: "709",
+    desc: "Air Milk Tea Bucket 6 8 10 12 Liter Tahan Panas Dingin",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Air Milk Tea Bucket 6 8 10 12 Liter Tahan Panas Dingin.jpg",
+    link: "https://s.shopee.co.id/2qTcF5s2I4"
+}, 
+{
     id: "708",
     name: "708",
     desc: "REFILL TERASI BANGKA SANGRAI KUALITAS SUPER ASLI BANGKA",
