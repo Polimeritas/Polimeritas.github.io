@@ -6361,6 +6361,38 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Felina Freshpack 55gr Makanan Kucing.jpg",
     link: "https://s.shopee.co.id/9pdKRpBABu"
   },
+    {
+    id: "industri-petshop",
+    name: "Life Cat Creamy 30gr Snack Kucing Isi 2 Varian",
+    desc: "Life Cat Creamy 30gr Snack Kucing Isi 2 Varian",
+    subDesc: "Industri",
+    image: "/img/Partner2/Life Cat Creamy 30gr Snack Kucing Isi 2 Varian.jpg",
+    link: "https://s.shopee.co.id/W5gWqtB2Z"
+  },
+    {
+    id: "industri-petshop",
+    name: "Snack creamy YUKI CAT ISI 60 PCS",
+    desc: "Snack creamy YUKI CAT ISI 60 PCS",
+    subDesc: "Industri",
+    image: "/img/Partner2/Snack creamy YUKI CAT ISI 60 PCS.jpg",
+    link: "https://s.shopee.co.id/7VFQrkMMGu"
+  },
+    {
+    id: "industri-petshop",
+    name: "Meo creamy treat 60gr isi 4 me-o snack kucing",
+    desc: "Meo creamy treat 60gr isi 4 me-o snack kucing",
+    subDesc: "Industri",
+    image: "/img/Partner2/Meo creamy treat 60gr isi 4 me-o snack kucing.jpg",
+    link: "https://s.shopee.co.id/9pdLe3rdDd"
+  },
+    {
+    id: "industri-petshop",
+    name: "Holycatlabs Royal Care Real Meat Wetfood Can Makanan Basah Kaleng Kucing 400gr",
+    desc: "Holycatlabs Royal Care Real Meat Wetfood Can Makanan Basah Kaleng Kucing 400gr",
+    subDesc: "Industri",
+    image: "/img/Partner2/Holycatlabs Royal Care Real Meat Wetfood Can Makanan Basah Kaleng Kucing 400gr.jpg",
+    link: "https://s.shopee.co.id/5fnmgSj7ga"
+  },
   // --- COMING SOON SECTION ---
   {
     id: "industri-1",
