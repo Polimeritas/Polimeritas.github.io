@@ -237,6 +237,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "708",
+    name: "708",
+    desc: "REFILL TERASI BANGKA SANGRAI KUALITAS SUPER ASLI BANGKA",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/REFILL TERASI BANGKA SANGRAI KUALITAS SUPER ASLI BANGKA.jpg",
+    link: "https://s.shopee.co.id/1VyEe6fiFY"
+}, 
+{
+    id: "707",
+    name: "707",
+    desc: "Rusip Sungai Pedade Toboali Bangka 300 ml",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Rusip Sungai Pedade Toboali Bangka 300 ml.jpg",
+    link: "https://s.shopee.co.id/6Ak4ChsGxr"
+}, 
+{
+    id: "706",
+    name: "706",
+    desc: "KOPI BANGKA SUNGAILIAT - 100% PURE ROBUSTA COFFEE",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/KOPI BANGKA SUNGAILIAT - 100% PURE ROBUSTA COFFEE.jpg",
+    link: "https://s.shopee.co.id/3qM9QR1RHA"
+}, 
+{
+    id: "705",
+    name: "705",
+    desc: "Terasi Belacan Sangrai Asli dari Toboali",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Terasi Belacan Sangrai Asli dari Toboali.jpg",
+    link: "https://s.shopee.co.id/1BLOFYkJco"
+}, 
+{
     id: "704",
     name: "704",
     desc: "Botol Tumbler 900ml Stainless Steel Tahan Panas Dingin",
