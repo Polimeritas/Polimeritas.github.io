@@ -6393,6 +6393,62 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Holycatlabs Royal Care Real Meat Wetfood Can Makanan Basah Kaleng Kucing 400gr.jpg",
     link: "https://s.shopee.co.id/5fnmgSj7ga"
   },
+  {
+    id: "industri-petshop",
+    name: "Holycat Real Meat Makanan Kering Dry Food Kucing 450gr",
+    desc: "Holycat Real Meat Makanan Kering Dry Food Kucing 450gr",
+    subDesc: "Industri",
+    image: "/img/Partner2/Holycat Real Meat Makanan Kering Dry Food Kucing 450gr.jpg",
+    link: "https://s.shopee.co.id/3LPruhiO6s"
+  },
+      {
+    id: "industri-petshop",
+    name: "Majes Magic Bites Hair & Skin Care Makanan Kucing Kering 1kg Rasa Salmon - Adult Dry Cat Food",
+    desc: "Majes Magic Bites Hair & Skin Care Makanan Kucing Kering 1kg Rasa Salmon - Adult Dry Cat Food",
+    subDesc: "Industri",
+    image: "/img/Partner2/Majes Magic Bites Hair & Skin Care Makanan Kucing Kering 1kg Rasa Salmon - Adult Dry Cat Food.jpg",
+    link: "https://s.shopee.co.id/3g2iJOJeOG"
+  },
+      {
+    id: "industri-petshop",
+    name: "AWINDO TOPPET 800GR - Makanan Pakan Premium Kucing Kering Toppet Tuna Salmon Dry Cat Food Adult",
+    desc: "AWINDO TOPPET 800GR - Makanan Pakan Premium Kucing Kering Toppet Tuna Salmon Dry Cat Food Adult",
+    subDesc: "Industri",
+    image: "/img/Partner2/AWINDO TOPPET 800GR - Makanan Pakan Premium Kucing Kering Toppet Tuna Salmon Dry Cat Food Adult.jpg",
+    link: "https://s.shopee.co.id/80BhTMqrBo"
+  },
+      {
+    id: "industri-petshop",
+    name: "PL Growssy Susu 1 Box isi 11 Bayi Anak Kucing 0 2 Bulan Kitten Pengganti ASI Penggemuk",
+    desc: "PL Growssy Susu 1 Box isi 11 Bayi Anak Kucing 0 2 Bulan Kitten Pengganti ASI Penggemuk",
+    subDesc: "Industri",
+    image: "/img/Partner2/PL Growssy Susu 1 Box isi 11 Bayi Anak Kucing 0 2 Bulan Kitten Pengganti ASI Penggemuk.jpg",
+    link: "https://s.shopee.co.id/60Qd5iRhFF"
+  },
+    {
+    id: "industri-petshop",
+    name: "Pussbite makanan kucing salmon dan tuna Freshpack 800gr",
+    desc: "Pussbite makanan kucing salmon dan tuna Freshpack 800gr",
+    subDesc: "Industri",
+    image: "/img/Partner2/Pussbite makanan kucing salmon dan tuna Freshpack 800gr.jpg",
+    link: "https://s.shopee.co.id/W5gXdLDpF"
+  },
+    {
+    id: "industri-petshop",
+    name: "DR PAW DRY FOOD KUCING SEGALA UMUR 1 KG MAKANAN KERING DENGAN FREEZE DRIED",
+    desc: "DR PAW DRY FOOD KUCING SEGALA UMUR 1 KG MAKANAN KERING DENGAN FREEZE DRIED",
+    subDesc: "Industri",
+    image: "/img/Partner2/DR PAW DRY FOOD KUCING SEGALA UMUR 1 KG MAKANAN KERING DENGAN FREEZE DRIED.jpg",
+    link: "https://s.shopee.co.id/9zwlr6SVG6"
+  },
+    {
+    id: "industri-petshop",
+    name: "Meo Pouch Kemasan Dus Isi 12 Makanan Basah Kucing MODO",
+    desc: "Meo Pouch Kemasan Dus Isi 12 Makanan Basah Kucing MODO",
+    subDesc: "Industri",
+    image: "/img/Partner2/Meo Pouch Kemasan Dus Isi 12 Makanan Basah Kucing MODO.jpg",
+    link: "https://s.shopee.co.id/1gHdvpBVqt"
+  },
   // --- COMING SOON SECTION ---
   {
     id: "industri-1",
