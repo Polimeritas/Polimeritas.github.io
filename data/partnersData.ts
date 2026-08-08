@@ -8268,6 +8268,38 @@ export const partnerBookItems: Partner[] = [
     image: "/img/Partner2/Fiber Reinforced Polymer Composites Mechanical Properties and Applications.png",
     link: "https://s.shopee.co.id/7KtD8Tdreb"
   },
+    {
+    id: "Buku Polimer",
+    name: "Concrete-Filled Double Skin Steel Tubular Column with Hybrid Fibre Reinforced Polymer Post Fire Repair",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Concrete-Filled Double Skin Steel Tubular Column with Hybrid Fibre Reinforced Polymer Post Fire Repair.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+    {
+    id: "Novel",
+    name: "Di Bawah Lentera Merah Riwayat Sarekat Islam Semarang 1917-1920 - Soe Hok Gie",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Di Bawah Lentera Merah Riwayat Sarekat Islam Semarang 1917-1920 - Soe Hok Gie.jpg",
+    link: "https://s.shopee.co.id/6fgKpbThUK"
+  },
+    {
+    id: "Novel",
+    name: "Filosofi Teras (Henry Manapiring)",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Filosofi Teras (Henry Manapiring).jpg",
+    link: "https://s.shopee.co.id/904FbvFg8m"
+  },
+    {
+    id: "Novel",
+    name: "Gadis Kretek-Ratih Kumala",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Gadis Kretek-Ratih Kumala.jpg",
+    link: "https://s.shopee.co.id/1BLOHXn0wy"
+  },
   {
     id: "E-Book",
     name: "Produk Digital",
