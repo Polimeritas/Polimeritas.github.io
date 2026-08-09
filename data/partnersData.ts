@@ -8301,6 +8301,38 @@ export const partnerBookItems: Partner[] = [
     link: "https://s.shopee.co.id/1BLOHXn0wy"
   },
   {
+    id: "Novel",
+    name: "Seperti Dendam, Rindu Harus Dibayar Tuntas (Eka Kurniawan)",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Seperti Dendam, Rindu Harus Dibayar Tuntas (Eka Kurniawan).jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Novel",
+    name: "Supernova 5 Gelombang - Dee Lestari",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Supernova 5 Gelombang - Dee Lestari.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Novel",
+    name: "Tere Liye - Daun Yang Jatuh Tak Pernah Membenci Angin",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tere Liye - Daun Yang Jatuh Tak Pernah Membenci Angin.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Novel",
+    name: "You Do You (Fellexandro Ruby)",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/You Do You (Fellexandro Ruby).jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
     id: "E-Book",
     name: "Produk Digital",
     desc: "Pesan Disini",
