@@ -95,6 +95,14 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "BEST SELLER",
+    desc: "MITOCHIBA Chopper TWINCHOP CH60 500ml",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/MITOCHIBA Chopper TWINCHOP CH60 500ml.jpg",
+    link: "https://shopee.co.id/product/24544583/29579289396?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAwvZZaJN-01M1gdBG5Q_naJXhDWXxMkvhx0TCxlj4rNxqfdKFZu7N8OiJHZXHhMXfxf9bJcaZZN4e_gQBbUCDQ8rqxc4K-fxQ2ygYBhvCAOPzbTLIVbwF7pHK16OGHV1AMoEI1s-G4LGkNr2Fj1Mmasj3yWDgd5h5y3HlcupIrwwA3tIedvZfhUjBuW9-VMql4&mmp_pid=an_11393951005&uls_trackid=55pv8ejo00vc&utm_campaign=id_DW4TQ395SP&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmtnzbmzq7d"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
     desc: "Dahlia - Automatic Refill",
     subDesc: "Indonesia",
     image: "/img/Partner2/Dahlia - Automatic Refill.jpg",
@@ -107,6 +115,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Indonesia",
     image: "/img/Partner2/Lem Penambal Gigi Bolong Dengan Etching Biru.jpg",
     link: "https://shopee.co.id/product/17902952/3979182381?credential_token=2oGr6iJvC1uMF3S9nXAC3WHQNJ2gNMzn9oJPvQwqN&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkgAAAAyZ31oxlq6MbsId1h3HgCyarscmue1S3UJ-ugMV3Hmn3CiF2ZRtUVSJDGkBhvhfzVubrja2mw5nxBYGMQwNONQMgamAlFst7jQ39OGnyPebs_3n66PyPWYo9Kq4W5ZsodumCnI6eIi-dMd78LDM_0dj8xtYXggCTFEBBZsqC743B3tvCclOe-1_HRp2Hdh0&mmp_pid=an_11393951005&uls_trackid=55k1bca601ci&utm_campaign=id_zG5eylnHzv&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evk9kysj6auu"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "Partner Polimeritas-Umum",
+    desc: "Lele Universe - Rambak Kulit Lele",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Lele Universe - Rambak Kulit Lele.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7645197943057796372"
   },
   {
     id: "Partner Polimeritas",
@@ -146,7 +162,7 @@ export const partnerItems: Partner[] = [
     desc: "Telur ayam negeri 1 kg",
     subDesc: "Indonesia",
     image: "/img/Partner2/Telur ayam negeri 1 kg.jpg",
-    link: "https://shopee.co.id/product/13309900/54408998851?credential_token=8wEwiDL7ZRjBNA33XvvuXzKoijidLYBzhNNkS4k2i4&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAwrC7_-sZ471SxvUf--B-RcwDmFduQp2U04zidUZh-sZWe24N-tqL_v7JOaZoaFIDwBnFCu9FxfoZiQfmv3p9oVLa17-qIot5Jm23bxosE6GX0bMSc4mUYx7_024q_CefXadTcfd9fTfEVNUosqNEnmMxAluXVY1mvz6VTLni6XpcYlhd9ZcOTNaC8GMvtA8uI&mmp_pid=an_11393951005&uls_trackid=55k1c6rq00kg&utm_campaign=id_oDwmflgQMl&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evka8otk73q9"
+    link: "https://s.shopee.co.id/1Ld6fehp1Q"
   },
   {
     id: "Partner Polimeritas",
@@ -171,6 +187,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Indonesia",
     image: "/img/Partner2/KUNYIT Fresh Bersih Murah Kaya Manfaat 1 Kg.jpg",
     link: "https://shopee.co.id/opaanlp/1444174639/25341347335?__mobile__=1&affiliate_seller_voucher_token=8bCnE5QAmVgk6scPnzcTmykocczUbBbuoFMTobrjoL&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAxNmWYMcnQZSdJ_LnutJa2OJp6DHsmLV3C4TiQAkDbD5ZZ0nl6j7tF_1GB6z3PKBceok9Ktef-YL9lNk5O66LGQZXlQ4hYjuzhRujj4iVjKA1WZfRzyXAihMPkZRihdBCOtnMlAjGLGhFHyfTEBsN_SFix4oCMRFe2tWEXIfUCukNKwdg3m-mo-9kPakg3-c98dAqIQ&mmp_pid=an_11393951005&uls_trackid=55k2mtat00td&utm_campaign=id_o1XwF9RsZf&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=evm943ih25ao"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Montana pensil 2b",
+    subDesc: "Jabodetabek",
+    image: "/img/Partner2/Montana pensil 2b.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7647082321111223572"
   },
   {
     id: "Partner Polimeritas",
@@ -204,6 +228,982 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/Handmade Rajutan.jpg",
     link: "https://www.instagram.com/reel/DHlZ0bHzvkg/"
   },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Bunga Mawar Plastik 1 Tangkai",
+    subDesc: "Jabodetabek",
+    image: "/img/Partner2/Bunga Mawar Plastik.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
+  },
+{
+    id: "712",
+    name: "712",
+    desc: "APEN Penjepit Silikon Anti Panas Sarung Tangan Pegangan Panci Karet Perlengkapan Dapur Barang Unik",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/APEN Penjepit Silikon Anti Panas Sarung Tangan Pegangan Panci Karet Perlengkapan Dapur Barang Unik.jpg",
+    link: "https://s.shopee.co.id/111y3lCEPJ"
+}, 
+{
+    id: "711",
+    name: "711",
+    desc: "Bendera Plastik isi 100pics 1pack",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bendera Plastik isi 100pics 1pack.jpg",
+    link: "https://s.shopee.co.id/1LeoSLy1tw"
+}, 
+{
+    id: "710",
+    name: "710",
+    desc: "Sikat Lantai dengan Pegangan Panjang dan rotasi 180 derajat",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sikat Lantai dengan Pegangan Panjang dan rotasi 180 derajat.jpg",
+    link: "https://s.shopee.co.id/7AcbP5JxPk"
+}, 
+{
+    id: "709",
+    name: "709",
+    desc: "Air Milk Tea Bucket 6 8 10 12 Liter Tahan Panas Dingin",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Air Milk Tea Bucket 6 8 10 12 Liter Tahan Panas Dingin.jpg",
+    link: "https://s.shopee.co.id/2qTcF5s2I4"
+}, 
+{
+    id: "708",
+    name: "708",
+    desc: "REFILL TERASI BANGKA SANGRAI KUALITAS SUPER ASLI BANGKA",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/REFILL TERASI BANGKA SANGRAI KUALITAS SUPER ASLI BANGKA.jpg",
+    link: "https://s.shopee.co.id/1VyEe6fiFY"
+}, 
+{
+    id: "707",
+    name: "707",
+    desc: "Rusip Sungai Pedade Toboali Bangka 300 ml",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Rusip Sungai Pedade Toboali Bangka 300 ml.jpg",
+    link: "https://s.shopee.co.id/6Ak4ChsGxr"
+}, 
+{
+    id: "706",
+    name: "706",
+    desc: "KOPI BANGKA SUNGAILIAT - 100% PURE ROBUSTA COFFEE",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/KOPI BANGKA SUNGAILIAT - 100% PURE ROBUSTA COFFEE.jpg",
+    link: "https://s.shopee.co.id/3qM9QR1RHA"
+}, 
+{
+    id: "705",
+    name: "705",
+    desc: "Terasi Belacan Sangrai Asli dari Toboali",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Terasi Belacan Sangrai Asli dari Toboali.jpg",
+    link: "https://s.shopee.co.id/1BLOFYkJco"
+}, 
+{
+    id: "704",
+    name: "704",
+    desc: "Botol Tumbler 900ml Stainless Steel Tahan Panas Dingin",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Botol Tumbler 900ml Stainless Steel Tahan Panas Dingin.jpg",
+    link: "https://s.shopee.co.id/9pdLOcieCS"
+},
+{
+    id: "703",
+    name: "703",
+    desc: "[CID] Kipas Angin Mini Portable USB Genggam",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/[CID] Kipas Angin Mini Portable USB Genggam.jpg",
+    link: "https://s.shopee.co.id/LmG5BgoV6"
+},
+{
+    id: "702",
+    name: "702",
+    desc: "Tumbler Jepang Botol Minum Macaroon Kaca 500mL",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tumbler Jepang Botol Minum Macaroon Kaca 500mL.jpg",
+    link: "https://s.shopee.co.id/gP6TpKJs4"
+},
+{
+    id: "701",
+    name: "701",
+    desc: "Rak Dapur 4 Susun Rak Troli Serbaguna",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Rak Dapur 4 Susun Rak Troli Serbaguna.jpg",
+    link: "https://s.shopee.co.id/4fvFFCczXb"
+},
+{
+    id: "700",
+    name: "700",
+    desc: "(CSL)Rak Susun Serbaguna 4 Tingkat Dengan Rak Kamar Mandi Bahan Plastik Portable Rak Dapur",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/(CSL)Rak Susun Serbaguna 4 Tingkat Dengan Rak Kamar Mandi Bahan Plastik Portable Rak Dapur.jpg",
+    link: "https://s.shopee.co.id/3qM7jxqpbG"
+},
+{
+    id: "699",
+    name: "699",
+    desc: "Benih Krokot Moserose 100 Butir",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Benih Krokot Moserose 100 Butir.jpg",
+    link: "https://s.shopee.co.id/5fnlvMFtbd"
+},
+{
+    id: "698",
+    name: "698",
+    desc: "MASKER DUCKBILL FACEMASK isi 50",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/MASKER DUCKBILL FACEMASK isi 50.jpg",
+    link: "https://s.shopee.co.id/2Vqk9aCVda"
+},
+{
+    id: "697",
+    name: "697",
+    desc: "Midea Air Purifier Portable KJ300G-A1S",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Midea Air Purifier Portable KJ300G-A1S.jpg",
+    link: "https://s.shopee.co.id/7VFQ5sbGk9"
+},
+{
+    id: "696",
+    name: "696",
+    desc: "[BANTAL CONTOUR] TUSEN SmartSleep Moduflex",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/[BANTAL CONTOUR] TUSEN SmartSleep Moduflex.jpg",
+    link: "https://s.shopee.co.id/6fgJ6JxfoL"
+},
+{
+    id: "695",
+    name: "695",
+    desc: "1 Pack 50 pcs Protection Sleeve Besar",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/1 Pack 50 pcs Protection Sleeve Besar.jpg",
+    link: "https://s.shopee.co.id/4Ayy7hkye7"
+},
+{
+    id: "694",
+    name: "694",
+    desc: "Tricycle Sepeda Anak Roda Tiga RY-3082",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tricycle Sepeda Anak Roda Tiga RY-3082.jpg",
+    link: "https://s.shopee.co.id/5VULi7XuSn"
+},
+{
+    id: "693",
+    name: "693",
+    desc: "Keripik Kimpul Talas Belitung rasa Pedas Premium",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Keripik Kimpul Talas Belitung rasa Pedas Premium.jpg",
+    link: "https://s.shopee.co.id/50Y4e82v3q"
+},
+{
+    id: "692",
+    name: "692",
+    desc: "ketam isi belitung 10 pcs",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/ketam isi belitung 10 pcs.jpg",
+    link: "https://s.shopee.co.id/40fXSK63Vb"
+},
+{
+    id: "691",
+    name: "691",
+    desc: "Keripik sukun stik Dua mutiara asli bangka belitung",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Keripik sukun stik Dua mutiara asli bangka belitung.jpg",
+    link: "https://s.shopee.co.id/2VqjfbNx1i"
+},
+{
+    id: "690",
+    name: "690",
+    desc: "Krispi Kulit Ikan 55gr",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Krispi Kulit Ikan 55gr.jpg",
+    link: "https://s.shopee.co.id/1BLM5B5fdE"
+},
+{
+    id: "689",
+    name: "689",
+    desc: "Paket isi 5 Kemplang Bangka mini - Kerupuk Kemplang",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Paket isi 5 Kemplang Bangka mini - Kerupuk Kemplang.jpg",
+    link: "https://s.shopee.co.id/3B6QSKPTo4"
+},
+{
+    id: "688",
+    name: "688",
+    desc: "Kemplang Bangka Keriting 125g Kerupuk Ikan Gurih",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kemplang Bangka Keriting 125g Kerupuk Ikan Gurih.jpg",
+    link: "https://s.shopee.co.id/6Ak21ragXD"
+},
+{
+    id: "687",
+    name: "687",
+    desc: "Kecap Asin Bangka Cap Siong Gajah Kecil 300ml",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kecap Asin Bangka Cap Siong Gajah Kecil 300ml.jpg",
+    link: "https://s.shopee.co.id/BSosrH7xU"
+},
+{
+    id: "686",
+    name: "686",
+    desc: "TNW Lampu Foto Lampu LED Video Light",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/TNW Lampu Foto Lampu LED Video Light.jpg",
+    link: "https://s.shopee.co.id/BSor8u9kS"
+},
+{
+    id: "685",
+    name: "685",
+    desc: "Kain Batik Katun 40's Premium",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kain Batik Katun 40's Premium.jpg",
+    link: "https://s.shopee.co.id/20uT2NIaMy"
+},
+{
+    id: "684",
+    name: "684",
+    desc: "HAFIZAH Setelan Baju Adat Anak Bangka Belitung",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HAFIZAH Setelan Baju Adat Anak Bangka Belitung.jpg",
+    link: "https://s.shopee.co.id/W5fFe93GK"
+}, 
+{
+    id: "683",
+    name: "683",
+    desc: "GENIO All Purpose Cleaner - Pembersih Sepatu",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/GENIO All Purpose Cleaner - Pembersih Sepatu.jpg",
+    link: "https://s.shopee.co.id/111vqZlz0K"
+}, 
+{
+    id: "682",
+    name: "682",
+    desc: "Bulumata Tanpa Lem Korean Eyelashes",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bulumata Tanpa Lem Korean Eyelashes.jpg",
+    link: "https://s.shopee.co.id/50Y4byCV7I"
+}, 
+{
+    id: "681",
+    name: "681",
+    desc: "Senar Pancing Nylon Polymer 500M",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Senar Pancing Nylon Polymer 500M.jpg",
+    link: "https://s.shopee.co.id/20snfXBP8S"
+}, 
+{
+    id: "680",
+    name: "680",
+    desc: "Cernit Number One Polymer Clay",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Cernit Number One Polymer Clay.jpg",
+    link: "https://s.shopee.co.id/1qZNTEosd2"
+}, 
+{
+    id: "679",
+    name: "679",
+    desc: "Wati Lakban Anti Bocor",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Wati Lakban Anti Bocor.jpg",
+    link: "https://s.shopee.co.id/70HTclpv7L"
+},  
+{
+    id: "678",
+    name: "678",
+    desc: "Mote Manik Polymer Donut 6mm Untuk Aksesoris",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Mote Manik Polymer Donut 6mm Untuk Aksesoris.jpg",
+    link: "https://s.shopee.co.id/3VhbSMZDgS"
+},  
+{
+    id: "677",
+    name: "677",
+    desc: "setrika uap portable sederhana 3in1",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/setrika uap portable sederhana 3in1.jpg",
+    link: "https://s.shopee.co.id/2LVe3R8jFV"
+},
+{
+    id: "676",
+    name: "676",
+    desc: "Goto Shane Milk Frother Hand Mixer",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Goto Shane Milk Frother Hand Mixer.jpg",
+    link: "https://s.shopee.co.id/5L9FczMy1p"
+},
+{
+    id: "675",
+    name: "675",
+    desc: "Mesin Cuci Mini Portable",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Mesin Cuci Mini Portable.jpg",
+    link: "https://s.shopee.co.id/30lKqiajuq"
+},
+{
+    id: "674",
+    name: "674",
+    desc: "Alat Pengusir Pembasmi Nyamuk",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Alat Pengusir Pembasmi Nyamuk.jpg",
+    link: "https://s.shopee.co.id/4qCz26hWAF"
+},
+{
+    id: "673",
+    name: "673",
+    desc: "Wimpy NARA Polymer Clay Fresh",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Wimpy NARA Polymer Clay Fresh.jpg",
+    link: "https://s.shopee.co.id/40ds1vUGLk"
+},
+{
+    id: "672",
+    name: "672",
+    desc: "PLASTIK POLYMAILER HITAM PACKING",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/PLASTIK POLYMAILER HITAM PACKING.jpg",
+    link: "https://s.shopee.co.id/8KmrBt2QI3"
+},
+{
+    id: "671",
+    name: "671",
+    desc: "KokoCoat PCB Conformal Coating Anti Konslet",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/KokoCoat PCB Conformal Coating Anti Konslet.jpg",
+    link: "https://s.shopee.co.id/8fPhaUwgZF"
+},
+{
+    id: "670",
+    name: "670",
+    desc: "Fumu Plastik Packing Baju 30X40CM",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Fumu Plastik Packing Baju 30X40CM.jpg",
+    link: "https://s.shopee.co.id/6AiMbtrQGH"
+},
+{
+    id: "669",
+    name: "669",
+    desc: "Pasak bumi kalimantan",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Pasak bumi kalimantan.jpg",
+    link: "https://s.shopee.co.id/1qZN8LcKHw"
+},
+{
+    id: "668",
+    name: "668",
+    desc: "Teh Rimpang JSR Syifacare",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teh Rimpang JSR Syifacare.jpg",
+    link: "https://s.shopee.co.id/6fectFZKkT"
+},
+{
+    id: "667",
+    name: "667",
+    desc: "TEH KUNYIT,JAHE & SERAI",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/TEH KUNYIT,JAHE & SERAI.jpg",
+    link: "https://s.shopee.co.id/902XfZzOHQ"
+},
+{
+    id: "666",
+    name: "666",
+    desc: "TEH DAUN KELOR ORGANIK MURNI 100%",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/TEH DAUN KELOR ORGANIK MURNI 100%.jpg",
+    link: "https://s.shopee.co.id/70HTHubJyu"
+},
+{
+    id: "665",
+    name: "665",
+    desc: "Teh Daun Kumis Kucing 100% Original",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teh Daun Kumis Kucing 100% Original.jpg",
+    link: "https://s.shopee.co.id/7VDjpiC354"
+},
+{
+    id: "664",
+    name: "664",
+    desc: "TEH DIET AMPUH",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/TEH DIET AMPUH.jpg",
+    link: "https://s.shopee.co.id/gNPhB2C80"
+},
+{
+    id: "663",
+    name: "663",
+    desc: "Teh bunga Telang premium isi 5 celup",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teh bunga Telang premium isi 5 celup.jpg",
+    link: "https://s.shopee.co.id/3qKRT0q9Du"
+},
+{
+    id: "662",
+    name: "662",
+    desc: "Teh Diet Matchana",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Teh Diet Matchana.jpg",
+    link: "https://s.shopee.co.id/3g11Giv7c8"
+},
+{
+    id: "661",
+    name: "661",
+    desc: "HIASAN DINDING MODERN AESTHETIC BURUNG MERAK",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HIASAN DINDING MODERN AESTHETIC BURUNG MERAK.jpg",
+    link: "https://s.shopee.co.id/7KuJdX5whK"
+},
+{
+    id: "660",
+    name: "660",
+    desc: "Ready Coklat Dubai Swiss Fru Kunafa Pistachio",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ready Coklat Dubai Swiss Fru Kunafa Pistachio.jpg",
+    link: "https://s.shopee.co.id/6py2owJnbG"
+},
+{
+    id: "659",
+    name: "659",
+    desc: "JATIM SEDAAP Mie Goreng & Kuah (1 dus)",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/JATIM SEDAAP Mie Goreng & Kuah (1 dus).jpg",
+    link: "https://s.shopee.co.id/qgpfvqH0q"
+},
+{
+    id: "658",
+    name: "658",
+    desc: "(Penjualan Laris) Kacang Panggang Sehat Campuran Mix Nut",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/(Penjualan Laris) Kacang Panggang Sehat Campuran Mix Nut.jpg",
+    link: "https://s.shopee.co.id/AAEUn6NlLc"
+},
+{
+    id: "657",
+    name: "657",
+    desc: "BUMBU MASAK INSTAN (BMB) LANGSUNG DARI PABRIKNYA",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/BUMBU MASAK INSTAN (BMB) LANGSUNG DARI PABRIKNYA.jpg",
+    link: "https://s.shopee.co.id/4AxHe5koqB"
+},
+{
+    id: "656",
+    name: "656",
+    desc: "Collagen Foot Cream 60g Krim Kaki Pecah Dan Kering",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Collagen Foot Cream 60g Krim Kaki Pecah Dan Kering.jpg",
+    link: "https://s.shopee.co.id/2g8Toi3N01"
+},
+{
+    id: "655",
+    name: "655",
+    desc: "Cermin Bunga Makeup Rias Standing Mirror Kaca Estetik",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Cermin Bunga Makeup Rias Standing Mirror Kaca Estetik.jpg",
+    link: "https://s.shopee.co.id/AAEUkQcVDl"
+},
+{
+    id: "654",
+    name: "654",
+    desc: "Alician Sisir Pelurus Rambut Portable",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Alician Sisir Pelurus Rambut Portable.jpg",
+    link: "https://s.shopee.co.id/4qCyObATBL"
+},
+{
+    id: "653",
+    name: "653",
+    desc: "HAN RIVER HRHD01BK Hair dryer 800W",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HAN RIVER HRHD01BK Hair dryer 800W.jpg",
+    link: "https://s.shopee.co.id/30lKDCZeK9"
+},
+{
+    id: "652",
+    name: "652",
+    desc: "Prasmanan Set Stainless Tutup Kaca 28x34 Lengkap",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Prasmanan Set Stainless Tutup Kaca 28x34 Lengkap.jpg",
+    link: "https://s.shopee.co.id/8V6Gl8SA0Q"
+},
+{
+    id: "651",
+    name: "651",
+    desc: "Sinda Panci Susu Anti lengket Panci",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sinda Panci Susu Anti lengket Panci.jpg",
+    link: "https://s.shopee.co.id/30lKCzs6Fc"
+},
+{
+    id: "650",
+    name: "650",
+    desc: "UPHOME Panci Presto Alumunium Serbaguna With Steamer",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/UPHOME Panci Presto Alumunium Serbaguna With Steamer.jpg",
+    link: "https://s.shopee.co.id/AUrL8iobdD"
+},
+{
+    id: "649",
+    name: "649",
+    desc: "HOMINDO Panci MPASI 4 Pcs",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HOMINDO Panci MPASI 4 Pcs.jpg",
+    link:"https://s.shopee.co.id/60OvmSzLuD"
+},
+{
+    id: "648",
+    name: "648",
+    desc: "Bantal Tidur Busa Memori Bantal Tidur Multifungsi",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Bantal Tidur Busa Memori Bantal Tidur Multifungsi.jpg",
+    link: "https://shopee.co.id/product/530290336/57253578882?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAzRYFsWshtaZrkSpXrT-EoRd6q5E17BoNedMtttYQU9RYpbh-51_cw2g4QdDpRQAgChodEW-agRO-iaQecWGOKdZaUqmU9cT7WmFwZUHC5LFOCjAQE8LlSwIZWJKBU_f2SRbcWhs82Mce3WsMeQtfFNBE-07miwPHkqWv10TiaOgFqLaz9FIlHk82ivn4g1tAtlyw&mmp_pid=an_11393951005&uls_trackid=55q0lqch025c&utm_campaign=id_Y8qV0yuUNx&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznuk5hhanvb"
+},
+{
+    id: "647",
+    name: "647",
+    desc: "COOGER Sikat Kamar Mandi Elektrik 8IN1",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/COOGER Sikat Kamar Mandi Elektrik 8IN1.jpg",
+    link: "https://shopee.co.id/product/190374351/24739001062?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAy3cTTta_-tBgmo1cqDSteN1ddxx06_4ESU7HEiYmSWbi9JFJT_8dUded6PSsehJIYNsfWaDasqqCa2UVn7uWOC6uSJO7JsBPprV6Gr1BwZ5us2lGVIz720UyoLAhXnFo1r2WsM2UvhehU07k0t7pmmxxmyJxe1Xwxz0nYvWLF46pirVEvmbT4jBCU968MjhiNXdg&mmp_pid=an_11393951005&uls_trackid=55q0liud01vc&utm_campaign=id_Fspt1QWdzZ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznue2mguga3"
+},
+{
+    id: "646",
+    name: "646",
+    desc: "Alat Pembersih Kipas Kemoceng Pembersih Kipas Angin",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Alat Pembersih Kipas Kemoceng Pembersih Kipas Angin.jpg",
+    link: "https://shopee.co.id/product/1249445311/25932840316?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAyyLcoWU64QojVcNWU81H2HJNw-hXID3kBwp8FQU0_ql5EcppgS94Q1EkUHlNDWWwMZ9vZYZ6XN9vgAn18A_FnEkt0oGFe70VoHjQkdiXIrUHfD300bcoD68PPkIWhaT6v-9UtJR0lIeb5tKDvF9BdoOjIic1ullKkUd7Vg3N5MU6Sy3Hx4cX8YRnhpwaacYqX1soBA&mmp_pid=an_11393951005&uls_trackid=55q0l9m9021s&utm_campaign=id_VTQ7dHdoNJ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznu6hcy3wt4"
+},
+{
+    id: "645",
+    name: "645",
+    desc: "Sandaran Pinggang Sofa Boneka Husky",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sandaran Pinggang Sofa Boneka Husky Edition.jpg",
+    link: "https://shopee.co.id/product/1585148524/40908265398?affiliate_seller_voucher_token=8bCnE5QAnHudrwW8hBVPJccBj1Y7wucwoCH6ZUp67J&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAxLDkC9GfOHHbkQ9RvVF9Toge0q7l6qSqsb3Ifd-qDgX-IdK8ehiFzKqyEJkG2W2hzupueCBaBC12HALAxkI3E_EI-uObNyZ8h95cLzC6BCz69t8QwYSbrvw0pDgf_yEIPNEbUCmuskke4LBizlgysT-WkbW3ihVCS39msdCYVDuAXj3m251kP4rx6YTtJNyDcOr6hW&mmp_pid=an_11393951005&uls_trackid=55q0l6l1025c&utm_campaign=id_X3uWByEOCj&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznu3zt84nsi"
+},
+{
+    id: "644",
+    name: "644",
+    desc: "Lantai Decking Outdoor Ukuran 30cmx30cmx2cm",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Lantai Decking Outdoor Ukuran 30cmx30cmx2cm.jpg",
+    link: "https://shopee.co.id/product/1251852150/27019869235?affiliate_seller_voucher_token=8bCnE5QAmVsFr1Q6dWtg6CyZSsFAnVvrXfyLcSbbz2&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAw-cX-Q18hL1MPfrdVoEw4rSQdefPvBPOacTYqU7QdSUyCLCug9DsQRtcvNNBW7DgZ-12lQXaZaDk8yMQJeBAbr6UVlSLxWboHtIf9M1xcXW68WfYYHlRy92WbFtjDywK6_L8loY3kY8-1_BZH4tfYyWVIS7NCd5AN1T2rLZig2f4kkGvmzVdt4_tKkeAD6FgjvjL2W&mmp_pid=an_11393951005&uls_trackid=55q0k3k904vc&utm_campaign=id_ZgLhJfUePN&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznt9d36m8a3"
+},
+{
+    id: "643",
+    name: "643",
+    desc: "Dispenser Beras Otomatis",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dispenser Beras Otomatis.jpg",
+    link: "https://shopee.co.id/product/1316286670/25488265326?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAzf9xCKUpjal-uIdhuCb7x2KwaVzrY4UywA1s9xJ0KIvDczTf-MTa6OPcMlX0OMhGQZE905YmQ4wh0ROcVljDdT2kxQ04wYWGUsHRbEd3uzi76dzyV7U5KuZYH-hdHPokPp49wXp5CSUZeO_ZgyUvtaJpvOkPIFhLeNjqE28VOjtQKK4dho0Jk3KeWUUGGUd4_Zb99b&mmp_pid=an_11393951005&uls_trackid=55q0jtr1021s&utm_campaign=id_pGtBjeR2t3&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznt4n6b2o22"
+},
+{
+    id: "642",
+    name: "642",
+    desc: "JOODUTP Piring Makan Stainless",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/JOODUTP Piring Makan Stainless.jpg",
+    link: "https://shopee.co.id/product/1414571451/50150980600?affiliate_seller_voucher_token=8bCnE5QAnhF5HYjaYJG6bQrevhgKtGHb22CY6v1TvN&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAxbvXhe9tfXrR-CEWmMY2lP_XCUsWOL3gUgU1YqDUrWE6yWZ2B3bWApp_4UZlms9f0kHSCHh0RE0PXx7Xk00h5dy5DX_0wYURh8JnFYSueK0mOyYESipVSL2fqOwnyvwScpiEYc4y2kqQ6PgpVvdopgnmoGtLQsvOFCJ9aba3VHGbF-ejV0gomP2B5iZP01-OPHGMvv&mmp_pid=an_11393951005&uls_trackid=55q0k89d0001&utm_campaign=id_pBqac8DJBt&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezntd6nu4mjo"
+},
+{
+    id: "641",
+    name: "641",
+    desc: "Jemuran Baju Dinding Stainless Steel Jemuran Dinding Lipat",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Jemuran Baju Dinding Stainless Steel Jemuran Dinding Lipat.jpg",
+    link: "https://shopee.co.id/product/917905569/20275085902?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAyA5KHeHLHLnJ0VlpjT1P_bwkW-TdZUe52xE5xCgHoGagSIHW86NQ7zj4kv6NULejB7q_ArC0Fcd-jbQ2WyTa0wrftDdVblzZvyNREpt9tP03A1zOETjniKGlwq_DYKY29hTYr93GxqvEYm-vZwyX8tER_g6p4jdebDYhLb6VuNgqm9XGjIS6ROlntzoYNZz1vNLQ&mmp_pid=an_11393951005&uls_trackid=55q0kbit0004&utm_campaign=id_Yd7Jy0b7ll&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezntfvbptobd"
+},
+{
+    id: "640",
+    name: "640",
+    desc: "Meja bahan plywood multiplek",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Meja bahan plywood multiplek.jpg",
+    link: "https://shopee.co.id/product/171430659/28607638568?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAz_aUwPaoNCW6LpnY2vjp1S8NQERNgUX-m6uV80jSA-TWBagObwFFzV3nBGI395UO5A6m5_Dj-dHmSNMu0K6Z99sbMxQOiE5-R8Z9vOA32Rg453Ngg-MavYcaf8IdmtSBf9SiykKm8L3vItjMYjbuSsl5VJ8PG09J4JKD8LtCDRjZHIXH-CLMM7K4QwhoU3uNb1cA&mmp_pid=an_11393951005&uls_trackid=55q0j521026l&utm_campaign=id_xZK0OYlkdp&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznsid5wdzmm"
+},
+{
+    id: "639",
+    name: "639",
+    desc: "Meja Kopi Seluler Aesthetic Meja Tamu",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Meja Kopi Seluler Aesthetic Meja Tamu.jpg",
+    link: "https://shopee.co.id/product/1175050093/27636997036?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAw2UMM85-Qr3O37NPm1UIudvENQ-9IhLDPNSwC-_9Ry1D_XGt-7Apz3knElFcdAmVE6XTIkrW8G5neUhdGMSDZVfsBdCfDZZr0Eeq_ah3e7PjY6CZQ1HGudvQHvMfiVBmqcFS47X-8bXT1BsVFpgltwwisfUps33L8JgSGf-0_yuoFHzI2EznDnWMJqT5kXOytQNSZR&mmp_pid=an_11393951005&uls_trackid=55q0j1n5006l&utm_campaign=id_YBC4dh3vC1&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznsfnbc1hcs"
+},
+{
+    id: "638",
+    name: "638",
+    desc: "Homedoki Tangga Rumah Lipat Tangga Besi Lipat",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Homedoki Tangga Rumah Lipat Tangga Besi Lipat.jpg",
+    link: "https://shopee.co.id/product/277711630/18826455055?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAymUix1n0VQ10LapaKJjEfxoVZCEgdzY_dQwxNCbLHdNCLywzPowZpZBzm77oMFXpZ9RJb6w7G9L_uoqrxElgHqziqUiQj7brovGiqoh8LdksDmWHB8sftq__X5Ir0roZ-RYHB13rCIZbR4wLXuppeFKfWJVZeS1vZJw48nWU3s9T9ognbT01rkz226Gp9TXWchHg&mmp_pid=an_11393951005&uls_trackid=55q0hp4f041s&utm_campaign=id_VW38jNNOIP&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznrgfyy93mh"
+},
+{
+    id: "637",
+    name: "637",
+    desc: "Karpet bulu ukuran besar 200x160x5cm",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Karpet bulu ukuran besar 200x160x5cm.jpg",
+    link: "https://shopee.co.id/product/229323084/7718804495?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAz7aIZ3QY_rxzE8go0ipOwG2gm8hA4g1QOZ0T8liDrlzYtupabXfZf0rLSAlijgHtdtAuhX2db-YSTfliCfBrhdL5hZZinaQ3sHRcxEofNnwK1MzdEIr-0OgUEEAziFkzBh0MKu8peqT9cIY1DGsYUmINLULxJD4K4T_6uudE0XQA9FjU3J45VzWOPXHqZnKTw&mmp_pid=an_11393951005&uls_trackid=55q0hncr03vc&utm_campaign=id_11dj9j9YUEn&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznrf1o2i25v"
+},
+{
+    id: "636",
+    name: "636",
+    desc: "Special freemir 3in1 Wajan Panci Frypan Granite",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Special freemir 3in1 Wajan Panci Frypan Granite.jpg",
+    link: "https://shopee.co.id/product/161233109/24832616754?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAwZt2Xu66A01bfwaTye3kW9gANEHoeArBSxebTxTmq24PZU0x3XY9LalGs-LuA11lj5ebqdygvjVkim6dNxJC-AYpWCUqQ_u0HuRN4cfe9dK2OCU-jOmdLdsNEu_hhK8VU9U3QsQQThXhPp-AjuZWdDwaDDgW_tcyilC_dy9cQEYWrEgkrESoB6D5ESEHZ95eYc_A&mmp_pid=an_11393951005&uls_trackid=55q0hvfc02vc&utm_campaign=id_mf59GDPDD3&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznrmn9yjm7m"
+},
+{
+    id: "635",
+    name: "635",
+    desc: "freemir Panci Susu Gemoy Bulat",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/freemir Panci Susu Gemoy Bulat.jpg",
+    link: "https://shopee.co.id/product/134305400/13373997338?affiliate_seller_voucher_token=8bCnE5QAm6AZnCQmTpSQ3bateTVc9YYA4VbjyoZ1g3&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAzOnzzBOK7Vv94P_baK4OuVsHUnHSjSUYFD0_Md6c2D3lUN83w7YpUbh7bU4xjtKowQLPpDt_2lEy2bNXIY2lSgSBKz0S4tnsb9YhkyzQKJC0OrfTYEg2hwbsY8Mw3swAWM9__CNsp_wZZkhVL6qCQG-l8mQ98aberzLKT0XHZh7SbvPVb4jAWug6BcHwROzX-CCA&mmp_pid=an_11393951005&uls_trackid=55q0hddd0004&utm_campaign=id_YbgEedTZEr&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznr6v3gsic8"
+},
+{
+    id: "634",
+    name: "634",
+    desc: "STANDING POT LINGKARAN 4 in 1",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/STANDING POT LINGKARAN 4 in 1.jpg",
+    link: "https://shopee.co.id/product/679504660/14849853060?affiliate_seller_voucher_token=8bCnE5QAm6FxRzEUgtWSCK1R3mqCUiDRoDKAvi6m3Q&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxNkia0j57M9dcQQw-JEM6MSmJc9IBiTMcK0PGQw_Rit1EvcRtHddk3rDrUJgm-9oSN_m2OjjvXzG9BEkb-QF2zdtJnYI5TlYI3cBpF-jbZI8ZaK36I4kbK7lWSR5HRVUkmQ847Gf-X-b4eklRptwhPjbZuFpoL3Rq89t2WiumzEWNpYH9Fs98uNOzozmt2H1DQkA&mmp_pid=an_11393951005&uls_trackid=55q0h73g00vo&utm_campaign=id_z6LB2p5ANh&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznr1pnwp34s"
+},
+{
+    id: "633",
+    name: "633",
+    desc: "JOODUTP Lampu Tidur Bebek Lucu Lampu",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/JOODUTP Lampu Tidur Bebek Lucu Lampu.jpg",
+    link: "https://shopee.co.id/product/1414571451/48851894559?affiliate_seller_voucher_token=8bCnE5QAnJdv6Lt7BXqkoVgsDiufEXs9A6CbzRVUPi&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAykF9bRRjteTgzXLaW5N2EGF1L4zt9ZzIwUlTs29FlHabVGiPLhCzX3VxkE727wYQeT36V2N1Rq8bbz5mjshXUzVtpkJVJ8YM0Ci4CJPMjs4NA_ZHf6o2yprbjw2525XDma599PKz1J766Ilzu-m9cN6pdKKeIAG-XMsiOUYujuFEaY62HbtM5F0ev3fPCsTJaAf04E&mmp_pid=an_11393951005&uls_trackid=55q0h2qq00vn&utm_campaign=id_Ly4f6YP9Dh&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznqx7vagf5q"
+},
+{
+    id: "632",
+    name: "632",
+    desc: "MEJA TAMU MINIMALIS MEJA KOPI MEJA SANTAI",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/MEJA TAMU MINIMALIS MEJA KOPI MEJA SANTAI.jpg",
+    link: "https://shopee.co.id/product/226815403/27916742731?affiliate_seller_voucher_token=8bCnE5QAmVsSdLQk48FaBv3wFHDwpWT8fTSzwCVkfs&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAwQ0yV9Rdc7sIFPRgbJTNP81kymhzSfx5ossTfLXBFv2xCk2zzg9_2oL3QHkn7P8ZNKgNWXdahDqXlNLkM98OVZ2X20GP5fRNdEkPQlMDTWH5Fg8XAHEqJA7WZlbleF88cAfKLnugVui3rCZffC4vpqepc1nH_FZ2yAc4iDzBrcThoupyvqdW3FP6Y825CPzK3SGg&mmp_pid=an_11393951005&uls_trackid=55q0gkp40101&utm_campaign=id_131AVTZrg8D&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznqkq6dc46j"
+},
+{
+    id: "631",
+    name: "631",
+    desc: "Rak Sepatu Duduk Sofa",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Rak Sepatu Duduk Sofa.jpg",
+    link: "https://shopee.co.id/product/514778925/21786530590?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxxCgTA5C0hyvIahMBHoM11vaWWL63CUDaubBrE5Nr7-x1w6wlHuTEOL3Mw_uMZbSGZH6kpIqK18LAt0aldhE233XwYZuBGjF_VxoQQ_i5nxZaQaFfgu80oaILA6X1cWZp1rw9r1NI1ibtHtrwF7tbUVpTgPi10ADOq4Ti-sqjCYvDaLKuy8AUUvVyweBGkAcbpNg&mmp_pid=an_11393951005&uls_trackid=55q0gafo045c&utm_campaign=id_xI6QP0B44T&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eznqcb2x82md"
+},
+{
+    id: "630",
+    name: "630",
+    desc: "Steker Arde Broco",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Steker Arde Broco.jpg",
+    link: "https://shopee.co.id/product/812339520/18388914164?affiliate_seller_voucher_token=8bCnE5QAm6d1AS6DMXRspk1DPHZEHXZLBYkHi5YkKR&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxQmQ8Ki6mFcngkLqMv77wnsG7UAOVZ3Ay-QsTA5PB_KQpeTwGJvSANQOjGTwejkut8QDTZGDHQocvVYVtPMc6OrFv1S6aACf--jX8eNjeiSg5vqTsCpT5Rc_I8oSCRTuva6ezcJwuKZXGY5VODAxIBvQmsCSFjTqQaon4fZAM-pixDFMVcOz5ot8aoxJihSUvcuw&mmp_pid=an_11393951005&uls_trackid=55pvi53b046l&utm_campaign=id_x9aTYDmabt&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn24vo7r3ep"
+},
+{
+    id: "629",
+    name: "629",
+    desc: "KONEKTOR KABEL",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/KONEKTOR KABEL.jpg",
+    link: "https://shopee.co.id/product/329038744/25980704822?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAyhLnU5cP-Zw9dFWEDNaGp2MddUgfYWN4-5fHjlJKdRYNAHd49Gi3xwYAtU-NIBaw-B0fXc84w29IZWflJ56P3Ydn8iEVRFyxgQvpf9wsVxI8bcORkTc-SLeAbf4da1reVBuHf9HfT0d7tYVPg2DOhHg7D5Kn18pKYZ-QalhrXfWqx5BpcD5HaNR-XVzzslXVCcIQ&mmp_pid=an_11393951005&uls_trackid=55pvi3n9006l&utm_campaign=id_K07XIjwvJF&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn23rei2687"
+},
+{
+    id: "628",
+    name: "628",
+    desc: "Konektor Kabel Listrik",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Konektor Kabel Listrik.jpg",
+    link: "https://shopee.co.id/product/7828926/24086665974?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEkgAAAAztPwOqXrZL2aIccdpZX_FsLk0k6ZT_8AZPcK_PRkKMAc93OO_5i9Gcqx9VrbiqbsnAZKaSeDvSCoanHizZgdWJ8a4e1xmFDZFmJ8AOiAgmheSSTge2_BgJLIDAFvQIuAcz7lJelzs3eQM7Mr6T4b5I2zlaAljq6Srx2wzzc4TIvCRtsM1JB3OGayb3cHy0&mmp_pid=an_11393951005&uls_trackid=55pvi2d8015c&utm_campaign=id_7XgRZVCTrJ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn22owcrf92"
+},
+{
+    id: "627",
+    name: "627",
+    desc: "Klem Selang Stainless",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Klem Selang Stainless.jpg",
+    link: "https://shopee.co.id/product/840043283/17084096480?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAwagk-PwvdiLXZi-VKxA-sIzOe6FneMRpIMDvn0LFU2JU00jWIi62jaVUDr6th0rt016CFGwvUn9cPPA_dAyM_iD9ErZzsuGZ3FXII6hnGLmNl2632V3ACYosq27DRZzSiKVKjUOCKwf0tSOEWAGLdx6wsms6wlLTH2a5O3QA-dRY_zkqklUMXD60xpNhHF7sXjgg&mmp_pid=an_11393951005&uls_trackid=55pvi100011s&utm_campaign=id_a1VNd9540r&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn21iku8kgw"
+},
+{
+    id: "626",
+    name: "626",
+    desc: "Paket Usaha Case HP iphone oppo vivo xiaomi samsung Isi 50 Pcs",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Paket Usaha Case HP iphone oppo vivo xiaomi samsung Isi 50 Pcs.jpg",
+    link: "https://shopee.co.id/product/1225756569/44413744859?affiliate_seller_voucher_token=8bCnE5QAnJGgaZtaXvNHT5gLVukLHvm1rS8hZwsRZP&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAwUGVYXokzh6JB6jCsgOkIz9IuguUBe_zVgyoxunz5cBDG8Y2yCH5Lweqh-yk1n30LSwcT8ND7n6m_oMYJyP3BMBrK4kedPoO2CUBauBUb2jxjW3iwtFjALKQm8ihaHuxw0CwhmUSIFqCBeZh0_xMU9EOqbEQo6Jm8U9M4IQPdv8ZB87-WXcTUOf5bjDW-VhD5tBU3y&mmp_pid=an_11393951005&uls_trackid=55pvhvc4036l&utm_campaign=id_M7Sajzk3cD&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn1z7gv4jzf"
+},
+{
+    id: "625",
+    name: "625",
+    desc: "2 in 1 Jelly Silikon Softcase Magnetic Casing Hp",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/2 in 1 Jelly Silikon Softcase Magnetic Casing Hp.jpg",
+    link: "https://shopee.co.id/product/1530788118/49053461204?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAzyE9ngtnZ4mQ_m7xNYd2aCzKAXgDNLUh_OlYYKFqEn9cWPNljdUB-0rnDa0XkahxO8VUpH8P_3B-4OOWV0x3LqoJMd5crMhgEYafnXMN4-LALQKjOgzv9G2EmLuSezqHHIc2UUQrQ2N78EPTr9IpwJF3WUuy-0acqM668IxjEhuMRYhQ5boX9ClJ1orSVV83zzAKZB&mmp_pid=an_11393951005&uls_trackid=55pvim1v0001&utm_campaign=id_13KKZ31dNSH&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn2ir674yh9"
+},
+{
+    id: "624",
+    name: "624",
+    desc: "Kompor Gas 2 Tungku RINNAI",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kompor Gas 2 Tungku RINNAI.jpg",
+    link: "https://shopee.co.id/product/394519412/12716919909?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxJ4A1sUUoUGdaHMm5usnvVPHELHhmRXWoAJqfMFcyWqqtf4wumpZMdNlPsUR6MaFjBDq7aBK4BefqFGkctXIGyixl2YsSjNkppMigT8ca28whyvL2BpSHie_Vku5GacTOo8uBAHQx3AFpT57K4DtkQJyNXigPhkUTSnKTz8EGIA4FUZUtDICPPxWpGoDL0aMQ_cQ&mmp_pid=an_11393951005&uls_trackid=55pvhscg00vc&utm_campaign=id_105SVEAIqyb&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn1wrewdx7r"
+},
+{
+    id: "623",
+    name: "623",
+    desc: "Hongzhuo Teko Listrik 2 Liter Full Stainless Steel",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Hongzhuo Teko Listrik 2 Liter Full Stainless Steel.jpg",
+    link: "https://shopee.co.id/product/263338737/16174020242?affiliate_seller_voucher_token=8bCnE5QAm6SPQp2XRt1a14dKQ7veJR6ovxcbz7Sshs&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAzoW047GOBQ4ZaYtStfjscVAZ5IkT1rJ0jxXTDuH7A3Fs2tHm_zYX9bykgzZCicn3S1duSCIWap7DB9v0aRgy2rVg-gJlqgztjgRcqTT6PdSCuKDgxLoLcXUyDh71bDPRwnj00EI-9SSQbs-aGqzUCPtCNrkWaWcqo-7HWBibOKLxosRxORQNZ032PNzRD6cZhYwA&mmp_pid=an_11393951005&uls_trackid=55pvhr5o001s&utm_campaign=id_XEXZMPkxOn&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn1vrozobd2"
+},
+ {
+    id: "622",
+    name: "622",
+    desc: "KELVINS Lampu tenaga surya 10000W Lampu Jalan Tenaga Surya",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/KELVINS Lampu tenaga surya 10000W Lampu Jalan Tenaga Surya.jpg",
+    link: "https://shopee.co.id/product/1210234359/40806789657?affiliate_seller_voucher_token=8bCnE5QAnHucfTUFbqWc17maq3PLj5y6LF3NdnHmUS&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAy8D5CuPvLDodBtIxDyYZcwYHHzyA1gi0M4qZXucec5hVLTw8Ttv-UAhTuYY4WExeK9I86fVD4WO13i4i8VIylTf_08T6OoLjm9NW2ZEQCmb2PJjfYQtfsKruED9bw32OVbdQ0ju9KHoNhne8oFljZOvNC__NX1He8yoT_H0NfJjtUJvjKuVxEJxqCPO_PJi6kah5da&mmp_pid=an_11393951005&uls_trackid=55pvf961041s&utm_campaign=id_9Ra1P1GWPF&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmywq5er3iw"
+ },
+ {
+    id: "621",
+    name: "621",
+    desc: "Lampu Darurat UFO 1800W",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Lampu Darurat UFO 1800W.jpg",
+    link: "https://shopee.co.id/product/1440970776/45052077148?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAx_gRGt8S0nRHyF-JgkAo4-gAuxubhd_S4DDpdcNeNPGCU3R2yXthRrsv0QppHDUH4eL2yZj-PI0bb08bRSNx2fh5Ip6rSEMoLaNdt43VCwYkeQ_Nf3wXi5lajuZvNGbop3ojUlXGbA0o4IrFTlDd8LbJSRShpCpuXLkafNaGEPEgbR1iRUyTZsC2WkqeIK1LxXF51V&mmp_pid=an_11393951005&uls_trackid=55pvfdth001s&utm_campaign=id_CV6QMi0VHp&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmz1ktikfse"
+ },
+ {
+    id: "620",
+    name: "620",
+    desc: "KELVINS Lampu tenaga surya 15000W",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/KELVINS Lampu tenaga surya 15000W.jpg",
+    link: "https://shopee.co.id/product/1210234359/28155491796?affiliate_seller_voucher_token=8bCnE5QAmVxZjmA1zizosenDND5QP4T6WPgT22aGdU&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAzDuMLF3uL7QyVGTc9V3eepbmvjn35sKkiwLhThONG52RU4_5b-FwhXfwUMV_lD4MaqC7ZuG8amsH7qDJPEFdNRbdb1nZYSXlIpTr9F8cOJABRoZil8KbcXf8g48boCRw8fDGsleWkxWP6DOyloW1piJdo_I4NfXErJTRwTi1oTdCpg56Sb59DN52zi5nqakxjjVEBH&mmp_pid=an_11393951005&uls_trackid=55pvfkh50001&utm_campaign=id_IrVI1ynncT&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmz6znieag7"
+ },
+ {
+    id: "619",
+    name: "619",
+    desc: "Luuga Lampu tenaga surya outdoor",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Luuga Lampu tenaga surya outdoor.jpg",
+    link: "https://shopee.co.id/product/1210227126/24582990432?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAywUzP2Ico3EvZtuoeXSRQiIQt5dItepSDdl1d9_nfyOtMJa4lUrueRbMp7wp6FQZ9Wbj3ZdfT7edPyEY8tSdg_qGZh7dSLk4Fg3QSALaZ_Kb4lns3ALcKKEM-5xxbRngDYJPk3hAjfyax9FA8tqPEkBk5sapq5hY0zFi2tfvomLnAK24WdDjE8ATU4rHt49zaOjLG2&mmp_pid=an_11393951005&uls_trackid=55pvfqbh0001&utm_campaign=id_p7sswfjRt7&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmzbrmdzj67"
+ },
+ {
+    id: "618",
+    name: "618",
+    desc: "Deoxide Antiperspirant Deodorant Roll On POWER+ For Hyperhidrosis 60 Gr",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Deoxide Antiperspirant Deodorant Roll On POWER+ For Hyperhidrosis 60 Gr.jpg",
+    link: "https://shopee.co.id/product/1491258740/26732649509?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAz0B43McaSnWBycQXq5M3_lbLeeFkeXliH2GnsLWKkyaVEBCKV3zK6KIaB406xsLnSe_JhsBJ54IneiJVei0NtjOKfsrmsvuNfYGN6OQ1BDNM4WH4PLYSTeTtj21UYUcYcmY1FyGa4pZRR1PwBNVXqvlxsJSXyOngAAWFKvv3HeOZyMFeWf3YL4yZ2iVOpz4tVLQOtF&mmp_pid=an_11393951005&uls_trackid=55pva7ub026l&utm_campaign=id_K6CyQu1no5&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmv1v9xqars" 
+ },
+ {
+    id: "617",
+    name: "617",
+    desc: "HOLDER OVERHEAD STAND TRIPOD HP RINGLIGHT KAMERA LAMPU FOTOGRAFI",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HOLDER OVERHEAD STAND TRIPOD HP RINGLIGHT KAMERA LAMPU FOTOGRAFI.jpg",
+    link: "https://shopee.co.id/product/204388579/20095663916?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxz3GK6sTm7KaIqenmu9eUeJ6BK6asI_kQc9UA4SqEMFOBXehVk9Gy1dG4plhkQ4MZbrjRz8B8sPWatyAeONeaRe_zJQWAIfVWomxCeV9EVGmNH6QoTGaZnx9OzBzhqYMiYpvxCHRgnnZVTaB_9usgodoYjuuxU1PScHG0zHhxNK9IYl1HBp7tHWBxh74g88nm13w&mmp_pid=an_11393951005&uls_trackid=55pva9m1011s&utm_campaign=id_10Fk4IbIqMv&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmv3aoigbuq" 
+ },
+ {
+    id: "616",
+    name: "616",
+    desc: "Reseller Welcome - H6651 Ember Lipat Serbaguna",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Reseller Welcome - H6651 Ember Lipat Serbaguna.jpg",
+    link: "https://shopee.co.id/product/265629595/43158234800?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxRIcGl-HoL3kH7I51PJRppgM12kySCblOiJC5DU2H6i3itbaLgnKAjJnNhyz-KOgKYdVIOm3_llpIhnh3ovoDQdk20okiOqRQHF20HO4Wh94-Bm1ygP3iIilGA56TrXHlhcw1qH8tZZHnirhhDCXOdRW9dQy7IHE95iWbDu9IN8oW0BCEMwb7tgMNM4I5_hiOkug&mmp_pid=an_11393951005&uls_trackid=55pvab9q005c&utm_campaign=id_LyqhVHfkoX&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmv4mnys1gk" 
+ },
+ {
+    id: "615",
+    name: "615",
+    desc: "Ember Lipat Mancing Ikan Folding Bucket Handle",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ember Lipat Mancing Ikan Folding Bucket Handle.jpg",
+    link: "https://shopee.co.id/product/426763015/29773281465?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAwDk4H4Mwexcyb46ZYkwJe-k7JerTo6AgPc9kEe3ech4MqAe7jdMGYNjq5GO692L3DK1dFoK8Wf7xq3Nspn6LRKwVWndDl5M8i0PRUXzZwVTyqrpiCOl6gjanoGcb-WEoXp9_FZpEm5UaXZDGGueQd0yNybU-734jC2ceztxvCgKDsfONBPHtpf5U3fJpN1EclimQ&mmp_pid=an_11393951005&uls_trackid=55pvac4l005c&utm_campaign=id_U4CON7nra9&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezmv5azbequ1" 
+ },
+ {
+    id: "614",
+    name: "614",
+    desc: "Tripod Handphone Tripod Kamera 3110",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tripod Handphone Tripod Kamera 3110.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7645981242936184084" 
+ },
+ {
+    id: "613",
+    name: "613",
+    desc: "Ballhead Holder Tripod HP",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ballhead Holder Tripod HP.jpg",
+    link: "https://shopee.co.id/product/388046878/25305429855?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAxBciYdWXqf5YI4gAAG1FNCY2z2sETBA8kBUNc_JqvVAZizeLJr-D2-B2veAT1SjlcC9SZj0TTYyiqTIxzmlzRF3DxvM6IhaWBiqRXieYyCM2gkVEwGZ1G6_nzdWlU-YlreNgQFPcabff3xkkyJ_BvQnSbNaHLzlycuJ-NTONiC_SPQtO-IkgwKcSQD3MRpIAZ9Og&mmp_pid=an_11393951005&uls_trackid=55pellvq000u&utm_campaign=id_13cT94TYRVd&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ez9t68kzg7y2"
+ },
+ {
+    id: "612",
+    name: "612",
+    desc: "Clamp Holder U Tripod HP",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Clamp Holder U Tripod HP.jpg",
+    link: "https://shopee.co.id/product/121551998/9250722120?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAxeSDJ2RG14A2779DvsX0kveJD12642NihZFqf1rE_k4yg5NaU6k_FAVrt1sxfrQOFTLUOmM8yps2RPr8NbXwK-JtRMoM5c3h-OeMo48PiBMR-tfC64aTCRBDK6a7p6UwMRduW5bQ4WkmC8QD4HhBPoWeHCO437488gHwbJSEHgfnvCN7HmxqetmQVqnuIILnI&mmp_pid=an_11393951005&uls_trackid=55pelr03001c&utm_campaign=id_13VurhB5ihJ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ez9tabveapfh"
+ },
+ {
+    id: "611",
+    name: "611",
+    desc: "Kericu Cumi Snack Kemasan 250gram",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kericu Cumi Snack Kemasan 250gram.jpg",
+    link: "https://shopee.co.id/product/230495685/5441855832?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAyqkFO68Prs8z_9DGjb8J9HaYOWLIgo_Bax0oz2PAUOEoNyJijApLqjxeyzJNRE21iWQ7RFvlheZlCiWl80vFUEFfqjUX-DiDz4SV-WxFGIS6CsDOMvWFRLMDBvOJePS9YDIodQFCRxvHbgrnn-YvBLksGwRxBvxswE6UeMHwbo8vdftEHCUBU9EPeF7CI6Vmo&mmp_pid=an_11393951005&uls_trackid=55ofl3p000vn&utm_campaign=id_Aqe3CGT48p&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eymc9gk9t8rt"
+ },
+ {
+    id: "610",
+    name: "610",
+    desc: "Kue Bangkit Sagu Bangka",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kue Bangkit Sagu Bangka.jpg",
+    link: "https://shopee.co.id/product/26876886/7784537584?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkgAAAAytYkEp0qwUfIi7cmswRhXBBzIQuXhUXkgoBmgR830_no2scAW7_aacAFgBNwzXgzZwA6gRzgjIMl6s8OpQUokPcqlHd-mgvcguUOiGBbORUBVeB8UuqECaU0UN8fEJImO6CrYTsMVOTPFPzSMGS9J412GhbnsqT3drldhLpMpuPV0Lnw7rW66g7EFR84BT&mmp_pid=an_11393951005&uls_trackid=55ofl20n0004&utm_campaign=id_HIvd1UOEJv&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eymc81nygyrp"
+ },
+ {
+    id: "609",
+    name: "609",
+    desc: "Lapis legit roll nanas ori khas bangka",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Lapis legit roll nanas ori khas bangka.jpg",
+    link: "https://shopee.co.id/product/164050343/2481735866?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAwFM4qGb0BSi9VwNJnOUif5rzL6W3LKucfhbsMXW5uawRB5OxkNf6gj7Tivhgnj1HkU_udHlNvglPBOhWXDVb7TjU8R-Xh7XC5QTax6ynspUUIwtCpi5pzVXlOf7IjEwTes6FWoSBCru5dn2T8kIp_BtqIKf1le4jlOpUG-hVOyXwoGLseCeZwQqiV7FESDNdo&mmp_pid=an_11393951005&uls_trackid=55ofl81n00vc&utm_campaign=id_U4HdWjXf5f&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eymccyd6g1mi"
+ },
+ {
+    id: "608",
+    name: "608",
+    desc: "Keripik Mafa Alip 200gr",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Keripik Mafa Alip 200gr.jpg",
+    link: "https://shopee.co.id/product/1700714/2293977454?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkAAAAAyDjJJm03AccxuB5-ehz6obK8zr1NYJjeckg8yzXgCntnwC7xhR94RUAlpVTx0ylbSATQwQ4nUH4_FpQdkfocKKlZnY-3iZ2YJZ2ib9XkKhfAPClRlDXyQ0MDr6kA0if5gX7_OXaf3ZHX5BiF_yiX7apZZmVcHmy9sm-W1tyLhfl8eXh8SJSNQKCMwZbA&mmp_pid=an_11393951005&uls_trackid=55ofl8hr021s&utm_campaign=id_KPPUQmkdH1&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=eymcdddeu56o"
+ },
+ {
+    id: "607",
+    name: "607",
+    desc: "Gula Merah Koin–1Kg",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Gula Merah Koin–1Kg.jpg",
+    link: "https://shopee.co.id/product/52869792/48804607537?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAwIW1dd7hR3_1xIodjqKHXPZBUHnz6Jm3c-itMqe__VJLvwT3l3G7b8QO8RYWs2dO8Gbjcfu9fsOytB8qrlnUPqKWFeS9NfvDq-Jgh4tHb1Wo7kZRcGCBIL6AYxiGc6VwwSXtxPJEshhSP2hQEduUKK2g6GJZPNIlpPqhz3u8WmDMXS-VFs_WQX6AarHKVGqAo&mmp_pid=an_11393951005&uls_trackid=55ntserg00u2&utm_campaign=id_XAeXCMNC11&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8gmdpr1xsy"
+ },
+ {
+    id: "606",
+    name: "606",
+    desc: "(JATIM)Kripik Usus Ayam Rempah Gurih renyah Asli UMKM LOKAL",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/(JATIM)Kripik Usus Ayam Rempah Gurih renyah Asli UMKM LOKAL.jpg",
+    link: "https://shopee.co.id/product/8363315/16250213819?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEkgAAAAzk2FWJtGWccS1pQawqIXZI2yqtDnPuzBUJxCdyVubtpeweS3jzd2DigCSExl9zwaNDgeaoGr2eaXDXDMvFeGD6t8qWhT4WDLz09a2nI5TQsmJQEQK7xbBDwRjIhA2aH5IrY05R78civqwCLvkM99p9RxZ-SbxtkGLwXm6ZMhk993aKtJBGX2WTQ2l45ir3&mmp_pid=an_11393951005&uls_trackid=55ntsjhc01u2&utm_campaign=id_10eBhMeu3SZ&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8gq7xgqj5y"
+ },
+ {
+    id: "605",
+    name: "605",
+    desc: "Gula Semut 1kg Halus Kelapa Murni",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Gula Semut 1kg Halus Kelapa Murni.jpg",
+    link: "https://shopee.co.id/product/500299486/56359288703?affiliate_seller_voucher_token=8bCnE5QAnhnqjfs7x6FmpybT1c376mZ4z8SY4Q6kYC&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAzudNg8IHYwFnQBHn_sTUIxqHkE8iw1oz8LQVsdP4wlTYXQi65mWUPK8e6EUYqc9bB64mRGG7PlqqwzqaNSfNgOOs9I5tcpiikS1qaL6_tiCa0uSf8iP-HaWh_We1ZuRxHFkVt12NFLNdydx4Vy8IrzX9WSpSxoAWcNfJPVuetQ2hID49Forseu9slWv662mtse2Q&mmp_pid=an_11393951005&uls_trackid=55ntspp601pe&utm_campaign=id_IYETAQIUbv&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8gvbin2gqu"
+ },
+ {
+    id: "604",
+    name: "604",
+    desc: "STIK TONGKOL SUPER BESAR 1BALL",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/STIK TONGKOL SUPER BESAR 1BALL.jpg",
+    link: "https://shopee.co.id/product/243189833/17799066633?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAyYXTw2IRZALsk6d-W2ERLKhEy6cVvJE_39Tl_OZso8KD7vVakPhAvk-Gz0EFAvrNTil5rXBWzdxQpxL_i0SyXwbMgvdfYd4X3zTzUuzSXFnsLAmGl9k0QEKxReU8iOKdP6v0aAhpXqV1aTlLGT-CSUGO9zMjpkUs0cH3fLTdaSAbxl9aaZP5zhhs-zMf11fo6dbw&mmp_pid=an_11393951005&uls_trackid=55ntssrc01u2&utm_campaign=id_7XnXKwz5wV&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8gxttdnhhs"
+ },
+ {
+    id: "603",
+    name: "603",
+    desc: "500 Butir Temptooth Penutup Gigi Berlubang Penambal",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/500 Butir Temptooth Penutup Gigi Berlubang Penambal.jpg",
+    link: "https://shopee.co.id/product/322414702/26969813310?affiliate_seller_voucher_token=8bCnE5QAmVn9yWBGjRrtfPk1Zjo2rHi4EHG9KuqL17&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAzypZUy8yQ_g5ZtYzOmVP4wp5veqtbVX5CygC7m9uno6In7NXCccYHphFUh_WAqPne5Dx28S5eR8EyONOjBRe76i4VegpXckUXDFTrP6lY3GfGfPJ_25AjwIz0uc7klWIFRI5RB1sfAhwO7EMO0mdVU-J0GLKKpaUNsDEHMTV2fhCizUZyTj3GlVoK0U0zgPP8cWg&mmp_pid=an_11393951005&uls_trackid=55ntr7bj03u2&utm_campaign=id_CP4i7vGQ2Z&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8fo3fu14s2"
+ },
+ {
+    id: "602",
+    name: "602",
+    desc: "VENNER WHITE Gigi palsu instan premium sepasang atas dan bawah 100% ORIGINAL",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/VENNER WHITE Gigi palsu instan premium sepasang atas dan bawah 100% ORIGINAL.jpg",
+    link: "https://shopee.co.id/product/1129063629/24155692180?affiliate_seller_voucher_token=8bCnE5QAmVbR2zemwkZyxck88RUsTUbogXVgpLWG7R&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAwcbJdtwK1QVQmNwiiDQHbIuykqXzvriHU6CkzXjLhEfku61DaJRcPE9-FRWQaUIPFQu4jQ-zG6TzgAPSRKOUWoXFJwQdWf2WJI0AwWaQUBFJwoz8jkFMrIUdpnUeDJ1DgYnK7nWloyqCYZKhOK1JDcF1KkqYhdfGI_MHifv1hO51j90DtBTJU8qvZ4qU8qwBj72SHb&mmp_pid=an_11393951005&uls_trackid=55ntrat303u2&utm_campaign=id_WaEy8U53Xr&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8fqz69j4sh"
+ },
+ {
+    id: "601",
+    name: "601",
+    desc: "Gigi Palsu Lepas Pasang Perfec Smile Veneer Perawatan Gigi Tiruan",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Gigi Palsu Lepas Pasang Perfec Smile Veneer Perawatan Gigi Tiruan.jpg",
+    link: "https://shopee.co.id/product/322414702/29585163578?affiliate_seller_voucher_token=8bCnE5QAmW3wDh9eJmk5V41Sq7QHpXCWNKPCJFsy6g&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAy6UyjtcLfHaTDU2zXa55Rq253-4UylKuUqBZrSCdsUp38s2-SqINcMLpJHHIy_CxjcDO09uRxPOIYGTUV05za5Wy2EvHDsPQv41g7qKckZ30IrfzB1w9U2md8q279hsUU0YMjwhTNlPUtUgeFb-eOfRfvQ72D5px-_5iwgwzUZkHk9AbIhZVZC82uwK9GENBF9uA&mmp_pid=an_11393951005&uls_trackid=55ntrfga02mj&utm_campaign=id_Tm0rry7k8d&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8fur4q7go9"
+ },
+ {
+    id: "600",
+    name: "600",
+    desc: "Tesco benang gigi kotak dengan pembersih perawatan polimer flosser",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tesco benang gigi kotak dengan pembersih perawatan polimer flosser.jpg",
+    link: "https://shopee.co.id/product/1418801906/29720389615?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAwX8qAKNyAKzS6CS9NALPTy_Dtbd204XyUytLdf2_xt9nD3rKdLOEIzvxsvs2mN-PmjU9Jh5kPmeVVK0d16q3SLWEp9WO4M8A13M7pLhGJaFCOw6rEGT99OW1l4bn7hRpQ9iaHMPClRMVNPcqetfVeNvHAwsuo43-1tqY8qxl-i7h8kFlnQIe6I5vIIASBkqDE8MHjb&mmp_pid=an_11393951005&uls_trackid=55ntrkqs02pe&utm_campaign=id_J9vwRlD26J&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey8fz4azyh3d"
+ },
+ {
+    id: "599",
+    name: "599",
+    desc: "INSTAN MOJOKERTO TELUR PUYUH 1 KG",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/INSTAN MOJOKERTO TELUR PUYUH 1 KG.jpg",
+    link: "https://shopee.co.id/product/233141538/54659328167?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAyq6J0VvKuOZKAjOY_AxRM5QWasHqEYck68EA7YILFWCnguhIyXpBmOYNOfaglDoUnVS3USGlU_PdBfV1PK5rakvVhFcFZ2vI5p9XCd-q7qBxvGOr8pEREcMbs8OlbMGUY4BurYXSANY_8aXfJTFbfQ75S_3_BNvbWSzx83X-UPmnlnKrbGWLITe9xWQA25LQj0pQ&mmp_pid=an_11393951005&uls_trackid=55nrjf1002mj&utm_campaign=id_9YFuMelCLX&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey6tfbgytb9h"
+ },
+ {
+    id: "598",
+    name: "598",
+    desc: "HarvestMoon Telur Ayam Kampung Per Tray",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HarvestMoon Telur Ayam Kampung Per Tray.jpg",
+    link: "https://shopee.co.id/product/315394148/5055636388?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAz_jtZs844JI0RaaW-aDZf1BB2tNiHaBrdqxuOu9MBUlhLLzpN9C71PKElGgN2C3mLQdcQRlJMZpg9-PJKF-fR5-VsbnhSpbvaosQePx3X4Xxp7AqDIAzva5ZRPtkgsIo9YZNiTOXt-ZC2ZcRSibr7MS54AW8nuOH_zIGI15Snwj2rymnq8wuz86uWlzAJE7PA&mmp_pid=an_11393951005&uls_trackid=55nrji9h01u2&utm_campaign=id_N2UH6SfAVD&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey6thzb8jb3n"
+ },
+ {
+    id: "597",
+    name: "597",
+    desc: "cabe cengek kering teja merah 250gram",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/cabe cengek kering teja merah 250gram.jpg",
+    link: "https://shopee.co.id/product/1135323627/25491027125?affiliate_seller_voucher_token=8bCnE5QAmVgmKiEJWXtMUToWAuGsu6GDiSh8nqjF92&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAxmZrv8bNORTMLmWGqyy4YO9tPIxMhc1Er-3LESKlihJ-iJ8RfKt39Exs4AyFD3NbG0KxoX2ZYN7uOt2d5QlHyPt2XeLd6qWxBb3e3OQuo_k5T6hFEvNVTUjP3lcB0_4ySM68eVPqQYoVOPJRdqjnPyZYG7bn4r3YC-OdyVHD8T4clvG8oM-pb_G9fXbMp4RmUcsolE&mmp_pid=an_11393951005&uls_trackid=55nrjm5500oa&utm_campaign=id_xXhoJUQFup&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey6tm5pm3po9"
+ },
+ {
+    id: "596",
+    name: "596",
+    desc: "Cabe Rawit Merah 1kg",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Cabe Rawit Merah 1kg.jpg",
+    link: "https://shopee.co.id/product/121857586/27213588359?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAyONjiwgAdahKWnXJr-LcsGhHnhRSiCJDQGSxnFC3GCnkBpPTymJZ1nsaIoDY-Bk9F3M-LhfjSgFQfJRu3PUqWM2pA_TZsZh5uv-g0VZ56rmk-7dnRqo3kcRjQsCFsOfNRTj5xBtQ7utL_G2e1MyhxybpJIPINbWexWZ3Ydm4qJx_vwSd2ahXOLP_xGUkuUN6WgTA&mmp_pid=an_11393951005&uls_trackid=55nrjot600p4&utm_campaign=id_VEcKoaggRj&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey6toe7we39y"
+ },
+  {
+    id: "595",
+    name: "595",
+    desc: "Kapur Dolomit Pertanian Asli 1kg Untuk Tanah",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Kapur Dolomit Pertanian Asli 1kg Untuk Tanah.jpg",
+    link: "https://shopee.co.id/product/90604991/40107549890?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAyOgV2clkpfWp_OiX403McG5soYwf68n6NQpCwobg7VTFs4gcLLpITm5Sn12FdGRT548k5WZGPytqKJ-6Goa8Cra0HiFz4bCZ7KM7iA2hU4dvRz-s-w9aFScHvkCevzPN-C81tzLRrFp3kD-_5NEmlC_j6XWjIxFbIO0KTsXQeCejwurrwlf00pe8e4V5gWSes&mmp_pid=an_11393951005&uls_trackid=55nm41s701or&utm_campaign=id_1069kiHhoUx&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey2ufayqaq99"
+  }, 
+  {
+    id: "594",
+    name: "594",
+    desc: "Sprayer Listrik Pertanian Ransel",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Sprayer Listrik Pertanian Ransel.jpg",
+    link: "https://shopee.co.id/product/1567454045/43124292613?affiliate_seller_voucher_token=8bCnE5QAnJBLKCqLDy246XLKc9JEg1tBAmW4TVdt7C&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAx2EjcYk-8_oQUeIGj2OyrAmeMPARG5DcmCH38qVozUCpnpzRnb_feBvWighFyQ0yc6SrM0iLV5i0z22PESpMTGJhtufkyfgFLMk7GTAXnvVVK40R1cRHNYXLveMX3LX8Z3dlarrEj8ebQZGl2hn_DZUwVgE0Beu5BU5K6uVITtxTQJAf85A2PvTizlyg0xD9Oi4dP8&mmp_pid=an_11393951005&uls_trackid=55nm465p01u2&utm_campaign=id_AY6kQ1lps7&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey2uitiah8fs"
+  }, 
+  {
+    id: "593",
+    name: "593",
+    desc: "Akodan 350EC 500ml - Obat Pertanian Insektisida",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Akodan 350EC 500ml - Obat Pertanian Insektisida.jpg",
+    link: "https://shopee.co.id/product/1435882343/24340015983?affiliate_seller_voucher_token=8bCnE5QAmVbTRgRU5vmik3PdafVFCvLe9U965URDL6&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmAAAAAxo1BKKPAbYYaOFRM_EtwT8dj5zgKv-8ueEyMb1CES89As1dQ33nxeQ-Ie86ExBj5qbJwL2q5vH29yM7Q0w-guMWneKkQn7aKogwO0IbkSJO0fkR3rzIES2rYVAbq6KcQr3fEYHabsDTHWCJi4vKrvJWCW_QD94XR2mnj9oPlkUlivbksod0azXt176jEIOA1f-kV97&mmp_pid=an_11393951005&uls_trackid=55nm495701oa&utm_campaign=id_nuPparWyyt&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey2um9fcvbg3"
+  }, 
+  {
+    id: "592",
+    name: "592",
+    desc: "Paket Komplit Benih Sayuran 50 Jenis",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Paket Komplit Benih Sayuran 50 Jenis.jpg",
+    link: "https://shopee.co.id/product/963624050/28177803075?affiliate_seller_voucher_token=8bCnE5QAmVxZkJmG1CbjmvHwU2ZVBBUD1VKu9FNCfe&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAxIKUqNw8LXJhxcTZaFvkM7EV4TUGX9oFVTSygZ4bIflFoEfO0rfSgi8FDPKrOPRrKay8d-IeDU9ghQfZGoJDXarHidSGhnyxWnadnDTGtW8gM_9v2pXbDxCBdxsjD2gtlf6a_tYo_4zcn7P2FRS08UXoyOtPiBp1W6qvUYF_zG1RXrrJ8FgEyZyCBb5TrpZq50Rw&mmp_pid=an_11393951005&uls_trackid=55nm4c2600o9&utm_campaign=id_9ayGGDnfu3&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ey2uon7kuehu"
+  }, 
   {
     id: "591",
     name: "591",
@@ -450,7 +1450,7 @@ export const partnerItems: Partner[] = [
     desc: "Kain Mat 1Kg Waterproofing Serat Fiber Fiberglass",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kain Mat 1Kg Waterproofing Serat Fiber Fiberglass.jpg",
-    link: "https://s.shopee.co.id/8KmHhtPBxD"
+    link: "https://shopee.co.id/product/92698993/7956326312?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEkgAAAAyHeKdR1Q0FqsTgEkJd5CN_QdhZ35rVHGm78nEWyYRL284hfP7Y1VGpZa0iYTWhurLxBcZoUZhGLvZr844Nn1PLQh_-v5VGAsoZy__VLiWK81WfW6nAg-jiqiPoPHaWhPc3H5o6D8xOxJGl3Kt4V7LRmBz9_8XHD-c5ZUCJVb-hHBLkcJlUnjW_ZDtZffjT&mmp_pid=an_11393951005&uls_trackid=55pvk7o200vo&utm_campaign=id_IgqwbgSnix&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3qdo94mnf"
   }, 
   {
     id: "560",
@@ -458,7 +1458,7 @@ export const partnerItems: Partner[] = [
     desc: "Karburator Cleaner 500 ml - Pembersih Karburator & Injeksi Karbu",
     subDesc: "Indonesia",
     image: "/img/Partner2/Karburator Cleaner 500 ml - Pembersih Karburator & Injeksi Karbu.jpg",
-    link: "https://s.shopee.co.id/50VpjmicwT"
+    link: "https://shopee.co.id/product/1647797409/44123002953?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAwSQ_yA1o0-MFz8fY6f1fFd58D4b_pK7L8T1-m75lkuuYg2OfXL3Ctxc8e1JmL3RataB8bd9RYBbNmlaqUrWEpqnjJcmNWnvcVsDpTaFYbXUAfWjBBt_iljyx26WBxivTqglxR9OMql4MfkG6SBykPgseVSHJdTl7ogfCoL988IufxSpAh_dfOFgCBiswfruMPWeCn9&mmp_pid=an_11393951005&uls_trackid=55pvk8k401vo&utm_campaign=id_JzDNguOVst&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3r438sfou"
   }, 
   {
     id: "559",
@@ -466,7 +1466,7 @@ export const partnerItems: Partner[] = [
     desc: "PETROASIA Carb Clean And Injection Cleaner Pembersih Karburator Mobil Dan Motor 300Ml 500Ml",
     subDesc: "Indonesia",
     image: "/img/Partner2/PETROASIA Carb Clean And Injection Cleaner Pembersih Karburator Mobil Dan Motor 300Ml 500Ml.jpg",
-    link: "https://s.shopee.co.id/50Vpjndp7U"
+    link: "https://shopee.co.id/product/34680048/14897896963?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAwYcvoHNnhnBKt2qnjdLvaObRjfZQkCQUTK9gC9-H1ttGAV09ZoBGTBgOqK8zhgWi2_d-V33MKykppRkmwUV3xCgeZDoOKP348JI1CoqsO88r9b_AdSi0566vPhIVxbcDVYWmvKBB07Jk416GNwHeL2yJ0tEOn4oCD-22sSlSPyABA2CO8AkorEQDDZ1DLR3JU&mmp_pid=an_11393951005&uls_trackid=55pvkauv01vq&utm_campaign=id_7tc0qpUl8R&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3t13kuonh"
   }, 
   {
     id: "558",
@@ -474,7 +1474,7 @@ export const partnerItems: Partner[] = [
     desc: "Pembersih injector Lowkos Injector Cleaner Langsung Tuang Tangki 60 ML",
     subDesc: "Indonesia",
     image: "/img/Partner2/Pembersih injector Lowkos Injector Cleaner Langsung Tuang Tangki 60 ML.jpg",
-    link: "https://s.shopee.co.id/6L1DKGinE6"
+    link: "https://shopee.co.id/product/106213251/29900569612?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAwFBoTSUAn_Gc2o7nz0G6MM-c-LkslLm9jsFgfVKCpfopiOxrMou5olU1fGrrbsEioowEEIhHVOebvKS3Gjhae41iFC7DJP0xmL9XwRd3-iynbhQ73iaf1BJVtqy0posAsZViiWX1p2i2mGVnDkNtzGc9-krDJ4OwgL8ZCtJqx7o0W42qCGx8lKPtpCbVPLjYbMLQ&mmp_pid=an_11393951005&uls_trackid=55pvkbp200vt&utm_campaign=id_OQaSdnNwxT&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3toreozyu"
   }, 
   {
     id: "557",
@@ -482,7 +1482,7 @@ export const partnerItems: Partner[] = [
     desc: "Stiker pillar Mobil Pilar Jendela Mobil",
     subDesc: "Indonesia",
     image: "/img/Partner2/Stiker pillar Mobil Pilar Jendela Mobil.jpg",
-    link: "https://s.shopee.co.id/9pb5UiTgqY"
+    link: "https://shopee.co.id/product/40213822/43055164832?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAy-uGeIQ5SHLTyfszzVyOAboUeMswmfeHeFdEue8EQqJQX60pwCKEq5ws8Q-6UZium_ggMYDViPwU17Fnas8AjoH7fMGI4siCGFIT1rmqtoqZU7jIOw3rqNhXqFz_JaQRkgAiPG7JInMLeHuG7F4C3T77Z85ing7kqzkjHa7uIbFP5zV24UQWmQ4PMCrhebp2w&mmp_pid=an_11393951005&uls_trackid=55pvke2n00v9&utm_campaign=id_13DHD6WTxCR&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3vjr2kgoh"
   }, 
   {
     id: "556",
@@ -490,7 +1490,7 @@ export const partnerItems: Partner[] = [
     desc: "Kabel Bintik 7 Warna Full Tembaga AVSs Jepang Kabel auto Otomotif Body variasi modif audio aksesoris Motor Mobil",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kabel Bintik 7 Warna Full Tembaga AVSs Jepang Kabel auto Otomotif Body variasi modif audio aksesoris Motor Mobil.jpg",
-    link: "https://s.shopee.co.id/3Vh1x5rbQP"
+    link: "https://shopee.co.id/product/28021497/53202616698?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAxJS8YR1M-PTrSqudXt60AiVgJPBB1cBvjmfIql7DMlJQX4RbS8MsbqgleD7RuPsD64YESTMDhruE82nsYlJ5HNCxCRIJ6jloKV5MYBqEyxqXsslfFUBGDxysgSKdgG3H9-j6itmmGy97iHLznI0g-v_sZfeAOzUa4f1n4kWxxYyi2CpQcwhHkHuNSh5aWqnsI&mmp_pid=an_11393951005&uls_trackid=55pvketa01vq&utm_campaign=id_13bora8ph71&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3w8utupr3"
   }, 
   {
     id: "555",
@@ -498,7 +1498,7 @@ export const partnerItems: Partner[] = [
     desc: "Serat Carbon Forged Isi 10gr Warna Hitam",
     subDesc: "Indonesia",
     image: "/img/Partner2/Serat Carbon Forged Isi 10gr Warna Hitam.jpg",
-    link: "https://s.shopee.co.id/6pxTvEk0b0"
+    link: "https://shopee.co.id/product/28058659/18079531821?affiliate_seller_voucher_token=8bCnE5QAm6cwZigFAtSHwr4z7j2oxE7vToitc8D6dT&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAzLtQvuOH-kLoE54OZARNgKobm1-3kRMDKdGzsxVikcNvut2F69wM6mmbpEUk68xuAR50dON-w5NrbD2KCnOItrWjeNBisECVDIGd5kz82kigxcjFYDxKp46sthOxtleqb48zSMh8kNrOKr-lCjx8QAc2aYMwvMxXUY9nVTvDI-Xf9dIfsC-YHbHoR7nESsy8o&mmp_pid=an_11393951005&uls_trackid=55pvkh7a00v9&utm_campaign=id_IbtsxFfkmd&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3y548z8gf"
   },
   {
     id: "554",
@@ -538,7 +1538,7 @@ export const partnerItems: Partner[] = [
     desc: "HSD Black Garlic, Bawang Hitam Premium",
     subDesc: "Indonesia",
     image: "/img/Partner2/HSD Black Garlic, Bawang Hitam Premium.jpg",
-    link: "https://s.shopee.co.id/40dH2ElV6t"
+    link: "https://shopee.co.id/product/738529143/16351005523?affiliate_seller_voucher_token=8bCnE5QAm6SRoEBQcFE9u1rNhLc7dHkwcBGf9mZ6v4&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAzQGzXjvzQek8fww2uRooOzc6q9LfxLqJn4Hzxmcl5ozQbYs6of97XIzGsM-cpaRxV9C5mJf8Klld2CKMrTVy31l-mbEoDTvQqH-ia8FawaUpYm1VETvhitzfHXPBk-llSVj0_Rec8KnkoCTSF6hEZIVgdI6ZRhrtW571HtcldGPKxGmOI-M19Ath5g9or6LTBrrQ&mmp_pid=an_11393951005&uls_trackid=55pvkjgr0004&utm_campaign=id_LpMMNBLGtX&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3zzzdmuqy"
   },
   {
     id: "549",
@@ -546,7 +1546,7 @@ export const partnerItems: Partner[] = [
     desc: "Cemilan Cimol Mozzarella/Cimol Bojot AA Mozzarella Frozen Food",
     subDesc: "Indonesia",
     image: "/img/Partner2/Cemilan Cimol Mozzarella.jpg",
-    link: "https://s.shopee.co.id/6fe2D9x0pV"
+    link: "https://shopee.co.id/product/477280848/13298264145?affiliate_seller_voucher_token=8bCnE5QAm6AYbGHjkX7tpDEdcosKNY5qxhbWTJTbTk&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAz_Kj3EdF3W00cRU6MahrVsw8VXetkKzVRQg3htb7oojIDo_effF8rZv1PddpzRYgqDC_1Gu5kTWwJvt6mAEA7qFLhfucCrBD5sqKk8_YGmuJ80AFs7NkOooAtor6Mzn_RJZtQXnSvSHOvVWczUZIfVH7DcWJ3fmjf61hq9e-EuBtpZu6QqZvJcD8EK78TMAuJz-A&mmp_pid=an_11393951005&uls_trackid=55pvkkuh0201&utm_campaign=id_Kbiqwk1FFb&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn426pjpdew"
   },
   {
     id: "548",
@@ -554,7 +1554,7 @@ export const partnerItems: Partner[] = [
     desc: "PEMPEK EMAK INDAH - PEMPEK MPENAK PALEMBANG ASLI IKAN TENGGIRI",
     subDesc: "Indonesia",
     image: "/img/Partner2/PEMPEK EMAK INDAH - PEMPEK MPENAK PALEMBANG ASLI IKAN TENGGIRI.jpg",
-    link: "https://s.shopee.co.id/6VKc0sUn5S"
+    link: "https://shopee.co.id/product/46400531/4129717384?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEkgAAAAwZGits2ypRWQAik9mw3IGbnIUBnC8Hda4yTBdVIyOiGklKzxPkhHAZk3aj9sqQT-gV8ahNMjNxg_ijpH4tWKj7lkUpEb0UXOp37LUw0ghWTLzItEKhkgFr9LIVWq_Pa5ZOt8sdZxdFOBm0TGu266kF0f1UiY0YBJMAYmy7c4iMJTybPqoCBQHrgu-k5k0p&mmp_pid=an_11393951005&uls_trackid=55pvkmiq021s&utm_campaign=id_BvVAGvf3eN&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn43i6mxetw"
   },
   {
     id: "547",
@@ -562,7 +1562,7 @@ export const partnerItems: Partner[] = [
     desc: "Black Garlic Bawang Tunggal Premium 440gr",
     subDesc: "Indonesia",
     image: "/img/Partner2/Black Garlic Bawang Tunggal Premium 440gr.jpg",
-    link: "https://s.shopee.co.id/5VS4p44i6d"
+    link: "https://shopee.co.id/product/1378625917/42673060635?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmAAAAAxhcPlahy2IEeCl7WKSTjKf_brJiaMvGNPBP64Y6qlE34PPhpJwLurbMGtDOwdO72sPR2erqoW_rsj6HFIOp6vjEZFN4veur5YU3RRliUj6NHwgCA5m_gqNuiwkbIxOmoOk9X6MgPAeCiYh_ATl7dHPOVyhHJA1IQbbJXmujCI_aWCnCgUUkGvspJmR99F4NqM0WKrs&mmp_pid=an_11393951005&uls_trackid=55pvknse00vc&utm_campaign=id_KRGkVirAfD&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn44kben7rw"
   },
   {
     id: "546",
@@ -570,7 +1570,7 @@ export const partnerItems: Partner[] = [
     desc: "mangga kionjay + bumbu gorojog sitetehtetehcianjur",
     subDesc: "Indonesia",
     image: "/img/Partner2/mangga kionjay + bumbu gorojog sitetehtetehcianjur.jpg",
-    link: "https://s.shopee.co.id/6AhlcJQith"
+    link: "https://shopee.co.id/product/69916042/24136939616?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAyNnWVg6aiHgc9mg98NRs4f5yIlpYlrMuVOZHJG-620wApYIHVlW81gosGy2Dd-DuRDZxFMiRI5rxrFPJH8-JFsn2chrtGm9p_cmo77V5LJjNMcaLPSF8YnvaKNaZ_rPspNjFJeBoW1xOGq0XGz1lKPUu1cvLTRN15P9qq6dqDsm2mAfkfR5TlIrgtvKZRvXjo&mmp_pid=an_11393951005&uls_trackid=55pvkokt025c&utm_campaign=id_C6uLoUCnO7&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn457kemuaf"
   },
   {
     id: "545",
@@ -4874,7 +5874,7 @@ export const partnerItems: Partner[] = [
     desc: "Blender Juicer Buah Usb Rechargeable",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/8.png",
-    link: "https://s.shopee.co.id/AKLz6eRyr0"
+    link: "https://shopee.co.id/product/521988780/25361840960?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAxs-7t_ocmGFtXtJWDrP_e3oy1c-MnvHXToXa6Wm-sEi8strK-gLieDe1tg9im1LZkUGmdWLXRTi6cSf6TVpVzmgioiH3AvwFFJyRRAhY1lSBmcDi8tlduVLWQJyGrO9h_1WRXihx0jY2inKl3utfAyx6fPPrHwBaMPAaYE-iF78F8ff30NlCnpzxn2EpcPuUnsMQ&mmp_pid=an_11393951005&uls_trackid=55pvjtdt02vo&utm_campaign=id_ZpqhWWJlJK&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3gxtvixsr"
   },
   {
     id: "7",
@@ -4882,7 +5882,7 @@ export const partnerItems: Partner[] = [
     desc: "Jas Hujan, Raincoat, Tebal",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/6.png",
-    link: "https://s.shopee.co.id/40RvYxULE9"
+    link: "https://shopee.co.id/product/924464575/20869392976?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAyaa9YlqqemIe2oOIxyGP3M_NVpfQPP0DX47lv8BBMv9jhV4KNqQeyJ_pTcSej2_nPax5fTPwzAoJ45ItOczDZ8NGd_12BmwSZRADIxOWgNHRbnsEIkZpe_wQHkIAlaGltUtrvSDr4VtGjpHQJ10lNRw9QRogobrX5fQYCNfrWhWlqrER3PceAFgnH22HShPm-kkg&mmp_pid=an_11393951005&uls_trackid=55pvjrms0004&utm_campaign=id_9IgllcIBHO&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3fizv79sd"
   },
   {
     id: "6",
@@ -4890,7 +5890,7 @@ export const partnerItems: Partner[] = [
     desc: "Kemeja Wanita / Basic Longsleeve",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/5.png",
-    link: "https://s.shopee.co.id/5fa9Y0BxQg"
+    link: "https://shopee.co.id/product/604395356/26020348676?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAyxe7jQ49UppQe-sKqu68_UyRKKoZgfFNObI6LrWcESTbukGKwNSfe4vl-b1kw6VyS8XI_wWxYk60GRikLFQMsepJEYCrfCglKHu8KK2QhEsZ0oFrxSQBH4dWBE35J3XjJt78-sseXNojVx0TSZN9NW4mdeTfcYEJglsJ5ejzPpqMjYz0_lUn95FpgJGt3YnXcJkA&mmp_pid=an_11393951005&uls_trackid=55pvjpvr00v9&utm_campaign=id_8xo0lf28dW&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3e57597xb"
   },
   {
     id: "5",
@@ -4898,7 +5898,7 @@ export const partnerItems: Partner[] = [
     desc: "Sprei Waterproof Import",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/4.png",
-    link: "https://s.shopee.co.id/BFCzrxxqh"
+    link: "https://shopee.co.id/product/413480984/23119239974?affiliate_seller_voucher_token=8bCnE5QAmVW8LioZXdL6y5QPDWFuePZK85DaK2rMe8&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElgAAAAyzwwAUfuEFatc583yeW46djioRNfz2ly7fpKTOTfkj1EMvmJCYDISXVe-OmEN1IfYTARiYYlzo-l-JkxrEQBD2vu9B_l2nTw887QKac7GKkOjl4KxhLKf83PzRz-YWrkvJeWVlP7G_KuiqLryK9SkmtmortBsQwnl6M85R-PcAzayvdBF_t2XS-uxr-c04CbMP7g&mmp_pid=an_11393951005&uls_trackid=55pvjo600001&utm_campaign=id_V3tx3kYYEs&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3cnvua11q"
   },
   {
     id: "4",
@@ -4906,7 +5906,7 @@ export const partnerItems: Partner[] = [
     desc: "Gamis Dress Wanita Kekinian / Dress Murah",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/3.png",
-    link: "https://s.shopee.co.id/2B0HNUZxnK"
+    link: "https://shopee.co.id/product/40528295/18791147701?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAzQixlgIA9AZX1GUMiln_2AFUO0BNm1grvuKVzbtDW8hyymJe6x94v8BEyC8UQor1ri4meyPGGjzjafw4YEjtKAzjbrRYWsbjSGE8h709si5OHGGXpIKi0t00DCCGg8Ka8zZSZO-WAeyiscWUqpnmUvqKvcovG7lxzkMZKGgCpIpPhczy9UTO4eg42g1-nH-D0&mmp_pid=an_11393951005&uls_trackid=55pvjmk900vq&utm_campaign=id_DnJHgPbOy2&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn3bdrcjhiw"
   },
   {
     id: "3",
@@ -4914,7 +5914,7 @@ export const partnerItems: Partner[] = [
     desc: "Es Krim Aice 8 Liter Ice Cream",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/2.png",
-    link: "https://s.shopee.co.id/6fSgjn0Uhl"
+    link: "https://shopee.co.id/product/262854215/5741454263?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTElAAAAAwahYMuhEE7SqvabIalbePkOaEdty0HEYj48kFUUqLzFQJA73jXrq9ZvB-tgp0GjkIOLF5LydHluatOfWZgW-_V7cJW-4AispMwwWQBsQCFm6Iwb0mT7AsE-wvFvbsCA_NIBbR3roNmp07gzUhXyOEjfS6s8_WfkoKYRWym1TUzvaT0sswZcR8Ne-Jb-5Gy1AA&mmp_pid=an_11393951005&uls_trackid=55pvjf9r000l&utm_campaign=id_7Yv9JOGZLG&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn35e2pvmzo"
   },
   {
     id: "2",
@@ -4930,7 +5930,7 @@ export const partnerItems: Partner[] = [
     desc: "Gorden Blackout Gordeng Polos Gordyn Jendela",
     subDesc: "Shopee - Polimeritas",
     image: "/img/Partner2/Gorden Blackout Gordeng Polos Gordyn Jendela .png",
-    link: "https://s.shopee.co.id/30ZOMA5s87"
+    link: "https://shopee.co.id/shop/19442298?mmp_pid=an_11393951005&uls_trackid=55pvjhta00vo&utm_campaign=id_VDkQIjgNQA&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=ezn37ikybou2"
   },
   {
     id: "Hubungi Kami",
@@ -5056,6 +6056,14 @@ export const partnerIndustriItems: Partner[] = [
     subDesc: "Industri",
     image: "/img/Partner2/Vitakraft-Liquid Snack Cat.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7637412558751780117"
+  },
+  {
+    id: "industri-petshop",
+    name: "[BEST SELLER] Excel",
+    desc: "Excel Makanan Kucing",
+    subDesc: "Industri",
+    image: "/img/Partner2/Excel Makanan Kucing.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7646711565441436948"
   },
   {
     id: "industri-petshop",
@@ -5223,7 +6231,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Paket Bundling Royal Care Snack Creamy Stick",
     subDesc: "Industri",
     image: "/img/Partner2/Holycatlabs Paket Bundling Royal Care Snack Creamy Stick.jpg",
-    link: "https://shopee.co.id/product/647685051/29340253714?affiliate_seller_voucher_token=8bCnE5QAmW3toe45oGpQYFbFBT12Ro94qveytxE3Fm&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElgAAAAyczq2Ht0xWj5eOLMeB5Y5LW9z0j75MPw6tZNrXV0d6LovXkXls3HybWy1Fw6LJfTrgPYyVWzhStv80lZbVDvDxCUHFyCYOAabDb6y-6V77JNb_Z2HmLeJXicZhFF2c7TOfGB0Un3QT4aLHu464Co4DSIpbiZbdw7EbfwYcMOUfMNbriP_gIcQZgQm0mGl-OQVrJg&mmp_pid=an_11393951005&uls_trackid=55ndceea00op&utm_campaign=id_jX37QBaAZD&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=exvi8rh32o2x"
+    link: "https://www.tiktok.com/@booyenku/video/7643390367047355668"
   },
   {
     id: "industri-petshop",
@@ -5231,8 +6239,8 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Creamy Stick",
     subDesc: "Industri",
     image: "/img/Partner2/Holycats - Creamy Stick.jpg",
-    link: "https://shopee.co.id/product/97225076/43570900124?affiliate_seller_voucher_token=8bCnE5QAnJBR8UwZqcSjFERXVydnYcwWFEaSU8sG2s&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTElAAAAAy4lPIqeayRVMQTYGdpWXSg5ujKeBP_h83xuQ4exLVpPe818rpZuP613DmK5IRSvWcmEIChn48Y1qAx0yfjfe1ngWOK5jiCj311umTlaXZGBnQofDCa2-JLDsUBXZTjvsx0TPnSwumxP3OaAc6ryk9zg0p9SXNWWQZiDJXVf4bFmpDrM_0Q1xFqL_bhTCWhVcs&mmp_pid=an_11393951005&uls_trackid=55ndjsoc0imj&utm_campaign=id_104RaWGXmnv&utm_content=----&utm_medium=affiliates&utm_source=an_11393951005&utm_term=exvoyn8w4fhh"
-    },
+    link: "https://www.tiktok.com/@booyenku/video/7643293947711851796"
+  },
   {
     id: "industri-petshop",
     name: "Anima Companion",
@@ -5335,7 +6343,175 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Spray Pet Skin",
     subDesc: "Industri",
     image: "/img/Partner2/petvigorwithboyen.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7628471599531969813"
+    link: "https://www.tiktok.com/@booyenku/video/7643296058587598100"
+  },
+  {
+    id: "industri-petshop",
+    name: "PET VIGOR ID",
+    desc: "PET VIGOR Obat Kutu Kucing Anjing Fipronil",
+    subDesc: "Industri",
+    image: "/img/Partner2/PET VIGOR Obat Kutu Kucing Anjing Fipronil.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7645524717755010325"
+  },
+  {
+    id: "industri-petshop",
+    name: "Antiscabies Plus Nano Aerosol",
+    desc: "Antiscabies Plus Nano Aerosol",
+    subDesc: "Industri",
+    image: "/img/Partner2/Antiscabies Plus Nano Aerosol.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7669632983363505428"
+  },
+  {
+    id: "industri-petshop",
+    name: "Clever Solutions - Anti Scabies Plus Ultimate 12in1",
+    desc: "Clever Solutions - Anti Scabies Plus Ultimate 12in1",
+    subDesc: "Industri",
+    image: "/img/Partner2/Clever Solutions - Anti Scabies Plus Ultimate 12in1.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7669701926011030805"
+  },
+  {
+    id: "industri-petshop",
+    name: "Paket Antiscabies Anabul",
+    desc: "Paket Antiscabies Anabul",
+    subDesc: "Industri",
+    image: "/img/Partner2/Paket Antiscabies Anabul.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7669632236223778069"
+  },
+  {
+    id: "industri-petshop",
+    name: "Clever Solutions - Anti Scabies Plus Syrup 30ML",
+    desc: "Clever Solutions - Anti Scabies Plus Syrup 30ML",
+    subDesc: "Industri",
+    image: "/img/Partner2/Clever Solutions - Anti Scabies Plus Syrup 30ML.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7669305482942614804"
+  },
+    {
+    id: "industri-petshop",
+    name: "Golden Paw - FLUGUARD SYRUP 30 ml",
+    desc: "Golden Paw - FLUGUARD SYRUP 30 ml",
+    subDesc: "Industri",
+    image: "/img/Partner2/Golden Paw - FLUGUARD SYRUP 30 ml.jpg",
+    link: "https://s.shopee.co.id/gP5WTNNuz"
+  },
+    {
+    id: "industri-petshop",
+    name: "Worm Guard 5gr By Golden Paw Obat Cacing",
+    desc: "Worm Guard 5gr By Golden Paw Obat Cacing",
+    subDesc: "Industri",
+    image: "/img/Partner2/Worm Guard 5gr By Golden Paw Obat Cacing.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+    {
+    id: "industri-petshop",
+    name: "Golden Paw Anti Scabies 8in1",
+    desc: "Golden Paw Anti Scabies 8in1",
+    subDesc: "Industri",
+    image: "/img/Partner2/Golden Paw Anti Scabies 8in1.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+    {
+    id: "industri-petshop",
+    name: "Golden Paw-Anti Virus Guard Syrup",
+    desc: "Golden Paw-Anti Virus Guard Syrup",
+    subDesc: "Industri",
+    image: "/img/Partner2/Golden Paw-Anti Virus Guard Syrup.jpg",
+    link: "https://www.tiktok.com/@booyenku"
+  },
+    {
+    id: "industri-petshop",
+    name: "Felina Freshpack 55gr Makanan Kucing",
+    desc: "Felina Freshpack 55gr Makanan Kucing",
+    subDesc: "Industri",
+    image: "/img/Partner2/Felina Freshpack 55gr Makanan Kucing.jpg",
+    link: "https://s.shopee.co.id/9pdKRpBABu"
+  },
+    {
+    id: "industri-petshop",
+    name: "Life Cat Creamy 30gr Snack Kucing Isi 2 Varian",
+    desc: "Life Cat Creamy 30gr Snack Kucing Isi 2 Varian",
+    subDesc: "Industri",
+    image: "/img/Partner2/Life Cat Creamy 30gr Snack Kucing Isi 2 Varian.jpg",
+    link: "https://s.shopee.co.id/W5gWqtB2Z"
+  },
+    {
+    id: "industri-petshop",
+    name: "Snack creamy YUKI CAT ISI 60 PCS",
+    desc: "Snack creamy YUKI CAT ISI 60 PCS",
+    subDesc: "Industri",
+    image: "/img/Partner2/Snack creamy YUKI CAT ISI 60 PCS.jpg",
+    link: "https://s.shopee.co.id/7VFQrkMMGu"
+  },
+    {
+    id: "industri-petshop",
+    name: "Meo creamy treat 60gr isi 4 me-o snack kucing",
+    desc: "Meo creamy treat 60gr isi 4 me-o snack kucing",
+    subDesc: "Industri",
+    image: "/img/Partner2/Meo creamy treat 60gr isi 4 me-o snack kucing.jpg",
+    link: "https://s.shopee.co.id/9pdLe3rdDd"
+  },
+    {
+    id: "industri-petshop",
+    name: "Holycatlabs Royal Care Real Meat Wetfood Can Makanan Basah Kaleng Kucing 400gr",
+    desc: "Holycatlabs Royal Care Real Meat Wetfood Can Makanan Basah Kaleng Kucing 400gr",
+    subDesc: "Industri",
+    image: "/img/Partner2/Holycatlabs Royal Care Real Meat Wetfood Can Makanan Basah Kaleng Kucing 400gr.jpg",
+    link: "https://s.shopee.co.id/5fnmgSj7ga"
+  },
+  {
+    id: "industri-petshop",
+    name: "Holycat Real Meat Makanan Kering Dry Food Kucing 450gr",
+    desc: "Holycat Real Meat Makanan Kering Dry Food Kucing 450gr",
+    subDesc: "Industri",
+    image: "/img/Partner2/Holycat Real Meat Makanan Kering Dry Food Kucing 450gr.jpg",
+    link: "https://s.shopee.co.id/3LPruhiO6s"
+  },
+      {
+    id: "industri-petshop",
+    name: "Majes Magic Bites Hair & Skin Care Makanan Kucing Kering 1kg Rasa Salmon - Adult Dry Cat Food",
+    desc: "Majes Magic Bites Hair & Skin Care Makanan Kucing Kering 1kg Rasa Salmon - Adult Dry Cat Food",
+    subDesc: "Industri",
+    image: "/img/Partner2/Majes Magic Bites Hair & Skin Care Makanan Kucing Kering 1kg Rasa Salmon - Adult Dry Cat Food.jpg",
+    link: "https://s.shopee.co.id/3g2iJOJeOG"
+  },
+      {
+    id: "industri-petshop",
+    name: "AWINDO TOPPET 800GR - Makanan Pakan Premium Kucing Kering Toppet Tuna Salmon Dry Cat Food Adult",
+    desc: "AWINDO TOPPET 800GR - Makanan Pakan Premium Kucing Kering Toppet Tuna Salmon Dry Cat Food Adult",
+    subDesc: "Industri",
+    image: "/img/Partner2/AWINDO TOPPET 800GR - Makanan Pakan Premium Kucing Kering Toppet Tuna Salmon Dry Cat Food Adult.jpg",
+    link: "https://s.shopee.co.id/80BhTMqrBo"
+  },
+      {
+    id: "industri-petshop",
+    name: "PL Growssy Susu 1 Box isi 11 Bayi Anak Kucing 0 2 Bulan Kitten Pengganti ASI Penggemuk",
+    desc: "PL Growssy Susu 1 Box isi 11 Bayi Anak Kucing 0 2 Bulan Kitten Pengganti ASI Penggemuk",
+    subDesc: "Industri",
+    image: "/img/Partner2/PL Growssy Susu 1 Box isi 11 Bayi Anak Kucing 0 2 Bulan Kitten Pengganti ASI Penggemuk.jpg",
+    link: "https://s.shopee.co.id/60Qd5iRhFF"
+  },
+    {
+    id: "industri-petshop",
+    name: "Pussbite makanan kucing salmon dan tuna Freshpack 800gr",
+    desc: "Pussbite makanan kucing salmon dan tuna Freshpack 800gr",
+    subDesc: "Industri",
+    image: "/img/Partner2/Pussbite makanan kucing salmon dan tuna Freshpack 800gr.jpg",
+    link: "https://s.shopee.co.id/W5gXdLDpF"
+  },
+    {
+    id: "industri-petshop",
+    name: "DR PAW DRY FOOD KUCING SEGALA UMUR 1 KG MAKANAN KERING DENGAN FREEZE DRIED",
+    desc: "DR PAW DRY FOOD KUCING SEGALA UMUR 1 KG MAKANAN KERING DENGAN FREEZE DRIED",
+    subDesc: "Industri",
+    image: "/img/Partner2/DR PAW DRY FOOD KUCING SEGALA UMUR 1 KG MAKANAN KERING DENGAN FREEZE DRIED.jpg",
+    link: "https://s.shopee.co.id/9zwlr6SVG6"
+  },
+    {
+    id: "industri-petshop",
+    name: "Meo Pouch Kemasan Dus Isi 12 Makanan Basah Kucing MODO",
+    desc: "Meo Pouch Kemasan Dus Isi 12 Makanan Basah Kucing MODO",
+    subDesc: "Industri",
+    image: "/img/Partner2/Meo Pouch Kemasan Dus Isi 12 Makanan Basah Kucing MODO.jpg",
+    link: "https://s.shopee.co.id/1gHdvpBVqt"
   },
   // --- COMING SOON SECTION ---
   {
@@ -7091,6 +8267,70 @@ export const partnerBookItems: Partner[] = [
     subDesc: "Indonesia",
     image: "/img/Partner2/Fiber Reinforced Polymer Composites Mechanical Properties and Applications.png",
     link: "https://s.shopee.co.id/7KtD8Tdreb"
+  },
+    {
+    id: "Buku Polimer",
+    name: "Concrete-Filled Double Skin Steel Tubular Column with Hybrid Fibre Reinforced Polymer Post Fire Repair",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Concrete-Filled Double Skin Steel Tubular Column with Hybrid Fibre Reinforced Polymer Post Fire Repair.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+    {
+    id: "Novel",
+    name: "Di Bawah Lentera Merah Riwayat Sarekat Islam Semarang 1917-1920 - Soe Hok Gie",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Di Bawah Lentera Merah Riwayat Sarekat Islam Semarang 1917-1920 - Soe Hok Gie.jpg",
+    link: "https://s.shopee.co.id/6fgKpbThUK"
+  },
+    {
+    id: "Novel",
+    name: "Filosofi Teras (Henry Manapiring)",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Filosofi Teras (Henry Manapiring).jpg",
+    link: "https://s.shopee.co.id/904FbvFg8m"
+  },
+    {
+    id: "Novel",
+    name: "Gadis Kretek-Ratih Kumala",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Gadis Kretek-Ratih Kumala.jpg",
+    link: "https://s.shopee.co.id/1BLOHXn0wy"
+  },
+  {
+    id: "Novel",
+    name: "Seperti Dendam, Rindu Harus Dibayar Tuntas (Eka Kurniawan)",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Seperti Dendam, Rindu Harus Dibayar Tuntas (Eka Kurniawan).jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Novel",
+    name: "Supernova 5 Gelombang - Dee Lestari",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Supernova 5 Gelombang - Dee Lestari.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Novel",
+    name: "Tere Liye - Daun Yang Jatuh Tak Pernah Membenci Angin",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tere Liye - Daun Yang Jatuh Tak Pernah Membenci Angin.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Novel",
+    name: "You Do You (Fellexandro Ruby)",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/You Do You (Fellexandro Ruby).jpg",
+    link: "https://s.shopee.co.id/"
   },
   {
     id: "E-Book",
