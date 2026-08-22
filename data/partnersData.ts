@@ -237,6 +237,62 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "726",
+    name: "726",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},  
+{
+    id: "725",
+    name: "725",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},  
+{
+    id: "724",
+    name: "724",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},  
+{
+    id: "723",
+    name: "723",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},  
+{
+    id: "722",
+    name: "722",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},  
+{
+    id: "721",
+    name: "721",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},  
+{
+    id: "720",
+    name: "720",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},  
+{
     id: "719",
     name: "719",
     desc: "POOCHA Kaleng Makanan Basah Ekonomis Makanan Kaleng Kucing 400 Gram Cat Food Wet Food",
