@@ -239,65 +239,57 @@ export const partnerItems: Partner[] = [
 {
     id: "",
     name: "",
-    desc: "xxx",
+    desc: "POOCHA Kaleng Makanan Basah Ekonomis Makanan Kaleng Kucing 400 Gram Cat Food Wet Food",
     subDesc: "Indonesia",
-    image: "/img/Partner2/xxx.jpg",
+    image: "/img/Partner2/POOCHA Kaleng Makanan Basah Ekonomis Makanan Kaleng Kucing 400 Gram Cat Food Wet Food.jpg",
     link: "https://s.shopee.co.id/1LfAQutejV"
 },  
 {
     id: "",
     name: "",
-    desc: "xxx",
+    desc: "BUBUK CATNIP KUCING - CATNIP CATMINT KUCING",
     subDesc: "Indonesia",
-    image: "/img/Partner2/xxx.jpg",
+    image: "/img/Partner2/BUBUK CATNIP KUCING - CATNIP CATMINT KUCING.jpg",
     link: "https://s.shopee.co.id/9zx8kvBqLd"
 },  
 {
     id: "",
     name: "",
-    desc: "xxx",
+    desc: "Kotak penyimpanan bulu kucing",
     subDesc: "Indonesia",
-    image: "/img/Partner2/xxx.jpg",
+    image: "/img/Partner2/Kotak penyimpanan bulu kucing.jpg",
     link: "https://s.shopee.co.id/6VNGaW9mll"
 },  
 {
     id: "",
     name: "",
-    desc: "xxx",
+    desc: "Tas Ransel Ragdoll Kucing Lucu",
     subDesc: "Indonesia",
-    image: "/img/Partner2/xxx.jpg",
+    image: "/img/Partner2/Tas Ransel Ragdoll Kucing Lucu.jpg",
     link: "https://s.shopee.co.id/112K2RYjCE"
 },  
 {
     id: "",
     name: "",
-    desc: "xxx",
+    desc: "kuping harimau stiker motor lucu",
     subDesc: "Indonesia",
-    image: "/img/Partner2/xxx.jpg",
+    image: "/img/Partner2/kuping harimau stiker motor lucu.jpg",
     link: "https://s.shopee.co.id/4LIm0bBoPp"
 },   
 {
     id: "",
     name: "",
-    desc: "xxx",
+    desc: "WANJIALE Alas Kandang JARING Anabul",
     subDesc: "Indonesia",
-    image: "/img/Partner2/xxx.jpg",
-    link: "https://s.shopee.co.id/5LBJCTBwOS"
-},   
-{
-    id: "",
-    name: "",
-    desc: "xxx",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/xxx.jpg",
+    image: "/img/Partner2/WANJIALE Alas Kandang JARING Anabul.jpg",
     link: "https://s.shopee.co.id/112K2YOTaP"
 }, 
 {
     id: "",
     name: "",
-    desc: "xxx",
+    desc: "Paket Mandi Grooming Kucing 6in1",
     subDesc: "Indonesia",
-    image: "/img/Partner2/xxx.jpg",
+    image: "/img/Partner2/Paket Mandi Grooming Kucing 6in1.jpg",
     link: "https://s.shopee.co.id/8plBMzKFGz"
 }, 
 {
