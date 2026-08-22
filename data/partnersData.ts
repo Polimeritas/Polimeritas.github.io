@@ -237,56 +237,56 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
-    id: "",
-    name: "",
+    id: "719",
+    name: "719",
     desc: "POOCHA Kaleng Makanan Basah Ekonomis Makanan Kaleng Kucing 400 Gram Cat Food Wet Food",
     subDesc: "Indonesia",
     image: "/img/Partner2/POOCHA Kaleng Makanan Basah Ekonomis Makanan Kaleng Kucing 400 Gram Cat Food Wet Food.jpg",
     link: "https://s.shopee.co.id/1LfAQutejV"
 },  
 {
-    id: "",
-    name: "",
+    id: "718",
+    name: "718",
     desc: "BUBUK CATNIP KUCING - CATNIP CATMINT KUCING",
     subDesc: "Indonesia",
     image: "/img/Partner2/BUBUK CATNIP KUCING - CATNIP CATMINT KUCING.jpg",
     link: "https://s.shopee.co.id/9zx8kvBqLd"
 },  
 {
-    id: "",
-    name: "",
+    id: "717",
+    name: "717",
     desc: "Kotak penyimpanan bulu kucing",
     subDesc: "Indonesia",
     image: "/img/Partner2/Kotak penyimpanan bulu kucing.jpg",
     link: "https://s.shopee.co.id/6VNGaW9mll"
 },  
 {
-    id: "",
-    name: "",
+    id: "716",
+    name: "716",
     desc: "Tas Ransel Ragdoll Kucing Lucu",
     subDesc: "Indonesia",
     image: "/img/Partner2/Tas Ransel Ragdoll Kucing Lucu.jpg",
     link: "https://s.shopee.co.id/112K2RYjCE"
 },  
 {
-    id: "",
-    name: "",
+    id: "715",
+    name: "715",
     desc: "kuping harimau stiker motor lucu",
     subDesc: "Indonesia",
     image: "/img/Partner2/kuping harimau stiker motor lucu.jpg",
     link: "https://s.shopee.co.id/4LIm0bBoPp"
 },   
 {
-    id: "",
-    name: "",
+    id: "714",
+    name: "714",
     desc: "WANJIALE Alas Kandang JARING Anabul",
     subDesc: "Indonesia",
     image: "/img/Partner2/WANJIALE Alas Kandang JARING Anabul.jpg",
     link: "https://s.shopee.co.id/112K2YOTaP"
 }, 
 {
-    id: "",
-    name: "",
+    id: "713",
+    name: "713",
     desc: "Paket Mandi Grooming Kucing 6in1",
     subDesc: "Indonesia",
     image: "/img/Partner2/Paket Mandi Grooming Kucing 6in1.jpg",
