@@ -237,6 +237,70 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "",
+    name: "",
+    desc: "xxx",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/xxx.jpg",
+    link: "https://s.shopee.co.id/1LfAQutejV"
+},  
+{
+    id: "",
+    name: "",
+    desc: "xxx",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/xxx.jpg",
+    link: "https://s.shopee.co.id/9zx8kvBqLd"
+},  
+{
+    id: "",
+    name: "",
+    desc: "xxx",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/xxx.jpg",
+    link: "https://s.shopee.co.id/6VNGaW9mll"
+},  
+{
+    id: "",
+    name: "",
+    desc: "xxx",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/xxx.jpg",
+    link: "https://s.shopee.co.id/112K2RYjCE"
+},  
+{
+    id: "",
+    name: "",
+    desc: "xxx",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/xxx.jpg",
+    link: "https://s.shopee.co.id/4LIm0bBoPp"
+},   
+{
+    id: "",
+    name: "",
+    desc: "xxx",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/xxx.jpg",
+    link: "https://s.shopee.co.id/5LBJCTBwOS"
+},   
+{
+    id: "",
+    name: "",
+    desc: "xxx",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/xxx.jpg",
+    link: "https://s.shopee.co.id/112K2YOTaP"
+}, 
+{
+    id: "",
+    name: "",
+    desc: "xxx",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/xxx.jpg",
+    link: "https://s.shopee.co.id/8plBMzKFGz"
+}, 
+{
     id: "712",
     name: "712",
     desc: "APEN Penjepit Silikon Anti Panas Sarung Tangan Pegangan Panci Karet Perlengkapan Dapur Barang Unik",
