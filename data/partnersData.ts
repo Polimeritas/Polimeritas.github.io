@@ -239,58 +239,58 @@ export const partnerItems: Partner[] = [
 {
     id: "726",
     name: "726",
-    desc: "",
+    desc: "ANTI CAKAR KUCING !! COVER JOK MOTOR",
     subDesc: "Indonesia",
-    image: "/img/Partner2/.jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/ANTI CAKAR KUCING !! COVER JOK MOTOR.jpg",
+    link: "https://s.shopee.co.id/3qMa3BOUPS"
 },  
 {
     id: "725",
     name: "725",
-    desc: "",
+    desc: "HC Tempat Penyimpanan Bed Cover Bamboo",
     subDesc: "Indonesia",
-    image: "/img/Partner2/.jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/HC Tempat Penyimpanan Bed Cover Bamboo.jpg",
+    link: "https://s.shopee.co.id/30nT3jGuZb"
 },  
 {
     id: "724",
     name: "724",
-    desc: "",
+    desc: "Lap Cempal Tebal Anti Panas Kain Cempal Anyam",
     subDesc: "Indonesia",
-    image: "/img/Partner2/.jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Lap Cempal Tebal Anti Panas Kain Cempal Anyam.jpg",
+    link: "https://s.shopee.co.id/7VFsQ1QKB7"
 },  
 {
     id: "723",
     name: "723",
-    desc: "",
+    desc: "Parutan Stainless Potong Iris Sayur Buah Serbaguna",
     subDesc: "Indonesia",
-    image: "/img/Partner2/.jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Parutan Stainless Potong Iris Sayur Buah Serbaguna.jpg",
+    link: "https://s.shopee.co.id/W685BC9gC"
 },  
 {
     id: "722",
     name: "722",
-    desc: "",
+    desc: "ASTAXANTHIN GEL Haematococcus Pluvialis Astaxanthin",
     subDesc: "Indonesia",
-    image: "/img/Partner2/.jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/ASTAXANTHIN GEL Haematococcus Pluvialis Astaxanthin.jpg",
+    link: "https://s.shopee.co.id/4VcGqYS4sg"
 },  
 {
     id: "721",
     name: "721",
-    desc: "",
+    desc: "Myiwe Hair Coloring Shampoo Sisir Penghilang Uban",
     subDesc: "Indonesia",
-    image: "/img/Partner2/.jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/Myiwe Hair Coloring Shampoo Sisir Penghilang Uban.jpg",
+    link: "https://s.shopee.co.id/9fKN04T6r8"
 },  
 {
     id: "720",
     name: "720",
-    desc: "",
+    desc: "THAY Sandal Baim Wanita Kasual Sendal",
     subDesc: "Indonesia",
-    image: "/img/Partner2/.jpg",
-    link: "https://s.shopee.co.id/"
+    image: "/img/Partner2/THAY Sandal Baim Wanita Kasual Sendal.jpg",
+    link: "https://s.shopee.co.id/AKa3nJdVKb"
 },  
 {
     id: "719",
