@@ -6519,7 +6519,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Golden Paw Anti Scabies 8in1",
     subDesc: "Industri",
     image: "/img/Partner2/Golden Paw Anti Scabies 8in1.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7672645762802535700"
+    link: "https://www.tiktok.com/@booyenku/video/7671245860872719637"
   },
     {
     id: "industri-petshop",
@@ -6527,7 +6527,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Golden Paw-Anti Virus Guard Syrup",
     subDesc: "Industri",
     image: "/img/Partner2/Golden Paw-Anti Virus Guard Syrup.jpg",
-    link: "https://www.tiktok.com/@booyenku"
+    link: "https://www.tiktok.com/@booyenku/video/7677504901387210004"
   },
     {
     id: "industri-petshop",
@@ -6535,7 +6535,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Felina Freshpack 55gr Makanan Kucing",
     subDesc: "Industri",
     image: "/img/Partner2/Felina Freshpack 55gr Makanan Kucing.jpg",
-    link: "https://s.shopee.co.id/9pdKRpBABu"
+    link: "https://www.tiktok.com/@booyenku/video/7674469724738063636"
   },
     {
     id: "industri-petshop",
