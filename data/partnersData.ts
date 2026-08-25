@@ -6633,6 +6633,62 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Meo Pouch Kemasan Dus Isi 12 Makanan Basah Kucing MODO.jpg",
     link: "https://s.shopee.co.id/1gHdvpBVqt"
   },
+{
+    id: "industri-petshop",
+    name: "POOCHA Kaleng Makanan Basah Ekonomis Makanan Kaleng Kucing 400 Gram Cat Food Wet Food",
+    desc: "POOCHA Kaleng Makanan Basah Ekonomis Makanan Kaleng Kucing 400 Gram Cat Food Wet Food",
+    subDesc: "Industri",
+    image: "/img/Partner2/POOCHA Kaleng Makanan Basah Ekonomis Makanan Kaleng Kucing 400 Gram Cat Food Wet Food.jpg",
+    link: "https://s.shopee.co.id/1LfAQutejV"
+},  
+{
+    id: "industri-petshop",
+    name: "BUBUK CATNIP KUCING - CATNIP CATMINT KUCING",
+    desc: "BUBUK CATNIP KUCING - CATNIP CATMINT KUCING",
+    subDesc: "Industri",
+    image: "/img/Partner2/BUBUK CATNIP KUCING - CATNIP CATMINT KUCING.jpg",
+    link: "https://s.shopee.co.id/9zx8kvBqLd"
+},  
+{
+    id: "industri-petshop",
+    name: "Kotak penyimpanan bulu kucing",
+    desc: "Kotak penyimpanan bulu kucing",
+    subDesc: "Industri",
+    image: "/img/Partner2/Kotak penyimpanan bulu kucing.jpg",
+    link: "https://s.shopee.co.id/6VNGaW9mll"
+},  
+{
+    id: "industri-petshop",
+    name: "Tas Ransel Ragdoll Kucing Lucu",
+    desc: "Tas Ransel Ragdoll Kucing Lucu",
+    subDesc: "Industri",
+    image: "/img/Partner2/Tas Ransel Ragdoll Kucing Lucu.jpg",
+    link: "https://s.shopee.co.id/112K2RYjCE"
+},  
+{
+    id: "industri-petshop",
+    name: "kuping harimau stiker motor lucu",
+    desc: "kuping harimau stiker motor lucu",
+    subDesc: "Industri",
+    image: "/img/Partner2/kuping harimau stiker motor lucu.jpg",
+    link: "https://s.shopee.co.id/4LIm0bBoPp"
+},   
+{
+    id: "industri-petshop",
+    name: "WANJIALE Alas Kandang JARING Anabul",
+    desc: "WANJIALE Alas Kandang JARING Anabul",
+    subDesc: "Industri",
+    image: "/img/Partner2/WANJIALE Alas Kandang JARING Anabul.jpg",
+    link: "https://s.shopee.co.id/112K2YOTaP"
+}, 
+{
+    id: "industri-petshop",
+    name: "Paket Mandi Grooming Kucing 6in1",
+    desc: "Paket Mandi Grooming Kucing 6in1",
+    subDesc: "Industri",
+    image: "/img/Partner2/Paket Mandi Grooming Kucing 6in1.jpg",
+    link: "https://s.shopee.co.id/8plBMzKFGz"
+}, 
   // --- COMING SOON SECTION ---
   {
     id: "industri-1",
