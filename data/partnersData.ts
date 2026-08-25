@@ -6531,6 +6531,14 @@ export const partnerIndustriItems: Partner[] = [
   },
     {
     id: "industri-petshop",
+    name: "Holycat Labs-Royal Care Booster",
+    desc: "Holycat Labs-Royal Care Booster",
+    subDesc: "Industri",
+    image: "/img/Partner2/Holycat Labs-Royal Care Booster.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7675975240727498004"
+  },
+    {
+    id: "industri-petshop",
     name: "Felina Freshpack 55gr Makanan Kucing",
     desc: "Felina Freshpack 55gr Makanan Kucing",
     subDesc: "Industri",
