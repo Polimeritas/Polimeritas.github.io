@@ -6503,7 +6503,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Golden Paw - FLUGUARD SYRUP 30 ml",
     subDesc: "Industri",
     image: "/img/Partner2/Golden Paw - FLUGUARD SYRUP 30 ml.jpg",
-    link: "https://s.shopee.co.id/gP5WTNNuz"
+    link: "https://www.tiktok.com/@booyenku/video/7677503201817546005"
   },
     {
     id: "industri-petshop",
@@ -6511,7 +6511,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Worm Guard 5gr By Golden Paw Obat Cacing",
     subDesc: "Industri",
     image: "/img/Partner2/Worm Guard 5gr By Golden Paw Obat Cacing.jpg",
-    link: "https://www.tiktok.com/@booyenku"
+    link: "https://www.tiktok.com/@booyenku/video/7672695242675539221"
   },
     {
     id: "industri-petshop",
@@ -6519,7 +6519,7 @@ export const partnerIndustriItems: Partner[] = [
     desc: "Golden Paw Anti Scabies 8in1",
     subDesc: "Industri",
     image: "/img/Partner2/Golden Paw Anti Scabies 8in1.jpg",
-    link: "https://www.tiktok.com/@booyenku"
+    link: "https://www.tiktok.com/@booyenku/video/7672645762802535700"
   },
     {
     id: "industri-petshop",
