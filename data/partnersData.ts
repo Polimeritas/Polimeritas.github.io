@@ -237,6 +237,30 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "729",
+    name: "729",
+    desc: "Mama Lemon Sabun Cuci Piring Jeruk Nipis Pouch 650 gr ",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Mama Lemon Sabun Cuci Piring Jeruk Nipis Pouch 650 gr .jpg",
+    link: "https://s.shopee.co.id/8plHkOFBie"
+},
+{
+    id: "728",
+    name: "728",
+    desc: "Tisu Basah Bayi Bebas alkohol Pure Water",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tisu Basah Bayi Bebas alkohol Pure Water.jpg",
+    link: "https://s.shopee.co.id/70JdZ2LyCl"
+},    
+{
+    id: "727",
+    name: "727",
+    desc: "TISU KING 360 HELAI TIDAK EMBOS, ISI 10 PACK",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/TISU KING 360 HELAI TIDAK EMBOS, ISI 10 PACK.jpg",
+    link: "https://s.shopee.co.id/3LQLCJfMuW"
+},    
+{
     id: "726",
     name: "726",
     desc: "ANTI CAKAR KUCING !! COVER JOK MOTOR",
