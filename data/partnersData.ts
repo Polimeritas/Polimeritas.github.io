@@ -237,11 +237,19 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "730",
+    name: "730",
+    desc: "Mie Sedaap Soto 75gr isi 5 x 8 pack",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Mie Sedaap Soto 75gr isi 5 x 8 pack.jpg",
+    link: "https://s.shopee.co.id/6AkWZp0uMB"
+},
+{
     id: "729",
     name: "729",
-    desc: "Mama Lemon Sabun Cuci Piring Jeruk Nipis Pouch 650 gr ",
+    desc: "Mama Lemon Sabun Cuci Piring Jeruk Nipis Pouch 650 gr",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Mama Lemon Sabun Cuci Piring Jeruk Nipis Pouch 650 gr .jpg",
+    image: "/img/Partner2/Mama Lemon Sabun Cuci Piring Jeruk Nipis Pouch 650 gr.jpg",
     link: "https://s.shopee.co.id/8plHkOFBie"
 },
 {
