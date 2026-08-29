@@ -6625,6 +6625,14 @@ export const partnerIndustriItems: Partner[] = [
     image: "/img/Partner2/Holycat Real Meat Makanan Kering Dry Food Kucing 450gr.jpg",
     link: "https://s.shopee.co.id/3LPruhiO6s"
   },
+{
+    id: "industri-petshop",
+    name: "HolyCat Labs Royale Care Fish Oil Minyak Ikan Premium Vitamin Kucing Dan Anjing 100 Capsul",
+    desc: "HolyCat Labs Royale Care Fish Oil Minyak Ikan Premium Vitamin Kucing Dan Anjing 100 Capsul",
+    subDesc: "Industri",
+    image: "/img/Partner2/HolyCat Labs Royale Care Fish Oil Minyak Ikan Premium Vitamin Kucing Dan Anjing 100 Capsul.jpg",
+    link: "https://s.shopee.co.id/2gAjJkkDlT"
+},
       {
     id: "industri-petshop",
     name: "Majes Magic Bites Hair & Skin Care Makanan Kucing Kering 1kg Rasa Salmon - Adult Dry Cat Food",
