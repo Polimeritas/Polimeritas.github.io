@@ -237,6 +237,14 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "731",
+    name: "731",
+    desc: "HolyCat Labs Royale Care Fish Oil Minyak Ikan Premium Vitamin Kucing Dan Anjing 100 Capsul",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/HolyCat Labs Royale Care Fish Oil Minyak Ikan Premium Vitamin Kucing Dan Anjing 100 Capsul.jpg",
+    link: "https://s.shopee.co.id/6AkWZp0uMB"
+},
+{
     id: "730",
     name: "730",
     desc: "Mie Sedaap Soto 75gr isi 5 x 8 pack",
