@@ -242,7 +242,7 @@ export const partnerItems: Partner[] = [
     desc: "HolyCat Labs Royale Care Fish Oil Minyak Ikan Premium Vitamin Kucing Dan Anjing 100 Capsul",
     subDesc: "Indonesia",
     image: "/img/Partner2/HolyCat Labs Royale Care Fish Oil Minyak Ikan Premium Vitamin Kucing Dan Anjing 100 Capsul.jpg",
-    link: "https://s.shopee.co.id/6AkWZp0uMB"
+    link: "https://s.shopee.co.id/2gAjJkkDlT"
 },
 {
     id: "730",
