@@ -20,14 +20,14 @@ export const mentorshipData: MentorshipItem[] = [
     category: "Konsultasi",
     title: "Coming Soon!",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "#",
+    link: "https://api.whatsapp.com/send/?phone=6285214991705&text&type=phone_number&app_absent=0",
   },
   {
     id: "kon-3",
     category: "Konsultasi",
     title: "Coming Soon!",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "#",
+    link: "https://api.whatsapp.com/send/?phone=6285214991705&text&type=phone_number&app_absent=0",
   },
   {
     id: "kon-4",
@@ -64,7 +64,7 @@ export const mentorshipData: MentorshipItem[] = [
     category: "Pelatihan",
     title: "Coming Soon!",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "#",
+    link: "https://api.whatsapp.com/send/?phone=6285214991705&text&type=phone_number&app_absent=0",
   },
   {
     id: "pel-3",
@@ -101,13 +101,13 @@ export const mentorshipData: MentorshipItem[] = [
     category: "Sertifikasi",
     title: "Coming Soon!",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "#",
+    link: "https://api.whatsapp.com/send/?phone=6285214991705&text&type=phone_number&app_absent=0",
   },
   {
     id: "ser-3",
     category: "Sertifikasi",
     title: "Coming Soon!",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "#",
+    link: "https://api.whatsapp.com/send/?phone=6285214991705&text&type=phone_number&app_absent=0",
   },
 ];
