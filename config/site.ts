@@ -73,9 +73,9 @@ export const siteConfig: SiteConfig = {
   ],
 
   gameLinks: [
-    { name: "Sorting Challenge", href: "/game/sorting-game" },
-    { name: "Quiz Challenge", href: "/game/quiz-game" },
-    { name: "Typing Challenge", href: "/game/typing-game" },
+    { name: "Polymer Sorting Challenge", href: "/game/sorting-game" },
+    { name: "Polymer Quiz Challenge", href: "/game/quiz-game" },
+    { name: "Polymer Typing Challenge", href: "/game/typing-game" },
     { name: "Polymer Interactive Lab", href: "/game/polymer-lab" },
   ]
 };
