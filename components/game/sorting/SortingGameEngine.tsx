@@ -246,7 +246,7 @@ export default function SortingGameEngine() {
             {gameState === 'start' && (
                 <GameResultModal
                     type="start"
-                    title="Sorting Challenge"
+                    title="Polymer Sorting Challenge"
                     description="Tarik item sampah ke tong Termoplastik (Biru) atau Termoset (Merah) dengan benar sebelum waktu habis!"
                     actionLabel="Mulai Game"
                     onAction={startGame}
