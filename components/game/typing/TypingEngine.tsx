@@ -227,7 +227,7 @@ export default function TypingEngine() {
             {gameState === 'idle' && (
                 <GameResultModal
                     type="start"
-                    title="Typing Challenge"
+                    title="Polymer Typing Challenge"
                     description="Ketik kata yang muncul secepat dan setepat mungkin. Waktu: 120 Detik."
                     actionLabel="Mulai Mengetik"
                     onAction={startGame}
