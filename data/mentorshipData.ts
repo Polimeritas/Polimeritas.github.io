@@ -11,9 +11,9 @@ export const mentorshipData: MentorshipItem[] = [
   {
     id: "kon-1",
     category: "Konsultasi",
-    title: "Coming Soon!",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "#",
+    title: "Konsultasi-Webinar Polimeritas",
+    image: "/img/Partner2/Konsultasi-Webinar Polimeritas.jpg",
+    link: "https://api.whatsapp.com/send/?phone=6285214991705&text&type=phone_number&app_absent=0",
   },
   {
     id: "kon-2",
@@ -36,7 +36,7 @@ export const mentorshipData: MentorshipItem[] = [
     category: "Pelatihan",
     title: "Pelatihan-Pembuatan Curriculum Vitae",
     image: "/img/Partner2/Pelatihan-Pembuatan Curriculum Vitae.jpg",
-    link: "wa.me/6285214991705",
+    link: "https://api.whatsapp.com/send/?phone=6285214991705&text&type=phone_number&app_absent=0",
   },
   {
     id: "pel-2",
@@ -57,9 +57,9 @@ export const mentorshipData: MentorshipItem[] = [
   {
     id: "ser-1",
     category: "Sertifikasi",
-    title: "Sertfikasi Relawan Polimeritas",
+    title: "Sertifikasi Relawan Polimeritas",
     image: "/img/Partner2/sertifikasi-relawan polimeritas.jpg",
-    link: "wa.me/6285214991705",
+    link: "https://api.whatsapp.com/send/?phone=6285214991705&text&type=phone_number&app_absent=0",
   },
   {
     id: "ser-2",
