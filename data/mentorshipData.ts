@@ -73,6 +73,20 @@ export const mentorshipData: MentorshipItem[] = [
     image: "/img/Partner2/Coming Soon.jpg",
     link: "#",
   },
+  {
+    id: "pel-4",
+    category: "Pelatihan",
+    title: "Microsoft Office Powerpoint untuk Iklan Produk Kimia",
+    image: "/img/Partner2/Microsoft Office Powerpoint untuk Iklan Produk Kimia.jpg",
+    link: "https://www.instagram.com/p/CQ8cQbrBnSk/?img_index=1",
+  },
+  {
+    id: "pel-5",
+    category: "Pelatihan",
+    title: "Geografi Modern dalam Pendidikan",
+    image: "/img/Partner2/Geografi Modern dalam Pendidikan.jpg",
+    link: "https://www.instagram.com/p/CQ8cW0shTwV/?img_index=1",
+  },
 
   // TAB SERTIFIKASI
   {
