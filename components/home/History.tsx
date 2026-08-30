@@ -39,7 +39,11 @@ const History = () => {
                         Vulkanisasi Karet. Lalu, Christian Friedrich Schönbein (1846) mereaksikan selulosa dengan asam nitrat 
                         untuk menciptakan plastik buatan manusia pertama dan Leo Hendrik (1907) Baekeland menciptakan Bakelit, 
                         resin fenol-formaldehida yang menjadi polimer sintetik pertama di dunia. Penemuan ini membuka jalan 
-                        bagi era plastik modern.
+                        bagi era plastik modern. (1920) Hermann Staudinger mengusulkan teori makromolekul, yang membuktikan bahwa
+                        polimer terdiri dari rantai panjang atom molekul besar yang terikat oleh ikatan kovalen. 
+                        Konsep ini mendobrak pandangan lama bahwa polimer hanyalah gumpalan molekul kecil (agregat/koloid). 
+                        Penemuannya memberikan fondasi teoritis bagi sains polimer modern hingga ia dianugerahi Hadiah Nobel 
+                        Kimia pada tahun 1953.
                         
                         Dengan perkembangan zaman dan semakin majunya polimer hadirlah komunitas polimeritas di indonesia
                         yang bernama Polimeritas. Polimeritas adalah suatu komunitas yang bergerak di bidang polymer sains dan 
