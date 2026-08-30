@@ -34,9 +34,9 @@ export const mentorshipData: MentorshipItem[] = [
   {
     id: "pel-1",
     category: "Pelatihan",
-    title: "Coming Soon!",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "#",
+    title: "Pelatihan-Pembuatan Curriculum Vitae",
+    image: "/img/Partner2/Pelatihan-Pembuatan Curriculum Vitae.jpg",
+    link: "wa.me/6285214991705",
   },
   {
     id: "pel-2",
@@ -57,9 +57,9 @@ export const mentorshipData: MentorshipItem[] = [
   {
     id: "ser-1",
     category: "Sertifikasi",
-    title: "Volunteer Polimeritas",
+    title: "Sertfikasi Relawan Polimeritas",
     image: "/img/Partner2/sertifikasi-relawan polimeritas.jpg",
-    link: "https://bit.ly/opvolunteerpolimeritas2",
+    link: "wa.me/6285214991705",
   },
   {
     id: "ser-2",
