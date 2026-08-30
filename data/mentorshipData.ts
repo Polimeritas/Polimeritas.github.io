@@ -29,6 +29,27 @@ export const mentorshipData: MentorshipItem[] = [
     image: "/img/Partner2/Coming Soon.jpg",
     link: "#",
   },
+  {
+    id: "kon-4",
+    category: "Konsultasi",
+    title: "Polimeritas x GIGI.ID",
+    image: "/img/Partner2/Polimeritas x GIGI.ID.jpg",
+    link: "https://www.instagram.com/p/CWdN-DZhxgH/",
+  },
+  {
+    id: "kon-5",
+    category: "Konsultasi",
+    title: "Polimeritas x IVOS",
+    image: "/img/Partner2/Polimeritas x IVOS.jpg",
+    link: "https://www.instagram.com/p/CZwZkfxBY1e/",
+  },
+  {
+    id: "kon-6",
+    category: "Konsultasi",
+    title: "Polimeritas x FIM Bekasi",
+    image: "/img/Partner2/Polimeritas x FIM Bekasi.jpg",
+    link: "https://www.instagram.com/p/Ca_wKNCBEFRe-OGD4u7qFEeZRFTZo_rGcC06ww0/?img_index=1",
+  },
 
   //TAB PELATIHAN
   {
