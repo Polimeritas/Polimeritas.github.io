@@ -57,9 +57,9 @@ export const mentorshipData: MentorshipItem[] = [
   {
     id: "ser-1",
     category: "Sertifikasi",
-    title: "Coming Soon!",
-    image: "/img/Partner2/Coming Soon.jpg",
-    link: "#",
+    title: "Volunteer Polimeritas",
+    image: "/img/Partner2/sertifikasi-relawan polimeritas.jpg",
+    link: "https://bit.ly/opvolunteerpolimeritas2",
   },
   {
     id: "ser-2",
