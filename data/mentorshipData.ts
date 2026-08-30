@@ -78,6 +78,13 @@ export const mentorshipData: MentorshipItem[] = [
     image: "/img/Partner2/Polimeritas x Nanem Kebaikan.jpg",
     link: "https://www.instagram.com/p/CheHW0lBcG0/?img_index=1",
   },
+  {
+    id: "kon-11",
+    category: "Konsultasi",
+    title: "Polimeritas x Laz Al Azhar",
+    image: "/img/Partner2/Polimeritas x Laz Al Azhar.jpg",
+    link: "https://www.instagram.com/p/C5aohe4B6Nd/?img_index=1",
+  },
   //TAB PELATIHAN
   {
     id: "pel-1",
