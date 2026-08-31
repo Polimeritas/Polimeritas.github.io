@@ -37,7 +37,9 @@ export default function MatchGameClient() {
 
         pool.forEach((x, i) => {
             newCards.push({ id: `m${i}`, pairId: i, kind: "Monomer", title: x.m, formula: x.mf, app: "", status: "idle" });
-            newCards.push({ id: `p${i}`, pairId: i, kind: "Polymer", title: x.p, formula: x.pf, app: "", status: "idle" });
+
+            newCards.push({ id: `p${i}`, pairId: i, kind: "Polymer", title: diff === "expert" ? "???" : x.p, formula: x.pf, app: "", status: "idle" });
+
             if (diff !== "easy") {
                 newCards.push({ id: `a${i}`, pairId: i, kind: "Application", title: x.a, formula: "", app: `Cocok dengan ${x.p}`, status: "idle" });
             }
@@ -45,14 +47,15 @@ export default function MatchGameClient() {
         return shuffle(newCards);
     }, []);
 
-    const startGame = useCallback(() => {
+    const startGame = useCallback((newDiff?: "easy" | "normal" | "expert") => {
+        const activeDiff = newDiff || difficulty;
         setScore(0);
         setCombo(0);
         setRound(1);
         setTime(60);
         setLocked(false);
         setSelected([]);
-        setCards(makeCards(difficulty));
+        setCards(makeCards(activeDiff));
         setGameState("playing");
         setMessage("Pilih kartu yang membentuk pasangan/kombinasi.");
     }, [difficulty, makeCards]);
@@ -131,7 +134,7 @@ export default function MatchGameClient() {
     if (gameState === "idle") {
         return (
             <div className="flex flex-col justify-center items-center h-64 gap-6">
-                <button onClick={startGame} className="bg-secondary text-white px-8 py-3 rounded-xl font-bold text-lg hover:bg-opacity-90 shadow-lg hover:-translate-y-1 transition-all">
+                <button onClick={() => startGame()} className="bg-secondary text-white px-8 py-3 rounded-xl font-bold text-lg hover:bg-opacity-90 shadow-lg hover:-translate-y-1 transition-all">
                     Mulai Main Sekarang
                 </button>
             </div>
@@ -144,7 +147,7 @@ export default function MatchGameClient() {
                 <h2 className="text-3xl font-extrabold text-black mb-4">🏆 Game Over!</h2>
                 <p className="text-lg text-gray-600 mb-2">Skor akhir kamu: <strong className="text-primary text-2xl">{score}</strong></p>
                 <p className="text-md text-gray-500 mb-8">Berhasil mencapai Ronde {round}</p>
-                <button onClick={startGame} className="bg-secondary text-white px-8 py-3 rounded-xl font-bold hover:bg-opacity-90 transition-all shadow-md">
+                <button onClick={() => startGame()} className="bg-secondary text-white px-8 py-3 rounded-xl font-bold hover:bg-opacity-90 transition-all shadow-md">
                     Main Lagi
                 </button>
             </div>
@@ -166,7 +169,11 @@ export default function MatchGameClient() {
             <div className="flex flex-col md:flex-row gap-4 items-center justify-between bg-white p-4 rounded-xl border border-gray-100 shadow-sm">
                 <select
                     value={difficulty}
-                    onChange={(e) => { setDifficulty(e.target.value as "easy" | "normal" | "expert"); startGame(); }}
+                    onChange={(e) => {
+                        const newDiff = e.target.value as "easy" | "normal" | "expert";
+                        setDifficulty(newDiff);
+                        startGame(newDiff);
+                    }}
                     className="w-full md:w-auto bg-gray-50 border-gray-200 rounded-lg p-2 font-semibold outline-none"
                 >
                     <option value="easy">Beginner (Monomer + Polymer)</option>
