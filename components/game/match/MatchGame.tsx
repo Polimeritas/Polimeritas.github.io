@@ -22,7 +22,7 @@ export default function MatchGameClient() {
     const [score, setScore] = useState(0);
     const [combo, setCombo] = useState(0);
     const [round, setRound] = useState(1);
-    const [time, setTime] = useState(60);
+    const [time, setTime] = useState(180);
     const [difficulty, setDifficulty] = useState<"easy" | "normal" | "expert">("normal");
     const [gameState, setGameState] = useState<"idle" | "playing" | "gameover">("idle");
     const [message, setMessage] = useState("Pilih kartu yang membentuk kombinasi.");
@@ -52,7 +52,7 @@ export default function MatchGameClient() {
         setScore(0);
         setCombo(0);
         setRound(1);
-        setTime(60);
+        setTime(180);
         setLocked(false);
         setSelected([]);
         setCards(makeCards(activeDiff));
@@ -182,7 +182,7 @@ export default function MatchGameClient() {
                 </select>
 
                 <div className="flex-grow w-full md:w-1/2 h-3 bg-gray-100 rounded-full overflow-hidden">
-                    <div className="h-full bg-primary transition-all duration-1000 ease-linear" style={{ width: `${(time / 60) * 100}%` }}></div>
+                    <div className="h-full bg-primary transition-all duration-1000 ease-linear" style={{ width: `${(time / 180) * 100}%` }}></div>
                 </div>
             </div>
 
