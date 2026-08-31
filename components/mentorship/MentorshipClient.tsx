@@ -47,33 +47,35 @@ export default function MentorshipClient() {
             </section>
 
             {/* KONSULTASI / ACTIVE TAB SECTION */}
-            <section className="w-full py-10 lg:py-16 px-4 bg-white">
-                <div className="container mx-auto max-w-7xl">
-                    <h1 className="text-3xl md:text-4xl font-extrabold text-black mb-10 tracking-tight text-center md:text-left">
-                        {activeTab}
-                    </h1>
+            <section className="w-full max-w-[95%] lg:max-w-[1400px] mx-auto px-4 py-16 scroll-mt-20">
+                <h1 className="text-3xl md:text-4xl font-extrabold text-black mb-10 tracking-tight text-center md:text-left">
+                    {activeTab}
+                </h1>
 
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
-                        {currentData.map((item) => (
+                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 lg:gap-8">
+                    {currentData.map((item) => (
+                        <div
+                            key={item.id}
+                            className="group flex flex-col items-start bg-white rounded-xl shadow-sm border border-gray-100 hover:shadow-xl transition-all"
+                        >
                             <Link
                                 href={item.link}
-                                key={item.id}
-                                className="bg-white rounded-[32px] shadow-[0_20px_50px_rgba(0,0,0,0.1)] overflow-hidden hover:scale-105 hover:shadow-[0_25px_60px_rgba(0,0,0,0.15)] transition duration-300 flex flex-col"
+                                className="relative w-full aspect-square bg-white p-4 flex items-center justify-center transition-all duration-300 group-hover:shadow-2xl group-hover:-translate-y-1 group-hover:border-primary/30 overflow-hidden rounded-t-xl"
                             >
                                 <img
                                     src={item.image}
                                     alt={item.title}
-                                    className="w-full h-64 md:h-72 object-cover"
+                                    className="w-full h-full object-contain"
                                 />
-
-                                <div className="p-6 md:py-8 md:px-10 bg-white">
-                                    <h2 className="text-xl md:text-2xl font-extrabold text-black">
-                                        {item.title}
-                                    </h2>
-                                </div>
                             </Link>
-                        ))}
-                    </div>
+
+                            <div className="mt-4 text-left px-4 pb-4 w-full">
+                                <h3 className="font-bold text-dark text-lg leading-tight line-clamp-1 group-hover:text-secondary transition-colors">
+                                    {item.title}
+                                </h3>
+                            </div>
+                        </div>
+                    ))}
                 </div>
             </section>
 

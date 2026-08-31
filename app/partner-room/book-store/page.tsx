@@ -6,7 +6,7 @@ import FloatingWidgets from "@/components/common/FloatingWidgets";
 import PageHeader from "@/components/common/PageHeader";
 import PartnerCarousel from "@/components/partner/PartnerCarousel";
 import PartnerList from "@/components/partner/PartnerList";
-import { carouselItems, partnerBookItems } from "@/data/partnersData"; // Import data buku
+import { partnerBookItems } from "@/data/partnersData";
 
 export const metadata: Metadata = {
     title: "Partner Room Book Store | Polimeritas",
