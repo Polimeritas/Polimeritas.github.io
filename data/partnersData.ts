@@ -237,6 +237,46 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
 {
+    id: "736",
+    name: "736",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},
+{
+    id: "735",
+    name: "735",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},
+{
+    id: "734",
+    name: "734",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},
+{
+    id: "733",
+    name: "733",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},
+{
+    id: "732",
+    name: "732",
+    desc: "",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/.jpg",
+    link: "https://s.shopee.co.id/"
+},
+{
     id: "731",
     name: "731",
     desc: "HolyCat Labs Royale Care Fish Oil Minyak Ikan Premium Vitamin Kucing Dan Anjing 100 Capsul",
