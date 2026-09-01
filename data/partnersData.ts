@@ -242,7 +242,7 @@ export const partnerItems: Partner[] = [
     desc: "5KG Bungkil Kopra Asli 100%",
     subDesc: "Indonesia",
     image: "/img/Partner2/5KG Bungkil Kopra Asli 100%.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/50YiLplbp0"
 },
 {
     id: "735",
@@ -250,7 +250,7 @@ export const partnerItems: Partner[] = [
     desc: "Cocopeat Kemasan Karung 50 Kg",
     subDesc: "Indonesia",
     image: "/img/Partner2/Cocopeat Kemasan Karung 50 Kg.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/1gIGNj64kD"
 },
 {
     id: "734",
@@ -258,7 +258,7 @@ export const partnerItems: Partner[] = [
     desc: "Soil Block Coco Peat Pellet",
     subDesc: "Indonesia",
     image: "/img/Partner2/Soil Block Coco Peat Pellet.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/112ZaVzY16"
 },
 {
     id: "733",
@@ -266,7 +266,7 @@ export const partnerItems: Partner[] = [
     desc: "Bungkil Kopra Protein 21% 5kg",
     subDesc: "Indonesia",
     image: "/img/Partner2/Bungkil Kopra Protein 21% 5kg.jpg",
-    link: "https://s.shopee.co.id"
+    link: "https://s.shopee.co.id/4LJ1YeVPAe"
 },
 {
     id: "732",
@@ -274,7 +274,7 @@ export const partnerItems: Partner[] = [
     desc: "Cocopeat Media Tanam Hidroponik500 Gram",
     subDesc: "Indonesia",
     image: "/img/Partner2/Cocopeat Media Tanam Hidroponik500 Gram.jpg",
-    link: "https://s.shopee.co.id/"
+    link: "https://s.shopee.co.id/1VyqBSNhum"
 },
 {
     id: "731",
