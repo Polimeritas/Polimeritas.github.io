@@ -6627,6 +6627,14 @@ export const partnerIndustriItems: Partner[] = [
   },
     {
     id: "industri-petshop",
+    name: "Holycats - Fish Oil",
+    desc: "Holycats - Fish Oil",
+    subDesc: "Industri",
+    image: "/img/Partner2/Holycats - Fish Oil.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7682634336641846548"
+  },
+    {
+    id: "industri-petshop",
     name: "Life Cat Creamy 30gr Snack Kucing Isi 2 Varian",
     desc: "Life Cat Creamy 30gr Snack Kucing Isi 2 Varian",
     subDesc: "Industri",
