@@ -114,7 +114,7 @@ export const partnerItems: Partner[] = [
     desc: "Dahlia-Arum Dalu Refil",
     subDesc: "Indonesia",
     image: "/img/Partner2/Dahlia-Arum Dalu Refil.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7635977337875696916"
+    link: "https://www.tiktok.com/@booyenku/video/7683453946379193621"
   },
   {
     id: "Partner Polimeritas",
@@ -122,7 +122,7 @@ export const partnerItems: Partner[] = [
     desc: "Dahlia-Arum Dalu",
     subDesc: "Indonesia",
     image: "/img/Partner2/Dahlia-Arum Dalu.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7635977337875696916"
+    link: "https://www.tiktok.com/@booyenku/video/7683455536129445140"
   },
   {
     id: "Partner Polimeritas",
