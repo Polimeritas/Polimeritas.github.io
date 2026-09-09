@@ -111,6 +111,38 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "BEST SELLER",
+    desc: "Dahlia-Arum Dalu Refil",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dahlia-Arum Dalu Refil.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635977337875696916"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Dahlia-Arum Dalu",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dahlia-Arum Dalu.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635977337875696916"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Dahlia-Teh Keraton",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dahlia-Teh Keraton.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635977337875696916"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Dahlia-Cendana Padmasana",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Dahlia-Cendana Padmasana.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7635977337875696916"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
     desc: "Lem Penambal Gigi Bolong Dengan Etching Biru",
     subDesc: "Indonesia",
     image: "/img/Partner2/Lem Penambal Gigi Bolong Dengan Etching Biru.jpg",
