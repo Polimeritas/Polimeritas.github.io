@@ -122,7 +122,7 @@ export const partnerItems: Partner[] = [
     desc: "Dahlia-Arum Dalu",
     subDesc: "Indonesia",
     image: "/img/Partner2/Dahlia-Arum Dalu.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7683455536129445140"
+    link: "https://www.tiktok.com/@booyenku/video/7683723536220966164"
   },
   {
     id: "Partner Polimeritas",
@@ -130,7 +130,7 @@ export const partnerItems: Partner[] = [
     desc: "Dahlia-Teh Keraton",
     subDesc: "Indonesia",
     image: "/img/Partner2/Dahlia-Teh Keraton.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7635977337875696916"
+    link: "https://www.tiktok.com/@booyenku/video/7683723536220966164"
   },
   {
     id: "Partner Polimeritas",
@@ -138,7 +138,7 @@ export const partnerItems: Partner[] = [
     desc: "Dahlia-Cendana Padmasana",
     subDesc: "Indonesia",
     image: "/img/Partner2/Dahlia-Cendana Padmasana.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7635977337875696916"
+    link: "https://www.tiktok.com/@booyenku/video/7683723536220966164"
   },
   {
     id: "Partner Polimeritas",
