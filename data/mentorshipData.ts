@@ -13,7 +13,7 @@ export const mentorshipData: MentorshipItem[] = [
     category: "Konsultasi",
     title: "Konsultasi-Webinar Polimeritas",
     image: "/img/Partner2/Konsultasi-Webinar Polimeritas.jpg",
-    link: "https://api.whatsapp.com/send/?phone=6285214991705&text&type=phone_number&app_absent=0",
+    link: "https://api.whatsapp.com/send?phone=6285214991705&text=Hi%20polimeritas.com!%20Saya%20ingin%20tau%20informasi%20tentang%20konsultasi%20mentorship%20polimeritas%20",
   },
   {
     id: "kon-2",
