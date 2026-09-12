@@ -6619,6 +6619,46 @@ export const partnerIndustriItems: Partner[] = [
   },
     {
     id: "industri-petshop",
+    name: "Majes Cat Nutri Gravy Makanan Kucing Basah",
+    desc: "Majes Cat Nutri Gravy Makanan Kucing Basah",
+    subDesc: "Industri",
+    image: "/img/Partner2/Majes Cat Nutri Gravy Makanan Kucing Basah.jpg",
+    link: "https://s.shopee.co.id/70K4J4TtsT"
+  },
+    {
+    id: "industri-petshop",
+    name: "Mr. Vet Makanan Kucing Kering Urinary Care",
+    desc: "Mr. Vet Makanan Kucing Kering Urinary Care",
+    subDesc: "Industri",
+    image: "/img/Partner2/Mr. Vet Makanan Kucing Kering Urinary Care.jpg",
+    link: "https://s.shopee.co.id/9058gjsAxp"
+  },
+    {
+    id: "industri-petshop",
+    name: "Obat Flu Batuk Kucing Ampuh Flu Guard Kucing",
+    desc: "Obat Flu Batuk Kucing Ampuh Flu Guard Kucing",
+    subDesc: "Industri",
+    image: "/img/Partner2/Obat Flu Batuk Kucing Ampuh Flu Guard Kucing.jpg",
+    link: "https://s.shopee.co.id/30nvXlhmKm"
+  },
+    {
+    id: "industri-petshop",
+    name: "FLU ZAP Kucingan Obat Flu Antibiotik Flu Berat",
+    desc: "FLU ZAP Kucingan Obat Flu Antibiotik Flu Berat",
+    subDesc: "Industri",
+    image: "/img/Partner2/FLU ZAP Kucingan Obat Flu Antibiotik Flu Berat.jpg",
+    link: "https://s.shopee.co.id/7AdUVLvITN"
+  },
+    {
+    id: "industri-petshop",
+    name: "FLU ZAP Obat Flu Antibiotik Kucing",
+    desc: "FLU ZAP Obat Flu Antibiotik Kucing",
+    subDesc: "Industri",
+    image: "/img/Partner2/FLU ZAP Obat Flu Antibiotik Kucing.jpg",
+    link: "https://s.shopee.co.id/BTkATZCku"
+  },
+    {
+    id: "industri-petshop",
     name: "Worm Guard 5gr By Golden Paw Obat Cacing",
     desc: "Worm Guard 5gr By Golden Paw Obat Cacing",
     subDesc: "Industri",
