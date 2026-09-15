@@ -87,6 +87,22 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "BEST SELLER",
+    desc: "CETAK FOTO BERBAGAI MACAM UKURAN",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/CETAK FOTO BERBAGAI MACAM UKURAN.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7682632301410323732"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Starlight Album Foto Keluarga 4R Tempat Foto Kenangan 100 Foto",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Starlight Album Foto Keluarga 4R Tempat Foto Kenangan 100 Foto.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7685645152177736980"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
     desc: "Sendal Jepit Terapi",
     subDesc: "Indonesia",
     image: "/img/Partner2/Sendal Jepit Terapi.jpg",
