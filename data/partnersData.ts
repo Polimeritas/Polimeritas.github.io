@@ -85,6 +85,14 @@ export const partnerItems: Partner[] = [
     link: "https://qurban.amalsholeh.com/?ref=bJmk9"
   },
   {
+    id: "industri-petshop",
+    name: "[BEST SELLER] Topi Booyenku",
+    desc: " Topi Booyenku",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/topi custom.jpg",
+    link: "https://wa.me/6285214991705"
+  },
+  {
     id: "Partner Polimeritas",
     name: "BEST SELLER",
     desc: "CETAK FOTO BERBAGAI MACAM UKURAN",
@@ -6252,7 +6260,7 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-petshop",
     name: "[BEST SELLER] Topi Booyenku",
-    desc: "Cat Grass",
+    desc: " Topi Booyenku",
     subDesc: "Industri",
     image: "/img/Partner2/topi custom.jpg",
     link: "https://wa.me/6285214991705"
