@@ -292,7 +292,23 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/Bunga Mawar Plastik.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7647054813905030420"
   },
-{
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Sepatu Sport",
+    subDesc: "Jabodetabek",
+    image: "/img/Partner2/Sepatu Sport.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7687079548793474324"
+  },
+  {
+    id: "Partner Polimeritas",
+    name: "BEST SELLER",
+    desc: "Sepatu Pantofel",
+    subDesc: "Jabodetabek",
+    image: "/img/Partner2/Sepatu Pantofel.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7687080482030226709"
+  },
+  {
     id: "736",
     name: "736",
     desc: "5KG Bungkil Kopra Asli 100%",
