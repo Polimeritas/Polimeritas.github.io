@@ -6251,6 +6251,14 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
+    name: "[BEST SELLER] Topi Booyenku",
+    desc: "Cat Grass",
+    subDesc: "Industri",
+    image: "/img/Partner2/topi custom.jpg",
+    link: "https://wa.me/6285214991705"
+  },
+  {
+    id: "industri-petshop",
     name: "[BEST SELLER] Olive Care",
     desc: "Cat Grass",
     subDesc: "Industri",
