@@ -25,9 +25,9 @@ export const mentorshipData: MentorshipItem[] = [
   {
     id: "kon-3",
     category: "Konsultasi",
-    title: "Coming Soon!",
+    title: "Polimeritas x Sedekah Barangku",
     image: "/img/Partner2/Coming Soon.jpg",
-    link: "https://api.whatsapp.com/send/?phone=6285214991705&text&type=phone_number&app_absent=0",
+    link: "https://www.instagram.com/polimeritas.official",
   },
   {
     id: "kon-4",
