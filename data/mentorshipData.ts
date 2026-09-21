@@ -25,6 +25,20 @@ export const mentorshipData: MentorshipItem[] = [
   {
     id: "kon-3",
     category: "Konsultasi",
+    title: "Polimeritas x Biomass Resin Holdings",
+    image: "/img/Partner2/Biomass Resin Holdings.jpg",
+    link: "https://www.instagram.com/p/DUKF7ZUEo7N/",
+  },
+  {
+    id: "kon-3",
+    category: "Konsultasi",
+    title: "Polimeritas x Zefa Valindo Jaya",
+    image: "/img/Partner2/Zefa Valindo Jaya.jpg",
+    link: "https://www.instagram.com/p/DVSPS18km8g/",
+  },
+  {
+    id: "kon-3",
+    category: "Konsultasi",
     title: "Polimeritas x Sedekah Barangku",
     image: "/img/Partner2/Coming Soon.jpg",
     link: "https://www.instagram.com/polimeritas.official",
