@@ -309,6 +309,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7687080482030226709"
   },
   {
+    id: "740",
+    name: "740",
+    desc: "COD Rak Troli Susun Serbaguna 3 & 4 Tingkat",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/COD Rak Troli Susun Serbaguna 3 & 4 Tingkat.jpg",
+    link: "https://s.shopee.co.id/2qUlZO0yMJ"
+},
+  {
+    id: "739",
+    name: "73",
+    desc: "INVEN - BULU MATA TANPA LEM",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/INVEN - BULU MATA TANPA LEM.jpg",
+    link: "https://s.shopee.co.id/1gIoBG50fj"
+},
+  {
+    id: "738",
+    name: "73",
+    desc: "[PAKET 3 BALL] MAMYPOKO TIDAK GEMBUNG",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/[PAKET 3 BALL] MAMYPOKO TIDAK GEMBUNG.jpg",
+    link: "https://s.shopee.co.id/40gixYzzAD"
+},
+  {
+    id: "737",
+    name: "73",
+    desc: "MOKURU - Bumbu Garam Bawang Putih Parsley Original",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/MOKURU - Bumbu Garam Bawang Putih Parsley Original.jpg",
+    link: "https://s.shopee.co.id/6q0uKmyQ46"
+},
+  {
     id: "736",
     name: "736",
     desc: "5KG Bungkil Kopra Asli 100%",
