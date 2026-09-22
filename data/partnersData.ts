@@ -309,6 +309,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7687080482030226709"
   },
   {
+    id: "744",
+    name: "744",
+    desc: "10 PCS Gantungan Baju Stainless Anti Karat",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/10 PCS Gantungan Baju Stainless Anti Karat.jpg",
+    link: "https://s.shopee.co.id/LnQbFPN4g"
+},
+  {
+    id: "743",
+    name: "743",
+    desc: "Rak Gantungan Panci Wajan Kuali Tempel Dinding ",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Rak Gantungan Panci Wajan Kuali Tempel Dinding .jpg",
+    link: "https://s.shopee.co.id/9V1fW6qHDN"
+},
+  {
+    id: "742",
+    name: "742",
+    desc: "Premium Kasur Lantai Jumbo 200x180x12 Cm",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Premium Kasur Lantai Jumbo 200x180x12 Cm.jpg",
+    link: "https://s.shopee.co.id/6AlDXzyqmo"
+},
+  {
+    id: "741",
+    name: "741",
+    desc: "TrailTop Kursi Lipat Adjustable Sandaran Tinggi Kapas Busa",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/TrailTop Kursi Lipat Adjustable Sandaran Tinggi Kapas Busa.jpg",
+    link: "https://s.shopee.co.id/8V98KIpdHN"
+},
+  {
     id: "740",
     name: "740",
     desc: "COD Rak Troli Susun Serbaguna 3 & 4 Tingkat",
