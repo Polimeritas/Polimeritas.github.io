@@ -309,6 +309,38 @@ export const partnerItems: Partner[] = [
     link: "https://www.tiktok.com/@booyenku/video/7687080482030226709"
   },
   {
+    id: "748",
+    name: "748",
+    desc: "New arival one set dara kerah jas mix polos bahan rayon premium",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/New arival one set dara kerah jas mix polos bahan rayon premium.jpg",
+    link: "https://s.shopee.co.id/AKaoDXApuB"
+},
+  {
+    id: "747",
+    name: "747",
+    desc: "VALERY BLOUSE WANITA RAYON MOTIF LENGAN BALON",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/VALERY BLOUSE WANITA RAYON MOTIF LENGAN BALON.jpg",
+    link: "https://s.shopee.co.id/4LJb4Wg8sK"
+},
+  {
+    id: "746",
+    name: "746",
+    desc: "Celana Kulot Hommy Pants - Stripe Pants",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Celana Kulot Hommy Pants - Stripe Pants.jpg",
+    link: "https://s.shopee.co.id/LnSJBtJdo"
+},
+  {
+    id: "745",
+    name: "745",
+    desc: "Promo Daster Resleting Termurah",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Promo Daster Resleting Termurah.jpg",
+    link: "https://s.shopee.co.id/1BMZIjmv9b"
+},
+  {
     id: "744",
     name: "744",
     desc: "10 PCS Gantungan Baju Stainless Anti Karat",
