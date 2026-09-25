@@ -6443,6 +6443,14 @@ export const partnerIndustriItems: Partner[] = [
   },
   {
     id: "industri-petshop",
+    name: "Petlabsnesia",
+    desc: "Beef Tallow",
+    subDesc: "Industri",
+    image: "/img/Partner2/Beef Tallow.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7689327035977714965"
+  },
+  {
+    id: "industri-petshop",
     name: "Animal&Co",
     desc: "Pouch",
     subDesc: "Industri",
