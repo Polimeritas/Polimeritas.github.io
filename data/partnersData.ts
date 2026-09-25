@@ -6835,6 +6835,14 @@ export const partnerIndustriItems: Partner[] = [
   },
     {
     id: "industri-petshop",
+    name: "gold flu golden paw",
+    desc: "gold flu golden paw",
+    subDesc: "Industri",
+    image: "/img/Partner2/gold flu golden paw.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7688605169319202069"
+  },
+    {
+    id: "industri-petshop",
     name: "Holycat Labs-Royal Care Booster",
     desc: "Holycat Labs-Royal Care Booster",
     subDesc: "Industri",
