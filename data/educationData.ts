@@ -11,7 +11,7 @@ export interface Article {
       id: 1,
       title: "Microfibrillated cellulose from sweet sorghum (Shorghum Bicolor (L.) Moench) fiber by twin screw extruder and its charateristics on polylactic acid biocomposites",
       desc: "Penelitian ini kayak nemuin resep rahasia buat bikin PLA jadi superhero-nya dunia biokomposit! Jadi gini, ambil serat sorgum manis, terus olah pakai mesin twin-screw (bayangin aja kayak robot dapur futuristik), dan boom! Muncul MFC alias microfibrillated cellulose. Nah, MFC ini kayak bubuk ajaib yang bikin PLA dari biasa jadi luar biasa: lebih kuat, kaku, dan tahan panas kayak armor Iron Man, tapi tetap ramah lingkungan. Hasil akhirnya? Kompositnya nyatu sempurna, kayak smoothie serat sorgum yang nyelinap mulus ke PLA. Siapa sangka, serat sorgum bisa jadi game-changer buat bikin material yang nggak cuma tangguh, tapi juga eco-friendly!",
-      image: "/img/Partner2/sorgum education.jpg",
+      image: "/img/Partner2/Microfibrillated cellulose from sweet sorghum.jpg",
       link: "https://iopscience.iop.org/article/10.1088/1757-899X/935/1/012059",
     },
     {
@@ -174,5 +174,26 @@ export interface Article {
       desc: "Tantangan daur ulang plastik dibagi menjadi 4 bentuk: closed loop, downgrading, chemical or feedstock recycling, dan energy recovery. Ingin tau lebih jauh? Yuk simak konten yang satu ini!",
       image: "/img/education-photo/cont-alif.png",
       link: "https://www.instagram.com/p/CntAgvBrvKQ/?hl=id",
-    }
+    },
+    {
+      id: 25,
+      title: "Apa itu Polimer",
+      desc: "Polimer bukan cuma istilah rumit di buku kimia. Polimer adalah “pemain utama” di balik banyak material yang kita pakai setiap hari. Mulai dari plastik, karet, hingga bahan alami di sekitar kita.Tapi sebenarnya, apa itu polimer dan mengapa material ini begitu penting? Yuk, kenalan lebih dekat dengan pengertian, jenis, dan contoh polimer lewat penjelasan yang ringan dan mudah dipahami.",
+      image: "/img/education-photo/Apa itu Polimer.jpg",
+      link: "https://www.instagram.com/polimeritas.official",
+    },
+    {
+      id: 26,
+      title: "Jenis Polimer dan Kegunaan",
+      desc: "Ketika mendengar kata polimer, banyak orang langsung membayangkan plastik. Padahal, polimer jauh lebih beragam dari itu. Polimer terdiri dari beberapa jenis dengan karakter dan kegunaan yang berbeda-beda. Ada polimer yang terbentuk secara alami di alam, ada pula yang dirancang secara sintetis untuk memenuhi kebutuhan manusia. Dari bahan elastis seperti karet, plastik yang ringan dan kuat, hingga serat yang digunakan pada tekstil, Setiap jenis polimer memiliki karakteristik dan kegunaan yang berbeda. Apa saja itu? Mari kita bahas secara lengkap dan sederhana.",
+      image: "/img/education-photo/Jenis Polimer dan Kegunaan.jpg",
+      link: "https://www.instagram.com/polimeritas.official",
+    },
+    {
+      id: 27,
+      title: "Plastik vs Polimer",
+      desc: "Plastik dan polimer sering dianggap sebagai dua hal yang sama, padahal keduanya tidak sepenuhnya identik. Dalam percakapan sehari-hari, istilah plastik kerap digunakan untuk menyebut berbagai material berbahan polimer, meskipun secara ilmiah maknanya lebih spesifik. Polimer merupakan kelompok senyawa yang sangat luas, sementara plastik hanyalah salah satu bentuk pemanfaatannya. Hubungan keduanya bisa diibaratkan seperti “keluarga besar dan salah satu anggotanya”. Mari kita bahas perbedaan antara plastik dan polimer, bagaimana keduanya saling berkaitan, serta mengapa memahami perbedaannya penting dalam kehidupan sehari-hari.",
+      image: "/img/education-photo/Plastik vs Polimer.jpg",
+      link: "https://www.instagram.com/polimeritas.official",
+    },
   ];
