@@ -7666,6 +7666,14 @@ export const partnerBookItems: Partner[] = [
     link: "https://www.instagram.com/p/DXWCn2XgcpA/?img_index=1"
   },
   {
+    id: "Novel",
+    name: "Ada Lutung Depan Pintu ",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Ada Lutung Depan Pintu .jpg",
+    link: "Ada Lutung Depan Pintu "
+  },
+  {
     id: "Buku Sekolah",
     name: "Buku Tulis Campus 50 Lembar 1 Pack isi 10 Pcs",
     desc: "Pesan Disini",
