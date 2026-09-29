@@ -175,14 +175,6 @@ export const partnerItems: Partner[] = [
   {
     id: "Partner Polimeritas",
     name: "Partner Polimeritas-Umum",
-    desc: "Lele Universe - Rambak Kulit Lele",
-    subDesc: "Indonesia",
-    image: "/img/Partner2/Lele Universe - Rambak Kulit Lele.jpg",
-    link: "https://www.tiktok.com/@booyenku/video/7645197943057796372"
-  },
-  {
-    id: "Partner Polimeritas",
-    name: "Partner Polimeritas-Umum",
     desc: "Roti Bangdo",
     subDesc: "Indonesia",
     image: "/img/Partner2/Berbagi Roti Bareng BangDoIndonesia.jpg",
@@ -307,6 +299,14 @@ export const partnerItems: Partner[] = [
     subDesc: "Jabodetabek",
     image: "/img/Partner2/Sepatu Pantofel.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7687080482030226709"
+  },
+  {
+    id: "749",
+    name: "749",
+    desc: "Lele Universe - Rambak Kulit Lele",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Lele Universe - Rambak Kulit Lele.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7645197943057796372"
   },
   {
     id: "748",
