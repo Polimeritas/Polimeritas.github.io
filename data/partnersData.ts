@@ -7667,11 +7667,11 @@ export const partnerBookItems: Partner[] = [
   },
   {
     id: "Novel",
-    name: "Ada Lutung Depan Pintu ",
+    name: "Ada Lutung Depan Pintu",
     desc: "Pesan Disini",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Ada Lutung Depan Pintu .jpg",
-    link: "Ada Lutung Depan Pintu "
+    image: "/img/Partner2/Ada Lutung Depan Pintu.jpg",
+    link: "https://www.instagram.com/kajz.entertainment"
   },
   {
     id: "Buku Sekolah",
