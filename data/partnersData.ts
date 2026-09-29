@@ -7674,6 +7674,22 @@ export const partnerBookItems: Partner[] = [
     link: "https://www.instagram.com/kajz.entertainment"
   },
   {
+    id: "Novel",
+    name: "Misteri Ruang Hati",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Misteri Ruang Hati.jpg",
+    link: "https://www.instagram.com/kajz.entertainment"
+  },
+  {
+    id: "Novel",
+    name: "The Miracle of Mindfulness (Ruang Bertumbuh dan Pulih Bersama)",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/The Miracle of Mindfulness (Ruang Bertumbuh dan Pulih Bersama).jpg",
+    link: "https://www.instagram.com/kajz.entertainment"
+  },
+  {
     id: "Buku Sekolah",
     name: "Buku Tulis Campus 50 Lembar 1 Pack isi 10 Pcs",
     desc: "Pesan Disini",
