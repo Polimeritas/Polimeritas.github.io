@@ -11,7 +11,7 @@ export interface Article {
       id: 1,
       title: "Microfibrillated cellulose from sweet sorghum (Shorghum Bicolor (L.) Moench) fiber by twin screw extruder and its charateristics on polylactic acid biocomposites",
       desc: "Penelitian ini kayak nemuin resep rahasia buat bikin PLA jadi superhero-nya dunia biokomposit! Jadi gini, ambil serat sorgum manis, terus olah pakai mesin twin-screw (bayangin aja kayak robot dapur futuristik), dan boom! Muncul MFC alias microfibrillated cellulose. Nah, MFC ini kayak bubuk ajaib yang bikin PLA dari biasa jadi luar biasa: lebih kuat, kaku, dan tahan panas kayak armor Iron Man, tapi tetap ramah lingkungan. Hasil akhirnya? Kompositnya nyatu sempurna, kayak smoothie serat sorgum yang nyelinap mulus ke PLA. Siapa sangka, serat sorgum bisa jadi game-changer buat bikin material yang nggak cuma tangguh, tapi juga eco-friendly!",
-      image: "/img/Partner2/Microfibrillated cellulose from sweet sorghum.jpg",
+      image: "/img/education-photo/Microfibrillated cellulose from sweet sorghum.jpg",
       link: "https://iopscience.iop.org/article/10.1088/1757-899X/935/1/012059",
     },
     {
