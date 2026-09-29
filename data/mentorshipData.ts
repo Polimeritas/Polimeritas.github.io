@@ -131,12 +131,19 @@ export const mentorshipData: MentorshipItem[] = [
   {
     id: "pel-4",
     category: "Pelatihan",
+    title: "Ecopounding & Ecoprint by Kinrose",
+    image: "/img/Partner2/Coming Soon.jpg",
+    link: "https://www.instagram.com/polimeritas.official",
+  },
+  {
+    id: "pel-5",
+    category: "Pelatihan",
     title: "Microsoft Office Powerpoint untuk Iklan Produk Kimia",
     image: "/img/Partner2/Microsoft Office Powerpoint untuk Iklan Produk Kimia.jpg",
     link: "https://www.instagram.com/p/CQ8cQbrBnSk/?img_index=1",
   },
   {
-    id: "pel-5",
+    id: "pel-6",
     category: "Pelatihan",
     title: "Geografi Modern dalam Pendidikan",
     image: "/img/Partner2/Geografi Modern dalam Pendidikan.jpg",
