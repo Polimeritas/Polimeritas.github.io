@@ -382,7 +382,7 @@ export const partnerItems: Partner[] = [
 },
   {
     id: "739",
-    name: "73",
+    name: "739",
     desc: "INVEN - BULU MATA TANPA LEM",
     subDesc: "Indonesia",
     image: "/img/Partner2/INVEN - BULU MATA TANPA LEM.jpg",
@@ -390,7 +390,7 @@ export const partnerItems: Partner[] = [
 },
   {
     id: "738",
-    name: "73",
+    name: "738",
     desc: "[PAKET 3 BALL] MAMYPOKO TIDAK GEMBUNG",
     subDesc: "Indonesia",
     image: "/img/Partner2/[PAKET 3 BALL] MAMYPOKO TIDAK GEMBUNG.jpg",
@@ -398,7 +398,7 @@ export const partnerItems: Partner[] = [
 },
   {
     id: "737",
-    name: "73",
+    name: "737",
     desc: "MOKURU - Bumbu Garam Bawang Putih Parsley Original",
     subDesc: "Indonesia",
     image: "/img/Partner2/MOKURU - Bumbu Garam Bawang Putih Parsley Original.jpg",
