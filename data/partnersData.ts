@@ -7698,6 +7698,14 @@ export const partnerBookItems: Partner[] = [
     link: "https://www.instagram.com/kajz.entertainment"
   },
   {
+    id: "Novel",
+    name: "Tumbuh Sebagai Anak Broken Home",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Tumbuh Sebagai Anak Broken Home.jpg",
+    link: "https://www.instagram.com/kajz.entertainment"
+  },
+  {
     id: "Buku Sekolah",
     name: "Buku Tulis Campus 50 Lembar 1 Pack isi 10 Pcs",
     desc: "Pesan Disini",
