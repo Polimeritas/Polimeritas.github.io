@@ -337,7 +337,7 @@ export const partnerItems: Partner[] = [
   name: "756",
   desc: "Terasi Belacan Sangrai- Asli dari Toboali",
   subDesc: "Indonesia",
-  image: "/img/Partner2/Terasi/Belacan Sangrai (Kering/Bubuk siap pakai) Asli dari Toboali.jpg",
+  image: "/img/Partner2/Terasi/Terasi Belacan Sangrai- Asli dari Toboali.jpg",
   link: "https://s.shopee.co.id/3qNVREDnOX"
 },
 {
@@ -377,7 +377,7 @@ export const partnerItems: Partner[] = [
   name: "751",
   desc: "KOPIAH RESAM KUALITAS A2 | ASLI BANGKA BELITUNG PECI RESAM",
   subDesc: "Indonesia",
-  image: "/img/Partner2/KOPIAH RESAM KUALITAS A2- ASLI BANGKA BELITUNG PECI RESAM.jpg",
+  image: "/img/Partner2/KOPIAH RESAM KUALITAS A2 - ASLI BANGKA BELITUNG PECI RESAM.jpg",
   link: "https://s.shopee.co.id/5Ast1mxuyF"
 },
 {
@@ -729,7 +729,7 @@ export const partnerItems: Partner[] = [
     name: "707",
     desc: "Rusip Sungai Pedade Toboali Bangka 300 ml",
     subDesc: "Indonesia",
-    image: "/img/Partner2/Rusip Sungai Pedade Toboali Bangka 300 ml.jpg",
+    image: "/img/Partner2/rusip khas bangka belitung kualitas super 300gr.jpg",
     link: "https://s.shopee.co.id/6Ak4ChsGxr"
 }, 
 {
