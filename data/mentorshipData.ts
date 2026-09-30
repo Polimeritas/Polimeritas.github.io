@@ -132,7 +132,7 @@ export const mentorshipData: MentorshipItem[] = [
     id: "pel-4",
     category: "Pelatihan",
     title: "Ecopounding & Ecoprint by Kinrose",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/ecopounding dan ecoprint.jpg",
     link: "https://www.instagram.com/polimeritas.official",
   },
   {
