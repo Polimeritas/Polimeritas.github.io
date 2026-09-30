@@ -300,6 +300,94 @@ export const partnerItems: Partner[] = [
     image: "/img/Partner2/Sepatu Pantofel.jpg",
     link: "https://www.tiktok.com/@booyenku/video/7687080482030226709"
   },
+{
+  id: "760",
+  name: "760",
+  desc: "LADA Asal Bangka Belitung",
+  subDesc: "Indonesia",
+  image: "/img/Partner2/LADA Asal Bangka Belitung.jpg",
+  link: "https://s.shopee.co.id/6VOGc3sCKw"
+},
+{
+  id: "759",
+  name: "759",
+  desc: "Minyak Kemiri Bangka Belitung Murni 100%",
+  subDesc: "Indonesia",
+  image: "/img/Partner2/Minyak Kemiri Bangka Belitung Murni 100%.jpg",
+  link: "https://s.shopee.co.id/6q170hBhNo"
+},
+{
+  id: "758",
+  name: "758",
+  desc: "https://s.shopee.co.id/6q170hBhNo",
+  subDesc: "Indonesia",
+  image: "/img/Partner2/https://s.shopee.co.id/6q170hBhNo.jpg",
+  link: "https://s.shopee.co.id/30oORfN06X"
+},
+{
+  id: "757",
+  name: "757",
+  desc: "MIRRANDO - Sirup Jeruk Kunci Mirrando 250ml Khas Bangka Belitung",
+  subDesc: "Indonesia",
+  image: "/img/Partner2/MIRRANDO - Sirup Jeruk Kunci Mirrando 250ml Khas Bangka Belitung.jpg",
+  link: "https://s.shopee.co.id/7faE0G9ENo"
+},
+{
+  id: "756",
+  name: "756",
+  desc: "Terasi Belacan Sangrai- Asli dari Toboali",
+  subDesc: "Indonesia",
+  image: "/img/Partner2/Terasi/Belacan Sangrai (Kering/Bubuk siap pakai) Asli dari Toboali.jpg",
+  link: "https://s.shopee.co.id/3qNVREDnOX"
+},
+{
+  id: "755",
+  name: "755",
+  desc: "Nori Kong Rajanya Nori, Nori Rumput Laut Crispy 63gr progduk asli Bangka Belitung",
+  subDesc: "Indonesia",
+  image: "/img/Partner2/Nori Kong Rajanya Nori, Nori Rumput Laut Crispy 63gr progduk asli Bangka Belitung.jpg",
+  link: "https://s.shopee.co.id/6q170l30C0"
+},
+{
+  id: "754",
+  name: "754",
+  desc: "Kopi Cap 1 Bubuk & Biji 250 Gram Campuran Robusta Kopi Hitam Pahit Asli Bangka",
+  subDesc: "Indonesia",
+  image: "/img/Partner2/Kopi Cap 1 Bubuk & Biji 250 Gram Campuran Robusta Kopi Hitam Pahit Asli Bangka.jpg",
+  link: "https://s.shopee.co.id/1LgASfDqKq"
+},
+{
+  id: "753",
+  name: "753",
+  desc: "kopi bubuk tung tau khas bangka belitung",
+  subDesc: "Indonesia",
+  image: "/img/Partner2/kopi bubuk tung tau khas bangka belitung.jpg",
+  link: "https://s.shopee.co.id/4LJm2EAd2d"
+},
+{
+  id: "752",
+  name: "752",
+  desc: "FUKIEN ikan tenggiri khas Bangka",
+  subDesc: "Indonesia",
+  image: "/img/Partner2/FUKIEN ikan tenggiri khas Bangka.jpg",
+  link: "https://s.shopee.co.id/3Vkf2i3hi8"
+},
+{
+  id: "751",
+  name: "751",
+  desc: "KOPIAH RESAM KUALITAS A2 | ASLI BANGKA BELITUNG PECI RESAM",
+  subDesc: "Indonesia",
+  image: "/img/Partner2/KOPIAH RESAM KUALITAS A2- ASLI BANGKA BELITUNG PECI RESAM.jpg",
+  link: "https://s.shopee.co.id/5Ast1mxuyF"
+},
+{
+  id: "750",
+  name: "750",
+  desc: "Getas Super CUMI khas kurau Bangka Belitung",
+  subDesc: "Indonesia",
+  image: "/img/Partner2/Getas Super CUMI khas kurau Bangka Belitung.jpg",
+  link: "https://s.shopee.co.id/8fSlCEW1n0"
+},
   {
     id: "749",
     name: "749",
