@@ -319,10 +319,10 @@ export const partnerItems: Partner[] = [
 {
   id: "758",
   name: "758",
-  desc: "https://s.shopee.co.id/6q170hBhNo",
+  desc: "rusip khas bangka belitung kualitas super 300gr",
   subDesc: "Indonesia",
-  image: "/img/Partner2/https://s.shopee.co.id/6q170hBhNo.jpg",
-  link: "https://s.shopee.co.id/30oORfN06X"
+  image: "/img/Partner2/rusip khas bangka belitung kualitas super 300gr.jpg",
+  link: "https://s.shopee.co.id/6q170hBhNo"
 },
 {
   id: "757",
@@ -337,7 +337,7 @@ export const partnerItems: Partner[] = [
   name: "756",
   desc: "Terasi Belacan Sangrai- Asli dari Toboali",
   subDesc: "Indonesia",
-  image: "/img/Partner2/Terasi/Terasi Belacan Sangrai- Asli dari Toboali.jpg",
+  image: "/img/Partner2/Terasi Belacan Sangrai- Asli dari Toboali.jpg",
   link: "https://s.shopee.co.id/3qNVREDnOX"
 },
 {
@@ -729,7 +729,7 @@ export const partnerItems: Partner[] = [
     name: "707",
     desc: "Rusip Sungai Pedade Toboali Bangka 300 ml",
     subDesc: "Indonesia",
-    image: "/img/Partner2/rusip khas bangka belitung kualitas super 300gr.jpg",
+    image: "/img/Partner2/Rusip Sungai Pedade Toboali Bangka 300 ml.jpg",
     link: "https://s.shopee.co.id/6Ak4ChsGxr"
 }, 
 {
