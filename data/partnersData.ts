@@ -8877,6 +8877,38 @@ export const partnerBookItems: Partner[] = [
     link: "https://s.shopee.co.id/"
   },
   {
+    id: "Buku",
+    name: "Buku Jelajah Wisata Budaya Negeriku Provinsi Kepulauan Bangka Belitung",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Buku Jelajah Wisata Budaya Negeriku Provinsi Kepulauan Bangka Belitung.jpg",
+    link: "https://s.shopee.co.id/905bZuEFMw"
+  },
+  {
+    id: "Buku",
+    name: "Buku Kuliner Bangka Belitung, Tak Sangka Nikmatnya Tak Terhitung",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Buku Kuliner Bangka Belitung, Tak Sangka Nikmatnya Tak Terhitung.jpg",
+    link: "https://s.shopee.co.id/"
+  },
+  {
+    id: "Buku",
+    name: "Buku Seri Pustaka Cita Rasa Indonesia, Ragam Lauk Pauk Sumatera",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Buku Seri Pustaka Cita Rasa Indonesia, Ragam Lauk Pauk Sumatera.jpg",
+    link: "https://s.shopee.co.id/3LREpbGYrv"
+  },
+  {
+    id: "Buku",
+    name: "Senja Kala Tata Kelola Timah di Bangka Belitung",
+    desc: "Pesan Disini",
+    subDesc: "Indonesia",
+    image: "/img/Partner2/Senja Kala Tata Kelola Timah di Bangka Belitung.jpg",
+    link: "https://s.shopee.co.id/60S00bzBNc"
+  },
+  {
     id: "E-Book",
     name: "Produk Digital",
     desc: "Pesan Disini",
