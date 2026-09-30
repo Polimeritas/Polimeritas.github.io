@@ -249,7 +249,7 @@ export interface Article {
       id: 35,
       title: "Kenapa Botol Air Minum Transparan",
       desc: "Water based polymer adalah polimer yang menggunakan air sebagai pelarut Utama dan memiliki berbagai kelebihan seperti ramah lingkungan, tidak berbau menyengat, dan lebih aman digunakan dibanding solvent based polymer.",
-      image: "Kenapa Botol Air Minum Transparan.jpg",
+      image: "/img/education-photo/Kenapa Botol Air Minum Transparan.jpg",
       link: "https://www.instagram.com/polimeritas.official",
     },
   ];
