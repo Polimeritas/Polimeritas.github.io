@@ -242,7 +242,14 @@ export interface Article {
       id: 34,
       title: "Apa itu Water Based Polymer atau Polimer Berbasis Air?",
       desc: "Water based polymer adalah polimer yang menggunakan air sebagai pelarut Utama dan memiliki berbagai kelebihan seperti ramah lingkungan, tidak berbau menyengat, dan lebih aman digunakan dibanding solvent based polymer.",
-      image: "/img/education-photo/Apa itu Water Based Polymer atau Polimer Berbasis Air?.jpg",
+      image: "/img/education-photo/Apa itu Water Based Polymer atau Polimer Berbasis Air.jpg",
+      link: "https://www.instagram.com/polimeritas.official",
+    },
+    {
+      id: 35,
+      title: "Kenapa Botol Air Minum Transparan",
+      desc: "Water based polymer adalah polimer yang menggunakan air sebagai pelarut Utama dan memiliki berbagai kelebihan seperti ramah lingkungan, tidak berbau menyengat, dan lebih aman digunakan dibanding solvent based polymer.",
+      image: "Kenapa Botol Air Minum Transparan.jpg",
       link: "https://www.instagram.com/polimeritas.official",
     },
   ];
