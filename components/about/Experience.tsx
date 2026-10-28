@@ -73,7 +73,7 @@ const Experience = () => {
                     </h5>
 
                     <p className="text-gray-600 text-justify leading-relaxed mb-8 text-lg">
-                        Polimeritas adalah suatu komunitas yang bergerak di bidang polymer sains dan teknologi dari hulu hingga produk jadi. Polimeritas berdiri pada tahun 2018 yang awal mulanya merupakan bentuk dari pengabdian masyarakat. Lalu, pada tanggal 10 Januari 2019, Polimeritas mulai aktif sebagai suatu komunitas. Polimeritas bekerjasama memajukan masyarakat yang ahli, produktif, dan inovatif menyongsong Indonesia yang lebih baik di bidang polimer. Polimeritas juga pernah masuk nominasi relawan terpilih Indorelawan 2019. Polimeritas dibentuk dan dipimpin oleh Jevi Zalesti dan sekarang memiliki anggota terstruktur. Jevi Zalesti juga menjabat sebagai Manajer Koperasi Desa Merah Putih Terentang III.
+                        Polimeritas adalah suatu komunitas yang bergerak di bidang polymer sains dan teknologi dari hulu hingga produk jadi. Polimeritas berdiri pada tahun 2018 yang awal mulanya merupakan bentuk dari pengabdian masyarakat. Lalu, pada tanggal 10 Januari 2019, Polimeritas mulai aktif sebagai suatu komunitas. Polimeritas bekerjasama memajukan masyarakat yang ahli, produktif, dan inovatif menyongsong Indonesia yang lebih baik di bidang polimer. Polimeritas juga pernah masuk nominasi relawan terpilih Indorelawan 2019. Polimeritas dibentuk dan dipimpin oleh Jevi Zalesti dan sekarang memiliki anggota terstruktur. Jevi Zalesti juga menjabat sebagai Manajer Koperasi Desa Merah Putih Terentang III. Polimeritas bekerjasama sama dengan @booyenku dan @kajz.entertainment.
                     </p>
 
                     {/* Video Button Area */}
