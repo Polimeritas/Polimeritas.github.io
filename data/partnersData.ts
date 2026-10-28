@@ -6580,6 +6580,22 @@ export const partnerIndustriItems: Partner[] = [
   {
     id: "industri-petshop",
     name: "Animal&Co",
+    desc: "Animalnco-Canfood for Anabul",
+    subDesc: "Industri",
+    image: "/img/Partner2/Animalnco-Canfood for Anabul.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7701174540189125909"
+  },
+  {
+    id: "industri-petshop",
+    name: "Animal&Co",
+    desc: "Animalnco-Freeze Dried for Anabul",
+    subDesc: "Industri",
+    image: "/img/Partner2/Animalnco-Freeze Dried for Anabul.jpg",
+    link: "https://www.tiktok.com/@booyenku/video/7700841824499322132"
+  },
+  {
+    id: "industri-petshop",
+    name: "Animal&Co",
     desc: "Cat Litter",
     subDesc: "Industri",
     image: "/img/Partner2/animalncowithboyen.jpg",
