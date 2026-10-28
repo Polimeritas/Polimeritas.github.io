@@ -52,7 +52,8 @@ const History = () => {
                         suatu komunitas. Polimeritas bekerjasama memajukan masyarakat yang ahli, produktif, dan inovatif 
                         menyongsong Indonesia yang lebih baik di bidang polimer. Polimeritas juga pernah masuk nominasi relawan 
                         terpilih Indorelawan 2019. Polimeritas dibentuk dan dipimpin oleh Jevi Zalesti dan sekarang memiliki 
-                        anggota terstruktur. Jevi Zalesti juga menjabat sebagai Manajer Koperasi Desa Merah Putih Terentang III. 
+                        anggota terstruktur. Jevi Zalesti juga menjabat sebagai Manajer Koperasi Desa Merah Putih Terentang III.
+                        Polimeritas bekerjasama sama dengan @booyenku dan @kajz.entertainment.
                     </p>
 
                     {/* Video Play Area */}
