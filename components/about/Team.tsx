@@ -23,7 +23,7 @@ const Team = () => {
             id: 2,
             name: "Coming Soon",
             role: "Lead of Project",
-            image: "/img/team/Coming Soon.jpg",
+            image: "/img/Partner2/Coming Soon.jpg",
             social: { linkedin: "https://www.linkedin.com/" }
         },
         {
@@ -37,7 +37,7 @@ const Team = () => {
             id: 4,
             name: "Coming Soon",
             role: "Lead of PartnerRoom",
-            image: "/img/team/Coming Soon.png",
+            image: "/img/Partner2/Coming Soon.jpg",
             social: { linkedin: "https://id.linkedin.com/" }
         },
         {
