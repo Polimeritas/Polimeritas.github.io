@@ -16,15 +16,15 @@ const Team = () => {
             id: 1,
             name: "Jevi Zalesti",
             role: "Founder Polimeritas",
-            image: "/img/team/jeviz.jpg",
+            image: "/img/team/kak jevi.jpg",
             social: { linkedin: "https://www.linkedin.com/in/jevizalesti1999/" }
         },
         {
             id: 2,
-            name: "Eriko Helmi Pradana",
-            role: "Lead of Technology",
-            image: "/img/team/eriko.jpg",
-            social: { linkedin: "https://www.linkedin.com/in/eriko-helmi-perdana-236710134/" }
+            name: "Coming Soon",
+            role: "Lead of Project",
+            image: "/img/team/Coming Soon.jpg",
+            social: { linkedin: "https://www.linkedin.com/" }
         },
         {
             id: 3,
@@ -35,10 +35,10 @@ const Team = () => {
         },
         {
             id: 4,
-            name: "Erythrina Saraswati Chikaruri",
-            role: "Lead of Eksternal SDM",
-            image: "/img/team/ery.png",
-            social: { linkedin: "https://id.linkedin.com/in/erythrina-saraswati-chikaruri-25ab2321a" }
+            name: "Coming Soon",
+            role: "Lead of PartnerRoom",
+            image: "/img/team/Coming Soon.png",
+            social: { linkedin: "https://id.linkedin.com/" }
         },
         {
             id: 5,
