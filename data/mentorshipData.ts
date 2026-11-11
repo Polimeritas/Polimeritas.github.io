@@ -118,14 +118,14 @@ export const mentorshipData: MentorshipItem[] = [
     id: "pel-3",
     category: "Pelatihan",
     title: "Pelatihan Leadership Polimeritas",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Pelatihan Leadership by Polimeritas.jpg",
     link: "https://www.instagram.com/polimeritas.official",
   },
   {
     id: "pel-3",
     category: "Pelatihan",
     title: "Pelatihan Copywriting dan Content Writing Polimeritas",
-    image: "/img/Partner2/Coming Soon.jpg",
+    image: "/img/Partner2/Pelatihan Copywriting dan Contentwriting by Polimeritas.jpg",
     link: "https://www.instagram.com/polimeritas.official",
   },
   {
